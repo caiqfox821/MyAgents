@@ -6,13 +6,13 @@
 
 | 指标 | 数值 |
 |---|---|
-| 谱图总数 | **1670** |
-| 化合物数（去重） | **44** |
-| 正离子谱 | 752 |
-| 负离子谱 | 918 |
+| 谱图总数 | **1642** |
+| 化合物数（去重） | **41** |
+| 正离子谱 | 733 |
+| 负离子谱 | 909 |
 | 来源 MassBank | 1211 |
-| 来源 MoNA | 308 |
-| 来源 GNPS | 151 |
+| 来源 MoNA | 288 |
+| 来源 GNPS | 143 |
 | 目标清单化合物 | 94 |
 | 目标清单已收录 | 41 |
 | 目标清单未收录 | 53 |
@@ -21,11 +21,11 @@
 
 | 来源 | 文件/接口 | 说明 |
 |---|---|---|
-| MassBank | `https://rdfportal.org/primary/sparql`（GRAPH massbank） | 主库；含人参皂苷最常见的 21 个化合物 |
-| GNPS-LIBRARY.mgf | `https://external.gnps2.org/gnpslibrary/GNPS-LIBRARY.mgf` | 16137 谱；命中目标活性成分 151 条 |
-| GNPS-NIH-NATURALPRODUCTSLIBRARY.mgf | 同上 | 1267 谱；无目标命中 |
-| MONA.mgf | 同上 | MoNA 镜像（MassBank of North America） |
-| MASSBANK.mgf | 同上 | MassBank 镜像 |
+| MassBank | `https://rdfportal.org/primary/sparql`（GRAPH massbank） | 主库（RDF Portal SPARQL，权威参考谱）；本库 1211 条 |
+| GNPS-LIBRARY.mgf / GNPS-NIH-NATURALPRODUCTSLIBRARY.mgf | `https://external.gnps2.org/gnpslibrary/`（MGF 镜像） | GNPS 社区库；命中本库目标 143 条 |
+| MONA.mgf | 同上 | MoNA（MassBank of North America）镜像；命中本库目标 288 条 |
+| MASSBANK.mgf | 同上 | MassBank 的 GNPS 镜像，**已跳过**（与 MassBank RDF 主库重复） |
+| `user/*.msp`、`user/*.mgf` | 本地（实验自测） | 若存在则并入，source=`User(实验)`；当前 0 条 |
 
 > 下载日期：2026-10-23。检索脚本见 `scripts/`。
 
@@ -59,7 +59,6 @@
 | Ginsenoside Rg6 | Ginsenoside Rg6 | ZVTVWDXRNMHGNY-UHFFFAOYSA-N | C42H70O12 | 766.48673 | 26 | MassBank |
 | beta-Sitosterol | beta-Sitosterol | KZJWDPNRJALLNS-VJSFXXLFSA-N | C29H50O | 414.38617 | 26 | MassBank|MoNA |
 | Ginsenoside Rg2 | Ginsenoside Rg2 | AGBCLJAHARWNLA-UHFFFAOYSA-N | C42H72O13 | 784.49729 | 25 | MassBank |
-| Nicotiflorin | Nicotiflorin | RTATXGUCZHCSNG-QHWHWDPRSA-N | - | - | 25 | GNPS|MoNA |
 | Ginsenoside Rb3 | Ginsenoside Rb3 | SNPYJWZTTUVUIS-UHFFFAOYSA-N | C53H90O22 | 1078.59237 | 24 | MassBank |
 | Ginsenoside Rf | Ginsenoside Rf | UZIOUZHBUYLDHW-UHFFFAOYSA-N | C42H72O14 | 800.49221 | 23 | MassBank |
 | Ginsenoside F2 | Ginsenoside F2 | SWIROVJVGRGSPO-UHFFFAOYSA-N | C42H72O13 | 784.49729 | 22 | MassBank |
@@ -75,9 +74,7 @@
 | Ginsenoside Rh2 | Ginsenoside Rh2 | CKUVNOCSBYYHIS-UHFFFAOYSA-N | C36H62O8 | 622.44447 | 9 | MassBank |
 | Ginsenoside Rh1 | Ginsenoside Rh1 | RAQNTCRNSXYLAH-UHFFFAOYSA-N | C36H62O9 | 638.43938 | 8 | MassBank |
 | Ginsenoside Rd | Ginsenoside Rd | PWAOOJDMFUQOKB-KWVBUYMASA-N | C48H82O18 | 946.55012 | 5 | MassBank |
-| Narcissin | Narcissin | - | - | - | 2 | GNPS |
 | 5-Hydroxymethylfurfural | 5-Hydroxymethylfurfural | NOEGNKMFWQHSLB-UHFFFAOYSA-N | C6H6O3 | 126.03169 | 1 | MassBank |
-| Astragalin | Astragalin | - | - | - | 1 | GNPS |
 | Daucosterol | Daucosterol | - | - | - | 1 | GNPS |
 
 ## 四、目标清单覆盖情况

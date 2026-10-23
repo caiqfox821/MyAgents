@@ -16,6 +16,7 @@ GN  = os.path.join(RAW, "gnps")
 
 targets = load_targets(os.path.join(HERE, "targets.tsv"))
 TIDX = target_index(targets)
+TARGET_NAMES = {t["name"] for t in targets}
 
 # ---------- 读取 MassBank ----------
 def read_csv(path):
@@ -111,9 +112,12 @@ def gnps_records():
                 if fn == "MASSBANK.mgf":
                     continue          # 与主库 MassBank(RDF) 重复，跳过
                 src = "MoNA" if fn.startswith("MONA") else "GNPS"
-                tname = h.get("matched_target") or match_target(h["name"], TIDX)
+                # 以本库 targets 重新判定（防旧 hits 文件里残留他库同义名匹配）
+                tname = match_target(h["name"], TIDX)
+                if not tname and (h.get("matched_target") or "") in TARGET_NAMES:
+                    tname = h["matched_target"]
                 if not tname:
-                    continue  # 只保留命中目标清单的 GNPS 记录
+                    continue  # 只保留命中本库目标清单的 GNPS 记录
                 peaks = sorted((float(a), float(b)) for a, b in h["peaks"])
                 if peaks:
                     mx = max(p[1] for p in peaks) or 1.0

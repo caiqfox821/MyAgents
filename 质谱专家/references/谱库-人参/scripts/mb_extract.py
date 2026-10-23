@@ -3,7 +3,7 @@
 """Step 1(MassBank): 通用抓取器
 按 targets.tsv（+可选 scripts/aliases.txt 精确名、scripts/family_regex.txt 族名正则）
 抓取参考谱的元数据与峰表。"""
-import csv, json, os, urllib.request, urllib.parse, time, sys
+import csv, io, json, os, urllib.request, urllib.parse, time, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.dirname(HERE)
@@ -12,12 +12,17 @@ os.makedirs(MB, exist_ok=True)
 EP   = os.environ.get("MB_SPARQL_EP", "https://rdfportal.org/primary/sparql")
 
 def sparql(q, timeout=300):
+    """SPARQL 查询；用 CSV 输出（RDF Portal 上比 JSON 快约 10 倍）。"""
     data = urllib.parse.urlencode({"query": q}).encode()
     req = urllib.request.Request(EP, data=data, headers={
-        "Accept":"application/sparql-results+json",
+        "Accept":"text/csv",
         "Content-Type":"application/x-www-form-urlencoded"})
-    b = json.loads(urllib.request.urlopen(req, timeout=timeout).read().decode())
-    return [{k:v["value"] for k,v in row.items()} for row in b["results"]["bindings"]]
+    raw = urllib.request.urlopen(req, timeout=timeout).read().decode("utf-8")
+    rows = list(csv.reader(io.StringIO(raw)))
+    if not rows:
+        return []
+    hdr = rows[0]
+    return [dict(zip(hdr, row)) for row in rows[1:]]
 
 def read_lines(p):
     if not os.path.exists(p): return []

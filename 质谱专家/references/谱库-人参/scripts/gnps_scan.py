@@ -15,15 +15,24 @@ from lib_common import load_targets, target_index, match_target, norm_name, gnps
 targets = load_targets(os.path.join(HERE, "targets.tsv"))
 TIDX = target_index(targets)
 
-# 宽口径关键词：用于审计“库里有、但不在目标清单”的人参类化合物
-KW = re.compile(
+# 宽口径关键词：用于审计“库里有、但不在目标清单”的同族化合物
+# 每库可用 scripts/broad_keywords.txt 覆盖（每行一条正则片段）
+_DEF_KW = (
  r"ginsenoside|notoginsenoside|gypenoside|sanchinoside|panaxoside|vinaginsenoside|"
  r"majonoside|pseudoginsenoside|quinquenoside|ocotillol|protopanaxadiol|protopanaxatriol|"
  r"panaxadiol|panaxatriol|panaxynol|panaxydol|panaxytriol|falcarinol|"
  r"\bmaltol\b|hydroxymethylfurfural|aminobutyric acid|aminobutanoic|"
  r"\bquercetin\b|\bkaempferol\b|isorhamnetin|\brutin\b|\btrifolin\b|hyperoside|"
  r"oleanolic|ursolic|salicylic acid|vanillic acid|syringic acid|ferulic acid|caffeic acid|"
- r"coumaric acid|protocatechuic|gentisic|sitosterol|stigmasterol|daucosterol", re.I)
+ r"coumaric acid|protocatechuic|gentisic|sitosterol|stigmasterol|daucosterol")
+def _read_kw(path):
+    if not os.path.exists(path): return None
+    ls = []
+    for line in open(path, encoding="utf-8"):
+        line = line.strip()
+        if line and not line.startswith("#"): ls.append(line)
+    return "|".join(ls) if ls else None
+KW = re.compile(_read_kw(os.path.join(HERE, "broad_keywords.txt")) or _DEF_KW, re.I)
 
 def parse_mgf(path):
     hdr = None; peaks = None

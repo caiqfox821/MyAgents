@@ -118,12 +118,19 @@ def load_targets(path):
     return t
 
 def target_index(targets):
-    """返回 {归一化名: 目标名}"""
+    """返回 {归一化名: 目标名}
+
+    同义名（SYNONYMS）**仅当其规范目标属于本库 targets 时才注册**，
+    避免 A 库（如金线莲黄酮苷）的同义名把 B 库（如人参）的无关记录拉进来。
+    """
     idx = {}
+    names = set()
     for t in targets:
         idx[norm_name(t["name"])] = t["name"]
+        names.add(t["name"])
     for syn, tgt in SYNONYMS.items():
-        idx.setdefault(syn, tgt)
+        if tgt in names:
+            idx.setdefault(syn, tgt)
     return idx
 
 def strip_variants(s):

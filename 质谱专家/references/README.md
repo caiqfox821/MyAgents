@@ -13,7 +13,8 @@
 | **`证据条目与出处.md`** | **L3 原著证据底座（9 节 74 条）** | 把 `公共知识/书库/` 的 MDPI 分析专著、OA 全文与机构权威文本（**SANTE/11312/2021 v2026、ICH M7(R2)**）消化为可引用条目：验证/确证判据（M-，含 **M-16 现行 SANTE 鉴定判据全表**、**M-17 多类真菌毒素 LC-MS/MS 与法规回收窗口**）、仪器参数与采集（P-）、前处理与基质效应（S-）、ID-MS/CRM 不确定度（Q-）、HRMS 非靶向与回顾筛查（H-）、置信分级与数据标准（C-）、组学（O-）、与毒理/暴露接口（L-）；**逐条带页码或 PMCID** |
 | **`书库索引.md`** | **本专家在 `公共知识/书库/` 里实际引用的书目 + 页码锚点 + 取证命令**（含"为何共用公共书库而不自建"的说明） | 公共知识/书库（41 条 / 7,407 页） |
 | **`参考谱图-人参皂苷Rg1_Rg3/`** | **实测参考谱 + MRM 通道（2026-10-23）** | MassBank 反查的 Rg1（15 条）/ Rg3（44 条）参考谱：`README.md`（化合物信息、关键碎片归属）、`peaks_all.csv`（446 峰）、`Rg1/Rg3_mass_spectra.png`、`MRM通道建议.md`（离子对、同分异构干扰、CE 起点）、`讲解_怎么看质谱图.md`（带图入门讲解）、`讲解_怎么看质谱图.docx`（Word 版，图片内嵌）；`fetch.py`/`plot.py` 可复现 |
-| **`谱库-人参/`** | **本地参考谱库：人参皂苷与活性成分（2026-10-23）** | 按 94 项目标清单构建的可检索库：MassBank（RDF Portal SPARQL）＋ GNPS/MoNA 批量 MGF 汇总。含 `README.md`（数据来源与管线）、`targets.tsv`、`scripts/`（`mb_extract`→`fetch_peaks`→`gnps_scan`→`build_library`，可复现）、产物 `library.msp`/`library.mgf`/`index.csv`/`compounds.csv`/`coverage.csv`；配合技能 `spectral-matching` 检索 |
+| **`谱库-人参/`** | **本地参考谱库：人参皂苷与活性成分（2026-10-23）** | 按 94 项目标清单构建的**可检索多库合并谱库**（MassBank RDF Portal SPARQL ＋ GNPS-LIBRARY/GNPS-NIH/MoNA 批量 MGF）：**1670 条谱 / 44 化合物 / 41 项目标收录（53 项缺失）**。含 `README.md`（数据来源、覆盖率、使用与局限）、`notes_extra.md`（皂苷碎裂与同分异构判读要点）、`targets.tsv`（94 目标）、`scripts/`（`mb_extract`→`fetch_peaks`→`gnps_scan`→`build_library`→`make_report`，可复现）、产物 `library.msp`/`library.mgf`/`index.csv`/`compounds.csv`/`coverage.csv`/`覆盖与稀有皂苷清单.md`、`user/`（**实验自测谱投放口**：放 `*.mgf`/`*.msp` 后重跑 `build_library.py` 即并入，source=`User(实验)`）；配合技能 `spectral-matching` 检索（自检 rank-1 通过） |
+| **`谱库-金线莲/`** | **本地参考谱库：金线莲（Anoectochilus roxburghii）成分（2026-10-23）** | 按 37 项目标清单构建的可检索库：黄酮苷（芦丁/异槲皮苷/槲皮苷/金丝桃苷/紫云英苷/烟花苷/水仙苷/异鼠李素-3-葡糖苷/牡荆素/异牡荆素）、苷元（槲皮素/山奈酚/异鼠李素/芹菜素/木犀草素）、酚酸、有机酸、核苷/氨基酸、甾醇；**标志成分金线莲苷（Kinsenoside）与天麻素（Gastrodin）公开库无实测 MS²**，已给出按分子式的母离子参考值，待 `user/` 自测补齐。同一套管线与产物结构 |
 
 ## 二、关联技能与外部资源
 
