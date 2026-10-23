@@ -33,7 +33,7 @@
 ## 期望输出
 
 - **确证**：≥2 个产物离子；样品离子比在同一序列校准标品的 **±30%** 内（**SANTE/12682/2019**，须标"以现行版本为准"）；RRT 窗口 **±0.02 min**、绝对 RT 窗口 **±0.1 min**（范例：*Advanced Pharmaceutical Analytical Technology*, 书库 p.23）。
-- **验证**：回收率 **70–120%**、**RSDr ≤ 20%**、**LOQ ≤ 0.5 × ML**（(EU) 2023/2782，书中作 "Reg 2782/2023"）；加标 **三水平 × 每水平 6 份平行**（0.01/0.05/0.2 mg/kg，回收 70–130%、RSD<10% 判例）；LOD/LOQ 按 **S/N = 3/10**（*Food Pesticide Residues…* 书库 p.19）。
+- **验证**：回收率 **70–120%**、**RSDr ≤ 20%**、**LOQ ≤ 0.5 × ML**（出处为**农残侧的 SANTE/11312/2021** 及欧盟农药残留分析方法手册，须标"以现行版本为准"；**不得**改引 (EU) 2023/2782——该法规属霉菌毒素/污染物抽样与分析方法，**不构成农残多残留判据**）；加标 **三水平 × 每水平 6 份平行**（0.01/0.05/0.2 mg/kg，回收 70–130%、RSD<10% 判例）；LOD/LOQ 按 **S/N = 3/10**（*Food Pesticide Residues…* 书库 p.19）。
 - **基质效应**：`基质效应% =（基质匹配曲线斜率 ÷ 标准溶液曲线斜率 − 1）× 100`（*Analytical Methods for Food and Environmental Pollutants* 书库 p.115）；校正＝基质匹配标准曲线／同位素内标／稀释；长梯度（30 min）降基质效应但牺牲通量（*Mass Spectrometry for Biomedical and Food Analysis* 书库 p.201）。
 - **采集**：dwell **50 ms**（*Advanced Pharmaceutical…* p.57）；SRM 缺陷＝化合物越多→离子跃迁越多→**跃迁重叠**影响检出力，对策＝HRMS 靶向（*Novel Analytical Methods in Food Analysis* p.136）。
 - **HRMS**：target → suspect → non-target 三层级；**存储的全扫描/MS² 大数据可回顾性再分析，无需重新进样**（同书 p.116–117；置信分级见 PMC13547244）。
