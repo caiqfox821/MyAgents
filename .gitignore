@@ -13,6 +13,8 @@
 
 # ── 原始谱库数据 ──
 *.mgf
+# 例外：自建谱库的成品 MGF 是交付物，纳入版本；原始镜像 MGF 在 谱库-*/raw/ 下，已被上面的目录规则忽略
+!质谱专家/references/谱库-*/library.mgf
 
 # ── 自建谱库的原始抓取与中间产物（派生，可由 scripts/fetch_*.py / build_library.py 重建）──
 质谱专家/references/谱库-*/raw/

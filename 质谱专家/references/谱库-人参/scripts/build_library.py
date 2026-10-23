@@ -218,6 +218,11 @@ MB_RECS = list(mb_records())
 GN_RECS = gnps_records()
 USER_RECS = user_records()
 ALL = MB_RECS + GN_RECS + USER_RECS
+# 丢弃无峰记录（空谱对检索无用；MassBank 峰表未抓全时会出现）
+_nopk = sum(1 for r in ALL if not r.get("peaks"))
+if _nopk:
+    print("跳过无峰记录: %d（可由 fetch_peaks.py 补齐后重跑）" % _nopk)
+ALL = [r for r in ALL if r.get("peaks")]
 # 去重 (source, record_id)
 seen = set(); RECS = []
 for r in ALL:
@@ -225,7 +230,7 @@ for r in ALL:
     if k in seen: continue
     seen.add(k); RECS.append(r)
 print("MassBank spectra:", len(MB_RECS), " GNPS(target-matched):", len(GN_RECS),
-      " User(实验):", len(USER_RECS), " total:", len(RECS))
+      " User(实验):", len(USER_RECS), " total(有峰):", len(RECS))
 
 # ---------- 写 library.msp ----------
 def fmt(x, nd=5):

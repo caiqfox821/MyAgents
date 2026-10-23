@@ -235,8 +235,8 @@ MSP 记录建议含：`Name`、`InChIKey`、`Formula`、`PrecursorMZ`、`Precurs
 
 ## 八、已知局限（务必阅读）
 
-1. **稀有皂苷大量缺失**：Rk1/Rk3/Rh4/Rs1–Rs9/F4/Fa/Fc/Fe、三七皂苷 Notoginsenoside R1–R6、拟人参皂苷 F11、Vinaginsenoside R1、Majonoside R2、Ocotillol、苷元 PPD/PPT 等在 MassBank、GNPS、MoNA 中均未检索到实测 MS² 参考谱（详见覆盖表）。
-2. **同分异构体无法仅凭 MS² 区分**：Rg1/Rf（C42H72O14, m/z 799.5）、Rg3/Rg2/F2（C42H72O13, m/z 783.5）——需色谱保留时间或标准品。
+1. **公开库覆盖不全**：目标清单中未能检索到实测 MS² 的化合物见 `coverage.csv` 与《覆盖与缺失清单》。公开免费库（MassBank / GNPS / MoNA）对它们确无记录——**「查不到」不等于「不存在」**，多属需自测、或仅散见于论文的稀有成分类。
+2. **同分异构体无法仅凭 MS² 区分**：分子式相同者（立体/位置异构）须靠色谱保留时间、标准品或离子淌度 CCS；本库相关同分异构对见 `notes_extra.md`。
 3. **MassBank 的 `ch_exact_mass` 字段不可靠**（部分为平均分子量），本库的质量已改由分子式重新计算（`ExactMass`），原始值保留在 `Comment` 中备查。
 4. **前体 m/z**：MassBank 多数记录未给前体值，本库按加合物由分子式推算并在 MSP 中给出 `PrecursorMZ`；如与实际仪器条件不符请以原始 `Comment` 为准。
 5. **强度标尺不同**：MassBank 为相对强度(%)；GNPS/MoNA 原始为绝对强度，本库已归一到基峰=100。

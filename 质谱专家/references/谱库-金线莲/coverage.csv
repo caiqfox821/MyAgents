@@ -1,0 +1,38 @@
+target_name,group,note,n_spectra,sources,inchikey,status
+Kinsenoside,标志成分,金线莲苷（主要化学标志物）,0,,,缺失
+Gastrodin,标志成分,天麻素/4-羟苄基葡萄糖苷,0,,,缺失
+Rutin,黄酮苷,芦丁（槲皮素-3-O-芸香糖苷）,114,GNPS|MassBank|MoNA,IKGXIBQEEMLURG-NVPNHPEKSA-N,收录
+Isoquercitrin,黄酮苷,异槲皮苷（槲皮素-3-O-葡糖苷）,46,GNPS|MassBank,OVSQVDMCBVZWGM-QSOFNFLRSA-N,收录
+Quercitrin,黄酮苷,槲皮苷,92,GNPS|MassBank|MoNA,OXGUCUVFOIWWQJ-HQBVPOQASA-N,收录
+Hyperoside,黄酮苷,金丝桃苷,85,GNPS|MassBank|MoNA,OVSQVDMCBVZWGM-DTGCRPNFSA-N,收录
+Astragalin,黄酮苷,紫云英苷（山奈酚-3-O-葡糖苷）,69,GNPS|MassBank,JPUKWEQWGBDDQB-QSOFNFLRSA-N,收录
+Nicotiflorin,黄酮苷,烟花苷（山奈酚-3-O-芸香糖苷）,123,GNPS|MassBank|MoNA,RTATXGUCZHCSNG-QHWHWDPRSA-N,收录
+Narcissin,黄酮苷,水仙苷（异鼠李素-3-O-芸香糖苷）,57,GNPS|MassBank,UIDGLYUNOUKLBM-GEBJFKNCSA-N,收录
+Isorhamnetin-3-O-glucoside,黄酮苷,,39,MassBank,CQLRUIIRRZYHHS-LFXZADKFSA-N,收录
+Trifolin,黄酮苷,三叶豆苷（山奈酚-3-O-半乳糖苷）,0,,,缺失
+Vitexin,黄酮碳苷,牡荆素,37,GNPS|MassBank,SGEWCQFRYRRZDC-VPRICQMDSA-N,收录
+Isovitexin,黄酮碳苷,异牡荆素,19,GNPS|MassBank,MYXNWGACZJSMBT-VJXVFPJBSA-N,收录
+Quercetin,黄酮苷元,,151,GNPS|MassBank|MoNA,REFJWTPEDVJJIY-UHFFFAOYSA-N,收录
+Kaempferol,黄酮苷元,,143,GNPS|MassBank|MoNA,IYRMWMYZSQPJKC-UHFFFAOYSA-N,收录
+Isorhamnetin,黄酮苷元,,35,GNPS|MassBank,IZQSVPBOUDKVDZ-UHFFFAOYSA-N,收录
+Apigenin,黄酮苷元,,76,GNPS|MassBank|MoNA,KZNIFHPLKGYRTM-UHFFFAOYSA-N,收录
+Luteolin,黄酮苷元,,78,GNPS|MassBank|MoNA,IQPNAANSBPBGFQ-UHFFFAOYSA-N,收录
+Chlorogenic acid,酚酸,绿原酸,91,GNPS|MassBank|MoNA,CWVRJTMFETXNAD-JUHZACGLSA-N,收录
+Gallic acid,酚酸,没食子酸,57,GNPS|MassBank|MoNA,LNTHITQWFMADLM-UHFFFAOYSA-N,收录
+Vanillic acid,酚酸,香草酸,16,GNPS|MassBank|MoNA,WKOLLVMJNQIZCI-UHFFFAOYSA-N,收录
+Syringic acid,酚酸,丁香酸,30,GNPS|MassBank|MoNA,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,收录
+Protocatechuic acid,酚酸,原儿茶酸,11,GNPS|MassBank,YQUVCSBJEUQKSH-UHFFFAOYSA-N,收录
+Caffeic acid,酚酸,咖啡酸,42,GNPS|MassBank|MoNA,QAIPRVGONGVQAS-DUXPYHPUSA-N,收录
+Ferulic acid,酚酸,阿魏酸,112,GNPS|MassBank|MoNA,KSEBMYQBYZTDHS-HWKANZROSA-N,收录
+p-Coumaric acid,酚酸,对香豆酸,70,GNPS|MassBank|MoNA,NGSWKAQJJWESNS-ZZXKWVIFSA-N,收录
+Salicylic acid,酚酸,水杨酸,54,GNPS|MassBank|MoNA,YGSDEFSMJLZEOE-UHFFFAOYSA-N,收录
+4-Hydroxybenzoic acid,酚酸,对羟基苯甲酸,35,GNPS|MassBank|MoNA,FJKROLUGYXJWQN-UHFFFAOYSA-N,收录
+Citric acid,有机酸,柠檬酸,40,GNPS|MassBank|MoNA,KRKNYBCHXYNGOX-UHFFFAOYSA-N,收录
+Malic acid,有机酸,苹果酸,21,GNPS|MassBank|MoNA,BJEPYKJPYRNKOW-REOHCLBHSA-N,收录
+Succinic acid,有机酸,琥珀酸,27,GNPS|MassBank|MoNA,KDYFGRWQOYBRFD-UHFFFAOYSA-N,收录
+Adenosine,核苷,腺苷,98,GNPS|MassBank|MoNA,OIRDTQYFTABQOQ-KQYNXXCUSA-N,收录
+4-Aminobutyric acid,氨基酸,GABA,47,GNPS|MassBank|MoNA,BTCSSZJGUNDROE-UHFFFAOYSA-N,收录
+L-Arginine,氨基酸,精氨酸,72,GNPS|MassBank|MoNA,ODKSFYDXXFIFQN-BYPYZUCNSA-N,收录
+beta-Sitosterol,甾醇,β-谷甾醇,19,MassBank|MoNA,KZJWDPNRJALLNS-VJSFXXLFSA-N,收录
+Stigmasterol,甾醇,豆甾醇,5,GNPS|MassBank,HCXVJBMSMIARIN-PHZDYDNGSA-N,收录
+Daucosterol,甾醇苷,胡萝卜苷,1,GNPS,,收录
