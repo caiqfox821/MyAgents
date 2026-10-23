@@ -42,13 +42,13 @@
 | Ferulic acid | Ferulic acid | KSEBMYQBYZTDHS-HWKANZROSA-N | C10H10O4 | 194.05791 | 117 | GNPS|MassBank|MoNA |
 | Rutin | Rutin | IKGXIBQEEMLURG-NVPNHPEKSA-N | C27H30O16 | 610.15338 | 92 | GNPS|MassBank|MoNA |
 | L-Arginine | L-Arginine | ODKSFYDXXFIFQN-BYPYZUCNSA-N | C6H14N4O2 | 174.11168 | 89 | GNPS|MassBank|MoNA |
-| Nicotiflorin | Nicotiflorin | RTATXGUCZHCSNG-QHWHWDPRSA-N | - | - | 79 | GNPS|MoNA |
+| Nicotiflorin | Nicotiflorin | RTATXGUCZHCSNG-QHWHWDPRSA-N | C27H30O15 | 594.15847 | 79 | GNPS|MoNA |
 | p-Coumaric acid | p-Coumaric acid | NGSWKAQJJWESNS-ZZXKWVIFSA-N | C9H8O3 | 164.04734 | 75 | GNPS|MassBank|MoNA |
 | Isorhamnetin | Isorhamnetin | IZQSVPBOUDKVDZ-UHFFFAOYSA-N | C16H12O7 | 316.0583 | 71 | GNPS|MassBank |
 | Salicylic acid | Salicylic acid | YGSDEFSMJLZEOE-UHFFFAOYSA-N | C7H6O3 | 138.03169 | 67 | GNPS|MassBank|MoNA |
 | Caffeic acid | Caffeic acid | QAIPRVGONGVQAS-DUXPYHPUSA-N | C9H8O4 | 180.04226 | 56 | GNPS|MassBank|MoNA |
 | 4-Aminobutyric acid | 4-Aminobutyric acid | BTCSSZJGUNDROE-UHFFFAOYSA-N | C4H9NO2 | 103.06333 | 50 | GNPS|MassBank|MoNA |
-| Hyperoside | Hyperoside | OVSQVDMCBVZWGM-DTGCRPNFSA-N | - | - | 46 | GNPS|MoNA |
+| Hyperoside | Hyperoside | OVSQVDMCBVZWGM-DTGCRPNFSA-N | C21H20O12 | 464.09548 | 46 | GNPS|MoNA |
 | Ginsenoside Rg3 | Ginsenoside Rg3 | RWXIFXNRCLMQCD-UHFFFAOYSA-N | C42H72O13 | 784.49729 | 44 | MassBank |
 | Ginsenoside Rb1 | Ginsenoside Rb1 | GZYPWOGIYAIIPV-JBDTYSNRSA-N | C54H92O23 | 1108.60294 | 42 | MassBank |
 | Syringic acid | Syringic acid | JMSVCTWVEWCHDZ-UHFFFAOYSA-N | C9H10O5 | 198.05282 | 38 | GNPS|MassBank|MoNA |
@@ -74,15 +74,15 @@
 | Protocatechuic acid | Protocatechuic acid | YQUVCSBJEUQKSH-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 14 | GNPS|MassBank |
 | Ginsenoside Rh3 | Ginsenoside Rh3 | PHLXREOMFNVWOH-WJJFPOJFSA-N | C36H60O7 | 604.4339 | 13 | MassBank |
 | Stigmasterol | Stigmasterol | HCXVJBMSMIARIN-PHZDYDNGSA-N | C29H48O | 412.37052 | 12 | GNPS|MassBank |
-| Maltol | Maltol | - | - | - | 10 | MoNA |
+| Maltol | Maltol | XPCTZQVDEJYUGT-UHFFFAOYSA-N | C6H6O3 | 126.03169 | 10 | MoNA |
 | Ginsenoside Rh2 | Ginsenoside Rh2 | CKUVNOCSBYYHIS-UHFFFAOYSA-N | C36H62O8 | 622.44447 | 9 | MassBank |
 | Ginsenoside Rh1 | Ginsenoside Rh1 | RAQNTCRNSXYLAH-UHFFFAOYSA-N | C36H62O9 | 638.43938 | 8 | MassBank |
-| Astragalin | Astragalin | - | - | - | 5 | GNPS |
+| Astragalin | Astragalin | JPUKWEQWGBDDQB-QSOFNFLRSA-N | C21H20O11 | 448.10056 | 5 | GNPS |
 | Ginsenoside Rd | Ginsenoside Rd | PWAOOJDMFUQOKB-KWVBUYMASA-N | C48H82O18 | 946.55012 | 5 | MassBank |
-| Isoquercitrin | Isoquercitrin | - | - | - | 4 | GNPS |
-| Narcissin | Narcissin | - | - | - | 2 | GNPS |
+| Isoquercitrin | Isoquercitrin | OPJZLUXFQFQYAI-GNPVFZCLSA-N | C21H20O12 | 464.09548 | 4 | GNPS |
+| Narcissin | Narcissin | UIDGLYUNOUKLBM-GEBJFKNCSA-N | C28H32O16 | 624.16903 | 2 | GNPS |
 | 5-Hydroxymethylfurfural | 5-Hydroxymethylfurfural | NOEGNKMFWQHSLB-UHFFFAOYSA-N | C6H6O3 | 126.03169 | 1 | MassBank |
-| Daucosterol | Daucosterol | - | - | - | 1 | GNPS |
+| Daucosterol | Daucosterol | NPJICTMALKLTFW-OFUAXYCQSA-N | C35H60O6 | 576.43899 | 1 | GNPS |
 
 ## 四、目标清单覆盖情况
 

@@ -71,7 +71,7 @@
 | Protocatechuic acid | Protocatechuic acid | YQUVCSBJEUQKSH-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 14 | GNPS|MassBank |
 | Stigmasterol | Stigmasterol | HCXVJBMSMIARIN-PHZDYDNGSA-N | C29H48O | 412.37052 | 12 | GNPS|MassBank |
 | 2,5-Dihydroxybenzoic acid | - | WXTMDXOMEHJXQO-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 10 | MassBank |
-| Daucosterol | Daucosterol | - | - | - | 1 | GNPS |
+| Daucosterol | Daucosterol | NPJICTMALKLTFW-OFUAXYCQSA-N | C35H60O6 | 576.43899 | 1 | GNPS |
 
 ## 四、目标清单覆盖情况
 

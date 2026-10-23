@@ -64478,6 +64478,9 @@ Num Peaks: 27
 Name: Isoquercitrin
 DB#: CCMSLIB00000077231
 DB: GNPS
+InChIKey: OPJZLUXFQFQYAI-GNPVFZCLSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.081
 Precursor_type: [M]-
 Ion_mode: N
@@ -64712,6 +64715,9 @@ Num Peaks: 3
 Name: Isoquercitrin
 DB#: CCMSLIB00000078876
 DB: GNPS
+InChIKey: OPJZLUXFQFQYAI-GNPVFZCLSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.1
 Precursor_type: [M]+
 Ion_mode: P
@@ -64926,6 +64932,9 @@ Num Peaks: 29
 Name: Astragalin
 DB#: CCMSLIB00000578399
 DB: GNPS
+InChIKey: JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Formula: C21H20O11
+ExactMass: 448.10056
 PrecursorMZ: 449.11
 Precursor_type: [M]+
 Ion_mode: P
@@ -64964,6 +64973,9 @@ Num Peaks: 27
 Name: Nicotiflorin
 DB#: CCMSLIB00000578400
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.167
 Precursor_type: [M]+
 Ion_mode: P
@@ -67433,6 +67445,9 @@ Num Peaks: 27
 Name: Nicotiflorin
 DB#: CCMSLIB00004679287
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.152
 Precursor_type: [M]-
 Ion_mode: N
@@ -68044,6 +68059,9 @@ Num Peaks: 600
 Name: Astragalin
 DB#: CCMSLIB00004679291
 DB: GNPS
+InChIKey: JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Formula: C21H20O11
+ExactMass: 448.10056
 PrecursorMZ: 447.103
 Precursor_type: [M]-
 Ion_mode: N
@@ -71607,6 +71625,9 @@ Num Peaks: 6
 Name: Astragalin
 DB#: CCMSLIB00005467740
 DB: GNPS
+InChIKey: JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Formula: C21H20O11
+ExactMass: 448.10056
 PrecursorMZ: 447.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -72940,6 +72961,9 @@ Num Peaks: 11
 Name: Daucosterol
 DB#: CCMSLIB00005720278
 DB: GNPS
+InChIKey: NPJICTMALKLTFW-OFUAXYCQSA-N
+Formula: C35H60O6
+ExactMass: 576.43899
 PrecursorMZ: 577.957
 Precursor_type: [M]+
 Ion_mode: P
@@ -97560,6 +97584,9 @@ Num Peaks: 1339
 Name: Narcissin
 DB#: CCMSLIB00006126907
 DB: GNPS
+InChIKey: UIDGLYUNOUKLBM-GEBJFKNCSA-N
+Formula: C28H32O16
+ExactMass: 624.16903
 PrecursorMZ: 623.162
 Precursor_type: [M]-
 Ion_mode: N
@@ -102735,6 +102762,9 @@ Num Peaks: 5164
 Name: Narcissin
 DB#: CCMSLIB00006126908
 DB: GNPS
+InChIKey: UIDGLYUNOUKLBM-GEBJFKNCSA-N
+Formula: C28H32O16
+ExactMass: 624.16903
 PrecursorMZ: 625.176
 Precursor_type: [M]+
 Ion_mode: P
@@ -103455,6 +103485,9 @@ Num Peaks: 709
 Name: Nicotiflorin
 DB#: CCMSLIB00006126917
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M]-
 Ion_mode: N
@@ -106994,6 +107027,9 @@ Num Peaks: 3528
 Name: Nicotiflorin
 DB#: CCMSLIB00006126918
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -107870,6 +107906,9 @@ Num Peaks: 865
 Name: Astragalin
 DB#: CCMSLIB00006716207
 DB: GNPS
+InChIKey: JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Formula: C21H20O11
+ExactMass: 448.10056
 PrecursorMZ: 447.093
 Precursor_type: [M]-
 Ion_mode: N
@@ -111116,6 +111155,9 @@ Num Peaks: 3235
 Name: Astragalin
 DB#: CCMSLIB00006716208
 DB: GNPS
+InChIKey: JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Formula: C21H20O11
+ExactMass: 448.10056
 PrecursorMZ: 895.194
 Precursor_type: [2M]-
 Ion_mode: N
@@ -112944,6 +112986,9 @@ Num Peaks: 1817
 Name: Isoquercitrin
 DB#: CCMSLIB00006716230
 DB: GNPS
+InChIKey: OPJZLUXFQFQYAI-GNPVFZCLSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.088
 Precursor_type: [M]-
 Ion_mode: N
@@ -116453,6 +116498,9 @@ Num Peaks: 3498
 Name: Isoquercitrin
 DB#: CCMSLIB00006716231
 DB: GNPS
+InChIKey: OPJZLUXFQFQYAI-GNPVFZCLSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 927.184
 Precursor_type: [2M]-
 Ion_mode: N
@@ -118677,6 +118725,9 @@ Num Peaks: 2213
 Name: Nicotiflorin
 DB#: CCMSLIB00006716235
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M]-
 Ion_mode: N
@@ -122057,6 +122108,9 @@ Num Peaks: 3369
 Name: Nicotiflorin
 DB#: CCMSLIB00006716236
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 1187.31
 Precursor_type: [2M]-
 Ion_mode: N
@@ -132674,6 +132728,8 @@ Name: Hyperoside
 DB#: CCMSLIB00010012019
 DB: GNPS
 InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.088
 Precursor_type: [M]-
 Ion_mode: N
@@ -132743,6 +132799,8 @@ Name: Hyperoside
 DB#: CCMSLIB00010012020
 DB: GNPS
 InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.103
 Precursor_type: [M]+
 Ion_mode: P
@@ -133133,6 +133191,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00010012025
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.15
 Precursor_type: [M]-
 Ion_mode: N
@@ -133199,6 +133259,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00010012026
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -136543,6 +136605,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428983
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -137410,6 +137474,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428984
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -138325,6 +138391,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428985
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -139488,6 +139556,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428986
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -140505,6 +140575,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428987
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -141776,6 +141848,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428988
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -142805,6 +142879,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428989
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -144051,6 +144127,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428990
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -145203,6 +145281,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428991
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -146550,6 +146630,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428992
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -147983,6 +148065,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428993
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -148771,6 +148855,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428994
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -149664,6 +149750,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428995
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -150524,6 +150612,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428996
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -151401,6 +151491,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011428997
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.101
 Precursor_type: [M]-
 Ion_mode: N
@@ -172584,6 +172676,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430342
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -173352,6 +173446,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430343
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -174026,6 +174122,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430344
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -174778,6 +174876,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430345
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -175483,6 +175583,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430346
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -176205,6 +176307,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430347
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -176869,6 +176973,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430348
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -177491,6 +177597,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430349
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -178121,6 +178229,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430357
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -179616,6 +179726,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430358
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -181212,6 +181324,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430359
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -182968,6 +183082,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430360
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -184885,6 +185001,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430361
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -186859,6 +186977,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430362
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -188801,6 +188921,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430363
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -190373,6 +190495,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430364
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -192050,6 +192174,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430365
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -194536,6 +194662,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430366
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.104
 Precursor_type: [M]+
 Ion_mode: P
@@ -196964,6 +197092,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430367
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.105
 Precursor_type: [M]+
 Ion_mode: P
@@ -198339,6 +198469,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430368
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.105
 Precursor_type: [M]+
 Ion_mode: P
@@ -199619,6 +199751,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430369
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.105
 Precursor_type: [M]+
 Ion_mode: P
@@ -201046,6 +201180,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430370
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.105
 Precursor_type: [M]+
 Ion_mode: P
@@ -202584,6 +202720,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430371
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.105
 Precursor_type: [M]+
 Ion_mode: P
@@ -204056,6 +204194,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430372
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.091
 Precursor_type: [M]-
 Ion_mode: N
@@ -205263,6 +205403,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430373
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.091
 Precursor_type: [M]-
 Ion_mode: N
@@ -206906,6 +207048,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430374
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.091
 Precursor_type: [M]-
 Ion_mode: N
@@ -208433,6 +208577,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430375
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.091
 Precursor_type: [M]-
 Ion_mode: N
@@ -209717,6 +209863,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430376
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -210597,6 +210745,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430377
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.091
 Precursor_type: [M]-
 Ion_mode: N
@@ -212182,6 +212332,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430378
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -213171,6 +213323,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430379
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -214198,6 +214352,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430380
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -215220,6 +215376,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430381
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -216254,6 +216412,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430382
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -217061,6 +217221,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430383
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -217842,6 +218004,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430384
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -218710,6 +218874,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430385
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -219567,6 +219733,8 @@ Name: Hyperoside
 DB#: CCMSLIB00011430386
 DB: GNPS
 InChIKey: InChI=1S/C21H20O12/c22-6-13-15(27)17(29)18(30)21(32-13)33-20-16(28)14-11(26)4-8(23)5-12(14)31-19(20)7-1-2-9(24)10(25)3-7/h1-5,13,15,17-18,21-27,29-30H,6H2/t13-,15+,17+,18-,21+/m1/s1
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.09
 Precursor_type: [M]-
 Ion_mode: N
@@ -220395,6 +220563,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430448
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -222882,6 +223052,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430449
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -226287,6 +226459,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430450
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -229328,6 +229502,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430451
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -233560,6 +233736,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430452
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -237274,6 +237452,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430453
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -240043,6 +240223,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430454
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -242454,6 +242636,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430455
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -245537,6 +245721,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430456
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -248810,6 +248996,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430457
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -252110,6 +252298,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430458
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -254279,6 +254469,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430459
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -256372,6 +256564,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430460
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -258488,6 +258682,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430461
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -260541,6 +260737,8 @@ Name: Nicotiflorin
 DB#: CCMSLIB00011430462
 DB: GNPS
 InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -267033,9 +267231,9 @@ Num Peaks: 7
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00013579021
 DB: GNPS
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -267063,6 +267261,9 @@ Num Peaks: 16
 Name: Nicotiflorin
 DB#: CCMSLIB00014205948
 DB: GNPS
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M]+
 Ion_mode: P
@@ -267517,6 +267718,9 @@ Num Peaks: 6
 Name: Maltol
 DB#: CCMSLIB00004685094
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 165.047
 Precursor_type: [M]-
 Ion_mode: P
@@ -267531,6 +267735,9 @@ Num Peaks: 3
 Name: Maltol
 DB#: CCMSLIB00004685095
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 165.047
 Precursor_type: [M]-
 Ion_mode: P
@@ -267546,6 +267753,9 @@ Num Peaks: 4
 Name: Maltol
 DB#: CCMSLIB00004685096
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 125.066
 Precursor_type: [M]-
 Ion_mode: N
@@ -267558,6 +267768,9 @@ Num Peaks: 1
 Name: Maltol
 DB#: CCMSLIB00004685097
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 125.066
 Precursor_type: [M]-
 Ion_mode: N
@@ -267644,6 +267857,9 @@ Num Peaks: 8
 Name: Nicotiflorin
 DB#: CCMSLIB00004687769
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.044
 Precursor_type: [M]+
 Ion_mode: P
@@ -267657,6 +267873,9 @@ Num Peaks: 2
 Name: Nicotiflorin
 DB#: CCMSLIB00004687770
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.044
 Precursor_type: [M]+
 Ion_mode: P
@@ -267673,6 +267892,9 @@ Num Peaks: 5
 Name: Nicotiflorin
 DB#: CCMSLIB00004687807
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.108
 Precursor_type: [M]+
 Ion_mode: P
@@ -267686,6 +267908,9 @@ Num Peaks: 2
 Name: Nicotiflorin
 DB#: CCMSLIB00004687808
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.108
 Precursor_type: [M]+
 Ion_mode: P
@@ -273246,6 +273471,9 @@ Num Peaks: 365
 Name: Maltol
 DB#: CCMSLIB00004692426
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 125.024
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -273454,6 +273682,9 @@ Num Peaks: 197
 Name: Maltol
 DB#: CCMSLIB00004692427
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 125.024
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -273672,6 +273903,9 @@ Num Peaks: 207
 Name: Maltol
 DB#: CCMSLIB00004692428
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 125.024
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -273861,6 +274095,9 @@ Num Peaks: 178
 Name: Maltol
 DB#: CCMSLIB00004692429
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 164.995
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -274373,6 +274610,9 @@ Num Peaks: 501
 Name: Maltol
 DB#: CCMSLIB00004692430
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 164.995
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -274810,6 +275050,9 @@ Num Peaks: 426
 Name: Maltol
 DB#: CCMSLIB00004692431
 DB: MoNA
+InChIKey: XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Formula: C6H6O3
+ExactMass: 126.03169
 PrecursorMZ: 164.995
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -275229,9 +275472,9 @@ Num Peaks: 408
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00004694232
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -275304,9 +275547,9 @@ Num Peaks: 61
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00004694233
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -275511,9 +275754,9 @@ Num Peaks: 193
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00004694234
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -302933,6 +303176,9 @@ Num Peaks: 728
 Name: Nicotiflorin
 DB#: CCMSLIB00004706196
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -303306,6 +303552,9 @@ Num Peaks: 362
 Name: Nicotiflorin
 DB#: CCMSLIB00004706197
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -303624,6 +303873,9 @@ Num Peaks: 307
 Name: Nicotiflorin
 DB#: CCMSLIB00004706198
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -303994,6 +304246,9 @@ Num Peaks: 359
 Name: Nicotiflorin
 DB#: CCMSLIB00004706199
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -304538,6 +304793,9 @@ Num Peaks: 533
 Name: Nicotiflorin
 DB#: CCMSLIB00004706200
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -305015,6 +305273,9 @@ Num Peaks: 466
 Name: Nicotiflorin
 DB#: CCMSLIB00004706201
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -305529,6 +305790,9 @@ Num Peaks: 503
 Name: Nicotiflorin
 DB#: CCMSLIB00004706202
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -306203,6 +306467,9 @@ Num Peaks: 663
 Name: Nicotiflorin
 DB#: CCMSLIB00004706203
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -306831,6 +307098,9 @@ Num Peaks: 617
 Name: Nicotiflorin
 DB#: CCMSLIB00004706204
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -307463,6 +307733,9 @@ Num Peaks: 621
 Name: Nicotiflorin
 DB#: CCMSLIB00004706205
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -308261,6 +308534,9 @@ Num Peaks: 787
 Name: Nicotiflorin
 DB#: CCMSLIB00004706206
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -308941,6 +309217,9 @@ Num Peaks: 669
 Name: Nicotiflorin
 DB#: CCMSLIB00004706207
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -309629,6 +309908,9 @@ Num Peaks: 677
 Name: Nicotiflorin
 DB#: CCMSLIB00004706322
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -310048,6 +310330,9 @@ Num Peaks: 408
 Name: Nicotiflorin
 DB#: CCMSLIB00004706323
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -310494,6 +310779,9 @@ Num Peaks: 435
 Name: Nicotiflorin
 DB#: CCMSLIB00004706324
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -310941,6 +311229,9 @@ Num Peaks: 436
 Name: Nicotiflorin
 DB#: CCMSLIB00004706325
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -311443,6 +311734,9 @@ Num Peaks: 491
 Name: Nicotiflorin
 DB#: CCMSLIB00004706326
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -311936,6 +312230,9 @@ Num Peaks: 482
 Name: Nicotiflorin
 DB#: CCMSLIB00004706327
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -312466,6 +312763,9 @@ Num Peaks: 519
 Name: Nicotiflorin
 DB#: CCMSLIB00004706328
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -313109,6 +313409,9 @@ Num Peaks: 632
 Name: Nicotiflorin
 DB#: CCMSLIB00004706329
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -313688,6 +313991,9 @@ Num Peaks: 568
 Name: Nicotiflorin
 DB#: CCMSLIB00004706330
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 617.148
 Precursor_type: [M+Na]+
 Ion_mode: P
@@ -314295,6 +314601,9 @@ Num Peaks: 596
 Name: Nicotiflorin
 DB#: CCMSLIB00004706331
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -315274,6 +315583,9 @@ Num Peaks: 968
 Name: Nicotiflorin
 DB#: CCMSLIB00004706332
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -316071,6 +316383,9 @@ Num Peaks: 786
 Name: Nicotiflorin
 DB#: CCMSLIB00004706333
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 633.122
 Precursor_type: [M+K]+
 Ion_mode: P
@@ -317657,6 +317972,9 @@ Num Peaks: 110
 Name: Hyperoside
 DB#: CCMSLIB00004718490
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.088
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -317767,6 +318085,9 @@ Num Peaks: 99
 Name: Hyperoside
 DB#: CCMSLIB00004718491
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.088
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -317875,6 +318196,9 @@ Num Peaks: 97
 Name: Hyperoside
 DB#: CCMSLIB00004718492
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 463.088
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -317981,6 +318305,9 @@ Num Peaks: 95
 Name: Hyperoside
 DB#: CCMSLIB00004718493
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.103
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318083,6 +318410,9 @@ Num Peaks: 91
 Name: Hyperoside
 DB#: CCMSLIB00004718494
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.103
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318182,6 +318512,9 @@ Num Peaks: 88
 Name: Hyperoside
 DB#: CCMSLIB00004718495
 DB: MoNA
+InChIKey: OVSQVDMCBVZWGM-DTGCRPNFSA-N
+Formula: C21H20O12
+ExactMass: 464.09548
 PrecursorMZ: 465.103
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318290,6 +318623,9 @@ Num Peaks: 97
 Name: Nicotiflorin
 DB#: CCMSLIB00004718577
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -318394,6 +318730,9 @@ Num Peaks: 93
 Name: Nicotiflorin
 DB#: CCMSLIB00004718578
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -318499,6 +318838,9 @@ Num Peaks: 94
 Name: Nicotiflorin
 DB#: CCMSLIB00004718579
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -318608,6 +318950,9 @@ Num Peaks: 98
 Name: Nicotiflorin
 DB#: CCMSLIB00004718580
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318714,6 +319059,9 @@ Num Peaks: 95
 Name: Nicotiflorin
 DB#: CCMSLIB00004718582
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318808,6 +319156,9 @@ Num Peaks: 83
 Name: Nicotiflorin
 DB#: CCMSLIB00004718583
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -318914,6 +319265,9 @@ Num Peaks: 95
 Name: Nicotiflorin
 DB#: CCMSLIB00004718649
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -319022,6 +319376,9 @@ Num Peaks: 97
 Name: Nicotiflorin
 DB#: CCMSLIB00004718650
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -319125,6 +319482,9 @@ Num Peaks: 92
 Name: Nicotiflorin
 DB#: CCMSLIB00004718651
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 593.151
 Precursor_type: [M-H]-
 Ion_mode: N
@@ -319235,6 +319595,9 @@ Num Peaks: 99
 Name: Nicotiflorin
 DB#: CCMSLIB00004718652
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -319342,6 +319705,9 @@ Num Peaks: 96
 Name: Nicotiflorin
 DB#: CCMSLIB00004718653
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -319433,6 +319799,9 @@ Num Peaks: 80
 Name: Nicotiflorin
 DB#: CCMSLIB00004718655
 DB: MoNA
+InChIKey: RTATXGUCZHCSNG-QHWHWDPRSA-N
+Formula: C27H30O15
+ExactMass: 594.15847
 PrecursorMZ: 595.166
 Precursor_type: [M+H]+
 Ion_mode: P
@@ -321545,9 +321914,9 @@ Num Peaks: 103
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678283
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 102.056
 Precursor_type: [M]-
 Ion_mode: N
@@ -321562,9 +321931,9 @@ Num Peaks: 3
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678365
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -321588,9 +321957,9 @@ Num Peaks: 12
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678409
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -321607,9 +321976,9 @@ Num Peaks: 5
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678415
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 102.056
 Precursor_type: [M]-
 Ion_mode: N
@@ -321633,9 +322002,9 @@ Num Peaks: 12
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678435
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -321652,9 +322021,9 @@ Num Peaks: 5
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006678473
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -322567,9 +322936,9 @@ Num Peaks: 12
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680252
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -322602,9 +322971,9 @@ Num Peaks: 21
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680610
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 102.056
 Precursor_type: [M]-
 Ion_mode: N
@@ -322622,9 +322991,9 @@ Num Peaks: 6
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680626
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 102.056
 Precursor_type: [M]-
 Ion_mode: N
@@ -322639,9 +323008,9 @@ Num Peaks: 3
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680725
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 102.056
 Precursor_type: [M]-
 Ion_mode: N
@@ -322658,9 +323027,9 @@ Num Peaks: 5
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680739
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -322689,9 +323058,9 @@ Num Peaks: 17
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006680800
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -323984,9 +324353,9 @@ Num Peaks: 15
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006682167
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -324074,9 +324443,9 @@ Num Peaks: 11
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006682300
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P
@@ -324320,9 +324689,9 @@ Num Peaks: 25
 Name: 4-Aminobutyric acid
 DB#: CCMSLIB00006682498
 DB: MoNA
-InChIKey: BTCSSZJGUNDROE-UHFFFAOYSA-N
-Formula: C4H9NO2
-ExactMass: 103.06333
+InChIKey: ABSTXSZPGHDTAF-UHFFFAOYSA-N
+Formula: C5H11NO2
+ExactMass: 117.07898
 PrecursorMZ: 104.071
 Precursor_type: [M]+
 Ion_mode: P

@@ -79,6 +79,23 @@ def mb_records():
         }
 
 TARGET_META = {}
+def _load_resolved():
+    """目标级 InChIKey/分子式/质量：优先取 PubChem 解析结果（raw/targets_resolved.csv），
+    这样只在 GNPS/MoNA 出现、MassBank 无谱的目标（如 Maltol、Nicotiflorin、Daucosterol）
+    也能带上 InChIKey（索引按 InChIKey 骨架归并的前提）。"""
+    p = os.path.join(RAW, "targets_resolved.csv")
+    if not os.path.exists(p):
+        return
+    for r in read_csv(p):
+        nm = (r.get("target_name") or "").strip()
+        if nm and nm in TARGET_NAMES and r.get("inchikey") and nm not in TARGET_META:
+            try:
+                m = float(r.get("monoisotopic_mass") or 0) or None
+            except ValueError:
+                m = None
+            TARGET_META[nm] = {"inchikey": r["inchikey"], "formula": r.get("formula", ""),
+                               "mass": m or monoisotopic(r.get("formula", ""))}
+
 def _compute_tmap():
     global TARGET_META
     for sid, r in mb_meta.items():
@@ -87,6 +104,7 @@ def _compute_tmap():
         if tname and tname not in TARGET_META and ik:
             TARGET_META[tname] = {"inchikey": ik, "formula": r.get("formula", ""),
                                   "mass": monoisotopic(r.get("formula", ""))}
+_load_resolved()
 _compute_tmap()
 
 # ---------- 读取 GNPS ----------
