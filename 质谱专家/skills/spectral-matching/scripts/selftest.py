@@ -96,6 +96,28 @@ def main():
         check("查询 C%d → 命中自身" % qi, top.get("library_id") == "S%d" % qi,
               "top=%s(%.3f)" % (top.get("library_id"), top.get("score_entropy", 0)))
 
+    # 4b. 加合物过滤必须真正生效
+    # 回归：旧实现把"过滤值"与"查询加合物"并列做 `not in`，当二者相同
+    # （即最常见用法：按查询自身的加合物过滤）时条件恒假 → 过滤静默失效。
+    mixed = []
+    for i in range(1, 4):
+        mixed.append(synth(i))                    # [M+H]+
+        neg = synth(100 + i)
+        neg.set("adduct", "[M-H]-")
+        mixed.append(neg)
+    libm = SpectralLibrary(mixed)
+    qm = perturb(mixed[0], seed=55)
+    only_pos = libm.candidates(qm, precursor_ppm=None, adduct="[M+H]+", polarity=False)
+    check("加合物过滤生效（仅保留 [M+H]+）",
+          len(only_pos) == 3 and all(str(x.adduct) == "[M+H]+" for x in only_pos),
+          "pool=%d" % len(only_pos))
+    all_spec = libm.candidates(qm, precursor_ppm=None, polarity=False)
+    check("未传 adduct → 不过滤加合物", len(all_spec) == 6, "pool=%d" % len(all_spec))
+
+    from specmatch.search import ce_close                       # noqa: E402
+    check("碰撞能带单位可比较（6V vs 6）",
+          bool(ce_close("6V", 6)) and not ce_close("6V", 20))
+
     print("== 5. 报告与分级 ==")
     q = perturb(lib_specs[0], seed=7)
     res = lib.query(q, methods=("entropy",), top_n=1)

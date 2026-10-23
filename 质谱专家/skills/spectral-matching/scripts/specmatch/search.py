@@ -9,16 +9,43 @@ specmatch.search —— 谱库检索
     2. **可多打分器并行**：默认 ``entropy``（ESI）或 ``match_factor``（EI）。
     3. 输出**确定性表格**，便于人工复核与回归测试。
 """
+import re
+
 import numpy as np
 
 from .similarity import get_similarity
 
+_NUM_RE = re.compile(r"[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?")
+
 
 def _num(x):
+    """尽力转为 float：直接失败时从字符串中提取首个数字。
+
+    用于 ``6V`` / ``20 eV`` / ``35%`` 这类带单位的碰撞能字段——
+    旧实现遇到 ``"6V"`` 直接返回 None，导致 CE 过滤被静默跳过。
+    """
+    if x is None:
+        return None
     try:
         return float(x)
     except (TypeError, ValueError):
+        pass
+    m = _NUM_RE.search(str(x))
+    return float(m.group(0)) if m else None
+
+
+def _norm_adduct(x):
+    """加合物归一化：优先走 filters 的规范表，退化时用小写去空格比较。"""
+    if not x:
         return None
+    try:
+        from .filters import _norm_adduct_str
+        norm = _norm_adduct_str(x)
+        if norm:
+            return norm
+    except Exception:
+        pass
+    return str(x).strip().replace(" ", "").lower()
 
 
 def ce_close(a, b, tol_da=0.0, rel=0.25):
@@ -64,13 +91,19 @@ class SpectralLibrary(object):
         for r in pool:
             if polarity and query.ionmode and r.ionmode and query.ionmode != r.ionmode:
                 continue
-            if adduct and query.adduct and r.adduct and adduct.lower() not in (
-                    str(query.adduct).lower(), str(r.adduct).lower()):
-                continue
+            # 加合物过滤：**仅当显式传入 adduct 时启用**，且要求记录加合物与之
+            # 归一化后相等（记录缺加合物 → 排除）。
+            # 修复：旧写法把"过滤值"与"查询加合物"并列做 `not in`，当二者相同
+            # （即最常见用法）时条件恒假 → 过滤静默失效。
+            if adduct:
+                if _norm_adduct(r.adduct) != _norm_adduct(adduct):
+                    continue
             if collision_energy is not None and not ce_close(
                     collision_energy, r.collision_energy, rel=ce_tol):
                 continue
-            if precursor_ppm is not None and q_pm is not None and r.precursor_mz is not None:
+            if precursor_ppm is not None and q_pm is not None:
+                if r.precursor_mz is None:
+                    continue      # 有 ppm 过滤时，缺前体的记录不可比 → 排除
                 if abs(q_pm - r.precursor_mz) / q_pm * 1e6 > precursor_ppm:
                     continue
             out.append(r)
