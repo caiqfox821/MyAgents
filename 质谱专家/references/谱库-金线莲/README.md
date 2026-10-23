@@ -1,4 +1,4 @@
-# 人参皂苷与活性成分 质谱参考谱库
+# 金线莲（Anoectochilus roxburghii）成分 质谱参考谱库
 
 > 生成日期：2026-10-23 ｜ 来源：MassBank + GNPS/MoNA 镜像（多库合并）
 
@@ -6,11 +6,13 @@
 
 | 指标 | 数值 |
 |---|---|
-| 谱图总数 | **2017** |
+| 谱图总数 | **2387** |
 | 化合物数（去重） | **35** |
-| 正离子谱 | 1085 |
-| 负离子谱 | 932 |
-| 来源 MassBank | 1200 |
+| 正离子谱 | 1266 |
+| 负离子谱 | 1121 |
+| MS² 谱（ms_type=MS2） | 2220 |
+| 非 MS² 谱（MS1 等） | 167 |
+| 来源 MassBank | 1570 |
 | 来源 MoNA | 485 |
 | 来源 GNPS | 332 |
 | 目标清单化合物 | 37 |
@@ -21,7 +23,7 @@
 
 | 来源 | 文件/接口 | 说明 |
 |---|---|---|
-| MassBank | `https://rdfportal.org/primary/sparql`（GRAPH massbank） | 主库（RDF Portal SPARQL，权威参考谱）；本库 1200 条 |
+| MassBank | `https://rdfportal.org/primary/sparql`（GRAPH massbank） | 主库（RDF Portal SPARQL，权威参考谱）；本库 1570 条 |
 | GNPS-LIBRARY.mgf / GNPS-NIH-NATURALPRODUCTSLIBRARY.mgf | `https://external.gnps2.org/gnpslibrary/`（MGF 镜像） | GNPS 社区库；命中本库目标 332 条 |
 | MONA.mgf | 同上 | MoNA（MassBank of North America）镜像；命中本库目标 485 条 |
 | MASSBANK.mgf | 同上 | MassBank 的 GNPS 镜像，**已跳过**（与 MassBank RDF 主库重复） |
@@ -35,40 +37,40 @@
 
 | 化合物 | 目标名 | InChIKey | 分子式 | 单同位素质量 | 谱图数 | 来源 |
 |---|---|---|---|---|---|---|
-| Quercetin | Quercetin | REFJWTPEDVJJIY-UHFFFAOYSA-N | C15H10O7 | 302.04265 | 151 | GNPS|MassBank|MoNA |
-| Kaempferol | Kaempferol | IYRMWMYZSQPJKC-UHFFFAOYSA-N | C15H10O6 | 286.04774 | 143 | GNPS|MassBank|MoNA |
-| Nicotiflorin | Nicotiflorin | RTATXGUCZHCSNG-QHWHWDPRSA-N | C27H30O15 | 594.15847 | 123 | GNPS|MassBank|MoNA |
-| Rutin | Rutin | IKGXIBQEEMLURG-NVPNHPEKSA-N | C27H30O16 | 610.15338 | 114 | GNPS|MassBank|MoNA |
-| Ferulic acid | Ferulic acid | KSEBMYQBYZTDHS-HWKANZROSA-N | C10H10O4 | 194.05791 | 112 | GNPS|MassBank|MoNA |
-| Adenosine | Adenosine | OIRDTQYFTABQOQ-KQYNXXCUSA-N | C10H13N5O4 | 267.09675 | 98 | GNPS|MassBank|MoNA |
-| Quercitrin | Quercitrin | OXGUCUVFOIWWQJ-HQBVPOQASA-N | C21H20O11 | 448.10056 | 92 | GNPS|MassBank|MoNA |
-| Chlorogenic acid | Chlorogenic acid | CWVRJTMFETXNAD-JUHZACGLSA-N | C16H18O9 | 354.09508 | 91 | GNPS|MassBank|MoNA |
-| Hyperoside | Hyperoside | OVSQVDMCBVZWGM-DTGCRPNFSA-N | C21H20O12 | 464.09548 | 85 | GNPS|MassBank|MoNA |
-| Luteolin | Luteolin | IQPNAANSBPBGFQ-UHFFFAOYSA-N | C15H10O6 | 286.04774 | 78 | GNPS|MassBank|MoNA |
-| Apigenin | Apigenin | KZNIFHPLKGYRTM-UHFFFAOYSA-N | C15H10O5 | 270.05282 | 76 | GNPS|MassBank|MoNA |
-| L-Arginine | L-Arginine | ODKSFYDXXFIFQN-BYPYZUCNSA-N | C6H14N4O2 | 174.11168 | 72 | GNPS|MassBank|MoNA |
-| p-Coumaric acid | p-Coumaric acid | NGSWKAQJJWESNS-ZZXKWVIFSA-N | C9H8O3 | 164.04734 | 70 | GNPS|MassBank|MoNA |
-| Astragalin | Astragalin | JPUKWEQWGBDDQB-QSOFNFLRSA-N | C21H20O11 | 448.10056 | 69 | GNPS|MassBank |
-| Gallic acid | Gallic acid | LNTHITQWFMADLM-UHFFFAOYSA-N | C7H6O5 | 170.02152 | 57 | GNPS|MassBank|MoNA |
-| Narcissin | Narcissin | UIDGLYUNOUKLBM-GEBJFKNCSA-N | C28H32O16 | 624.16903 | 57 | GNPS|MassBank |
-| Salicylic acid | Salicylic acid | YGSDEFSMJLZEOE-UHFFFAOYSA-N | C7H6O3 | 138.03169 | 54 | GNPS|MassBank|MoNA |
-| 4-Aminobutyric acid | 4-Aminobutyric acid | BTCSSZJGUNDROE-UHFFFAOYSA-N | C4H9NO2 | 103.06333 | 47 | GNPS|MassBank|MoNA |
-| Isoquercitrin | Isoquercitrin | OVSQVDMCBVZWGM-QSOFNFLRSA-N | C21H20O12 | 464.09548 | 46 | GNPS|MassBank |
-| Caffeic acid | Caffeic acid | QAIPRVGONGVQAS-DUXPYHPUSA-N | C9H8O4 | 180.04226 | 42 | GNPS|MassBank|MoNA |
-| Citric acid | Citric acid | KRKNYBCHXYNGOX-UHFFFAOYSA-N | C6H8O7 | 192.027 | 40 | GNPS|MassBank|MoNA |
-| Isorhamnetin-3-O-glucoside | Isorhamnetin-3-O-glucoside | CQLRUIIRRZYHHS-LFXZADKFSA-N | C22H22O12 | 478.11113 | 39 | MassBank |
-| Vitexin | Vitexin | SGEWCQFRYRRZDC-VPRICQMDSA-N | C21H20O10 | 432.10565 | 37 | GNPS|MassBank |
-| 4-Hydroxybenzoic acid | 4-Hydroxybenzoic acid | FJKROLUGYXJWQN-UHFFFAOYSA-N | C7H6O3 | 138.03169 | 35 | GNPS|MassBank|MoNA |
-| Isorhamnetin | Isorhamnetin | IZQSVPBOUDKVDZ-UHFFFAOYSA-N | C16H12O7 | 316.0583 | 35 | GNPS|MassBank |
-| Syringic acid | Syringic acid | JMSVCTWVEWCHDZ-UHFFFAOYSA-N | C9H10O5 | 198.05282 | 30 | GNPS|MassBank|MoNA |
-| Succinic acid | Succinic acid | KDYFGRWQOYBRFD-UHFFFAOYSA-N | C4H6O4 | 118.02661 | 27 | GNPS|MassBank|MoNA |
+| Quercetin | Quercetin | REFJWTPEDVJJIY-UHFFFAOYSA-N | C15H10O7 | 302.04265 | 183 | GNPS|MassBank|MoNA |
+| Kaempferol | Kaempferol | IYRMWMYZSQPJKC-UHFFFAOYSA-N | C15H10O6 | 286.04774 | 158 | GNPS|MassBank|MoNA |
+| Nicotiflorin | Nicotiflorin | RTATXGUCZHCSNG-QHWHWDPRSA-N | C27H30O15 | 594.15847 | 133 | GNPS|MassBank|MoNA |
+| Adenosine | Adenosine | OIRDTQYFTABQOQ-KQYNXXCUSA-N | C10H13N5O4 | 267.09675 | 123 | GNPS|MassBank|MoNA |
+| Rutin | Rutin | IKGXIBQEEMLURG-NVPNHPEKSA-N | C27H30O16 | 610.15338 | 118 | GNPS|MassBank|MoNA |
+| Ferulic acid | Ferulic acid | KSEBMYQBYZTDHS-HWKANZROSA-N | C10H10O4 | 194.05791 | 117 | GNPS|MassBank|MoNA |
+| Quercitrin | Quercitrin | OXGUCUVFOIWWQJ-HQBVPOQASA-N | C21H20O11 | 448.10056 | 98 | GNPS|MassBank|MoNA |
+| Hyperoside | Hyperoside | OVSQVDMCBVZWGM-DTGCRPNFSA-N | C21H20O12 | 464.09548 | 97 | GNPS|MassBank|MoNA |
+| Luteolin | Luteolin | IQPNAANSBPBGFQ-UHFFFAOYSA-N | C15H10O6 | 286.04774 | 97 | GNPS|MassBank|MoNA |
+| Apigenin | Apigenin | KZNIFHPLKGYRTM-UHFFFAOYSA-N | C15H10O5 | 270.05282 | 95 | GNPS|MassBank|MoNA |
+| Chlorogenic acid | Chlorogenic acid | CWVRJTMFETXNAD-JUHZACGLSA-N | C16H18O9 | 354.09508 | 93 | GNPS|MassBank|MoNA |
+| L-Arginine | L-Arginine | ODKSFYDXXFIFQN-BYPYZUCNSA-N | C6H14N4O2 | 174.11168 | 89 | GNPS|MassBank|MoNA |
+| Astragalin | Astragalin | JPUKWEQWGBDDQB-QSOFNFLRSA-N | C21H20O11 | 448.10056 | 81 | GNPS|MassBank |
+| Citric acid | Citric acid | KRKNYBCHXYNGOX-UHFFFAOYSA-N | C6H8O7 | 192.027 | 75 | GNPS|MassBank|MoNA |
+| p-Coumaric acid | p-Coumaric acid | NGSWKAQJJWESNS-ZZXKWVIFSA-N | C9H8O3 | 164.04734 | 75 | GNPS|MassBank|MoNA |
+| Isorhamnetin | Isorhamnetin | IZQSVPBOUDKVDZ-UHFFFAOYSA-N | C16H12O7 | 316.0583 | 71 | GNPS|MassBank |
+| Salicylic acid | Salicylic acid | YGSDEFSMJLZEOE-UHFFFAOYSA-N | C7H6O3 | 138.03169 | 67 | GNPS|MassBank|MoNA |
+| 4-Hydroxybenzoic acid | 4-Hydroxybenzoic acid | FJKROLUGYXJWQN-UHFFFAOYSA-N | C7H6O3 | 138.03169 | 62 | GNPS|MassBank|MoNA |
+| Narcissin | Narcissin | UIDGLYUNOUKLBM-GEBJFKNCSA-N | C28H32O16 | 624.16903 | 60 | GNPS|MassBank |
+| Gallic acid | Gallic acid | LNTHITQWFMADLM-UHFFFAOYSA-N | C7H6O5 | 170.02152 | 58 | GNPS|MassBank|MoNA |
+| Caffeic acid | Caffeic acid | QAIPRVGONGVQAS-DUXPYHPUSA-N | C9H8O4 | 180.04226 | 56 | GNPS|MassBank|MoNA |
+| 4-Aminobutyric acid | 4-Aminobutyric acid | BTCSSZJGUNDROE-UHFFFAOYSA-N | C4H9NO2 | 103.06333 | 50 | GNPS|MassBank|MoNA |
+| Isoquercitrin | Isoquercitrin | OVSQVDMCBVZWGM-QSOFNFLRSA-N | C21H20O12 | 464.09548 | 50 | GNPS|MassBank |
+| Isorhamnetin-3-O-glucoside | Isorhamnetin-3-O-glucoside | CQLRUIIRRZYHHS-LFXZADKFSA-N | C22H22O12 | 478.11113 | 49 | MassBank |
+| Vitexin | Vitexin | SGEWCQFRYRRZDC-VPRICQMDSA-N | C21H20O10 | 432.10565 | 40 | GNPS|MassBank |
+| Syringic acid | Syringic acid | JMSVCTWVEWCHDZ-UHFFFAOYSA-N | C9H10O5 | 198.05282 | 38 | GNPS|MassBank|MoNA |
+| Succinic acid | Succinic acid | KDYFGRWQOYBRFD-UHFFFAOYSA-N | C4H6O4 | 118.02661 | 35 | GNPS|MassBank|MoNA |
+| beta-Sitosterol | beta-Sitosterol | KZJWDPNRJALLNS-VJSFXXLFSA-N | C29H50O | 414.38617 | 26 | MassBank|MoNA |
 | Malic acid | Malic acid | BJEPYKJPYRNKOW-REOHCLBHSA-N | C4H6O5 | 134.02152 | 21 | GNPS|MassBank|MoNA |
 | Isovitexin | Isovitexin | MYXNWGACZJSMBT-VJXVFPJBSA-N | C21H20O10 | 432.10565 | 19 | GNPS|MassBank |
-| beta-Sitosterol | beta-Sitosterol | KZJWDPNRJALLNS-VJSFXXLFSA-N | C29H50O | 414.38617 | 19 | MassBank|MoNA |
 | Vanillic acid | Vanillic acid | WKOLLVMJNQIZCI-UHFFFAOYSA-N | C8H8O4 | 168.04226 | 16 | GNPS|MassBank|MoNA |
-| Protocatechuic acid | Protocatechuic acid | YQUVCSBJEUQKSH-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 11 | GNPS|MassBank |
-| 2,5-Dihydroxybenzoic acid | - | WXTMDXOMEHJXQO-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 5 | MassBank |
-| Stigmasterol | Stigmasterol | HCXVJBMSMIARIN-PHZDYDNGSA-N | C29H48O | 412.37052 | 5 | GNPS|MassBank |
+| Protocatechuic acid | Protocatechuic acid | YQUVCSBJEUQKSH-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 14 | GNPS|MassBank |
+| Stigmasterol | Stigmasterol | HCXVJBMSMIARIN-PHZDYDNGSA-N | C29H48O | 412.37052 | 12 | GNPS|MassBank |
+| 2,5-Dihydroxybenzoic acid | - | WXTMDXOMEHJXQO-UHFFFAOYSA-N | C7H6O4 | 154.02661 | 10 | MassBank |
 | Daucosterol | Daucosterol | - | - | - | 1 | GNPS |
 
 ## 四、目标清单覆盖情况
@@ -118,6 +120,7 @@ MSP 记录建议含：`Name`、`InChIKey`、`Formula`、`PrecursorMZ`、`Precurs
 6. **无保留时间/CCS**：均为谱库（MS²）参考谱，不含 RT/CCS。
 7. 多库合并存在**同化合物多来源重复**（保留各自来源记录，便于交叉验证）。
 8. 本库**保留全部**参考谱（含少量低信息量记录，如仅 1–2 个碎片的谱）。可在 `index.csv` 中按 `n_peaks` 列过滤（如 `n_peaks>=5`）后使用，以获得更干净的子库。
+9. **含少量非 MS² 记录**：本库 `ms_type=MS2` 共 **2220** 条，另有 **167** 条为一级谱（`ms_type=MS`，多为某些氨基酸/小分子的 LC-ESI-ITFT 谱）；另有极少数来源为 MoNA、加合物字段解析异常（如负离子记录标为 `[M]⁺`）。做 **MS² 库检索前请先按 `index.csv` 的 `ms_type`/`adduct` 列过滤**（`ms_type==MS2`），一级谱对二级匹配无意义。
 
 ## 九、补充说明与使用提示
 

@@ -26,6 +26,8 @@ n_spec = len(idx)
 n_comp = len(comp)
 pos = sum(1 for r in idx if r["ion_mode"] == "P")
 neg = sum(1 for r in idx if r["ion_mode"] == "N")
+n_ms2 = sum(1 for r in idx if r["ms_type"] == "MS2")
+n_nonms2 = len(idx) - n_ms2
 today = datetime.date.today().isoformat()
 
 covered = [r for r in cov if int(r["n_spectra"] or 0) > 0]
@@ -36,7 +38,7 @@ def group_rows(g):
 
 # ---------- README ----------
 L = []
-L.append("# 人参皂苷与活性成分 质谱参考谱库\n")
+L.append("# 金线莲（Anoectochilus roxburghii）成分 质谱参考谱库\n")
 L.append("> 生成日期：%s ｜ 来源：MassBank + GNPS/MoNA 镜像（多库合并）\n" % today)
 L.append("## 一、概况\n")
 L.append("| 指标 | 数值 |")
@@ -45,6 +47,8 @@ L.append("| 谱图总数 | **%d** |" % n_spec)
 L.append("| 化合物数（去重） | **%d** |" % n_comp)
 L.append("| 正离子谱 | %d |" % pos)
 L.append("| 负离子谱 | %d |" % neg)
+L.append("| MS² 谱（ms_type=MS2） | %d |" % n_ms2)
+L.append("| 非 MS² 谱（MS1 等） | %d |" % n_nonms2)
 for s, k in src_counts.most_common():
     L.append("| 来源 %s | %d |" % (s, k))
 L.append("| 目标清单化合物 | %d |" % len(cov))
@@ -130,6 +134,7 @@ L.append("5. **强度标尺不同**：MassBank 为相对强度(%)；GNPS/MoNA �
 L.append("6. **无保留时间/CCS**：均为谱库（MS²）参考谱，不含 RT/CCS。")
 L.append("7. 多库合并存在**同化合物多来源重复**（保留各自来源记录，便于交叉验证）。")
 L.append("8. 本库**保留全部**参考谱（含少量低信息量记录，如仅 1–2 个碎片的谱）。可在 `index.csv` 中按 `n_peaks` 列过滤（如 `n_peaks>=5`）后使用，以获得更干净的子库。")
+L.append("9. **含少量非 MS² 记录**：本库 `ms_type=MS2` 共 **%d** 条，另有 **%d** 条为一级谱（`ms_type=MS`，多为某些氨基酸/小分子的 LC-ESI-ITFT 谱）；另有极少数来源为 MoNA、加合物字段解析异常（如负离子记录标为 `[M]⁺`）。做 **MS² 库检索前请先按 `index.csv` 的 `ms_type`/`adduct` 列过滤**（`ms_type==MS2`），一级谱对二级匹配无意义。" % (n_ms2, n_nonms2))
 L.append("")
 
 L.append("## 九、补充说明与使用提示\n")
