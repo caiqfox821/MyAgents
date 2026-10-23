@@ -13,6 +13,7 @@
 | **`证据条目与出处.md`** | **L3 原著证据底座（9 节 74 条）** | 把 `公共知识/书库/` 的 MDPI 分析专著、OA 全文与机构权威文本（**SANTE/11312/2021 v2026、ICH M7(R2)**）消化为可引用条目：验证/确证判据（M-，含 **M-16 现行 SANTE 鉴定判据全表**、**M-17 多类真菌毒素 LC-MS/MS 与法规回收窗口**）、仪器参数与采集（P-）、前处理与基质效应（S-）、ID-MS/CRM 不确定度（Q-）、HRMS 非靶向与回顾筛查（H-）、置信分级与数据标准（C-）、组学（O-）、与毒理/暴露接口（L-）；**逐条带页码或 PMCID** |
 | **`书库索引.md`** | **本专家在 `公共知识/书库/` 里实际引用的书目 + 页码锚点 + 取证命令**（含"为何共用公共书库而不自建"的说明） | 公共知识/书库（41 条 / 7,407 页） |
 | **`参考谱图-人参皂苷Rg1_Rg3/`** | **实测参考谱 + MRM 通道（2026-10-23）** | MassBank 反查的 Rg1（15 条）/ Rg3（44 条）参考谱：`README.md`（化合物信息、关键碎片归属）、`peaks_all.csv`（446 峰）、`Rg1/Rg3_mass_spectra.png`、`MRM通道建议.md`（离子对、同分异构干扰、CE 起点）、`讲解_怎么看质谱图.md`（带图入门讲解）、`讲解_怎么看质谱图.docx`（Word 版，图片内嵌）；`fetch.py`/`plot.py` 可复现 |
+| **`谱库-人参/`** | **本地参考谱库：人参皂苷与活性成分（2026-10-23）** | 按 94 项目标清单构建的可检索库：MassBank（RDF Portal SPARQL）＋ GNPS/MoNA 批量 MGF 汇总。含 `README.md`（数据来源与管线）、`targets.tsv`、`scripts/`（`mb_extract`→`fetch_peaks`→`gnps_scan`→`build_library`，可复现）、产物 `library.msp`/`library.mgf`/`index.csv`/`compounds.csv`/`coverage.csv`；配合技能 `spectral-matching` 检索 |
 
 ## 二、关联技能与外部资源
 
