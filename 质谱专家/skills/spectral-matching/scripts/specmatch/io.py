@@ -25,6 +25,11 @@ _MSP_FIELDS = {
     "id": "id",
     "library_id": "id",
     "record": "record",
+    "db#": "id",
+    "db": "library",
+    "exactmass": "exact_mass",
+    "spectrum_type": "spectrum_type",
+    "splash": "splash",
     "precursormz": "precursor_mz",
     "precursor_mz": "precursor_mz",
     "precursor_type": "adduct",
@@ -92,6 +97,9 @@ def parse_msp_text(text, source=None):
     for raw in text.splitlines():
         line = raw.strip()
         if not line:
+            if meta or peaks:          # 空行 = 记录分隔（MSP 约定）
+                flush()
+                meta, peaks = {}, []
             continue
         if line.lower().startswith("name:") and peaks:
             flush()

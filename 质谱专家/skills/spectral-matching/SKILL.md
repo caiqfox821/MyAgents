@@ -29,10 +29,10 @@ cd 质谱专家/skills/spectral-matching/scripts
 python3 match.py --caps
 
 # 1) 把 raw/ 下的谱图统一成标准 MSP 库 + index.json
-python3 build_index.py --raw ../../references/谱库-人参/raw --out ../../references/谱库-人参/index
+python3 build_index.py --raw ../../../references/谱库-人参/raw --out ../../../references/谱库-人参/index
 
 # 2) 检索（ESI MS²：熵相似度）
-python3 match.py --library ../../references/谱库-人参/index/library.msp \
+python3 match.py --library ../../../references/谱库-人参/index/library.msp \
     --query sample.mgf --method entropy --mz-tol 0.02 --precursor-ppm 20 --top 5
 
 # 3) 检索（GC-EI：匹配因子）
