@@ -14,6 +14,9 @@
 # ── 原始谱库数据 ──
 *.mgf
 
+# ── 自建谱库的原始抓取与中间产物（派生，可由 scripts/fetch_*.py / build_library.py 重建）──
+质谱专家/references/谱库-人参/raw/
+
 # ── 构建 / 抓取日志（派生）──
 *.log
 
