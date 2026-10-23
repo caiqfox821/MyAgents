@@ -46,6 +46,21 @@ WHERE {
 LIMIT 20
 ```
 
+### 响应格式与性能（实测，2026-10-23）
+
+**大结果集务必用 `Accept: text/csv`（或 `text/tab-separated-values`），不要用 `application/sparql-results+json`。**
+
+| Accept | 同一查询耗时 | 响应体 |
+|---|---|---|
+| `application/sparql-results+json` | **40.5 s** | 314 KB |
+| `text/csv` | **2.8 s** | 57 KB |
+
+- 端点渲染 JSON 结果慢且体积大（每个单元格都附带 `"type":"literal"` 等注解）；CSV 约**快 10 倍、小 5 倍**。
+  （实测场景：MassBank 按 25 个谱 IRI 批量取峰表。）
+- 批量取数/落盘脚本（`curl`、`urllib`、`requests`）都要**显式**设 `-H 'Accept: text/csv'`；不设时端点可能挑 JSON。
+- CSV 解析注意：**OPTIONAL 未绑定的列会整列缺失**，按表头 `zip` 容错（行短于表头属正常），不要按固定列号取。
+- 例外：需要保留 URI / 字面量类型标注（区分 IRI 还是 literal）时，仍用 JSON。
+
 ## 库选择速查（问什么 → 用哪个 key）
 
 | 要查什么 | key | 端点 |
@@ -162,6 +177,7 @@ WHERE {
 - 图未钉 → 静默错误/膨胀（头号杀手）。
 - **类型不要泛化**：字面量写成 IRI、IRI 写成字符串，都返回 0 行不报错。
 - `regex()` 每个分支要加括号，并带 flags 参数，否则静默 0 行。
+- **响应格式**：大结果集用 `Accept: text/csv`，JSON 会慢约 10 倍（见「响应格式与性能」）。
 
 **MediaDive**
 - `schema:` 展开为 **DSMZ 私有本体** `https://purl.dsmz.de/schema/`，**不是 schema.org**。
