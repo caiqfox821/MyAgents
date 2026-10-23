@@ -1,0 +1,72 @@
+# The management and prevention of diarrhoea : practical guidelines (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/37036
+- 页数: 56
+- 全文: `text/who/The_management_and_prevention_of_diarrhoea_practical_guidelines.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+-   Foreword                                                            v
+- 1. Understanding the problem
+-    What is diarrhoea?
+-    Acute and persistent diarrhoea
+-    Why is diarrhoea dangerous?
+-    How does diarrhoea cause dehydration?
+-    Treating a child who has diarrhoea
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 1
+- 2. Home treatment of a child who has diarrhoea                        5
+-    Educating family members about home treatment of a child who has
+-    diarrhoea                                                          5
+-    Three rules for home treatment of a child who has d~arrhoea        6
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 2                          8
+- 3. Assessment by a health worker for dehydration, and selection
+-    of a treatment plan                                                 9
+-    Identifying a case of diarrhoea                                     9
+-    Assessing the child for signs of dehydration                        9
+-    Deciding which treatment plan to use                               10
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 3                          11
+-    Example of assessment                                              12
+- 4. Checking for other problems
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 4
+-    Example of assessment
+- 5. Treatment by a health worker of a child who is dehydrated          16
+-    Ingredients of oral rehydration salts                              16
+-    Preparing ORS solution                                             16
+-    Using the appropriate treatment plan                               17
+-    Recording data on the child                                        22
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 5                          22
+- 6. Treatment of other problems
+-    Dysentery
+-    Cholera
+-    ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 6
+- 7. Prevention of diarrhoea
+-    Breast-feeding
+- M A N A G E M E N T A N D PREVENTION O F DIARRHOEA
+-            Improved weaning practices                                                26
+-            Use of plenty of water for hygiene and clean water for drinking           26
+-            Hand-washing                                                              27
+-            Use of latrines                                                           27
+-            Proper disposal of the stools of young children                           27
+-            Immunization against measles                                              28
+-            What health workers can do to support preventive practices                28
+-            ESSENTIAL SKILLS AND KNOWLEDGE: SECTION 7                                 30
+-        8. Things to remember about the management and prevention of
+-           diarrhoea                                                                  31
+-        Annexes
+-        1 . Diarrhoea management chart                                                32
+-        2. How to treat diarrhoea at home (mother's card)                             38
+-        3. How to determine whether a child is malnourished by using
+-           arm circumference                                                          39
+-        4. What a health worker should do when packets of oral rehydration salts
+-           are not available                                                          40
+-        5. Intravenous therapy for severe dehydration                                 42
+-        6. Appropriate use of drugs for cholera, dysentery, and parasitic diarrhoea   45
+-         7. Check-list of essential skills and knowledge                              50
+- Foreword
+- This book is intended for health workers who are concerned with the management and
+- prevention of diarrhoea, and for their supervisors and trainers. It is a revised and
+- updated version of The treatment and prevention of acute diarrhoea. Practical
+- guidelines (second edition, Geneva, World Health Organization, 1989). The guidelines
+- are based on the chart Management of the patient with diarrhoea (segments of which

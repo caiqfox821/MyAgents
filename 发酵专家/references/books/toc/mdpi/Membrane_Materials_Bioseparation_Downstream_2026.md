@@ -1,0 +1,71 @@
+# Application of Membrane Materials in Bioseparation and Downstream Processing (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-6773-8
+- 页数: 144
+- 全文: `text/mdpi/Membrane_Materials_Bioseparation_Downstream_2026.txt`
+- PDF: `mdpi/Membrane_Materials_Bioseparation_Downstream_2026.pdf`
+- 标签: 膜分离, 下游分离
+
+## 目录 (Contents)
+
+- Wei Zhang and Lingxue Kong
+- Application of Membrane Materials in Bioseparation and Downstream Processing
+- Reprinted from: Membranes 2026, 16, 46, https://doi.org/10.3390/membranes16010046 . . . . .    1
+- Puya Zhao, Yue Qi and Kai Gao
+- Removal of Aggregates During Bispeciﬁc Antibody Puriﬁcation Using Hydrophobic Interaction
+- Chromatography
+- Reprinted from: Membranes 2025, 15, 299, https://doi.org/10.3390/membranes15100299 . . . . .   4
+- Ning Li, Hongbo Xin and Keyu Deng
+- Separation and Characterization of Heterogeneity Among Various Sizes of Outer Membrane
+- Vesicles Derived from the Probiotic Escherichia coli Nissle 1917
+- Reprinted from: Membranes 2025, 15, 141, https://doi.org/10.3390/membranes15050141 . . . . . 19
+- Stefan Schwarz, Rong Fan, Mehrdad Ebrahimi and Peter Czermak
+- Efﬁcient Separation of a Novel Microbial Chassis, Vibrio natriegens, from High-Salt Culture Broth
+- Using Ceramic Ultraﬁltration Membranes
+- Reprinted from: Membranes 2025, 15, 121, https://doi.org/10.3390/membranes15040121 . . . . . 39
+- Amir Hossein Mostafavi, Liang-Kai Chu, Xianghong Qian, John Paul Smelko, Da Zhang,
+- Andrew Zydney and Sumith Ranil Wickramasinghe
+- Enhancing the Performance of Tangential Flow Microﬁltration for Bioreactor Clariﬁcation
+- Reprinted from: Membranes 2025, 15, 78, https://doi.org/10.3390/membranes15030078 . . . . . 56
+- Solomon Isu, Shu-Ting Chen, Raheleh Daneshpour, Hironobu Shirataki, Daniel Strauss,
+- Andrew L. Zydney, et al.
+- Enhancing Virus Filter Performance Through Pretreatment by Membrane Adsorbers
+- Reprinted from: Membranes 2025, 15, 34, https://doi.org/10.3390/membranes15010034 . . . . . 73
+- Deepraj Sarmah and Scott M. Husson
+- A Novel Method for Separating Full and Empty Adeno-Associated Viral Capsids Using
+- Ultraﬁltration
+- Reprinted from: Membranes 2024, 14, 194, https://doi.org/10.3390/membranes14090194 . . . . . 87
+- Mohammad A. Afzal, Joshua Peles and Andrew L. Zydney
+- Comparative Analysis of the Impact of Protein on Virus Retention for Different Virus Removal
+- Filters
+- Reprinted from: Membranes 2024, 14, 158, https://doi.org/10.3390/membranes14070158 . . . . . 99
+- Inci Boztepe, Shuaifei Zhao, Xing Yang and Lingxue Kong
+- Toward Rational Design of Ion-Exchange Nanoﬁber Membranes: Meso-Scale Computational
+- Approaches
+- Reprinted from: Membranes 2025, 16, 5, https://doi.org/10.3390/membranes16010005 . . . . . . 113
+-                                                 v
+- Editorial
+- Application of Membrane Materials in Bioseparation and
+- Downstream Processing
+- Wei Zhang 1, * and Lingxue Kong 2, *
+-                   1   Bioprocessing Technology Institute (BTI), Agency for Science, Technology and Research (A*STAR),
+-                       20 Biopolis Way, #06-01 Centros, Singapore 138668, Singapore
+-                   2   Institute for Frontier Materials, Deakin University, Waurn Ponds, Geelong, VIC 3216, Australia
+-                  *    Correspondence: zhang_wei@a-star.edu.sg (W.Z.); lingxue.kong@deakin.edu.au (L.K.)
+-                   1. Introduction
+-                       Membrane technologies have played an instrumental role in bioseparation and down-
+-                  stream processing. Membrane operations such as microﬁltration, ultraﬁltration, and virus
+-                  ﬁltration are key tools for clariﬁcation, concentration, buffer exchange, and viral clearance
+-                  in biomanufacturing, as they offer mild, selective, and efﬁcient separations for delicate
+-                  biological products.
+-                       With advances in biotherapeutics development, membrane technologies have become
+-                  increasingly pivotal in bioseparation and downstream processing. Compared with conven-
+-                  tional packed-bed chromatography, a major advantage of membrane technologies is their
+-                  convective mass transfer, which enables faster processing times and higher productivity.
+-                  This advantage is particularly crucial for processing increasingly complex and fragile large
+-                  biomolecules, such as bispeciﬁc antibodies, viruses, viral vectors, extracellular vesicles, and
+-                  even cells.
+-                       In this Special Issue, Application of Membrane Materials in Bioseparation and Down-
+-                  stream Processing, published in Membranes, we have collected a diverse yet cohesive
+-                  set of papers that demonstrate advances in the application of membrane technologies

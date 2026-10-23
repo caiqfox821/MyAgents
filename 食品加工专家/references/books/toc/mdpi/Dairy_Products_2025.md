@@ -1,0 +1,81 @@
+# Dairy Products (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3550-8
+- 页数: 180
+- 全文: `text/mdpi/Dairy_Products_2025.txt`
+- PDF: `mdpi/Dairy_Products_2025.pdf`
+- 标签: 乳品, 乳制品加工
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Michele Faccia and Giuseppe Natrella
+- Dairy Products: Processing Technology and Sensory Properties
+- Reprinted from: Foods 2024, 13, 2551, https://doi.org/10.3390/foods13162551 . . . . . . . . . . .
+- 1
+- Onyeka M. Ikele, Chigoziri T. Ogu, Xiuping Jiang and George A. Cavender
+- Evaluation of Different Lactic Acid Bacteria as Starter Cultures for Nono—A West African
+- Fermented Dairy Product
+- Reprinted from: Foods 2024, 13, 3030, https://doi.org/10.3390/foods13193030 . . . . . . . . . . .
+- 5
+- Antonella Santillo, Maria Giovanna Ciliberti, Mariangela Caroprese, Agostino Sevi and
+- Marzia Albenzio
+- Fatty Acids Proﬁle and Consumers’ Preferences of Pecorino Cheese Manufactured from Milk of
+- Sheep Supplemented with Flaxseed and Ascophyllum nodosum
+- Reprinted from: Foods 2024, 13, 2165, https://doi.org/10.3390/foods13142165 . . . . . . . . . . . 17
+- Biljana Trajkovska, Gjore Nakov, Sari Thachappully Prabhat and Prarabdh C. Badgujar
+- Effect of Blueberry Pomace Addition on Quality Attributes of Buttermilk-Based Fermented
+- Drinks during Cold Storage
+- Reprinted from: Foods 2024, 13, 1770, https://doi.org/10.3390/foods13111770 . . . . . . . . . . . 32
+- Artur Mykhalevych, Magdalena Buniowska-Olejnik, Galyna Polishchuk,
+- Czesław Puchalski, Anna Kamińska-Dwórznicka and Anna Berthold-Pluta
+- The Inﬂuence of Whey Protein Isolate on the Quality Indicators of Acidophilic Ice Cream Based
+- on Liquid Concentrates of Demineralized Whey
+- Reprinted from: Foods 2024, 13, 170, https://doi.org/10.3390/foods13010170 . . . . . . . . . . . 45
+- Idiana de Macêdo Barbosa, Katya Anaya, Cláudia Souza Macêdo,
+- Robson Rogério Pessoa Coelho, Claudio Cipolat-Gotet,
+- Emerson Gabriel dos Santos Oliveira Silva, et al.
+- Characterization of Physicochemical and Sensory Properties of Cheeses Added with Bovine
+- Colostrum
+- Reprinted from: Foods 2023, 12, 4474, https://doi.org/10.3390/foods12244474 . . . . . . . . . . . 67
+- Loubna Abou el qassim, Beatriz Martínez, Ana Rodríguez, Alberto Dávalos,
+- María-Carmen López de las Hazas, Mario Menéndez Miranda and Luis J. Royo
+- Effects of Cow’s Milk Processing on MicroRNA Levels
+- Reprinted from: Foods 2023, 12, 2950, https://doi.org/10.3390/foods12152950 . . . . . . . . . . . 81
+- Theoﬁlos Massouras, Evangelia Zoidou, Zinovia Baradaki and Marianna Karela
+- Physicochemical, Microbiological and Sensory Characteristics of White Brined Cheese Ripened
+- and Preserved in Large-Capacity Stainless Steel Tanks
+- Reprinted from: Foods 2023, 12, 2332, https://doi.org/10.3390/foods12122332 . . . . . . . . . . . 91
+- Giuseppe Natrella, Giuseppe Gambacorta and Michele Faccia
+- Application of Commercial Biopreservation Starter in Combination with MAP for Shelf-Life
+- Extension of Burrata Cheese
+- Reprinted from: Foods 2023, 12, 1867, https://doi.org/10.3390/foods12091867 . . . . . . . . . . . 110
+- v
+- Giuseppe Natrella, Giuseppe Gambacorta, Giacomo Squeo and Michele Faccia
+- Impact of Milk Thermization on the Quality Characteristics of P.D.O. “Canestrato Pugliese”
+- Ovine Hard Cheese
+- Reprinted from: Foods 2023, 12, 1080, https://doi.org/10.3390/foods12051080 . . . . . . . . . . . 124
+- Marta Albisu, Sonia Nieto, Olaia Martínez, María Ángeles Bustamante, Luis Javier R. Barron
+- and Ana Isabel Nájera
+- Optimization of Modiﬁed Atmosphere Packaging for Sheep’s Milk Semi-Hard Cheese Wedges
+- during Refrigerated Storage: Physicochemical and Sensory Properties
+- Reprinted from: Foods 2023, 12, 849, https://doi.org/10.3390/foods12040849 . . . . . . . . . . . 140
+- Noelia Gil, Gisela Quinteros, Monica Blanco, Shaﬁrah Samsuri, Nurul Aini Amran,
+- Patrico Orellana-Palma, et al.
+- Vacuum-Assisted Block Freeze Concentration Studies in Cheese Whey and Its Potential in
+- Lactose Recovery
+- Reprinted from: Foods 2023, 12, 836, https://doi.org/10.3390/foods12040836 . . . . . . . . . . . 156
+- vi
+- Preface
+- The dairy sector plays a crucial role in the global food industry, with cheese being one of the most
+- widely consumed foods worldwide. Its production is continuously evolving to meet the needs of
+- increasingly conscious consumers, who demand safer products with enhanced nutritional properties,
+- made without chemicals through sustainable processing methods that minimize waste for the sake of
+- the environment.
+- To achieve these goals, advanced technologies, quality control strategies, sensory evaluation
+- methods, and the valorization and recovery of nutrients from by-products have signiﬁcantly
+- inﬂuenced both cheese production and consumer perception.
+- This Special Issue, titled Dairy Products: Processing Technology and Sensory Properties,
+- is intended for the scientiﬁc community and industry professionals engaged in dairy research,
+- production, and quality assessment. It aims to provide new insights to face the modern challenges of

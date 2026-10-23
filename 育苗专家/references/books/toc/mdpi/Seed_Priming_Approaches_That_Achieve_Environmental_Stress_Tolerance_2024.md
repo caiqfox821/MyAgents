@@ -1,0 +1,80 @@
+# Seed Priming Approaches That Achieve Environmental Stress Tolerance (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10263
+- 页数: 146
+- 全文: `text/mdpi/Seed_Priming_Approaches_That_Achieve_Environmental_Stress_Tolerance_2024.txt`
+- 标签: 种子引发, 壮苗, 抗逆
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- José Antonio Hernández, Gregorio Barba-Espı́n and Pedro Dı́az-Vivancos
+- Seed Priming Technology: Current Perspectives
+- Reprinted from: Seeds 2024, 3, 36, https://doi.org/10.3390/seeds3040036 . . . . . . . . . . . . . .               1
+- José A. Hernández, Pedro Dı́az-Vivancos, José Ramón Acosta-Motos and Gregorio
+- Barba-Espı́n
+- Potassium Nitrate Treatment Is Associated with Modulation of Seed Water Uptake,
+- Antioxidative Metabolism and Phytohormone Levels of Pea Seedlings
+- Reprinted from: Seeds 2021, 1, 2, https://doi.org/10.3390/seeds1010002 . . . . . . . . . . . . . .                5
+- Gregorio Barba-Espı́n, José A. Hernández, Cristina Martı́nez-Andújar and Pedro
+- Dı́az-Vivancos
+- Hydrogen Peroxide Imbibition Following Cold Stratiﬁcation Promotes Seed Germination Rate
+- and Uniformity in Peach cv. GF305
+- Reprinted from: Seeds 2022, 1, 4, https://doi.org/10.3390/seeds1010004 . . . . . . . . . . . . . . 16
+- Bikash Adhikari, Omolayo J. Olorunwa and T. Casey Barickman
+- Seed Priming Enhances Seed Germination and Morphological Traits of Lactuca sativa L. under
+- Salt Stress
+- Reprinted from: Seeds 2022, 1, 7, https://doi.org/10.3390/seeds1020007 . . . . . . . . . . . . . . 24
+- Shaila Shermin Tania, Mohammad Saidur Rhaman, Farjana Rauf, Md. Moklasur Rahaman,
+- Muhammad Humayun Kabir, Md. Anamul Hoque and Yoshiyuki Murata
+- Alleviation of Salt-Inhibited Germination and Seedling Growth of Kidney Bean by Seed Priming
+- and Exogenous Application of Salicylic Acid (SA) and Hydrogen Peroxide (H2 O2 )
+- Reprinted from: Seeds 2022, 1, 8, https://doi.org/10.3390/seeds1020008 . . . . . . . . . . . . . . 37
+- Iman Zammali, Amira Dabbous, Seria Youssef and Karim Ben Hamed
+- Effects of Chemical Priming on the Germination of the Ornamental Halophyte Lobularia
+- maritima under NaCl Salinity
+- Reprinted from: Seeds 2022, 1, 9, https://doi.org/10.3390/seeds1020009 . . . . . . . . . . . . . . 49
+- Sunita Kataria, Shruti Shukla, Kanchan Jumrani, Meeta Jain and Rekha Gadre
+- Stimulating Role of Calcium and Cyclic GMP in Mediating the Effect of Magnetopriming for
+- Alleviation of Salt Stress in Soybean Seedlings
+- Reprinted from: Seeds 2023, 2, 18, https://doi.org/10.3390/seeds2020018 . . . . . . . . . . . . . . 60
+- Pedro Bento da Silva, Tatiana Arantes Afonso Vaz, Marcio Luis Acencio, Luiz Augusto
+- Bovolenta, Henk W. M. Hilhorst and Edvaldo A. Amaral da Silva
+- Can Osmopriming Induce Cross-Tolerance for Abiotic Stresses in Solanum paniculatum L. Seeds?
+- A Transcriptome Analysis Point of View
+- Reprinted from: Seeds 2023, 2, 29, https://doi.org/10.3390/seeds2040029 . . . . . . . . . . . . . . 74
+- Isabel Garcı́a-Cánovas, Manuela Giraldo-Acosta, Antonio Cano, Marino B. Arnao and Josefa
+- Hernández-Ruiz
+- Effect of Melatonin on Germination and Seedling Growth in Aging Seeds or under Drought
+- Conditions
+- Reprinted from: Seeds 2024, 3, 25, https://doi.org/10.3390/seeds3030025 . . . . . . . . . . . . . . 86
+-                                                          v
+- Françoise Corbineau, Nesrin Taskiran-Özbingöl and Hayat El-Maarouf-Bouteau
+- Improvement of Seed Quality by Priming: Concept and Biological Basis
+- Reprinted from: Seeds 2023, 2, 8, https://doi.org/10.3390/seeds2010008 . . . . . . . . . . . . . . 102
+- Mattia Terzaghi and Mario C. De Tullio
+- Ascorbic Acid in Seeds, Priming and Beyond
+- Reprinted from: Seeds 2023, 2, 32, https://doi.org/10.3390/seeds2040032 . . . . . . . . . . . . . . 117
+-                                                   vi
+- About the Editors
+- José Antonio Hernández Cortés
+-     José Antonio Hernández Cortés is a Senior Researcher from the Spanish National Research
+- Council (CSIC) in the Research Institute “Centre for Soil Science and Applied Biology of Segura”
+- (CEBAS) in Murcia (Spain) and an external teacher of Plant Physiology at the Catholic University San
+- Antonio in Murcia (UCAM, Spain). Much of his scientiﬁc career has been dedicated to studying
+- the response of plants to salinity. During his Ph.D. period, he studied the effects of salt stress
+- on antioxidant and ROS (reactive oxygen species) metabolism at the subcellular level. After his
+- postdoctoral stays in Toulouse (ENSAT, France) and Norwich (John Innes Centre, UK), he continued
+- investigating the involvement of ROS in the effect of salinity on the activity and expression of
+- ASC-GSH cycle enzymes and SOD isoenzymes. Then, he started a new research line related to
+- the physiological and biochemical bases of the response to biotic stress in Prunus sp. In parallel,
+- he studied the role of redox metabolism on seed germination, reporting that H2O2 promoted
+- germination and early seedling growth in a concentration-dependent manner and observing an
+- interaction among the redox state and hormone proﬁle, orchestrated by H2O2, in the induction
+- of proteins related to plant signaling and development during the early growth of pea seedlings.
+- Recently, he has started a new line of research about the effect of halophyte-based management in the
+- physiological and biochemical responses of crop plants under saline conditions (PRIMA Programme,
+- EU). In addition, he has transfered the results of his research to the private sector through research
+- projects with private companies, focused on the agronomic management of citrus and fruit trees.

@@ -1,0 +1,74 @@
+# LC-MS/MS Method for Mycotoxin Analysis (2017, mdpi-res.com)
+
+- 许可: 开放获取（机构库）
+- 来源: https://doi.org/10.3390/books978-3-03842-607-3
+- 页数: 196
+- 全文: `text/guides/LC_MS_MS_Method_for_Mycotoxin_Analysis.txt`
+- 标签: ms
+
+## 目录 (Contents)
+
+- About the Special Issue Editor ..................................................................................................................... v
+- Preface to “LC-MS/MS Method for Mycotoxin Analysis” ....................................................................... vii
+- Barbara De Santis, Francesca Debegnach, Emanuela Gregori, Simona Russo,
+- Francesca Marchegiani, Gabriele Moracci and Carlo Brera
+- Development of a LC-MS/MS Method for the Multi-Mycotoxin Determination in Composite
+- Cereal-Based Samples
+- Reprinted from: Toxins 2017, 9(5), 169; doi: 10.3390/toxins9050169 ....................................................... 1
+- Dong-Ho Kim, Sung-Yong Hong, Jea Woo Kang, Sung Min Cho, Kyu Ri Lee, Tae Kyung An,
+- Chan Lee and Soo Hyun Chung
+- Simultaneous Determination of Multi-Mycotoxins in Cereal Grains Collected from South Korea
+- by LC/MS/MS
+- Reprinted from: Toxins 2017, 9(3), 106; doi: 10.3390/toxins9030106 ....................................................... 13
+- Andreas Breidbach
+- A Greener, Quick and Comprehensive Extraction Approach for LC-MS of Multiple Mycotoxins
+- Reprinted from: Toxins 2017, 9(3), 91; doi: 10.3390/toxins9030091 ......................................................... 26
+- Juan Sun, Weixi Li, Yan Zhang, Xuexu Hu, Li Wu and Bujun Wang
+- QuEChERS Purification Combined with Ultrahigh-Performance Liquid Chromatography
+- Tandem Mass Spectrometry for Simultaneous Quantification of 25 Mycotoxins in Cereals
+- Reprinted from: Toxins 2016, 8(12), 375; doi: 10.3390/toxins8120375 ..................................................... 40
+- Hyun Ee Ok, Fei Tian, Eun Young Hong, Ockjin Paek, Sheen-Hee Kim, Dongsul Kim
+- and Hyang Sook Chun
+- Harmonized Collaborative Validation of Aflatoxins and Sterigmatocystin in White Rice
+- and Sorghum by Liquid Chromatography Coupled to Tandem Mass Spectrometry
+- Reprinted from: Toxins 2016, 8(12), 371; doi: 10.3390/toxins8120371 ..................................................... 58
+- Laura Righetti, Giuseppe Paglia, Gianni Galaverna and Chiara Dall’Asta
+- Recent Advances and Future Challenges in Modified Mycotoxin Analysis: Why HRMS
+- Has Become a Key Instrument in Food Contaminant Research
+- Reprinted from: Toxins 2016, 8(12), 361; doi: 10.3390/toxins8120361 ..................................................... 71
+- Jacqueline Meng-Reiterer, Christoph Bueschl, Justyna Rechthaler, Franz Berthiller,
+- Marc Lemmens and Rainer Schuhmacher
+- Metabolism of HT-2 Toxin and T-2 Toxin in Oats
+- Reprinted from: Toxins 2016, 8(12), 364; doi: 10.3390/toxins8120364 ..................................................... 93
+- Paula Kovalsky, Gregor Kos, Karin Nährer, Christina Schwab, Timothy Jenkins,
+- Gerd Schatzmayr, Michael Sulyok and Rudolf Krska
+- Co-Occurrence of Regulated, Masked and Emerging Mycotoxins and Secondary Metabolites in
+- Finished Feed and Maize—An Extensive Survey
+- Reprinted from: Toxins 2016, 8(12), 363; doi: 10.3390/toxins8120363 ..................................................... 115
+-                                                                              iii
+- Theresa Zwickel, Sandra M. Kahl, Horst Klaffke, Michael Rychlik and Marina E. H. Müller
+- Spotlight on the Underdogs—An Analysis of Underrepresented Alternaria Mycotoxins Formed
+- Depending on Varying Substrate, Time and Temperature Conditions
+- Reprinted from: Toxins 2016, 8(11), 344; doi: 10.3390/toxins8110344 ..................................................... 144
+- Yelko Rodríguez-Carrasco, Jordi Mañes, Houda Berrada and Cristina Juan
+- Development and Validation of a LC-ESI-MS/MS Method for the Determination of Alternaria
+- Toxins Alternariol, Alternariol Methyl-Ether and Tentoxin in Tomato and
+- Tomato-Based Products
+- Reprinted from: Toxins 2016, 8(11), 328; doi: 10.3390/toxins8110328 ..................................................... 161
+- Wenjing Xu, Xiaomin Han, Fengqin Li and Lishi Zhang
+- Natural Occurrence of Alternaria Toxins in the 2015 Wheat from Anhui Province, China
+- Reprinted from: Toxins 2016, 8(11), 308; doi: 10.3390/toxins8110308 ..................................................... 173
+-                                                                iv
+- About the Special Issue Editor
+- Aldo Laganà ull professor of analytical chemistry, since 2002. At present, he is the Director of the
+- Chemistry Department of Università di Roma “La Sapienza” and President of the Executive Board of
+- the Analytical Chemistry Division of the Italian Chemical Society. He is author of more than 200
+- scientific publications in international journals with high impact factor, 8 international book chapters,
+- and 3 national books; his score on Scopus database are more than 5100 citations and h‐index of 39.
+- Since 2014, he is Editor of Toxins (section Mycotoxins) and member of the International Advisory
+- Board of Analytical and Bionalytical Chemistry journal. His research activity is focused on the
+- development and validation of innovative analytical methods based on mass spectrometry coupled
+- with separating techniques for the characterization and determination of substances of natural or
+- anthropogenic origin in environmental, food, vegetal or biological matrices. In the last years, his
+- interest also has been focused in proteomics and metabolomics fields, employing nanoseparative
+- techniques coupled to high resolution mass spectrometry.

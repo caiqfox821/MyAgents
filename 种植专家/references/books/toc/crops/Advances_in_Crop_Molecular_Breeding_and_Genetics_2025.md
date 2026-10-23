@@ -1,0 +1,81 @@
+# Advances in Crop Molecular Breeding and Genetics (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10478
+- 页数: 342
+- 全文: `text/crops/Advances_in_Crop_Molecular_Breeding_and_Genetics_2025.txt`
+- PDF: `crops/Advances_in_Crop_Molecular_Breeding_and_Genetics_2025.pdf`
+- 标签: 分子育种, 遗传育种, 作物改良
+
+## 目录 (Contents)
+
+- Yaqi Su, Zhen Cheng, Jiezheng Ying, Chaolei Liu and Zhiyong Li
+- New Insights into Crop Molecular Breeding and Genetics
+- Reprinted from: Agronomy 2024, 14, 2999, https://doi.org/10.3390/agronomy14122999 . . . . .    1
+- Hong Wang, Zhixing Nie, Tonglin Wang, Shuhuan Yang and Jirong Zheng
+- Comparative Transcriptome Analysis of Eggplant (Solanum melongena L.) Peels with Different
+- Glossiness
+- Reprinted from: Agronomy 2024, 14, 3063, https://doi.org/10.3390/agronomy14123063 . . . . .    7
+- Yichen Ye, Shuting Wen, Guo Zhang, Xingzhe Yang, Dawei Xue and Yunxia Fang et al.
+- Quantitative Trait Locus Analysis for Panicle and Flag Leaf Traits in Barley (Hordeum vulgare L.)
+- Based on a High-Density Genetic Linkage Map
+- Reprinted from: Agronomy 2024, 14, 2953, https://doi.org/10.3390/agronomy14122953 . . . . . 19
+- Guoqing Dong, Zihao Gui, Yi Yuan, Yun Li and Dengxiang Du
+- Expression Analysis of the Extensive Regulation of Mitogen-Activated Protein Kinase (MAPK)
+- Family Genes in Buckwheat (Fagopyrum tataricum) During Organ Differentiation and Stress
+- Response
+- Reprinted from: Agronomy 2024, 14, 2613, https://doi.org/10.3390/agronomy14112613 . . . . . 28
+- Lucia Urbanová, Jana Bilčı́ková, Dagmar Moravčı́ková and Jana Žiarovská
+- Natural Variability of Genomic Sequences of Mal d 1 Allergen in Apples as Revealed by
+- Restriction Profiles and Homolog Polymorphism
+- Reprinted from: Agronomy 2024, 14, 2056, https://doi.org/10.3390/agronomy14092056 . . . . . 50
+- Yonghui He, Chenxi Wang, Xueyou Hu, Youle Han, Feng Lu and Huanhuan Liu et al.
+- Genetic Basis and Exploration of Major Expressed QTL qLA2-3 Underlying Leaf Angle in Maize
+- Reprinted from: Agronomy 2024, 14, 1978, https://doi.org/10.3390/agronomy14091978 . . . . . 63
+- Jirapong Yangklang, Jirawat Sanitchon, Jonaliza L. Siangliw, Tidarat Monkham, Sompong
+- Chankaew and Meechai Siangliw et al.
+- Yield Performance of RD6 Glutinous Rice near Isogenic Lines Evaluated under Field Disease
+- Infection at Northeastern Thailand
+- Reprinted from: Agronomy 2024, 14, 1871, https://doi.org/10.3390/agronomy14081871 . . . . . 76
+- Yong Han, Alexander Abair, Julian van der Zanden, Madhugiri Nageswara-Rao, Saipriyaa
+- Purushotham Vasan and Roopali Bhoite et al.
+- Transcriptome-Wide Genetic Variations in the Legume Genus Leucaena for Fingerprinting and
+- Breeding
+- Reprinted from: Agronomy 2024, 14, 1519, https://doi.org/10.3390/agronomy14071519 . . . . . 91
+- Panpan Jia, Shenghui Liu, Wenqiu Lin, Honglin Yu, Xiumei Zhang and Xiou Xiao et al.
+- Authenticity Identification of F1 Hybrid Offspring and Analysis of Genetic Diversity in
+- Pineapple
+- Reprinted from: Agronomy 2024, 14, 1490, https://doi.org/10.3390/agronomy14071490 . . . . . 105
+- Mu Peng, Zhiyan Wang, Zhibiao He, Guorui Li, Jianjun Di and Rui Luo et al.
+- Combining Ability, Heritability, and Heterosis for Seed Weight and Oil Content Traits of Castor
+- Bean (Ricinus communis L.)
+- Reprinted from: Agronomy 2024, 14, 1115, https://doi.org/10.3390/agronomy14061115 . . . . . 118
+-                                                 v
+- Yiwang Zhu, Xiaohuai Yang, Peirun Luo, Jingwan Yan, Xinglan Cao and Hongge Qian et al.
+- Creation of Bacterial Blight Resistant Rice by Targeting Homologous Sequences of Xa13 and
+- Xa25 Genes
+- Reprinted from: Agronomy 2024, 14, 800, https://doi.org/10.3390/agronomy14040800 . . . . . . 132
+- Xinghua Qi, Ying Zhao, Ningning Cai, Jian Guan, Zeji Liu and Zhiyong Liu et al.
+- Characterization and Transcriptome Analysis Reveal Exogenous GA3 Inhibited Rosette
+- Branching via Altering Auxin Approach in Flowering Chinese Cabbage
+- Reprinted from: Agronomy 2024, 14, 762, https://doi.org/10.3390/agronomy14040762 . . . . . . 141
+- Ruisi Yang, Fei Wang, Ping Luo, Zhennan Xu, Houwen Wang and Runze Zhang et al.
+- The Role of the ADF Gene Family in Maize Response to Abiotic Stresses
+- Reprinted from: Agronomy 2024, 14, 717, https://doi.org/10.3390/agronomy14040717 . . . . . . 159
+- Cuiping Chen, Xuebing Zhu, Zhi Zhao, Dezhi Du and Kaixiang Li
+- Fine Mapping and Functional Verification of the Brdt1 Gene Controlling Determinate
+- Inflorescence in Brassica rapa L.
+- Reprinted from: Agronomy 2024, 14, 281, https://doi.org/10.3390/agronomy14020281 . . . . . . 175
+- Demba Dramé, Amy Bodian, Daniel Fonceka, Hodo-Abalo Tossim, Mouhamadou Moussa
+- Diangar and Joel Romaric Nguepjop et al.
+- Agro-Morphological Variability of Wild Vigna Species Collected in Senegal
+- Reprinted from: Agronomy 2023, 13, 2761, https://doi.org/10.3390/agronomy13112761 . . . . . 190
+- Junying Zhang, Jifeng Zhu, Liyong Yang, Yanli Li, Weirong Wang and Xirong Zhou et al.
+- Mapping of the Waxy Gene in Brassica napus L. via Bulked Segregant Analysis (BSA) and
+- Whole-Genome Resequencing
+- Reprinted from: Agronomy 2023, 13, 2611, https://doi.org/10.3390/agronomy13102611 . . . . . 206
+- Yang Xu, Fan Yan, Zhengwei Liang, Ying Wang, Jingwen Li and Lei Zhao et al.
+- Overexpression of the Peanut AhDGAT3 Gene Increases the Oil Content in Soybean
+- Reprinted from: Agronomy 2023, 13, 2333, https://doi.org/10.3390/agronomy13092333 . . . . . 222
+- Wanning Liu, Guan Li, Jiezheng Ying and Zhiyong Li
+- Advances in Crop Molecular Breeding and Genetics

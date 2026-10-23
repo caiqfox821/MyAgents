@@ -1,0 +1,78 @@
+# Dietary Antioxidants and Cosmetics (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0056-8
+- 页数: 254
+- 全文: `text/mdpi/Dietary_Antioxidants_and_Cosmetics_2024.txt`
+- 标签: 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- Irene Dini
+- Dietary and Cosmetic Antioxidants
+- Reprinted from: Antioxidants 2024, 13, 228, doi:10.3390/antiox13020228 . . . . . . . . . . . . . . .   1
+- Irene Dini
+- Contribution of Nanoscience Research in Antioxidants Delivery Used in Nutricosmetic Sector
+- Reprinted from: Antioxidants 2022, 11, 563, doi:10.3390/antiox11030563 . . . . . . . . . . . . . . .   3
+- Yanpei Gu, Zhenlei Zhao, Fan Xue and Ying Zhang
+- Alginate-Chitosan Coated Nanoliposomes as Effective Delivery Systems for Bamboo Leaf
+- Flavonoids: Characterization, In Vitro Release, Skin Permeation and Anti-Senescence Activity
+- Reprinted from: Antioxidants 2022, 11, 1024, doi:10.3390/antiox11051024 . . . . . . . . . . . . . . 26
+- Irene Dini and Andrea Mancusi
+- Food Peptides for the Nutricosmetic Industry
+- Reprinted from: Antioxidants 2023, 12, 788, doi:10.3390/antiox12040788 . . . . . . . . . . . . . . . 42
+- Kirinde Gedara Isuru Sandanuwan Kirindage, Arachchige Maheshika Kumari Jayasinghe,
+- Eui-Jeong Han, Youngheun Jee, Hyun-Jin Kim, Sun Gil Do, et al.
+- Fucosterol Isolated from Dietary Brown Alga Sargassum horneri Protects TNF-α/IFN-γ-
+- Stimulated Human Dermal Fibroblasts Via Regulating Nrf2/HO-1 and NF-κB/MAPK
+- Pathways
+- Reprinted from: Antioxidants 2022, 11, 1429, doi:10.3390/antiox11081429 . . . . . . . . . . . . . . 70
+- Federica Moccia, Davide Liberti, Samuele Giovando, Carla Caddeo, Daria Maria Monti,
+- Lucia Panzella and Alessandra Napolitano
+- Chestnut Wood Mud as a Source of Ellagic Acid for Dermo-Cosmetic Applications
+- Reprinted from: Antioxidants 2022, 11, 1681, doi:10.3390/antiox11091681 . . . . . . . . . . . . . . 85
+- Inês Mansinhos, Sandra Gonçalves, Raquel Rodrı́guez-Solana, Hugo Duarte, José Luis
+- Ordóñez-Dı́az, José Manuel Moreno-Rojas and Anabela Romano
+- Response of Thymus lotocephalus In Vitro Cultures to Drought Stress and Role of Green Extracts
+- in Cosmetics
+- Reprinted from: Antioxidants 2022, 11, 1475, doi:10.3390/antiox11081475 . . . . . . . . . . . . . . 96
+- Maria Rosa Gigliobianco, Manuela Cortese, Samanta Nannini, Lucrezia Di Nicolantonio,
+- Dolores Vargas Peregrina, Giulio Lupidi, et al.
+- Chemical, Antioxidant, and Antimicrobial Properties of the Peel and Male Flower By-Products
+- of Four Varieties of Punica granatum L. Cultivated in the Marche Region for Their Use in
+- Cosmetic Products
+- Reprinted from: Antioxidants 2022, 12, 768, doi:10.3390/antiox11040768 . . . . . . . . . . . . . . . 121
+- Jisun Yang, Hyeijin Cho, Minchan Gil and Kyung Eun Kim
+- Anti-Inﬂammation and Anti-Melanogenic Effects of Maca Root Extracts Fermented Using
+- Lactobacillus Strains
+- Reprinted from: Antioxidants 2023, 12, 798, doi:10.3390/antiox12040798 . . . . . . . . . . . . . . . 139
+- Gilda Aiello, Francesca Rescigno, Marisa Meloni, Beatrice Zoanni, Giancarlo Aldini,
+- Marina Carini and Alfonsina D’Amato
+- The Effect of Carnosine on UVA-Induced Changes in Intracellular Signaling of Human Skin
+- Fibroblast Spheroids
+- Reprinted from: Antioxidants 2023, 12, 300, doi:10.3390/antiox12020300 . . . . . . . . . . . . . . . 162
+-                                                    v
+- Fengqi Yang, Jimin Hyun, D. P. Nagahawatta, Young Min Kim, Moon-Soo Heo
+- and You-Jin Jeon
+- Cosmeceutical Effects of Ishige okamurae Celluclast Extract
+- Reprinted from: Antioxidants 2022, 11, 2442, doi:10.3390/antiox11122442 . . . . . . . . . . . . . . 178
+- Martim Cardeira, Ana Bernardo, Inês C. Leonardo, Frédéric B. Gaspar, Marta Marques,
+- Rodrigo Melgosa, et al.
+- Cosmeceutical Potential of Extracts Derived from Fishery Industry Residues: Sardine Wastes
+- and Codﬁsh Frames
+- Reprinted from: Antioxidants 2022, 11, 1925, doi:10.3390/antiox11101925 . . . . . . . . . . . . . . 195
+- Moon-Hee Choi, Seung-Hwa Yang, Nam Doo Kim and Hyun-Jae Shin
+- Nomilin from Yuzu Seed Has In Vitro Antioxidant Activity and Downregulates Melanogenesis
+- in B16F10 Melanoma Cells through the PKA/CREB Signaling Pathway
+- Reprinted from: Antioxidants 2022, 11, 1636, doi:10.3390/antiox11091636 . . . . . . . . . . . . . . 210
+- Camille Keisha Mahendra, Khang Wen Goh, Long Chiau Ming, Gokhan Zengin,
+- Liang Ee Low, Hooi-Leng Ser and Bey Hing Goh
+- The Prospects of Swietenia macrophylla King in Skin Care
+- Reprinted from: Antioxidants 2022, 11, 913, doi:10.3390/antiox11050913 . . . . . . . . . . . . . . . 229
+-                                                    vi
+-             antioxidants
+- Editorial
+- Dietary and Cosmetic Antioxidants
+- Irene Dini
+-                                          Department of Pharmacy, University of Naples Federico II, Via Domenico Montesano 49, 80131 Napoli, Italy;
+-                                          irdini@unina.it

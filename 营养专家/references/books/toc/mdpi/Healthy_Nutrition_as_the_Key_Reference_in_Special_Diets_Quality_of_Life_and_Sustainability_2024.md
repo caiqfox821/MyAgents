@@ -1,0 +1,80 @@
+# Healthy Nutrition as the Key Reference in Special Diets, Quality of Life, and Sustainability (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2111-2
+- 页数: 290
+- 全文: `text/mdpi/Healthy_Nutrition_as_the_Key_Reference_in_Special_Diets_Quality_of_Life_and_Sustainability_2024.txt`
+- 标签: 膳食模式/摄入, 公共卫生/行为
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- António Raposo, Renata Puppin Zandonadi and Raquel Braz Assunção Botelho
+- Healthy Nutrition as the Key Reference in Special Diets, Quality of Life, and Sustainability
+- Reprinted from: Nutrients 2024, 16, 2906, doi:10.3390/nu16172906 . . . . . . . . . . . . . . . . . .           1
+- Yu Shen, Mingming Song, Shihao Wu, Hongbo Zhao and Yu Zhang
+- Plant-Based Dietary Fibers and Polysaccharides as Modulators of Gut Microbiota in Intestinal
+- and Lung Inflammation: Current State and Challenges
+- Reprinted from: Nutrients 2023, 15, 3321, doi:10.3390/nu15153321 . . . . . . . . . . . . . . . . . .           3
+- Julyana Nogueira Firme, Priscila Claudino de Almeida, Emanuele Batistela dos Santos,
+- Renata Puppin Zandonadi, António Raposo and Raquel Braz Assunção Botelho
+- Instruments to Evaluate Food Neophobia in Children: An Integrative Review with a Systematic
+- Approach
+- Reprinted from: Nutrients 2023, 15, 4769, doi:10.3390/nu15224769 . . . . . . . . . . . . . . . . . . 21
+- Nathalia Sernizon Guimarães, Marcela Gomes Reis, Luciano de Alvarenga Fontes, Renata
+- Puppin Zandonadi, Raquel Braz Assunção Botelho, Hmidan A. Alturki, et al.
+- Plate Food Waste in Food Services: A Systematic Review and Meta-Analysis
+- Reprinted from: Nutrients 2024, 16, 1429, doi:10.3390/nu16101429 . . . . . . . . . . . . . . . . . . 44
+- Petros C. Dinas, on behalf of the Students of Module 5104 (Introduction to Systematic
+- Reviews), Marianthi Karaventza, Christina Liakou, Kalliopi Georgakouli, Dimitrios
+- Bogdanos and George S. Metsios
+- Combined Effects of Physical Activity and Diet on Cancer Patients: A Systematic Review and
+- Meta-Analysis
+- Reprinted from: Nutrients 2024, 16, 1749, doi:10.3390/nu16111749 . . . . . . . . . . . . . . . . . . 63
+- Camila dos Santos Ribeiro, Rosa Harumi Uenishi, Alessandra dos Santos Domingues,
+- Eduardo Yoshio Nakano, Raquel Braz Assunção Botelho, António Raposo and Renata
+- Puppin Zandonadi
+- Gluten-Free Diet Adherence Tools for Individuals with Celiac Disease: A Systematic Review
+- and Meta-Analysis of Tools Compared to Laboratory Tests
+- Reprinted from: Nutrients 2024, 16, 2428, doi:10.3390/nu16152428 . . . . . . . . . . . . . . . . . . 85
+- Ezequiel Pinto, Carla Viegas, Paula Ventura Martins, Tânia Nascimento, Leon Schurgers and
+- Dina Simes
+- New Food Frequency Questionnaire to Estimate Vitamin K Intake in a Mediterranean
+- Population
+- Reprinted from: Nutrients 2023, 15, 3012, doi:10.3390/nu15133012 . . . . . . . . . . . . . . . . . . 101
+- Xiaoxiao Lin, Shuai Wang and Jinyu Huang
+- A Bibliometric Analysis of Alternate-Day Fasting from 2000 to 2023
+- Reprinted from: Nutrients 2023, 15, 3724, doi:10.3390/nu15173724 . . . . . . . . . . . . . . . . . . 111
+- Xue Li, Can Guo, Yu Zhang, Li Yu, Fei Ma, Xuefang Wang, et al.
+- Contribution of Different Food Types to Vitamin A Intake in the Chinese Diet
+- Reprinted from: Nutrients 2023, 15, 4028, doi:10.3390/nu15184028 . . . . . . . . . . . . . . . . . . 124
+-                                                        v
+- Zohar Spivak-Lavi, Yael Latzer, Daniel Stein, Ora Peleg and Orna Tzischinsky
+- Differences in the Factor Structure of the Eating Attitude Test-26 (EAT-26) among Clinical vs.
+- Non-Clinical Adolescent Israeli Females
+- Reprinted from: Nutrients 2023, 15, 4168, doi:10.3390/nu15194168 . . . . . . . . . . . . . . . . . . 134
+- Qian Li, Noppawan Piaseu, Srisamorn Phumonsakul and Streerut Thadakant
+- Effects of a Comprehensive Dietary Intervention Program, Promoting Nutrition Literacy, Eating
+- Behavior, Dietary Quality, and Gestational Weight Gain in Chinese Urban Women with Normal
+- Body Mass Index during Pregnancy
+- Reprinted from: Nutrients 2024, 16, 217, doi:10.3390/nu16020217 . . . . . . . . . . . . . . . . . . . 153
+- Irene Sánchez Gavilán, Daniela Velázquez Ybarzabal, Vicenta de la Fuente, Rosa M. Cámara,
+- Marı́a Cortes Sánchez-Mata and Montaña Cámara
+- Valorization of Salicornia patula Duval-Jouve Young Shoots in Healthy and Sustainable Diets
+- Reprinted from: Nutrients 2024, 16, 358, doi:10.3390/nu16030358 . . . . . . . . . . . . . . . . . . . 186
+- Cliona Brennan, Julian Baudinet, Mima Simic and Ivan Eisler
+- The Role of the Dietitian within Family Therapy for Anorexia Nervosa (FT-AN): A Reflexive
+- Thematic Analysis of Child and Adolescent Eating Disorder Clinician Perspectives
+- Reprinted from: Nutrients 2024, 16, 670, doi:10.3390/nu16050670 . . . . . . . . . . . . . . . . . . . 196
+- Ezequiel Pinto, Carla Viegas, Paula Ventura Martins, Catarina Marreiros, Tânia Nascimento,
+- Leon Schurgers and Dina Simes
+- Mediterranean Diet Favors Vitamin K Intake: A Descriptive Study in a Mediterranean
+- Population
+- Reprinted from: Nutrients 2024, 16, 1098, doi:10.3390/nu16081098 . . . . . . . . . . . . . . . . . . 207
+- Meiling Liu and Sunmin Park
+- The Role of PNPLA3 rs738409 Gene Variant, Lifestyle Factors, and Bioactive Compounds
+- in Nonalcoholic Fatty Liver Disease: A Population-Based and Molecular Approach towards
+- Healthy Nutrition
+- Reprinted from: Nutrients 2024, 16, 1239, doi:10.3390/nu16081239 . . . . . . . . . . . . . . . . . . 219
+- Semra Navruz-Varlı, Hande Mortaş and Menşure Nur Çelik
+- Sociodemographic Trends in Planetary Health Diets among Nutrition Students in Türkiye:

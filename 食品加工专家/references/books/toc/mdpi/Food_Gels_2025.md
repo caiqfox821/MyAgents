@@ -1,0 +1,81 @@
+# Food Gels (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5898-9
+- 页数: 220
+- 全文: `text/mdpi/Food_Gels_2025.txt`
+- PDF: `mdpi/Food_Gels_2025.pdf`
+- 标签: 食品凝胶, 胶体, 质构
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Wanwen Chen and Hao Cheng
+- Food Gels: Fabrication, Characterization, and Application
+- Reprinted from: Gels 2025, 11, 886, https://doi.org/10.3390/gels11110886 . . . . . . . . . . . . .
+- 1
+- Qiang Zou, Yuhan Zheng, Yudie Liu, Linghui Luo, Yuyou Chen, Guilian Ran and Dayu Liu
+- Preparation of Cassia Bean Gum/Soy Protein Isolate Composite Matrix Emulsion Gel and Its
+- Effect on the Stability of Meat Sausage
+- Reprinted from: Gels 2024, 10, 643, https://doi.org/10.3390/gels10100643 . . . . . . . . . . . . .
+- 8
+- Dexing Yao, Le-Chang Sun, Ling-Jing Zhang, Yu-Lei Chen, Miao Song, Ming-Jie Cao
+- and Duanquan Lin
+- Emulsion Structural Remodeling in Milk and Its Gelling Products: A Review
+- Reprinted from: Gels 2024, 10, 671, https://doi.org/10.3390/gels10100671 . . . . . . . . . . . . . 25
+- Norman Walayat, Marı́a Blanch and Helena M. Moreno
+- Surimi and Low-Salt Surimi Gelation: Key Components to Enhance the Physicochemical
+- Properties of Gels
+- Reprinted from: Gels 2025, 11, 142, https://doi.org/10.3390/gels11020142 . . . . . . . . . . . . . 47
+- Song Zhang, Duanduan Zhao, Lu Yin, Ruixuan Wang, Zhiyan Jin, Hongyan Xu
+- and Guangjun Xia
+- Physicochemical and Functional Properties of Yanbian Cattle Bone Gelatin Extracted Using
+- Acid, Alkaline, and Enzymatic Hydrolysis Methods
+- Reprinted from: Gels 2025, 11, 186, https://doi.org/10.3390/gels11030186 . . . . . . . . . . . . . 64
+- Hongyi Wang, Qiang Li, Mengru Yang, Hong Wang, Mengtao Wang, Lin Lin and Jianfeng Lu
+- High-Quality Application of Crayﬁsh Muscle in Surimi Gels: Fortiﬁcation of Blended Gels
+- by Transglutaminase
+- Reprinted from: Gels 2025, 11, 204, https://doi.org/10.3390/gels11030204 . . . . . . . . . . . . . 87
+- Ryoko Nakamizo, Tatsuya Hayashi, Yuri Kominami and Hideki Ushio
+- A Mathematical Model of Myosin Heavy Chain Dynamics in the Disintegration of Golden
+- Threadﬁn Bream Nemipterus virgatus Surimi Gel
+- Reprinted from: Gels 2025, 11, 348, https://doi.org/10.3390/gels11050348 . . . . . . . . . . . . . 106
+- Jingxi Zhi, Fuqian Xu, Shuhuan Yu, Jiahui Hao, Jie Wang and Ziluan Fan
+- Development and Application of Anthocyanin-Based Complex Polysaccharide Gels Based on
+- Blueberry Pomace for Monitoring Beef Freshness
+- Reprinted from: Gels 2025, 11, 385, https://doi.org/10.3390/gels11060385 . . . . . . . . . . . . . 119
+- Bárbara Viana Barbosa Naves, Thaı́s Lomônaco Teodoro da Silva, Cleiton Antônio Nunes,
+- Felipe Furtini Haddad and Sabrina Carvalho Bastos
+- Development, Characterization, and Stability of Margarine Containing Oleogels Based on Olive
+- Oil, Coconut Oil, Starch, and Beeswax
+- Reprinted from: Gels 2025, 11, 513, https://doi.org/10.3390/gels11070513 . . . . . . . . . . . . . 137
+- Alma Yadira Cid-Córdoba, Georgina Calderón-Domı́nguez, Marı́a de Jesús Perea-Flores,
+- Alberto Peña-Barrientos, Fátima Sarahi Serrano-Villa, Rigoberto Barrios-Francisco, et al.
+- Encapsulation of Lactobacillus reuteri in Chia–Alginate Hydrogels for Whey-Based
+- Functional Powders
+- Reprinted from: Gels 2025, 11, 613, https://doi.org/10.3390/gels11080613 . . . . . . . . . . . . . 154
+- v
+- Zhiqin Wu, Yongyan Qu, Ouhongyi Li, Soottawat Benjakul and Aimei Zhou
+- Improvement of Gel Properties of Nemipterus virgatus Myoﬁbrillar Protein Emulsion Gels by
+- Curdlan: Development and Application to Emulsiﬁed Surimi
+- Reprinted from: Gels 2025, 11, 753, https://doi.org/10.3390/gels11090753 . . . . . . . . . . . . . 174
+- Emmanueline T Gray, Weining Huang, Zhongkai Zhou, Hao Cheng and Li Liang
+- A Comparative Study of Soy Protein Isolate-κ-Carrageenan Emulsion Gels and Bigels for the
+- Encapsulation, Protection, and Delivery of Curcumin
+- Reprinted from: Gels 2025, 11, 782, https://doi.org/10.3390/gels11100782 . . . . . . . . . . . . . 192
+- vi
+- About the Editor
+- Hao Cheng
+- Hao Cheng (Associate Professor): Hao Cheng is an associate professor in the State Key
+- Laboratory of Food Science and Technology at Jiangnan University. He obtained his master’s degree
+- in food engineering from the School of Food Science and Technology, Jiangnan University, in 2016.
+- He studied in the Faculty of Agriculture, Life and Environmental Sciences at the University of
+- Alberta as a visiting scholar from September 2018 to October 2019. He obtained his Ph.D. in food
+- science and technology from the School of Food Science and Technology, Jiangnan University, in
+- 2020. Since 2020, he has worked as an associate professor in the State Key Laboratory of Food Science
+- and Technology at Jiangnan University. His research mainly focuses on protein structure–function
+- relationships, biopolymer-based nutraceutical delivery systems and the development of functional
+- foods. During his work, individually and with colleagues, he has undertaken several national
+- and industrial projects, including with the National Natural Science Foundation of China. He has
+- published 50 research articles during the last 5 years, among which 2 research articles were selected
+- as front covers. He has obtained six patents and co-edited two book chapters.

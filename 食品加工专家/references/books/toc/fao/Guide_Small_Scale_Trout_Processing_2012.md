@@ -1,0 +1,81 @@
+# Guide to small scale trout processing methods (2012, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/ap342en/ap342en.pdf
+- 页数: 22
+- 全文: `text/fao/Guide_Small_Scale_Trout_Processing_2012.txt`
+- PDF: `fao/Guide_Small_Scale_Trout_Processing_2012.pdf`
+- 标签: 水产加工, 小规模加工
+
+## 目录 (Contents)
+
+- Figures
+- Annexes
+- Figure 1: Flow chart of steps of fresh and
+- smoked fish production
+- Figure 2: A simple but highly sufficient place to clean fish
+- Figure 3: Steps of cutting filet of trout
+- Figure 4: Cutting the ribs out of a large trout
+- Figure 5: Small scale cold smoking apparatus
+- Figure 6: Cold smoked trout
+- Figure 7: Trout smoked on wood
+- Figure 8: Air conditioner, refrigerator and hygienic means
+- of transporting fish
+- Figure 9: High tech small scale packing machine
+- Figure 10: Personal hygiene of workers
+- Annex 1: Criterions of a modern fish processing plant
+- Annex 2: Product sheets of fresh and smoked trout
+- Annex 3: List of recommended further readings of
+- related literature published by FAO
+- 8
+- 9
+- 10
+- 10
+- 11
+- 11
+- 12
+- 13
+- 14
+- 17
+- 17
+- 19
+- 20
+- Introduction / Fish preservation methods
+- 1  INTRODUCTION
+- Global fish production has continued to increase in the past 10 years. Processed
+- and canned fish represent a large share
+- within this growth. These facts also underline the importance and progress of the
+- processing industry.
+- No matter what culture or continent, food
+- preservation traces back to many thousand
+- years of tradition. Warm, sunny regions
+- have been the cradle of sun-drying and curing, while improved fire-drying methods developed to smoking. In ancient times salting
+- was used as an attempt to preserve meat.
+- Pickling of vegetables and fish has originated in the Orient, whereas freezing stems
+- from the Eskimos as a natural result of their
+- geographical environment.
+- Housewives and current lifestyle show
+- a continuous demand for easy-to-cook
+- fish products, the easier the better. This is
+- in harmony with the requirements of
+- longer shelf life, easy transportability of
+- fish products and global driving forces for
+- value addition of fish food, including the
+- maintenance of product quality.
+- To satisfy the interest for specific details a glossary has been compiled. Furthermore, tables and annexes have been
+- attached. For the sake of easier identification and finding additional information, italics and asterisk symbols (*) are used at
+- words clarified in the glossary.
+- In order to supply the reader with more
+- information the book also contains a list of
+- those FAO publications which deal with
+- fish processing.
+- 2  FISH
+- PRESERVATION
+- METHODS
+- Fish meat has a high nutritive value. In addition to protein, fat and carbohydrates, it is
+- also rich in minerals and vitamins. The composition of fish proteins is more valuable
+- than that of mammals because it includes a
+- favourable portion of essential amino acids
+- Fish species
+- 5
+- Water (%)

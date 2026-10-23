@@ -1,0 +1,72 @@
+# Echocardiography in Cardiovascular Disease (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7055-4
+- 页数: 144
+- 全文: `text/mdpi/Echocardiography_in_Cardiovascular_Disease_2026.txt`
+- 标签: 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Felipe Contreras-Briceño, Julián Vega, Jorge Mandiola, Marı́a Paz Ocaranza, Sebastián Herrera,
+- Manuel Salinas, et al.
+- Left Cardiac Remodelling Assessed by Echocardiography Is Associated with Rho-Kinase Activation
+- in Long-Distance Runners
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2021, 8, 118, https://doi.org/10.3390/jcdd8100118 . . .                  1
+- Kenya Kusunose, Yuichiro Okushi, Yoshihiro Okayama, Robert Zheng, Michikazu Nakai,
+- Yoko Sumita, et al.
+- Use of Echocardiography and Heart Failure In-Hospital Mortality from Registry Data in Japan
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2021, 8, 124, https://doi.org/10.3390/jcdd8100124 . . . 12
+- Paul Zimmermann, Othmar Moser, Max L. Eckstein, Jan Wüstenfeld, Volker Schöfﬂ, Lukas
+- Zimmermann, et al.
+- Athlete’s Heart in Elite Biathlon, Nordic Cross—Country and Ski-Mountaineering Athletes:
+- Cardiac Adaptions Determined Using Echocardiographic Data
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2022, 9, 8, https://doi.org/10.3390/jcdd9010008 . . . . . 22
+- Katsuji Inoue, Hiroshi Kawakami, Yusuke Akazawa, Haruhiko Higashi, Takashi Higaki and
+- Osamu Yamaguchi
+- Echocardiographic Assessment of Atrial Function: From Basic Mechanics to Speciﬁc Cardiac
+- Diseases
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2022, 9, 68, https://doi.org/10.3390/jcdd9030068 . . . . 36
+- Tomonari Harada, Kazuki Kagami, Toshimitsu Kato, Hideki Ishii and Masaru Obokata
+- Exercise Stress Echocardiography in the Diagnostic Evaluation of Heart Failure with Preserved
+- Ejection Fraction
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2022, 9, 87, https://doi.org/10.3390/jcdd9030087 . . . . 51
+- Takeshi Kitai, Andrew Xanthopoulos, Shoko Nakagawa, Natsuko Ishii, Masashi Amano,
+- Filippos Triposkiadis and Chisato Izumi
+- Contemporary Diagnosis and Management of Hypertrophic Cardiomyopathy: The Role of
+- Echocardiography and Multimodality Imaging
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2022, 9, 169, https://doi.org/10.3390/jcdd9060169 . . . 65
+- Sisi Zhang, Yujian Liu, Luying Jiang, Zhaozhao Wang, Wanjun Liu and Houjuan Zuo
+- Diagnostic Accuracy of Global Longitudinal Strain for Detecting Exercise Intolerance in Patients
+- with Ischemic Heart Disease
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2023, 10, 10, https://doi.org/10.3390/jcdd10010010 . . . 80
+- Alon Shechter, Steele C. Butcher, Robert J. Siegel, Jenan Awesat, Merry Abitbol, Mordehay
+- Vaturi, et al.
+- The Prognostic Value of Pulmonary Venous Flow Reversal in Patients with Significant Degenerative
+- Mitral Regurgitation
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2023, 10, 49, https://doi.org/10.3390/jcdd10020049 . . . 92
+-                                                          v
+- Bijan Ghaleh, Inès Barthélemy, Lucien Sambin, Alain Bizé, Daphné Corboz, Luc Hittinger,
+- et al.
+- Spatial and Temporal Non-Uniform Changes in Left Ventricular Myocardial Strain in Dogs with
+- Duchenne Muscular Dystrophy
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2023, 10, 217, https://doi.org/10.3390/jcdd10050217 . . 104
+- Ines Paola Monte, Denise Cristiana Faro, Giancarlo Trimarchi, Fabrizio de Gaetano, Mariapaola
+- Campisi, Valentina Losi, et al.
+- Left Atrial Strain Imaging by Speckle Tracking Echocardiography: The Supportive Diagnostic
+- Value in Cardiac Amyloidosis and Hypertrophic Cardiomyopathy
+- Reprinted from: J. Cardiovasc. Dev. Dis. 2023, 10, 261, https://doi.org/10.3390/jcdd10060261 . . 116
+-                                                  vi
+- About the Editor
+- Kenya Kusunose
+-     Kenya Kusunose is afﬁliated with the University of the Ryukyus in Okinawa, Japan, and works
+- in the ﬁeld of cardiovascular medicine with a focus on echocardiography. His academic interests
+- include advanced echocardiographic quantiﬁcation, assessment of cardiac structure and function
+- across a broad spectrum of cardiovascular diseases, and the clinical translation of imaging innovations.
+- He is particularly interested in approaches that improve measurement reproducibility and clinical
+- decision support, including the use of machine learning and other data driven techniques applied
+- to routinely acquired ultrasound data. Through research, collaboration, and education, he aims to
+- advance practical, high-quality echocardiography that can be implemented in everyday clinical care
+- and multicenter studies.

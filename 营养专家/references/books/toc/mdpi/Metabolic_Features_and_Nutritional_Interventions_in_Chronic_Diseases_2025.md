@@ -1,0 +1,79 @@
+# Metabolic Features and Nutritional Interventions in Chronic Diseases (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4920-8
+- 页数: 180
+- 全文: `text/mdpi/Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases_2025.txt`
+- 标签: 代谢与心血管, 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Yongting Luo, Peng An and Junjie Luo
+- Metabolic Features and Nutritional Interventions in Chronic Diseases
+- Reprinted from: Nutrients 2025, 17, 1826, https://doi.org/10.3390/nu17111826 . . . . . . . . . .               1
+- Shucheng Zhang, Zhengwu Cui, Hao Zhang, Pengjie Wang, Fuqing Wang and Jian Zhang
+- Pea Albumin Extracted from Pea (Pisum sativum L.) Seeds Ameliorates High-Fat-Diet-Induced
+- Non-Alcoholic Fatty Liver Disease by Regulating Lipogenesis and Lipolysis Pathways
+- Reprinted from: Nutrients 2024, 16, 2232, https://doi.org/10.3390/nu16142232 . . . . . . . . . .               5
+- Tianyu Wang, Dawei Wang, Yinghui Ding, He Xu, Yue Sun, Jumin Hou and Yanrong Zhang
+- Targeting Non-Alcoholic Fatty Liver Disease with Hawthorn Ethanol Extract (HEE): A
+- Comprehensive Examination of Hepatic Lipid Reduction and Gut Microbiota Modulation
+- Reprinted from: Nutrients 2024, 16, 1335, https://doi.org/10.3390/nu16091335 . . . . . . . . . . 24
+- Jiaxin Shi, Yitong Cheng, Chenxuan Wang, Min Liu, Mingxuan Qu, Shuaishuai Zhou, et al.
+- Effects of Celastrol-Enriched Peanuts on Metabolic Health and the Development of
+- Atherosclerosis
+- Reprinted from: Nutrients 2025, 17, 1418, https://doi.org/10.3390/nu17091418 . . . . . . . . . . 39
+- Xinsheng Zhang, Peng Zhang, Yinghua Liu, Zhao Liu, Qing Xu, Yong Zhang, et al.
+- Effects of Caprylic Acid and Eicosapentaenoic Acid on Lipids, Inﬂammatory Levels, and the
+- JAK2/STAT3 Pathway in ABCA1-Deﬁcient Mice and ABCA1 Knock-Down RAW264.7 Cells
+- Reprinted from: Nutrients 2023, 15, 1296, https://doi.org/10.3390/nu15051296 . . . . . . . . . . 60
+- Oliwia Gawlik-Kotelnicka, Jakub Rogalski, Karolina H. Czarnecka-Chrebelska, Jacek
+- Burzyński, Paulina Jakubowska, Anna Skowrońska and Dominik Strzelecki
+- The Interplay Between Depression, Probiotics, Diet, Immunometabolic Health, the Gut, and the
+- Liver—A Secondary Analysis of the Pro-Demet Randomized Clinical Trial
+- Reprinted from: Nutrients 2024, 16, 4024, https://doi.org/10.3390/nu16234024 . . . . . . . . . . 75
+- Marta Potrykus, Sylwia Czaja-Stolc, Marta Stankiewicz, Michał Szymański, Igor Łoniewski,
+- Łukasz Kaska and Monika Proczko-Stepaniak
+- Preoperative Multistrain Probiotic Supplementation Does Not Affect Body Weight Changes
+- or Cardiometabolic Risk Factors in Bariatrics: Randomized, Double-Blind, Placebo-Controlled
+- Clinical Trial
+- Reprinted from: Nutrients 2024, 16, 2055, https://doi.org/10.3390/nu16132055 . . . . . . . . . . 89
+- Lin Zhu, Peng An, Wenting Zhao, Yi Xia, Jingyi Qi, Junjie Luo and Yongting Luo
+- Low Zinc Alleviates the Progression of Thoracic Aortic Dissection by Inhibiting Inﬂammation
+- Reprinted from: Nutrients 2023, 15, 1640, https://doi.org/10.3390/nu15071640 . . . . . . . . . . 104
+- Lu Liu, Hang Yu, Jingmin Bai, Qing Xu, Yong Zhang, Xinsheng Zhang, et al.
+- Positive Association of Serum Vitamin B6 Levels with Intrapulmonary Lymph Node and/or
+- Localized Pleural Metastases in Non-Small Cell Lung Cancer: A Retrospective Study
+- Reprinted from: Nutrients 2023, 15, 2340, https://doi.org/10.3390/nu15102340 . . . . . . . . . . 118
+- Junzhou Chen, Conghui Yin, Yilong Zhang, Xin Lai, Chen Liu, Yuheng Luo, et al.
+- EGCG Alleviates DSS-Induced Colitis by Inhibiting Ferroptosis Through the Activation of the
+- Nrf2-GPX4 Pathway and Enhancing Iron Metabolism
+- Reprinted from: Nutrients 2025, 17, 547, https://doi.org/10.3390/nu17030547 . . . . . . . . . . . 134
+-                                                        v
+- Yongpan An, Qian Wang, Panshuang Qiao, Jihan Liu, Ang Ma, Yutong Chen, et al.
+- Unveiling the Anti-Aging Potential of 3HB: Lifespan Extension and Cellular Senescence Delay
+- Reprinted from: Nutrients 2025, 17, 1647, https://doi.org/10.3390/nu17101647 . . . . . . . . . . 150
+-                                                  vi
+- About the Editors
+- Yongting Luo
+-      Yongting Luo graduated with a Ph.D. degree in cell biology from the Institute of Biophysics,
+- Chinese Academy of Sciences in 2012. Yongting Luo is an Associate Professor at the Department of
+- Nutrition and Health of the China Agricultural University. Dr. Luo has received 10 scientiﬁc awards
+- and participated in 21 scientiﬁc projects, being the coordinator for nine projects. His current research
+- interests focus on the pathogenesis and nutritional intervention of cardiovascular diseases, including
+- atherosclerosis, aortic dissection, and heart failure. To date, Dr. Luo has contributed to 68 scientiﬁc
+- publications in international journals with referees.
+- Junjie Luo
+-      Junjie Luo graduated with a Ph.D. degree in Biochemistry and Molecular biology from China
+- Agricultural University in 2013. Dr. Luo is an associate professor and doctoral supervisor of
+- the Department of Nutrition and Health, China Agricultural University.           He has published 50
+- academic papers in internationally renowned journals such as European Heart Journal, Blood, Cell
+- Research, Nucleic Acids Research, Science Bulletin, Advanced Science, and Cell Death & Disease,
+- and American Journal of Clinical Nutrition. His current research interests focus on mitochondria and
+- chronic diseases, molecular nutrition, and health-related topics.
+- Peng An
+-      Dr. Peng An is an associate professor at the Department of Nutrition and Health of the China
+- Agricultural University. He focuses on the mechanisms of micronutrient metabolism and the impacts
+- on health and diseases using epidemiological study and molecular biology. His research interests
+- include iron metabolism and related disorders; the mechanism of micronutrient metabolism; and the

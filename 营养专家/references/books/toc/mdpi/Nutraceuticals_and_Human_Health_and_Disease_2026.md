@@ -1,0 +1,79 @@
+# Nutraceuticals and Human Health and Disease (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8926-6
+- 页数: 136
+- 全文: `text/mdpi/Nutraceuticals_and_Human_Health_and_Disease_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- Francesca Oppedisano
+- Nutraceuticals and Human Health and Disease
+- Reprinted from: Nutrients 2025, 17, 1432, https://doi.org/10.3390/nu17091432 . . . . . . . . . .   1
+- Enikő Rauch, Csilla Ari and Zsolt Kovács
+- Dose-Dependent Beneﬁcial Effect of Ketone Supplement-Evoked Ketosis on Anxiety Level in
+- Female WAG/Rij Rats: Sometimes Less Is More
+- Reprinted from: Nutrients 2023, 15, 4412, https://doi.org/10.3390/nu15204412 . . . . . . . . . .   4
+- Jung Sun Min, Young-Hee Jin and Sunoh Kwon
+- Auraptene Has Antiviral Activity against Human Coronavirus OC43 in MRC-5 Cells
+- Reprinted from: Nutrients 2023, 15, 2960, https://doi.org/10.3390/nu15132960 . . . . . . . . . . 16
+- Camille Pouchieu, Line Pourtau, Julie Brossaud, David Gaudout, Jean-Benoit Corcuff,
+- Lucile Capuron, et al.
+- Acute Effect of a Saffron Extract (Safr’InsideTM ) and Its Main Volatile Compound on the Stress
+- Response in Healthy Young Men: A Randomized, Double Blind, Placebo-Controlled, Crossover
+- Study
+- Reprinted from: Nutrients 2023, 15, 2921, https://doi.org/10.3390/nu15132921 . . . . . . . . . . 28
+- Beatrice Borkenhagen and Peter Prehm
+- Recovery of ΔF508-CFTR Function by Citrate
+- Reprinted from: Nutrients 2022, 14, 4283, https://doi.org/10.3390/nu14204283 . . . . . . . . . . 41
+- Mahasin Abdel Rhman, Nikita Devnarain, Rene Khan and Peter MO Owira
+- Synergism Potentiates Oxidative Antiproliferative Effects of Naringenin and Quercetin in MCF-7
+- Breast Cancer Cells
+- Reprinted from: Nutrients 2022, 14, 3437, https://doi.org/10.3390/nu14163437 . . . . . . . . . . 51
+- Umberto Capece, Simona Moffa, Ilaria Improta, Gianfranco Di Giuseppe, Enrico Celestino
+- Nista, Chiara M. A. Cefalo, et al.
+- Alpha-Lipoic Acid and Glucose Metabolism: A Comprehensive Update on Biochemical and
+- Therapeutic Features
+- Reprinted from: Nutrients 2023, 15, 18, https://doi.org/10.3390/nu15010018 . . . . . . . . . . . . 64
+- Vivek Puri, Manju Nagpal, Inderbir Singh, Manjinder Singh, Gitika Arora Dhingra,
+- Kampanart Huanbutta, et al.
+- A Comprehensive Review on Nutraceuticals: Therapy Support and Formulation Challenges
+- Reprinted from: Nutrients 2022, 14, 4637, https://doi.org/10.3390/nu14214637 . . . . . . . . . . 83
+- Sara Ilari, Saverio Nucera, Lucrezia Morabito, Rosamaria Caminiti, Valeria Mazza,
+- Giovanna Ritorto, et al.
+- A Systematic Review of the Effect of Polyphenols on Alterations of the Intestinal Microbiota and
+- Shared Bacterial Proﬁles Between Metabolic Syndrome and Acne
+- Reprinted from: Nutrients 2024, 16, 3591, https://doi.org/10.3390/nu16213591 . . . . . . . . . . 111
+-                                                   v
+- Editorial
+- Nutraceuticals and Human Health and Disease
+- Francesca Oppedisano
+-                    Department of Health Sciences, Institute of Research for Food Safety and Health (IRC-FSH),
+-                    University “Magna Græcia” of Catanzaro, 88100 Catanzaro, Italy; oppedisanof@libero.it
+-                          A “possible beneﬁcial role” for health is indicated by the coordinated and integrated
+-                    activity of biologically active chemicals and nutritional components, as nutraceuticals [1].
+-                    Nutraceuticals are derived from either plant or animal sources, and, currently, researchers
+-                    around the world are endeavoring to completely elucidate their mechanism of action, safety,
+-                    and effectiveness by supporting their role with clinical data [1].
+-                          Nutraceuticals and functional foods can reduce the risk of the onset and worsening of
+-                    numerous pathologies by acting in parallel with pharmacological therapy, as adjuvants in
+-                    case of treatment failure, or in situations in which pharmacological therapy cannot be used.
+-                          Numerous studies have documented in the literature that natural compounds can
+-                    affect the expression or activity of proteins and enzymes involved in different cellular and,
+-                    speciﬁcally, mitochondrial functions. This interaction can have beneﬁcial effects on altered
+-                    metabolic pathways in a variety of pathologies [2,3].
+-                          In the Southern Italian region, the Mediterranean diet (Md), which is considered to be a
+-                    part of the “intangible cultural heritage of humanity”, is linked to better health, particularly
+-                    in terms of lower rates of diabetes mellitus, cancer, and—most signiﬁcantly—coronary heart
+-                    disease [4]. Speciﬁcally, Md has a positive impact on the development and progression of
+-                    heart disease due to the decreased consumption of red meat and increased consumption of
+-                    plant-based foods and olive oil [4]. For example, bergamot (Citrus bergamia Risso et Poiteau),
+-                    thanks to its high concentration of polyphenols, is used in nutraceutical integration in
+-                    numerous pathologies. BPF, obtained from the juice and albedo of bergamot, is a fraction
+-                    rich in polyphenols known for its protective effects on human health, demonstrated through
+-                    its antioxidant, anti-inﬂammatory, hypolipidemic, and hypoglycemic effects [4]. In fact,
+-                    BPF seems to have a beneﬁcial role in the pathophysiological mechanisms of diabetic
+-                    cardiomyopathy, particularly in mitochondrial and sarcoplasmic dysfunctions [4]. BPF’s
+-                    positive effects on oxidative metabolism and mitochondrial bioenergetics have recently
+-                    been documented, adding to the list of biological targets for its favorable impacts [4].

@@ -1,0 +1,80 @@
+# New Trends in Diabetes, Hypertension and Cardiovascular Diseases (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0538-9
+- 页数: 312
+- 全文: `text/mdpi/New_Trends_in_Diabetes_Hypertension_and_Cardiovascular_Diseases_2024.txt`
+- 标签: 糖尿病, 代谢与心血管
+
+## 目录 (Contents)
+
+- Yutang Wang and Dianna J. Magliano
+- Special Issue: “New Trends in Diabetes, Hypertension, and Cardiovascular Diseases”
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 2711, doi:10.3390/ijms25052711 . . . . . . . . . . . . . .   1
+- Racha El Hage, Nada Al-Arawe and Irene Hinterseher
+- The Role of the Gut Microbiome and Trimethylamine Oxide in Atherosclerosis and Age-Related
+- Disease
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 2399, doi:10.3390/ijms24032399 . . . . . . . . . . . . . .   4
+- Iwona Świątkiewicz, Marcin Wróblewski, Jarosław Nuszkiewicz, Paweł Sutkowy,
+- Joanna Wróblewska and Alina Woźniak
+- The Role of Oxidative Stress Enhanced by Adiposity in Cardiometabolic Diseases
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 6382, doi:10.3390/ijms24076382 . . . . . . . . . . . . . . 28
+- Daniela Maria Tanase, Emilia Valasciuc, Evelina Maria Gosav, Anca Ouatu,
+- Oana Nicoleta Buliga-Finis, Mariana Floria, et al.
+- Portrayal of NLRP3 Inflammasome in Atherosclerosis: Current Knowledge and Therapeutic
+- Targets
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 8162, doi:10.3390/ijms24098162 . . . . . . . . . . . . . . 52
+- Stanley T. Lewis, Frank Greenway, Tori R. Tucker, Michael Alexander, Levonika K. Jackson,
+- Scott A. Hepford, et al.
+- A Receptor Story: Insulin Resistance Pathophysiology and Physiologic Insulin Resensitization’s
+- Role as a Treatment Modality
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 10927, doi:10.3390/ijms241310927 . . . . . . . . . . . . . 81
+- Yunwen Hu, Zhaohua Cai and Ben He
+- Smooth Muscle Heterogeneity and Plasticity in Health and Aortic Aneurysmal Disease
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 11701, doi:10.3390/ijms241411701 . . . . . . . . . . . . . 92
+- Nikolaos Koumallos, Evangelia Sigala, Theodoros Milas, Nikolaos G. Baikoussis,
+- Dimitrios Aragiannis, Skevos Sideris and Konstantinos Tsioufis
+- Angiotensin Regulation of Vascular Homeostasis: Exploring the Role of ROS and RAS Blockers
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 12111, doi:10.3390/ijms241512111 . . . . . . . . . . . . . 114
+- Roman Roy, Joshua Wilcox, Andrew J. Webb and Kevin O’Gallagher
+- Dysfunctional and Dysregulated Nitric Oxide Synthases in Cardiovascular Disease:
+- Mechanisms and Therapeutic Potential
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 15200, doi:10.3390/ijms242015200 . . . . . . . . . . . . . 127
+- Janette van der Linden, Lianne Trap, Caroline V. Scherer, Anton J. M. Roks, A. H. Jan Danser,
+- Ingrid van der Pluijm and Caroline Cheng
+- Model Systems to Study the Mechanism of Vascular Aging
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 15379, doi:10.3390/ijms242015379 . . . . . . . . . . . . . 148
+- Tatiana Ivanova, Maria Churnosova, Maria Abramova, Denis Plotnikov, Irina Ponomarenko,
+- Evgeny Reshetnikov, et al.
+- Sex-Specific Features of the Correlation between GWAS-Noticeable Polymorphisms and
+- Hypertension in Europeans of Russia
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 7799, doi:10.3390/ijms24097799 . . . . . . . . . . . . . . 168
+-                                                     v
+- Irina Shilenok, Ksenia Kobzeva, Tatiana Stetskaya, Maxim Freidin, Maria Soldatova,
+- Alexey Deykin, et al.
+- SERPINE1 mRNA Binding Protein 1 Is Associated with Ischemic Stroke Risk: A Comprehensive
+- Molecular–Genetic and Bioinformatics Analysis of SERBP1 SNPs
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 8716, doi:10.3390/ijms24108716 . . . . . . . . . . . . . . 195
+- Barbara Toffoli, Federica Tonon, Fabiola Giudici, Tommaso Ferretti, Elena Ghirigato,
+- Matilde Contessa, et al.
+- Preliminary Study on the Effect of a Night Shift on Blood Pressure and Clock Gene Expression
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 9309, doi:10.3390/ijms24119309 . . . . . . . . . . . . . . 216
+- Dmitry Yu. Oshchepkov, Yulia V. Makovka, Mikhail P. Ponomarenko, Olga E. Redina and
+- Arcady L. Markel
+- Age-Dependent Changes in the Relationships between Traits Associated with the Pathogenesis
+- of Stress-Sensitive Hypertension in ISIAH Rats
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 10984, doi:10.3390/ijms241310984 . . . . . . . . . . . . . 230
+- Mohamed Abo-Aly, Elica Shokri, Lakshman Chelvarajan, Wadea M. Tarhuni, Himi Tripathi
+- and Ahmed Abdel-Latif
+- Prognostic Significance of Activated Monocytes in Patients with ST-Elevation Myocardial
+- Infarction
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 11342, doi:10.3390/ijms241411342 . . . . . . . . . . . . . 248
+- Mohammed F. Gholam, Niharika Bala, Yunus E. Dogan and Abdel A. Alli
+- Augmentation of Cathepsin Isoforms in Diabetic db/db Mouse Kidneys Is Associated with an
+- Increase in Renal MARCKS Expression and Proteolysis
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 12484, doi:10.3390/ijms241512484 . . . . . . . . . . . . . 260
+- Laris Achlaug, Lama Awwad, Irina Langier Goncalves, Tomer Goldenberg and
+- Ami Aronheim
+- Tumor Growth Ameliorates Cardiac Dysfunction and Suppresses Fibrosis in a Mouse Model for
+- Duchenne Muscular Dystrophy
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 12595, doi:10.3390/ijms241612595 . . . . . . . . . . . . . 277

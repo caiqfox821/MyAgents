@@ -1,0 +1,53 @@
+# Complementary feeding counselling : a training course (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/42996
+- 页数: 245
+- 全文: `text/who/Complementary_feeding_counselling_a_training_course.txt`
+- 标签: 婴幼儿/儿童
+
+## 目录 (Sections)
+
+- 2   Global Strategy for Infant and Young Child Feeding, WHO, 2003
+- 1211 Geneva 27, Switzerland, Fax: 41-22-791-4857; bookorders@who.int or your local
+- 600                                              Energy from
+- 7   Six completed months – 180 days, not the start of the sixth month.
+- 34                                                                             Session 1
+- 1000                                                      Energy gap
+- 600                                                       Energy from
+- 11   Adapt list to reflect local foods
+- 13 The grain may be milled to a meal or flour.
+- 1.2                                                                   Iron gap
+- 0.8                                                                   Iron from
+- 16   Fresh liquid milk for young children should be boiled or pasteurized.
+- 17   This question may have been answered already in the meat section.
+- 19 Infants born prematurely have low iron stores and may need iron drops.
+- 20 Use the appropriate picture depending if meat is eaten or not.
+- 21 Use whatever word is commonly understood – pulses, legumes, beans and lentils.
+- 22   Omit this line if meat and fish are not eaten in your area.
+- 24 Omit if animal foods are not eaten in the area.
+- 25 Omit if red palm oil is not available in the area.
+- 27   This includes black tea, green tea and herbal or bush teas.
+- 29   Approximately 550 ml breast milk per day
+- 30   Remind participants of iron fortified foods if discussed in the previous session.
+- 31   Give examples of local processed foods that might be called snack foods.
+- 33   Liver instead of fish in evening meal.
+- 34   Or infant formula if affordable, acceptable and available.
+- 35   Adapt the chart to use a suitable local cup/bowl to show the amount.
+- 36   Active encouragement of feeding is discussed in Session 9.
+- 39   Use list of judging words obtained before the session.
+- 40   Possible answers are only in Trainer’s Guide, not in the Participant’s Manual
+- 124                                                                             Session 7
+- 128                                                                             Session 7
+- 45   Refer to whatever venue the field trip went to visit.
+- 48   Adapted from Food Safety Unit, WHO, Geneva 2001 WHO/SDE/PHE/FOS/01.1
+- 152                                                                             Session 9
+- 50   Draw on flip chart for feedback.
+- 51   The suggestion does not need to be one of the key messages.
+- 52   Not a Key Message, be useful to remember.
+- 55   The baby of 6½ months would have 2 to 3 spoonfuls.
+- 56   Adapt foods as needed to reflect local foods used.
+- 58   Prompt is needed by pointing to the Responsive Feeding
+- 59   Using a cup/bowl that holds 250 ml.
+- 63   See page 228 in this Trainer’s Guide.
+- 64   Adapt this section to the specific follow-up plans in your area.

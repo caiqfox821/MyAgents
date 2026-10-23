@@ -1,0 +1,69 @@
+# Canning and Preserving of Food Products with Bacteriological Technique (1905, Archive.org)
+
+- 作者: Edward W. Duckwall
+- 许可: Public Domain
+- 来源: https://archive.org/details/canningpreservin00duckrich
+- 页数: 478
+- 全文: `text/public_domain/Canning_and_Preserving_of_Food_Products_1905.txt`
+- PDF: `public_domain/Canning_and_Preserving_of_Food_Products_1905.pdf`
+- 标签: 保藏, 罐藏, 微生物, 历史经典
+
+## 目录 (Contents)
+
+- Chapter 1.
+- Laboratory
+- and
+- Its Equipment
+- The
+- ii
+- Apparatus Used in a Bacteriological and Food Laboratory, Description of Lenses, Table of Reagents.
+- Chapter
+- II.
+- Bacteria
+- 33
+- and
+- Classification, Spore Formation, Nature of
+- Bacteria, Influence of Electricity on Bacteria, Influence of
+- Temperature, Influence of Light, Motility, Chromogenic
+- Description
+- Bacteria, Bacterial Products;
+- Chapter
+- Slime, Ropiness, etc.
+- III.
+- Principles of Bacteriological Technique
+- ^2
+- Methods of Cultivating Bacteria, Artificial Media, Method of
+- Cultivating Anaerobes, Methods of Simple Staining, Method of Staining Flagella, Method of Making Photomicrographs.
+- Chapter IV.
+- Decomposition Caused by Micro-Organisms
+- 104
+- Fermentation Theories, Vacuum Theory, Alcoholic Fermentation, (Acetic Fermentation), Butyric Fermentation, Lactic
+- Fermentation, Putrefaction, Reprocessing Leaks a Dangerour Proceeding.
+- Chapter V.
+- Decomposition Caused by Micro-Organisms (Continued)
+- Putrefaction,
+- Bacteria
+- 161
+- Bacteria of. Ptomaines and Toxins,
+- and Their Actions on Foods.
+- Pathogenic
+- Chapter VI.
+- Sterilization
+- 208
+- Nature of Spores, Cleanliness in Manufacturing, Disposition of
+- Waste Material, The Venting Process, The Vacuum Machinery, Discontinuous Sterilization, Preservatives Formed
+- in Sterilization.
+- Chapter
+- Preservatives
+- What are Preservatives?
+- VII.
+- Preservatives are not Ordinarily
+- Used in Canned Goods, Some Food Products Require Them,
+- Natural Origin of Preservatives in Food Products, Statements
+- Made by Various Authorities Analyzed and Criticized,
+- Sterilized Catsup, Preserves and Fruit Butters not Satisfactory to the Trade, Some Opposing Arguments Answered.
+- 225
+- contents
+- Chapter
+- VIII.
+- 247

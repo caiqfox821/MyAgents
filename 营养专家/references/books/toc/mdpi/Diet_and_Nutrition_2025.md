@@ -1,0 +1,78 @@
+# Diet and Nutrition (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5058-7
+- 页数: 236
+- 全文: `text/mdpi/Diet_and_Nutrition_2025.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Iñaki Elı́o
+- Advancing Nutritional Science: Contemporary Perspectives on Diet’s Role in Metabolic Health
+- and Disease Prevention
+- Reprinted from: Nutrients 2025, 17, 1414, https://doi.org/10.3390/nu17091414 . . . . . . . . . .                  1
+- Gloria Cubas-Basterrechea, Iñaki Elı́o, Carolina González Antón and Pedro Muñoz Cacho
+- Daily Intake of Two or More Servings of Vegetables Is Associated with a Lower Prevalence of
+- Metabolic Syndrome in Older People
+- Reprinted from: Nutrients 2024, 16, 4101, https://doi.org/10.3390/nu16234101 . . . . . . . . . .                  6
+- Przemysław Gwizdak, Patryk Szlacheta, Daria Łaskawiec-Żuławińska, Mateusz Grajek,
+- Karolina Krupa-Kotara, Jarosław Markowski and Ilona Korzonek-Szlacheta
+- Dietary Habits, Nutritional Knowledge, and Their Impact on Thyroid Health in Women: A
+- Cross-Sectional Study
+- Reprinted from: Nutrients 2024, 16, 3862, https://doi.org/10.3390/nu16223862 . . . . . . . . . . 21
+- Xiaohua Huang, Dandan Jiang, Yingguo Zhu, Zhengfeng Fang and Bin Feng
+- Short-Term Zinc Supplementation Stimulates Visceral Adipose Catabolism and Inﬂammation in
+- Mice
+- Reprinted from: Nutrients 2024, 16, 3719, https://doi.org/10.3390/nu16213719 . . . . . . . . . . 32
+- Maria Rita Spreghini, Nicoletta Gianni, Tommaso Todisco, Cristiano Rizzo, Marco Cappa and
+- Melania Manco
+- Nutritional Counseling and Mediterranean Diet in Adrenoleukodystrophy: A Real-Life
+- Experience
+- Reprinted from: Nutrients 2024, 16, 3341, https://doi.org/10.3390/nu16193341 . . . . . . . . . . 47
+- Jingwen Liu, Wenfeng Lu, Qingyun Lv, Yaqi Wang, Xueying Xu, Yuan He, et al.
+- Impact of Dietary Patterns on Metabolic Syndrome in Young Adults: A Cross-Sectional Study
+- Reprinted from: Nutrients 2024, 16, 2890, https://doi.org/10.3390/nu16172890 . . . . . . . . . . 60
+- Afsaneh Khoshkerdar, Nader Eid, Vipul Batra, Nichola Baker, Nadine Holmes, Sonal Henson,
+- et al.
+- Sub-Optimal Paternal Diet at the Time of Mating Disrupts Maternal Adaptations to Pregnancy in
+- the Late Gestation Mouse
+- Reprinted from: Nutrients 2024, 16, 1879, https://doi.org/10.3390/nu16121879 . . . . . . . . . . 75
+- Enikő Rauch, Csilla Ari, Dominic P. D’Agostino and Zsolt Kovács
+- Exogenous Ketone Supplement Administration Abrogated Isoﬂurane-Anesthesia-Induced
+- Increase in Blood Glucose Level in Female WAG/Rij Rats
+- Reprinted from: Nutrients 2024, 16, 1477, https://doi.org/10.3390/ nu16101477 . . . . . . . . . . 93
+- Sam L. Torrens, Evelyn B. Parr, Craig McNulty, Lynda Ross, Helen MacLaughlin and
+- Robert A. Robergs
+- Carbohydrate Ingestion before Exercise for Individuals with McArdle Disease: Survey Evidence
+- of Implementation and Perception in Real-World Settings
+- Reprinted from: Nutrients 2024, 16, 1423, https://doi.org/10.3390/nu16101423 . . . . . . . . . . 105
+-                                                          v
+- Yujing Xu, Zi Ning Leong, Weijia Zhang, Xinrui Jin, Jia Wen Kong,
+- Gregory Chung Tsing Chan and Jung Eun Kim
+- Impact of Brewers’ Spent Grain-Containing Biscuit on Postprandial Glycaemic Response in
+- Individuals with Metabolic Syndrome: A Crossover Randomised Controlled Trial
+- Reprinted from: Nutrients 2024, 16, 909, https://doi.org/10.3390/nu16060909 . . . . . . . . . . . 117
+- Meda-Ada Bugi, Iulius Jugănaru, Raluca Isac, Iulia-Elena Simina, Andrei-Ioan Munteanu,
+- Niculina Mang, et al.
+- Factors Impacting the Reduction in Neophobia Prevalence in Phenylketonuria Patients
+- Reprinted from: Nutrients 2024, 16, 768, https://doi.org/10.3390/nu16060768 . . . . . . . . . . . 130
+- Mei Li, Frederik T. Larsen, Marius C. van den Heuvel, Konstanze Gier, Alan R. Gorter,
+- Dorenda Oosterhuis, et al.
+- Metabolic Dysfunction-Associated Steatotic Liver Disease in a Dish: Human Precision-Cut Liver
+- Slices as a Platform for Drug Screening and Interventions
+- Reprinted from: Nutrients 2024, 16, 626, https://doi.org/10.3390/nu16050626 . . . . . . . . . . . 148
+- Jaime Alonso-Allende, Fermı́n I. Milagro and Paula Aranaz
+- Health Effects and Mechanisms of Inulin Action in Human Metabolism
+- Reprinted from: Nutrients 2024, 16, 2935, https://doi.org/10.3390/nu16172935 . . . . . . . . . . 166
+- Hesham R. El-Seedi, Suzy Salama, Aida A. Abd El-Wahed, Zhiming Guo,
+- Alessandro Di Minno, Maria Daglia, et al.
+- Exploring the Therapeutic Potential of Royal Jelly in Metabolic Disorders and Gastrointestinal
+- Diseases
+- Reprinted from: Nutrients 2024, 16, 393, https://doi.org/10.3390/nu16030393 . . . . . . . . . . . 185
+- Ting Gao, Xiaoyu Wang, Yixuan Li and Fazheng Ren
+- The Role of Probiotics in Skin Health and Related Gut–Skin Axis: A Review
+- Reprinted from: Nutrients 2023, 15, 3123, https://doi.org/10.3390/nu15143123 . . . . . . . . . . 202
+-                                                  vi

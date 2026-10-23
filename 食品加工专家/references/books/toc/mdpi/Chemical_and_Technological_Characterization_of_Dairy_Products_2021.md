@@ -1,0 +1,81 @@
+# Chemical and Technological Characterization of Dairy Products (2021, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 218
+- 全文: `text/mdpi/Chemical_and_Technological_Characterization_of_Dairy_Products_2021.txt`
+- PDF: `mdpi/Chemical_and_Technological_Characterization_of_Dairy_Products_2021.pdf`
+- 标签: 乳品, 化学与工艺, 表征
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Michele Faccia
+- Chemical and Technological Characterization of Dairy Products
+- Reprinted from: Foods 2020, 9, 1475, doi:10.3390/foods9101475 . . . . . . . . . . . . . . . . . . . .
+- 1
+- Piero Franceschi, Massimo Malacarne, Paolo Formaggioni, Claudio Cipolat-Gotet,
+- Giorgia Stocco and Andrea Summer
+- Effect of Season and Factory on Cheese-Making Efﬁciency in Parmigiano Reggiano Manufacture
+- Reprinted from: Foods 2019, 8, 315, doi:10.3390/foods8080315 . . . . . . . . . . . . . . . . . . . . .
+- 5
+- Camillo Martino, Andrea Ianni, Lisa Grotta, Francesco Pomilio and Giuseppe Martino
+- Inﬂuence of Zinc Feeding on Nutritional Quality, Oxidative Stability and Volatile Proﬁle of
+- Fresh and Ripened Ewes’ Milk Cheese
+- Reprinted from: Foods 2019, 8, 656, doi:10.3390/foods8120656 . . . . . . . . . . . . . . . . . . . . . 15
+- Michele Faccia, Giuseppe Gambacorta, Giovanni Martemucci, Graziana Difonzo and
+- Angela Gabriella D’Alessandro
+- Chemical-Sensory Traits of Fresh Cheese Made by Enzymatic Coagulation of Donkey Milk
+- Reprinted from: Foods 2020, 9, 16, doi:10.3390/foods9010016 . . . . . . . . . . . . . . . . . . . . . 27
+- Ali Saleh, Abdellatif A. Mohamed, Mohammed S. Alamri, Shahzad Hussain,
+- Akram A. Qasem and Mohamed A. Ibraheem
+- Effect of Different Starches on the Rheological, Sensory and Storage Attributes of Non-fat
+- Set Yogurt
+- Reprinted from: Foods 2020, 9, 61, doi:10.3390/foods9010061 . . . . . . . . . . . . . . . . . . . . . 41
+- Soﬁe Buhler, Ylenia Riciputi, Giuseppe Perretti, Maria Fiorenza Caboni, Arnaldo Dossena,
+- Stefano Sforza and Tullia Tedeschi
+- Characterization of Defatted Products Obtained from the Parmigiano–Reggiano Manufacturing
+- Chain: Determination of Peptides and Amino Acids Content and Study of the Digestibility and
+- Bioactive Properties
+- Reprinted from: Foods 2020, 9, 310, doi:10.3390/foods9030310 . . . . . . . . . . . . . . . . . . . . . 55
+- Paolo Formaggioni, Massimo Malacarne, Piero Franceschi, Valentina Zucchelli,
+- Michele Faccia, Giovanna Battelli, Milena Brasca and Andrea Summer
+- Characterisation of Formaggella della Valle di Scalve Cheese Produced from Cows Reared in
+- Valley Floor Stall or in Mountain Pasture: Fatty Acids Proﬁle and Sensory Properties
+- Reprinted from: Foods 2020, 9, 383, doi:10.3390/foods9040383 . . . . . . . . . . . . . . . . . . . . . 67
+- Andrea Serra, Giuseppe Conte, Leonor Corrales-Retana, Laura Casarosa, Francesca Ciucci
+- and Marcello Mele
+- Nutraceutical and Technological Properties of Buffalo and Sheep Cheese Produced by the
+- Addition of Kiwi Juice as a Coagulant
+- Reprinted from: Foods 2020, 9, 637, doi:10.3390/foods9050637 . . . . . . . . . . . . . . . . . . . . . 83
+- Marcello Alinovi, Germano Mucchetti, Ulf Andersen, Tijs A. M. Rovers, Betina Mikkelsen,
+- Lars Wiking and Milena Corredig
+- Applicability of Confocal Raman Microscopy to Observe Microstructural Modiﬁcations of
+- Cream Cheeses as Inﬂuenced by Freezing
+- Reprinted from: Foods 2020, 9, 679, doi:10.3390/foods9050679 . . . . . . . . . . . . . . . . . . . . . 99
+- v
+- Han Chen, Haotian Zheng, Margaret Anne Brennan, Wenpin Chen, Xinbo Guo and
+- Charles Stephen Brennan
+- Effect of Black Tea Infusion on Physicochemical Properties, Antioxidant Capacity and
+- Microstructure of Acidiﬁed Dairy Gel during Cold Storage
+- Reprinted from: Foods 2020, 9, 831, doi:10.3390/foods9060831 . . . . . . . . . . . . . . . . . . . . . 113
+- Faten Dhawi, Hossam S. El-Beltagi, Esmat Aly and Ahmed M. Hamed
+- Antioxidant, Antibacterial Activities and Mineral Content of Buffalo Yoghurt Fortiﬁed with
+- Fenugreek and Moringa oleifera Seed Flours
+- Reprinted from: Foods 2020, 9, 1157, doi:10.3390/foods9091157 . . . . . . . . . . . . . . . . . . . . 133
+- Mahmoud Abdel-Hamid, Zizhen Huang, Takuya Suzuki, Toshiki Enomoto,
+- Ahmed M. Hamed, Ling Li and Ehab Romeih
+- Development of a Multifunction Set Yogurt Using Rubus suavissimus S. Lee (Chinese Sweet
+- Tea) Extract
+- Reprinted from: Foods 2020, 9, 1163, doi:0.3390/foods9091163 . . . . . . . . . . . . . . . . . . . . . 149
+- Mu Tian, Cuina Wang, Jianjun Cheng, Hao Wang, Shilong Jiang and Mingruo Guo
+- Preparation and Characterization of Soy Isoﬂavones Nanoparticles Using Polymerized Goat
+- Milk Whey Protein as Wall Material
+- Reprinted from: Foods 2020, 9, 1198, doi:10.3390/foods9091198 . . . . . . . . . . . . . . . . . . . . 161
+- Michele Manoni, Chiara Di Lorenzo, Matteo Ottoboni, Marco Tretola and Luciano Pinotti
+- Comparative Proteomics of Milk Fat Globule Membrane (MFGM) Proteome across Species and
+- Lactation Stages and the Potentials of MFGM Fractions in Infant Formula Preparation
+- Reprinted from: Foods 2020, 9, 1251, doi:10.3390/foods9091251 . . . . . . . . . . . . . . . . . . . . 175
+- Karina A. Parra-Ocampo, Sandra T. Martı́n-del-Campo, José G. Montejano-Gaitán,
+- Rubén Zárraga-Alcántar and Anaberta Cardador-Martı́nez
+- Evaluation of Biological, Textural, and Physicochemical Parameters of Panela Cheese Added

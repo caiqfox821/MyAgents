@@ -1,0 +1,80 @@
+# Association of Dietary Intake with Chronic Disease and Human Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3658-1
+- 页数: 272
+- 全文: `text/mdpi/Association_of_Dietary_Intake_with_Chronic_Disease_and_Human_Health_2025.txt`
+- 标签: 膳食模式/摄入, 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Domenico Tafuri and Francesca Latino
+- Association of Dietary Intake with Chronic Disease and Human Health
+- Reprinted from: Nutrients 2025, 17, 446, https://doi.org/10.3390/nu17030446 . . . . . . . . . . .              1
+- Lei Chu, Deqi Su, Hexing Wang, Dilihumaer Aili, Bahegu Yimingniyazi, Qingwu Jiang
+- and Jianghong Dai
+- Association between Antibiotic Exposure and Type 2 Diabetes Mellitus in Middle-Aged and
+- Older Adults
+- Reprinted from: Nutrients 2023, 15, 1290, https://doi.org/10.3390/nu15051290 . . . . . . . . . .               9
+- Francesca Latino, Francesco Tafuri, Emma Saraiello and Domenico Tafuri
+- Classroom-Based Physical Activity as a Means to Improve Self-Efﬁcacy and Academic
+- Achievement among Normal-Weight and Overweight Youth
+- Reprinted from: Nutrients 2023, 15, 2061, https://doi.org/10.3390/nu15092061 . . . . . . . . . . 24
+- Jeffrey J. Li, Jane J. Kim and Fauzia Nausheen
+- Phytanic Acid Intake and Lifestyle Modiﬁcations on Quality of Life in Individuals with Adult
+- Refsum Disease: A Retrospective Survey Analysis
+- Reprinted from: Nutrients 2023, 15, 2551, https://doi.org/10.3390/nu15112551 . . . . . . . . . . 39
+- Fiorenzo Moscatelli, Antonella De Maria, Luigi Antonio Marinaccio, Vincenzo Monda,
+- Antonietta Messina, Domenico Monacis, et al.
+- Assessment of Lifestyle, Eating Habits and the Effect of Nutritional Education among
+- Undergraduate Students in Southern Italy
+- Reprinted from: Nutrients 2023, 15, 2894, https://doi.org/10.3390/nu15132894 . . . . . . . . . . 53
+- Ren Zhou, Lei Zhang, Yu Sun, Jia Yan and Hong Jiang
+- Causal Associations between Dietary Habits and Chronic Pain: A Two-Sample Mendelian
+- Randomization Study
+- Reprinted from: Nutrients 2023, 15, 3709, https://doi.org/10.3390/nu15173709 . . . . . . . . . . 66
+- Daniel Śliż, Alicja Monika Jodczyk, Klaudia Łakoma, Alicja Kucharska, Mariusz Panczyk,
+- Olga Maria Rostkowska, et al.
+- Examining the Nutrition of Cardiological Patients in Hospitals: Evaluating the Discrepancy
+- between Received Diets and Reference Diet Based on ESC 2021 Guidelines—Hospital Diet
+- Medical Investigation) (HDMI) Study
+- Reprinted from: Nutrients 2023, 15, 4606, https://doi.org/10.3390/nu15214606 . . . . . . . . . . 80
+- Maite Aguas-Ayesa, Patricia Yárnoz-Esquiroz, Laura Olazarán, Carolina M. Perdomo,
+- Marta Garcı́a-Goñi, Patricia Andrada, et al.
+- Evaluation of Dietary and Alcohol Drinking Patterns in Patients with Excess Body Weight in a
+- Spanish Cohort: Impact on Cardiometabolic Risk Factors
+- Reprinted from: Nutrients 2023, 15, 4824, https://doi.org/10.3390/nu15224824 . . . . . . . . . . 97
+- Maria Ester la Torre, Antonietta Monda, Antonietta Messina, Maria Ida de Stefano,
+- Vincenzo Monda, Fiorenzo Moscatelli, et al.
+- The Potential Role of Nutrition in Overtraining Syndrome: A Narrative Review
+- Reprinted from: Nutrients 2023, 15, 4916, https://doi.org/10.3390/nu15234916 . . . . . . . . . . 112
+-                                                        v
+- Lingli Sun, Lianghua Wen, Qiuhua Li, Ruohong Chen, Shuai Wen, Xingfei Lai, et al.
+- Microbial Fermentation Enhances the Effect of Black Tea on Hyperlipidemia by Mediating Bile
+- Acid Metabolism and Remodeling Intestinal Microbes
+- Reprinted from: Nutrients 2024, 16, 998, https://doi.org/10.3390/nu16070998 . . . . . . . . . . . 130
+- Lorenzo Palamenghi, Dilara Usta, Salvo Leone and Guendalina Grafﬁgna
+- Food-Related Behavioral Patterns in Patients with Inﬂammatory Bowel Diseases: The Role of
+- Food Involvement and Health Engagement
+- Reprinted from: Nutrients 2024, 16, 1185, https://doi.org/10.3390/nu16081185 . . . . . . . . . . 148
+- Liying Jiang, Wanying Shen, Anqi Wang, Haiqin Fang, Qihe Wang, Huzhong Li, et al.
+- Cardiovascular Disease Burden Attributable to High Sodium Intake in China: A Longitudinal
+- Study from 1990 to 2019
+- Reprinted from: Nutrients 2024, 16, 1307, https://doi.org/10.3390/nu16091307 . . . . . . . . . . 163
+- Niannian Wang, Da Pan, Xiaopan Zhu, Xingyuan Ren, Xingyi Jin, Xiangjun Chen, et al.
+- Selenium May Be Involved in Esophageal Squamous Cancer Prevention by Affecting GPx3 and
+- FABP1 Expression: A Case-Control Study Based on Bioinformatic Analysis
+- Reprinted from: Nutrients 2024, 16, 1322, https://doi.org/10.3390/nu16091322 . . . . . . . . . . 180
+- ZohreGheisary,IbrahimHoja,JuxinLiu,PetrosPapagerakis,LynnP.Weber,
+- MarkFenton,etal.
+- AssociationofSleepQualityandGeneral,Mental,andOralHealthwithLifestyleTraits(Dietary
+- Intake, SmokingStatus)inArthritis: ACross-SectionalStudyfromtheCanadianCommunity
+- HealthSurvey(CCHS)
+- Reprinted from: Nutrients 2024, 16, 2091, https://doi.org/10.3390/nu16132091 . . . . . . . . . . 193
+- Abeer A. Dahab, Hala M. Bayomy, Hemat S. Abd El-Salam, SehamE.Almasoudi,
+- NawalA.Ozaybi,GehanA.Mahmoud,etal.
+- SeedDisinfectionTreatmentsMinimizedMicrobialLoadandEnhancedNutritionalProperties
+- ofFenugreekSproutsWhichAlleviatedDiabetes-NegativeDisordersinDiabeticRats
+- Reprinted from: Nutrients 2024, 16, 2635, https://doi.org/10.3390/nu16162635 . . . . . . . . . . 229
+- LeaPueschel,FabianKockelmann,MommeKueck,Uwe

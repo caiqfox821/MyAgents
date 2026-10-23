@@ -1,0 +1,70 @@
+# Polyphenolic Compounds in Wine and Beer (2023, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/pdfview/book/6554
+- 页数: 218
+- 全文: `text/mdpi/Polyphenolic_Compounds_in_Wine_and_Beer_2023.txt`
+- PDF: `mdpi/Polyphenolic_Compounds_in_Wine_and_Beer_2023.pdf`
+- 标签: 传统酿造, 风味化学
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Anna Boronat,       Natalia Soldevila-Domenech,         Jose Rodrı́guez-Morató,        Miriam
+- Martı́nez-Huélamo, Rosa M. Lamuela-Raventós and Rafael de la Torre
+- Beer Phenolic Composition of Simple Phenols, Prenylated Flavonoids and Alkylresorcinols
+- Reprinted from: Molecules 2020, 25, 2582, doi:10.3390/molecules25112582 . . . . . . . . . . . . . .           1
+- Veronica Vendramin, Alessia Viel and Simone Vincenzi
+- Caftaric Acid Isolation from Unripe Grape: A “Green” Alternative for Hydroxycinnamic Acids
+- Recovery
+- Reprinted from: Molecules 2021, 26, 1148, doi:10.3390/molecules26041148 . . . . . . . . . . . . . . 13
+- Matteo Velenosi, Pasquale Crupi, Rocco Perniola, Antonio Domenico Marsico, Antonella
+- Salerno, Hervè Alexandre, et al.
+- Color Stabilization of Apulian Red Wines through the Sequential Inoculation of Starmerella
+- bacillaris and Saccharomyces cerevisiae
+- Reprinted from: Molecules 2021, 26, 907, doi:10.3390/molecules26040907 . . . . . . . . . . . . . . 25
+- Roberto Ambra, Gianni Pastore and Sabrina Lucchetti
+- The Role of Bioactive Phenolic Compounds on the Impact of Beer on Health
+- Reprinted from: Molecules 2021, 26, 486, doi:10.3390/molecules26020486 . . . . . . . . . . . . . . 43
+- Fernanda Cosme, Alice Vilela, Luı́s Moreira, Carla Moura, José A. P. Enrı́quez, Luı́s
+- Filipe-Ribeiro and Fernando M. Nunes
+- Terroir Effect on the Phenolic Composition and Chromatic Characteristics of Mencı́a/Jaen
+- Monovarietal Wines: Bierzo D.O. (Spain) and Dão D.O. (Portugal)
+- Reprinted from: Molecules 2020, 25, 6008, doi:10.3390/molecules25246008 . . . . . . . . . . . . . . 69
+- Sanja Radonjić, Vesna Maraš, Jovana Raičević and Tatjana Košmerl
+- Wine or Beer? Comparison, Changes and Improvement of Polyphenolic Compounds during
+- Technological Phases
+- Reprinted from: Molecules 2020, 25, 4960, doi:10.3390/molecules25214960 . . . . . . . . . . . . . . 95
+- Raja Mohamed Beema Shafreen, Selvaraj Alagu Lakshmi, Shunmugiah Karutha Pandian,
+- Yong Seo Park, Young Mo Kim, Paweł Paśko, et al.
+- Unraveling the Antioxidant, Binding and Health-Protecting Properties of Phenolic Compounds
+- of Beers with Main Human Serum Proteins: In Vitro and In Silico Approaches †
+- Reprinted from: Molecules 2020, 25, 4962, doi:10.3390/molecules25214962 . . . . . . . . . . . . . . 131
+- Natalia González-Zancada, Noemı́ Redondo-Useros, Ligia E. Dı́az, Sonia Gómez-Martı́nez,
+- Ascensión Marcos and Esther Nova
+- Association of Moderate Beer Consumption with the Gut Microbiota and SCFA of
+- Healthy Adults
+- Reprinted from: Molecules 2020, 25, 4772, doi:10.3390/molecules25204772 . . . . . . . . . . . . . . 149
+- Elisa Di Fabio, Alessio Incocciati, Federica Palombarini, Alberto Boffi, Alessandra Bonamore
+- and Alberto Macone
+- Ethylchloroformate Derivatization for GC–MS Analysis of Resveratrol Isomers in Red Wine
+- Reprinted from: Molecules 2020, 25, 4603, doi:10.3390/molecules25204603 . . . . . . . . . . . . . . 165
+-                                                        v
+- Marta Trius-Soler, Arnau Vilas-Franquesa, Anna Tresserra-Rimbau, Gemma Sasot, Carolina
+- E. Storniolo, Ramon Estruch and Rosa M. Lamuela-Raventós
+- Effects of the Non-Alcoholic Fraction of Beer on Abdominal Fat, Osteoporosis, and Body
+- Hydration in Women
+- Reprinted from: Molecules 2020, 25, 3910, doi:10.3390/molecules25173910 . . . . . . . . . . . . . . 175
+- Mirella Nardini and Maria Stella Foddai
+- Phenolics Profile and Antioxidant Activity of Special Beers
+- Reprinted from: Molecules 2020, 25, 2466, doi:10.3390/molecules25112466 . . . . . . . . . . . . . . 191
+-                                                   vi
+- About the Editor
+- Mirella Nardini
+-     Dr. Nardini is a biologist with a PhD in Biochemistry. She is employed as technologist in
+- the Council for Agricultural Research and Economics (CREA). The results of her studies have been
+- published in many international scientific journals. Her field of interest is the nutritional quality
+- of food and the role of food in the modulation and prevention of oxidative stress and related
+- pathologies, particularly cardiovascular diseases. She has gained extensive experience in antioxidant
+- and polyphenol compounds, through many studies concerning the identification, characterization,
+- biological activity, bioavailability, and metabolism of phenolic compounds.

@@ -1,0 +1,80 @@
+# Vitamin D in Health and Disease (2nd Edition) (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5676-3
+- 页数: 142
+- 全文: `text/mdpi/Vitamin_D_in_Health_and_Disease_2nd_Edition_2025.txt`
+- 标签: 微量营养素
+
+## 目录 (Contents)
+
+- Giuseppe Murdaca and Sebastiano Gangemi
+- Vitamin D in Health and Disease 2.0
+- Reprinted from: Biomedicines 2024, 12, 324, https://doi.org/10.3390/biomedicines12020324 . . .   1
+- Giuseppe Murdaca, Alessandro Allegra, Alessandro Tonacci, Caterina Musolino,
+- Luisa Ricciardi and Sebastiano Gangemi
+- Mast Cells and Vitamin D Status: A Clinical and Biological Link in the Onset of Allergy and
+- Bone Diseases
+- Reprinted from: Biomedicines 2022, 10, 1877, https://doi.org/10.3390/biomedicines10081877 . .    3
+- Miłosz Miedziaszczyk, Katarzyna Lacka, Oskar Tomczak, Aleksander Bajon, Marta Primke
+- and Ilona Idasiak-Piechocka
+- Systematic Review of the Treatment of Persistent Hyperparathyroidism Following
+- Kidney Transplantation
+- Reprinted from: Biomedicines 2023, 11, 25, https://doi.org/10.3390/biomedicines11010025 . . . . 19
+- Anindita Banerjee, Shreyasi Athalye, Naveen Khargekar, Poonam Shingade
+- and Manisha Madkaikar
+- Chronic Hepatitis B and Related Liver Diseases Are Associated with Reduced
+- 25-Hydroxy-Vitamin D Levels: A Systematic Review and Meta-Analysis
+- Reprinted from: Biomedicines 2023, 11, 135, https://doi.org/10.3390/biomedicines11010135 . . . 33
+- Salah Gariballa, Ghada S. M. Al-Bluwi and Javed Yasin
+- Frequency of Vitamin D Receptor Gene Polymorphisms in a Population with a very High
+- Prevalence of Vitamin D Deﬁciency, Obesity, Diabetes and Hypertension
+- Reprinted from: Biomedicines 2023, 11, 1202, https://doi.org/10.3390/biomedicines11041202 . . 50
+- Fabienne Jaun, Maria Boesing, Giorgia Luethi-Corridori, Kristin Abig, Nando Bloch,
+- Stéphanie Giezendanner, et al.
+- Effect of Single High Dose Vitamin D Substitution in Hospitalized COVID-19 Patients with
+- Vitamin D Deﬁciency on Length of Hospital Stay
+- Reprinted from: Biomedicines 2023, 11, 1277, https://doi.org/10.3390/biomedicines11051277 . . 62
+- Anika Tabassum, Adli Ali, Farah Dayana Zahedi and Noor Akmal Shareela Ismail
+- Immunomodulatory Role of Vitamin D on Gut Microbiome in Children
+- Reprinted from: Biomedicines 2023, 11, 1441, https://doi.org/10.3390/biomedicines11051441 . . 78
+- Edwina Brennan, Alexandra E. Butler, Manjula Nandakumar, Daniel S. Drage,
+- Thozhukat Sathyapalan and Stephen L. Atkin
+- Association between Organochlorine Pesticides and Vitamin D in Female Subjects
+- Reprinted from: Biomedicines 2023, 11, 1451, https://doi.org/10.3390/biomedicines11051451 . . 96
+- Suhail Al-Shammri, Arpita Chattopadhyay, Magdy Girgis Hanah, Suhail Doi
+- and Abayomi Akanji
+- Association of Blood Levels of Vitamin D and Its Binding Protein with Clinical Phenotypes of
+- Multiple Sclerosis
+- Reprinted from: Biomedicines 2023, 11, 1808, https://doi.org/10.3390/biomedicines11071808 . . 108
+- Manjula Nandakumar, Thozhukat Sathyapalan, Alexandra E. Butler and Stephen L. Atkin
+- Oxidative Stress Markers and Heat Shock Proteins in Non-Obese Women with Polycystic Ovary
+- Syndrome Are Not Elevated and Show No Correlation with Vitamin D
+- Reprinted from: Biomedicines 2023, 11, 2044, https://doi.org/10.3390/biomedicines11072044 . . 121
+-                                                 v
+-             biomedicines
+- Editorial
+- Vitamin D in Health and Disease 2.0
+- Giuseppe Murdaca 1, * and Sebastiano Gangemi 2
+-                   1   Allergology and Clinical Immunology Unit, Department of Internal Medicine, San Bartolomeo Hospital,
+-                       University of Genoa, 19038 Sarzana, Italy
+-                   2   Allergy and Clinical Immunology Unit, Department of Clinical and Experimental Medicine,
+-                       University of Messina, Via Consolare Valeria, 98125 Messina, Italy; gangemis@unime.it
+-                  *    Correspondence: giuseppe.murdaca@unige.it; Tel.: +39-0103537924
+-                        Vitamin D (VD) is a fat-soluble vitamin considered essential for human health, and its
+-                  levels are associated with the function and composition of the intestinal microbiome. In
+-                  fact, it plays a decisive role in the pathogenetic process of immunological diseases related
+-                  to the intestinal microbiome starting from the pediatric age; its integration is in fact capable
+-                  of increasing the diversity of the microbiome in children, with a consequent positive impact
+-                  on the functionality of the immune system. It has been demonstrated that VD is capable of
+-                  increasing the number and variety of commensal bacteria, which are able to compete with
+-                  pathogenic bacteria for nutrients, thus exercising a synergistic protective function against
+-                  various diseases [1].
+-                        Recent evidence has also highlighted the potential role of VD in allergic and immune-
+-                  mediated diseases, exerted by its ability to modify the immune response and the prolifer-
+-                  ation and function of mast cells, particularly through the modulation of the IL-31/IL-33
+-                  genes axis [2]. Increasing its concentration within the intestinal bacteria responsible for the
+-                  release of short-chain fatty acids would increase the secretion of immunoglobin A by B
+-                  cells, reducing macrophages and dendritic cells and limiting chemotaxis in the neutrophils.
+-                  All this would conﬁrm the fundamental role of VD in innate and adaptive immunity, in
+-                  addition to its anti-inﬂammatory properties.

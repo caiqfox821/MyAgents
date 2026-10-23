@@ -1,0 +1,81 @@
+# Water-wise Rice Production (2002, IRRI)
+
+- 许可: Open Access
+- 来源: https://ageconsearch.umn.edu/record/281822
+- 页数: 353
+- 全文: `text/rice/Water_wise_Rice_Production_2002.txt`
+- PDF: `rice/Water_wise_Rice_Production_2002.pdf`
+- 标签: 水稻, 节水, 水分管理, 灌溉
+
+## 目录 (Contents)
+
+- FOREWORD                                                                          VII
+- ACKNOWLEDGMENTS                                                                   IX
+- Intermittent irrigation
+- Effects of different water management practices on rice growth                     3
+-     Qinghua Shi, Xiaochun Zeng, Muying Li, Xueming Tan, and Fengfeng Xu
+- The effects of irrigation management on yield and water productivity             15
+-     of inbred, hybrid, and aerobic rice varieties
+-     G. Lu, R. Cabangon, T.P. Tuong, P. Belder, B.A.M. Bouman, and E. Castillo
+- Synopsis of water management experiments in Indonesia                            29
+-     A. Gani, A. Rahman, Dahono, Rustam, H. Hengsdijk
+- Biophysical and economic implications of integrated crop                         39
+-     and resource management for rice in Indonesia
+-     I.P. Wardana, P.S. Bindraban, A. Gani, A.K. Makarim, and Irsal Las
+- Water use of alternately submerged and nonsubmerged irrigated lowland rice       51
+-     P. Belder, B.A.M. Bouman, J.H.J. Spiertz, Lu Guoan, and E.J.P. Quilang
+- Water management of rice in southern New South Wales, Australia                  63
+-     J.A. Thompson
+- System of Rice Intensification (SRI)
+- Reducing water use in irrigated rice production with the Madagascar              71
+-     System of Rice Intensification
+-     N. Uphoff and R. Randriamiharisoa
+- Farmer implementation of alternate wet-dry and nonflooded irrigation             89
+-     practices in the System of Rice Intensification (SRI)
+-     O.V. McHugh, T.S. Steenhuis, J. Barison, E.C.M. Fernandes, and N.T. Uphoff
+- The System of Rice Intensification in practice: explaining low farmer            103
+-     adoption and high disadoption in Madagascar
+-     C.M. Moser and C.B. Barrett
+- Effects of SRI practices on hybrid rice performance in Tamil Nadu, India         119
+-     T.M. Thiyagarajan, V. Velu, S. Ramasamy, D. Durgadevi, K. Govindarajan,
+-     R. Priyadarshini, C. Sudhalakshmi, K. Senthilkumar, P.T. Nisha,
+-     G. Gayathry, H. Hengsdijk, and P.S. Bindraban
+-                                                                                    iii
+- System of Rice Intensification (SRI): evaluation of seedling age              129
+-     and selected components in Indonesia
+-      A.K. Makarim, V. Balasubramanian, Z. Zaini, I. Syamsiah,
+-      I.G.P.A. Diratmadja, Handoko, Arafah, I.P. Wardana, and A. Gani
+- Aerobic rice
+- Aerobic rice in northern China: opportunities and challenges                  143
+-      Wang Huaqi, B.A.M. Bouman, Dule Zhao, Wang Changgui, and P.F. Moya
+- Yield of aerobic rice (Han Dao) under different water regimes                 155
+-      in North China
+-      Yang Xiaoguang, Wang Huaqi, Wang Zhimin, Zhao Junfang, Chen Bin,
+-      and B.A.M. Bouman
+- The potential of aerobic rice to reduce water use in water-scarce             165
+-     irrigated lowlands in the tropics
+-      A.R. Castañeda, B.A.M. Bouman, S. Peng, and R.M. Visperas
+- Crop-water responses of aerobically grown rice: preliminary results           177
+-     of pot experiments
+-      J. Nieuwenhuis, B.A.M. Bouman, and A. Castañeda
+- The ground-cover rice production system (GCRPS): a successful                 187
+-     new approach to save water and increase nitrogen fertilizer efficiency?
+-      Shan Lin, K. Dittert, Hongbin Tao, C. Kreye, Yangchu Xu,
+-      Qirong Shen, Xiaolin Fan, and B. Sattelmacher
+- Saving water with ground-cover rice production systems (GCRPS)                197
+-     at the price of increased greenhouse gas emissions?
+-      K. Dittert, Lin Shan, C. Kreye, Zheng Xunhua, Xu Yangchun, Lu Xuejuan,
+-      Huang Yao, Shen Qirong, Fan Xiaolin, and B. Sattelmacher
+- Rice-wheat
+- Adopting conservation agriculture in the rice-wheat system of the             207
+-     Indo-Gangetic Plains: new opportunities for saving water
+-      R.K. Gupta, R.K. Naresh, P.R. Hobbs, and J.K. Ladha
+- Crop-water relations in rice-wheat cropping under different tillage           223
+-     systems and water-management practices in a marginally sodic,
+-     medium-textured soil
+-      P.K. Sharma, Lav Bhushan, J.K. Ladha, R.K. Naresh, R.K. Gupta,
+-      B.V. Balasubramanian, and B.A.M. Bouman
+- Effects of rice establishment methods on crop performance,                    237
+-     water use, and mineral nitrogen
+-      A.K. Singh, B.U. Choudhury, and B.A.M. Bouman
+- Physiology and breeding

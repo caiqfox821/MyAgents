@@ -1,0 +1,80 @@
+# Plants, Lichens, Fungi, and Algae Extracts and Derivatives with Antimicrobial Properties for Nutrition and Health (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7818-5
+- 页数: 180
+- 全文: `text/mdpi/Plants_Lichens_Fungi_and_Algae_Extracts_and_Derivatives_with_Antimicrobial_Properties_for_Nutrition_and_Health_2026.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Violeta Popovici, Emma Adriana Ozon, Andreea Letit, ia Arsene and Verginica Schröder
+- Plants, Lichens, Fungi, and Algae Extracts and Derivatives with Antimicrobial Properties for
+- Nutrition and Health
+- Reprinted from: Antibiotics 2026, 15, 111, https://doi.org/10.3390/antibiotics15010111 . . . . . .             1
+- Ramona Iseppi, Eleonora Truzzi, Carla Sabia and Patrizia Messi
+- Efﬁcacy and Synergistic Potential of Cinnamon (Cinnamomum zeylanicum) and Clove
+- (Syzygium aromaticum L. Merr. & Perry) Essential Oils to Control Food-Borne Pathogens in
+- Fresh-Cut Fruits
+- Reprinted from: Antibiotics 2024, 13, 319, https://doi.org/10.3390/antibiotics13040319 . . . . . .             5
+- Răzvan Neagu, Violeta Popovici, Lucia-Elena Ionescu, Viorel Ordeanu, Andrei Bit, ă, Diana
+- Mihaela Popescu, et al.
+- Phytochemical Screening and Antibacterial Activity of Commercially Available Essential
+- Oils Combinations with Conventional Antibiotics against Gram-Positive and Gram-Negative
+- Bacteria
+- Reprinted from: Antibiotics 2024, 13, 478, https://doi.org/10.3390/antibiotics13060478 . . . . . . 19
+- Simon Vlad Luca, Krzysztof Wojtanowski, Izabela Korona-Głowniak, Krystyna Skalicka-
+- Woźniak, Mirjana Minceva and Adriana Trifan
+- Spent Material Extractives from Hemp Hydrodistillation as an Underexplored Source of
+- Antimicrobial Cannabinoids
+- Reprinted from: Antibiotics 2024, 13, 485, https://doi.org/10.3390/antibiotics13060485 . . . . . . 46
+- Mohammed Aldholmi, Rizwan Ahmad, Mohammad Habeeb Shaikh, Ayad Mohammed
+- Salem, Maher Alqurashi and Mansour Alturki
+- Anti-Infective Activity of Momordica charantia Extract with Molecular Docking of Its
+- Triterpenoid Glycosides
+- Reprinted from: Antibiotics 2024, 13, 544, https://doi.org/10.3390/antibiotics13060544 . . . . . . 63
+- Rafaela Dias Oliveira, Carina Araújo and Cristina Almeida-Aguiar
+- In Vitro Antimicrobial Potential of Portuguese Propolis Extracts from Gerês against Pathogenic
+- Microorganisms
+- Reprinted from: Antibiotics 2024, 13, 655, https://doi.org/10.3390/antibiotics13070655 . . . . . . 78
+- Yoo-Na Jeon, Su-Ji Ryu, Ha-Yeon Lee, Jang-Oh Kim and Jong-Suep Baek
+- Green Synthesis of Silver Nanoparticle Using Black Mulberry and Characterization,
+- Phytochemical, and Bioactivity
+- Reprinted from: Antibiotics 2024, 13, 686, https://doi.org/10.3390/antibiotics13080686 . . . . . . 93
+- Ceyda Sibel Kılıç, Inês Catarino, Jorge Alves-Silva, Betül Demirci, Damla Kırcı, Lígia
+- Salgueiro and Mónica Zuzarte
+- Unlocking the Skin-Protective Effects of Ferulago spp. Essential Oils: A Focus on
+- Antidermatophytic and Wound-Healing Potential
+- Reprinted from: Antibiotics 2025, 14, 343, https://doi.org/10.3390/antibiotics14040343 . . . . . . 107
+- Mihaela Niculae, Daniela Hanganu, Ilioara Oniga, Sergiu-Alexandru Burcă, Brîndus, a
+- Tiperciuc, Irina Ielciu, et al.
+- Agave amica (Medik.) Thiede & Govaerts (Asparagaceae)—Insights into Its Valuable Phenolic
+- Proﬁle and In Vitro Antimicrobial, Antibioﬁlm, Antioxidative, and Antiproliferative Properties
+- Reprinted from: Antibiotics 2025, 14, 638, https://doi.org/10.3390/antibiotics14070638 . . . . . . 122
+-                                                        v
+- Sureeporn Suriyaprom, Nitsanat Cheepchirasuk, Pornpimon Ngamsaard, Varachaya
+- Intachaisri, Angkhana Inta and Yingmanee Tragoolpua
+- Thai Medicinal Flowers as Natural Antioxidants and Antibacterial Agents Against Pathogenic
+- Enteric Bacteria: A Comparative Study of Mesua ferrea, Mammea siamensis, and Clitoria ternatea
+- Reprinted from: Antibiotics 2025, 14, 1038, https://doi.org/10.3390/antibiotics14101038 . . . . . 141
+-                                                  vi
+- About the Editors
+- Violeta Popovici
+-      Violeta Popovici is a Senior Clinical Pharmacist, Ph.D. in Dental Medicine, and Senior Researcher
+- III at the Mountain Economy Center (CE-MONT), Vatra-Dornei. She ﬁnished her Post-Doc Studies at
+- Ovidius University of Constanta. Her interdisciplinary research over 6 years focused on the lichen
+- Usnea barbata in the Călimani Mountains, Romania. The phytochemical proﬁle and pharmacological
+- properties of U. barbata extract in different solvents were explored.         This was completed by
+- incorporating the most active U. barbata extracts in mucoadhesive oral ﬁlms, with promising effects
+- in oral cancer and various oral infections with opportunistic germs. She currently collaborates
+- with research teams across the medical ﬁeld. Her research interests include plant/lichen secondary
+- metabolites, identiﬁcation and pharmacological potential, antibiotics, antimicrobial activity, in vitro
+- anticancer activity, oral cancer, ROS, oxidative stress, antioxidants/pro-oxidants, food, diets, and
+- case studies.
+- Emma Adriana Ozon
+-      Emma Adriana Ozon is a Doctor of Pharmacy and Professor in the Department of
+- Pharmaceutical Technology and Biopharmacy at Carol Davila University of Medicine and Pharmacy
+- in Bucharest, Romania. Her work focuses on pharmaceutical formulation, preformulation studies,
+- and physicochemical characterization of various dosage forms.          She has signiﬁcant experience
+- enhancing drug solubility and bioavailability, particularly for poorly soluble drugs, using methods

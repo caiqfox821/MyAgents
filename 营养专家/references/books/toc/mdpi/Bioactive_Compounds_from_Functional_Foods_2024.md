@@ -1,0 +1,79 @@
+# Bioactive Compounds from Functional Foods (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0376-7
+- 页数: 268
+- 全文: `text/mdpi/Bioactive_Compounds_from_Functional_Foods_2024.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Nawal K. Z. AlFadhly, Nawfal Alhelﬁ, Ammar B. Altemimi, Deepak Kumar Verma,
+- Francesco Cacciola and Arunaksharan Narayanankutty
+- Trends and Technological Advancements in the Possible Food Applications of Spirulina and
+- Their Health Beneﬁts: A Review
+- Reprinted from: Molecules 2022, 27, 5584, doi:10.3390/molecules27175584 . . . . . . . . . . . . . .               1
+- VS Shilpa, Rafeeya Shams, Kshirod Kumar Dash, Vinay Kumar Pandey, Aamir Hussain Dar,
+- Shaikh Ayaz Mukarram, et al.
+- Phytochemical Properties, Extraction, and Pharmacological Beneﬁts of Naringin: A Review
+- Reprinted from: Molecules 2023, 28, 5623, doi:10.3390/molecules28155623 . . . . . . . . . . . . . . 41
+- Aﬁfa Aziz, Sana Noreen, Waseem Khalid, Fizza Mubarik, Madiha khan Niazi,
+- Hyrije Koraqi, et al.
+- Extraction of Bioactive Compounds from Different Vegetable Sprouts and Their Potential Role
+- in the Formulation of Functional Foods against Various Disorders: A Literature-Based Review
+- Reprinted from: Molecules 2022, 27, 7320, doi:10.3390/molecules27217320 . . . . . . . . . . . . . . 59
+- Janaina Sánchez-García, Sara Muñoz-Pina, Jorge García-Hernández, Amparo Tárrega,
+- Ana Heredia and Ana Andrés
+- In Vitro Digestion Assessment (Standard vs. Older Adult Model) on Antioxidant Properties
+- and Mineral Bioaccessibility of Fermented Dried Lentils and Quinoa
+- Reprinted from: Molecules 2023, 28, 7298, doi:10.3390/molecules28217298 . . . . . . . . . . . . . . 77
+- Katarzyna Najman, Anna Sadowska, Monika Wolińska, Katarzyna Starczewska
+- and Krzysztof Buczak
+- The Content of Bioactive Compounds and Technological Properties of Matcha Green Tea and
+- Its Application in the Design of Functional Beverages
+- Reprinted from: Molecules 2023, 28, 7018, doi:10.3390/molecules28207018 . . . . . . . . . . . . . . 95
+- Karolina M. Wójciak, Karolina Ferysiuk, Paulina K˛eska, Małgorzata Materska,
+- Barbara Chilczuk, Monika Trzaskowska,
+-                                ˛           et al.
+- Reduction of Nitrite in Canned Pork through the Application of Black Currant (Ribes nigrum
+- L.) Leaves Extract
+- Reprinted from: Molecules 2023, 28, 1749, doi:10.3390/molecules28041749 . . . . . . . . . . . . . . 118
+- Agnieszka Ciurzynska, Magdalena Trusinska, Katarzyna Rybak, Artur Wiktor
+- and Malgorzata Nowacka
+- The Inﬂuence of Pulsed Electric Field and Air Temperature on the Course of Hot-Air Drying
+- and the Bioactive Compounds of Apple Tissue
+- Reprinted from: Molecules 2023, 28, 2970, doi:10.3390/molecules28072970 . . . . . . . . . . . . . . 136
+- Michał Halagarda and Paweł Obrok
+- Inﬂuence of Post-Harvest Processing on Functional Properties of Coffee (Coffea arabica L.)
+- Reprinted from: Molecules 2023, 28, 7386, doi:10.3390/molecules28217386 . . . . . . . . . . . . . . 160
+- Karolina M. Wójciak, Paulina K˛eska, Monika Prendecka-Wróbel and Karolina Ferysiuk
+- Peptides as Potentially Anticarcinogenic Agent from Functional Canned Meat Product with
+- Willow Extract
+- Reprinted from: Molecules 2022, 27, 6936, doi:10.3390/molecules27206936 . . . . . . . . . . . . . . 169
+-                                                          v
+- Paulina Strugała-Danak, Maciej Spiegel and Janina Gabrielska
+- Malvidin and Its Mono- and Di-Glucosides Forms: A Study of Combining Both In Vitro
+- and Molecular Docking Studies Focused on Cholinesterase, Butyrylcholinesterase, COX-1 and
+- COX-2 Activities
+- Reprinted from: Molecules 2023, 28, 7872, doi:10.3390/molecules28237872 . . . . . . . . . . . . . . 183
+- N. Afzal Ali, Kshirod Kumar Dash, Vinay Kumar Pandey, Anjali Tripathi,
+- Shaikh Ayaz Mukarram, Endre Harsányi and Béla Kovács
+- Extraction and Encapsulation of Phytocompounds of Poniol Fruit via Co-Crystallization:
+- Physicochemical Properties and Characterization
+- Reprinted from: Molecules 2023, 28, 4764, doi:10.3390/molecules28124764 . . . . . . . . . . . . . . 197
+- Muhammad Abdul Rahim, Adeela Yasmin, Muhammad Imran, Mahr Un Nisa,
+- Waseem Khalid, Tuba Esatbeyoglu and Sameh A. Korma
+- Optimization of the Ultrasound Operating Conditions for Extraction and Quantiﬁcation
+- of Fructooligosaccharides from Garlic (Allium sativum L.) via High-Performance Liquid
+- Chromatography with Refractive Index Detector
+- Reprinted from: Molecules 2022, 27, 6388, doi:10.3390/molecules27196388 . . . . . . . . . . . . . . 212
+- Paweł Sroka, Tomasz Tarko and Aleksandra Duda
+- The Impact of Furfural on the Quality of Meads
+- Reprinted from: Molecules 2024, 29, 29, doi:10.3390/molecules29010029 . . . . . . . . . . . . . . . 223
+- Weiyue Zhang, Nana Zhang, Xinxin Guo, Bei Fan, Shumei Cheng and Fengzhong Wang
+- Potato Resistant Starch Type 1 Promotes Obesity Linked with Modiﬁed Gut Microbiota in
+- High-Fat Diet-Fed Mice
+- Reprinted from: Molecules 2024, 29, 370, doi:10.3390/molecules29020370 . . . . . . . . . . . . . . 235
+-                                                   vi

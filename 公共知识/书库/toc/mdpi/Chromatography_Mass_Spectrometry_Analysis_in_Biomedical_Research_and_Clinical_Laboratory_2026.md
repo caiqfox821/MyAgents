@@ -1,0 +1,71 @@
+# Chromatography–Mass Spectrometry Analysis in Biomedical Research and Clinical Laboratory (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7776-8
+- 页数: 306
+- 全文: `text/mdpi/Chromatography_Mass_Spectrometry_Analysis_in_Biomedical_Research_and_Clinical_Laboratory_2026.txt`
+- 标签: 样品前处理
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     ix
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   xi
+- Andreas Tsakalof and Constantinos K. Zacharis
+- Editorial of Topic Issue “Chromatography–Mass Spectrometry Analysis in Biomedical Research
+- and Clinical Laboratory”
+- Reprinted from: Molecules 2026, 31, 481, https://doi.org/10.3390/molecules31030481 . . . . . .                    1
+- Kyung-Geun Ahn, Ryuho Choi, Soonchul Gwak, Inyoung Choi, Giup Jang, Jin-Wook Kim
+- and Geon A Kim
+- A Novel Sample Preparation Method for GC-MS Analysis of Volatile Organic Compounds in
+- Whole Blood for Veterinary Use
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 4667, https://doi.org/10.3390/ijms26104667 . . . . . .                6
+- Anna Błażewicz, Michał Kiełbus, Katarzyna Skórzyńska-Dziduszko, Andreas M. Grabrucker,
+- Jacqueline Jonklaas, Piotr Sosnowski, et al.
+- Application of Human Plasma Targeted Lipidomics and Analysis of Toxic Elements to Capture
+- the Metabolic Complexities of Hypothyroidism
+- Reprinted from: Molecules 2024, 29, 5169, https://doi.org/10.3390/molecules29215169 . . . . . . 16
+- Gregori Casals, María Antonieta Ballesteros, Angielys Zamora, Irene Martínez,
+- Guillermo Fernández-Varo, Mireia Mora, et al.
+- LC-HRMS and GC-MS Proﬁling of Urine Free Cortisol, Cortisone, 6B-, and 18-Hydroxycortisol
+- for the Evaluation of Glucocorticoid and Mineralocorticoid Disorders
+- Reprinted from: Biomolecules 2024, 14, 558, https://doi.org/10.3390/biom14050558 . . . . . . . . 45
+- Kevin P. Gillespie, Ross Pirnie, Clementina Mesaros and Ian A. Blair
+- Cisplatin Dependent Secretion of Immunomodulatory High Mobility Group Box 1 (HMGB1)
+- Protein from Lung Cancer Cells
+- Reprinted from: Biomolecules 2023, 13, 1335, https://doi.org/10.3390/biom13091335 . . . . . . . 61
+- Honghui Guo, Guang Wang, Wei Huang, Lingrui Li, Yang Bai, Haifeng Wang and Lina Gao
+- The Mechanism of Hepatic Encephalopathy Induced by Thioacetamide Based on Metabolomics
+- and Proteomics: A Preliminary Study
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 284, https://doi.org/10.3390/ijms25010284 . . . . . . . 87
+- Mohammed E. Hefni and Cornelia M. Witthöft
+- Development and Application of a UPLC–MRM–MS Method for Quantifying Trimethylamine,
+- Trimethylamine-N-Oxide, and Related Metabolites in Individuals with and Without
+- Metabolic Syndrome
+- Reprinted from: Separations 2025, 12, 53, https://doi.org/10.3390/separations12020053 . . . . . 109
+- Hee-Jung Kim, Seo-Hyeon Jung, Shokhid Gulyamov, Hyun-Gy Lee, Oybek Boyjigitov and
+- Yong-Moon Lee
+- HPLC-MS/MS Analysis for Sphingosine 1-Phosphate after the Dephosphorylation by
+- Hydrogen Fluoride
+- Reprinted from: Separations 2024, 11, 34, https://doi.org/10.3390/separations11010034 . . . . . 122
+-                                                          v
+- Piotr Kośliński, Łukasz Rzepiński, Marcin Koba, Zdzisław Maciejek, Mariusz Kowalewski
+- and Emilia Daghir-Wojtkowiak
+- Comparative Analysis of Serum Amino Acid Proﬁles in Patients with Myasthenia Gravis and
+- Multiple Sclerosis
+- Reprinted from: J. Clin. Med. 2024, 13, 4083, https://doi.org/10.3390/jcm13144083 . . . . . . . . 134
+- Peter Meinarovich, Alisa Pautova, Evgenii Zuev, Ekaterina Sorokina, Ekaterina Chernevskaya
+- and Natalia Beloborodova
+- An Integrated Approach Based on Clinical Data Combined with Metabolites and Biomarkers for
+- the Assessment of Post-Operative Complications after Cardiac Surgery
+- Reprinted from: J. Clin. Med. 2024, 13, 5054, https://doi.org/10.3390/jcm13175054 . . . . . . . . 150
+- Linda Molteni, Bruno Charlier, Albino Coglianese, Viviana Izzo, Giovanni Assenza,
+- Pierantonio Menna, et al.
+- Quantitative Analysis of Cenobamate and Concomitant Anti-Seizure Medications in Human
+- Plasma via Ultra-High Performance Liquid Chromatography–Tandem Mass Spectrometry
+- Reprinted from: Molecules 2024, 29, 884, https://doi.org/10.3390/molecules29040884 . . . . . . 165
+- Linda Molteni, Bruno Charlier, Viviana Izzo, Albino Coglianese, Valeria Conti,
+- Roberto Eleopra, et al.
+- Development and Validation of a New LC-MS/MS Bioanalytical Method for the Simultaneous
+- Determination of Levodopa, Levodopa Methyl Ester, and Carbidopa in Human Plasma Samples
+- Reprinted from: Molecules 2023, 28, 4264, https://doi.org/10.3390/molecules28114264 . . . . . . 182
+- Sherifdeen Onigbinde, Cristian D. Gutierrez Reyes, Mojibola Fowowe, Oluwatosin Daramola,

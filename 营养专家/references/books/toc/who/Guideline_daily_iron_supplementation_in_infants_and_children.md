@@ -1,0 +1,79 @@
+# Guideline: daily iron supplementation in infants and children (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/204712
+- 页数: 54
+- 全文: `text/who/Guideline_daily_iron_supplementation_in_infants_and_children.txt`
+- 标签: 微量营养素补充, 婴幼儿/儿童
+
+## 目录 (Contents)
+
+- ACKNOWLEDGEMENTS										VII
+-                 Financial support								VII
+- EXECUTIVE SUMMARY										1
+-                  Purpose of the guideline							1
+-                  Guideline development methodology						1
+-                  Available evidence								2
+-                  Recommendations								2
+-                  Remarks									3
+-                  Research priorities								4
+- SCOPE AND PURPOSE										5
+- BACKGROUND										5
+-                  Anaemia in infants and children							6
+-                  Iron supplementation in malaria-endemic areas					 6
+- OBJECTIVES										7
+- SUMMARY OF AVAILABLE EVIDENCE									7
+-                 Daily iron supplementation in infants and children aged 6–23 months				 8
+-                            Summary of the evidence						8
+-                            Recommendation							8
+-                            Rationale								9
+-                 Daily iron supplementation in children aged 24–59 months				 9
+-                            Summary of the evidence						9
+-                            Recommendation							9
+-                            Rationale								10
+-                 Daily iron supplementation in children aged 60 months and older				 10
+-                            Summary of the evidence						10
+-                            Recommendation							11
+-                            Rationale								11
+-         Daily iron supplementation in infants and children in malaria-endemic areas			 11
+-                    Summary of the evidence						11
+-                    Recommendation							12
+-         Rationale 								12
+- REMARKS										13
+- RESEARCH PRIORITIES										14
+- DISSEMINATION, IMPLEMENTATION AND ETHICAL CONSIDERATIONS						14
+-                      Dissemination								14
+-                      Implementation								14
+-                      Regulatory considerations							15
+-                      Ethical considerations								16
+-                      Monitoring and evaluation of guideline implementation					 16
+-                                                           WHO Guideline: Daily iron supplementation in infants and children.   v
+-      GUIDELINE DEVELOPMENT PROCESS								17
+-                          Advisory groups								17
+-                          Scope of the guideline, evidence appraisal and decision-making				 18
+-      MANAGEMENT OF COMPETING INTERESTS								19
+-      PLANS FOR UPDATING THE GUIDELINE								20
+-      REFERENCES										21
+-      ANNEX 1.                     Grade summary of findings tables						                                                            27
+-                                   A. Daily iron supplementation in infants and young children aged 6–23 months			                   27
+-                                   B. Daily iron supplementation in children aged 24–59 months				                                   28
+-                                   C. Daily iron supplementation in children aged 60 months and older				                            29
+-                                   D. Daily iron supplementation in infants and children in malaria-endemic areas			                 30
+-      ANNEX 2.                     Summary of the considerations of the members of the guideline development group for determining
+-                                   the strength of the recommendation for daily iron supplementation in children aged 6–23 months    31
+-      ANNEX 3.                     Summary of the considerations of the members of the guideline development group for determining
+-                                   the strength of the recommendation for daily iron supplementation in children aged 24–59 months   32
+-      ANNEX 4.                     Summary of the considerations of the members of the guideline development group for determining
+-                                   the strength of the recommendation for daily iron supplementation in children aged 60 months
+-                                   and older									33
+-      ANNEX 5.                     Summary of the considerations of the members of the guideline development group for determining
+-                                   the strength of the recommendation for daily iron supplementation in malaria-endemic areas        34
+-      ANNEX 6.                     WHO Steering Committee for Nutrition Guidelines Development				35
+-      ANNEX 7.                     WHO guideline development group						36
+-      ANNEX 8.                     External resource experts							39
+-      ANNEX 9.                     WHO Secretariat								40
+-      ANNEX 10.                    Peer-reviewers								41
+-      ANNEX 11.                    Questions in population, intervention, control, outcomes (PICO) format			42
+-                                   A. Effects and safety of daily iron supplementation in infants and young children aged 6–23 months 42
+-                                   B. Effects and safety of daily iron supplementation in children aged 24–59 months		                43
+-                                   C. Effects and safety of daily iron supplementation in children aged 60 months and older		         44

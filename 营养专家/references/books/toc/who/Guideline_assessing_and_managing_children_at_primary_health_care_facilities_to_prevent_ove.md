@@ -1,0 +1,80 @@
+# Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity in the context of the double burden of malnutrition (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/259133
+- 页数: 88
+- 全文: `text/who/Guideline_assessing_and_managing_children_at_primary_health_care_facilities_to_prevent_ove.txt`
+- 标签: 婴幼儿/儿童, 肥胖, 营养不良, 老年营养
+
+## 目录 (Contents)
+
+- Abbreviations and acronyms                                                             vi
+- Definitions and key terms                                                              vii
+- Publication history                                                                     x
+- Acknowledgements                                                                       xi
+-    Financial support                                                                   xi
+- Executive summary                                                                       1
+-    Background                                                                           1
+-    Rationale for guideline development                                                  1
+-    Objective                                                                            2
+-    Guideline development methodology                                                    2
+-    Other related WHO recommendations                                                    3
+-    Updating this guideline                                                              3
+-    Equity and human right perspectives                                                  3
+-    Assessing and managing children attending primary health-care facilities in order
+-    to prevent overweight and obesity                                                    4
+-    Best practice statements and Recommendations                                         4
+- Background                                                                              6
+- The Integrated Management of Childhood Illness                                          8
+- Rationale for guideline development                                                    10
+- Scope and purpose of the guideline                                                     11
+-    Population of interest                                                              12
+- Programmatic questions for review                                                      13
+- Equity and human right perspectives                                                    15
+- Evidence and recommendations                                                           16
+-  1. Anthropometric assessment of infants and children presenting to primary
+- 		health-care facilities                                                               16
+- 		Programmatic questions                                                               16
+- 		Background                                                                           16
+- 		     Summary of the evidence                                                         16
+- 		     Best practice statement                                                         19
+- 		Research priorities                                                                  20
+-                                                                                              iii
+-  GUIDELINE: ASSESSING AND MANAGING CHILDREN AT PRIMARY HEALTH-CARE FACILITIES
+-                 2. Care of infants and children with acute or chronic malnutrition presenting
+-               		 to primary health-care facilities                                                 20
+-               		Programmatic questions                                                             20
+-               		Background                                                                         20
+-               		    Summary of the evidence                                                        21
+-               		    Best practice statement and Recommendation                                     25
+-               		Research priorities                                                                28
+-                3. Care of children who are overweight or obese presenting to primary health-care
+-               		facilities                                                                         28
+-               		Programmatic questions                                                             28
+-               		Background                                                                         28
+-               		    Summary of the evidence                                                        29
+-               		Recommendations                                                                    31
+-               		Research priorities                                                                33
+-               Methods		                                                                            35
+-                  Evidence retrieval, assessment and synthesis                                      35
+-                  WHO steering committee                                                            36
+-                  Guideline development group                                                       36
+-                  External peer-review group                                                        36
+-                  Declarations of interest and management of conflicts of interest                  37
+-                  Grading the quality of the evidence                                               37
+-                  Decision-making process                                                           38
+-               Dissemination, adaptation and implementation                                         40
+-                  Dissemination                                                                     40
+-                  Adaptation and implementation                                                     40
+-                  Monitoring and evaluating the implementation of the guideline                     41
+-                  Implications for future research                                                  41
+-                  Plans for updating the guideline                                                  41
+-               References                                                                           42
+-               Annex 1. Analysis of demographic and health survey and multiple indicator cluster
+-               			survey datasets                                                                   48
+-               Annex 2. Systematic reviews                                                          49
+-               			 a. Anthropometric measures during infancy and childhood and the risk of
+-               				 developing obesity, cardiovascular disease or diabetes mellitus type 2 in
+-               				 later life: a systematic review                                                 49
+-               			 b. Nutritional assessment and growth monitoring in IMCI countries: a survey
+-               				 of IMCI chart booklets and clinical algorithms used in different countries,

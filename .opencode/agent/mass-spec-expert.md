@@ -1,0 +1,1 @@
+/home/caiq/MyAgents/质谱专家/agent.md

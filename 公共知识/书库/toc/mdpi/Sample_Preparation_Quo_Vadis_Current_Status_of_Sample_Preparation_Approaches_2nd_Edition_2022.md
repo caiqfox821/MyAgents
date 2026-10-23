@@ -1,0 +1,80 @@
+# Sample Preparation-Quo Vadis: Current Status of Sample Preparation Approaches-2nd Edition (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-5721-2
+- 页数: 188
+- 全文: `text/mdpi/Sample_Preparation_Quo_Vadis_Current_Status_of_Sample_Preparation_Approaches_2nd_Edition_2022.txt`
+- 标签: 样品前处理
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Sample Preparation-Quo Vadis: Current Status of Sample Preparation
+- Approaches-2nd Edition” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     ix
+- Victoria Samanidou and Irene Panderi
+- Editorial for Special Issue “Sample Preparation-Quo Vadis: Current Status of Sample
+- Preparation Approaches-2nd Edition”
+- Reprinted from: Molecules 2022, 27, 6142, doi:10.3390/molecules27196142 . . . . . . . . . . . . . .            1
+- José S. Câmara, Rosa Perestrelo, Cristina V. Berenguer, Carolina F. P. Andrade, Telma M.
+- Gomes and Basit Olayanju et al.
+- Green Extraction Techniques as Advanced Sample Preparation Approaches in Biological, Food,
+- and Environmental Matrices: A Review
+- Reprinted from: Molecules 2022, 27, 2953, doi:10.3390/molecules27092953 . . . . . . . . . . . . . .            3
+- Aliya Nur Hasanah, Nisa Safitri, Aulia Zulfa, Neli Neli and Driyanti Rahayu
+- Factors Affecting Preparation of Molecularly Imprinted Polymer and Methods on Finding
+- Template-Monomer Interaction as the Key of Selective Properties of the Materials
+- Reprinted from: Molecules 2021, 26, 5612, doi:10.3390/molecules26185612 . . . . . . . . . . . . . . 33
+- Natalia Manousi, Abuzar Kabir, Kenneth G. Furton, George A. Zachariadis and Aristidis
+- Anthemidis
+- Multi-Element      Analysis    Based     on     an    Automated     On-Line      Microcolumn
+- Separation/Preconcentration System Using a Novel Sol-Gel Thiocyanatopropyl-Functionalized
+- Silica Sorbent Prior to ICP-AES for Environmental Water Samples
+- Reprinted from: Molecules 2021, 26, 4461, doi:10.3390/molecules26154461 . . . . . . . . . . . . . . 55
+- Natasa P. Kalogiouri, Petros D. Mitsikaris, Athanasios N. Papadopoulos and Victoria F.
+- Samanidou
+- Microwave-Assisted Extraction Coupled to HPLC-UV Combined with Chemometrics for the
+- Determination of Bioactive Compounds in Pistachio Nuts and the Guarantee of Quality and
+- Authenticity
+- Reprinted from: Molecules 2022, 27, 1435, doi:10.3390/molecules27041435 . . . . . . . . . . . . . . 69
+- Mariana N. Oliveira, Oriana C. Gonçalves, Samir M. Ahmad, Jaderson K. Schneider, Laiza
+- C. Krause and Nuno R. Neng et al.
+- Application of Bar Adsorptive Microextraction for the Determination of Levels of Tricyclic
+- Antidepressants in Urine Samples
+- Reprinted from: Molecules 2021, 26, 3101, doi:10.3390/molecules26113101 . . . . . . . . . . . . . . 81
+- Jianing Zhang, Fengjie Yu, Yunmin Tao, Chunping Du, Wenchao Yang and Wenbin Chen et
+- al.
+- Micro Salting-Out Assisted Matrix Solid-Phase Dispersion: A Simple and Fast Sample
+- Preparation Method for the Analysis of Bisphenol Contaminants in Bee Pollen
+- Reprinted from: Molecules 2021, 26, 2350, doi:10.3390/molecules26082350 . . . . . . . . . . . . . . 99
+- Sam-ang Supharoek, Watsaka Siriangkhawut, Kate Grudpan and Kraingkrai Ponhong
+- A Simple and Reliable Dispersive Liquid-Liquid Microextraction with Smartphone-Based
+- Digital Images for Determination of Carbaryl Residues in Andrographis paniculata Herbal
+- Medicines Using Simple Peroxidase Extract from Senna siamea Lam. Bark
+- Reprinted from: Molecules 2022, 27, 3261, doi:10.3390/molecules27103261 . . . . . . . . . . . . . . 109
+-                                                        v
+- Maria S. Synaridou, Vasilis Tsamis, Georgia Sidiropoulou, Constantinos K. Zacharis, Irene
+- Panderi and Catherine K. Markopoulou
+- Fluorimetric Analysis of Five Amino Acids in Chocolate: Development and Validation
+- Reprinted from: Molecules 2021, 26, 4325, doi:10.3390/molecules26144325 . . . . . . . . . . . . . . 125
+- Stefani Fertaki, Georgios Bagourakis, Malvina Orkoula and Christos Kontoyannis
+- Measuring Bismuth Oxide Particle Size and Morphology in Film-Coated Tablets
+- Reprinted from: Molecules 2022, 27, 2602, doi:10.3390/molecules27082602 . . . . . . . . . . . . . . 141
+- Panagiota Papaspyridakou, Michail Lykouras, Christos Kontoyannis and Malvina Orkoula
+- Comparative Study of Sample Carriers for the Identification of Volatile Compounds in
+- Biological Fluids Using Raman Spectroscopy
+- Reprinted from: Molecules 2022, 27, 3279, doi:10.3390/molecules27103279 . . . . . . . . . . . . . . 153
+-                                                   vi
+- About the Editors
+- Victoria Samanidou
+-      Dr Victoria Samanidou is Full Professor and Director of the Laboratory of Analytical Chemistry
+- in the Department of Chemistry of Aristotle University of Thessaloniki, Greece.
+-      Her research interests focus on the development of sample-preparation methods using sorptive
+- extraction prior to chromatographic analysis. She has co-authored 203 original research articles
+- in peer reviewed journals and 60 reviews, 67 editorials/in view, and 54 chapters in scientific
+- books (h-index 42, Scopus Author ID 7003896015, 5940 citations, Web of Science Researcher ID
+- AAE-4121-2020). She is an editorial board member of more than 30 scientific journals and guest editor
+- in more than 30 Special Issues. She has peer reviewed more than 701 manuscripts for 149 scientific
+- journals.
+-      In 2016, she was included in the top 50 power list of women in Analytical Science, as proposed
+- by Texere Publishers.
+-      In 2020, 2021, and 2022, she was included in the 2% top world scientists in the field of Analytical

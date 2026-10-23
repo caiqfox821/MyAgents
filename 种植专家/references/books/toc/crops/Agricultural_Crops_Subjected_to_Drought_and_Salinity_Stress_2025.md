@@ -1,0 +1,76 @@
+# Agricultural Crops Subjected to Drought and Salinity Stress (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11204
+- 页数: 202
+- 全文: `text/crops/Agricultural_Crops_Subjected_to_Drought_and_Salinity_Stress_2025.txt`
+- PDF: `crops/Agricultural_Crops_Subjected_to_Drought_and_Salinity_Stress_2025.pdf`
+- 标签: 逆境胁迫, 抗旱, 抗盐
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Maria Valdiglezia de Mesquita Arruda, Nildo da Silva Dias, Cynthia Cavalcanti
+- de Albuquerque, Eduardo Cezar Medeiros Saldanha, Pedro Henrique de Araújo Gurgel,
+- Marcondes Ferreira Costa Filho, et al.
+- Effects of the Arbuscular Mycorrhizal Fungus Gigaspora albida (Gigasporaceae) on the
+- Physiology, Growth, and Na/K Balance of Creole Corn (Poaceae) Under Different
+- Salinity Levels
+- Reprinted from: Agriculture 2025, 15, 660, https://doi.org/10.3390/agriculture15060660 . . . . .                  1
+- Tao Liu, Shuangshuang Li, Haoqiang Du, Jingnan Cui, Shanbin Xu, Jingguo Wang, et al.
+- The Identiﬁcation of Drought Tolerance Candidate Genes in Oryza sativa L. ssp. Japonica
+- Seedlings through Genome-Wide Association Study and Linkage Mapping
+- Reprinted from: Agriculture 2024, 14, 603, https://doi.org/10.3390/agriculture14040603 . . . . . 28
+- José Orlando Nunes da Silva, Luiz Guilherme Medeiros Pessoa, Emanuelle Maria da Silva,
+- Leonardo Raimundo da Silva, Maria Betânia Galvão dos Santos Freire,
+- Eduardo Soares de Souza, et al.
+- Effects of Silicon Alone and Combined with Organic Matter and Trichoderma harzianum on
+- Sorghum Yield, Ions Accumulation and Soil Properties under Saline Irrigation
+- Reprinted from: Agriculture 2023, 13, 2146, https://doi.org/10.3390/agriculture13112146 . . . . 43
+- Muhammad Bilawal Junaid, Salah El-Hendawy, Ibrahim Al-Ashkar, Nasser Al-Suhaibani
+- and Majed Alotaibi
+- Integrating Agro- Morpho-Physiological Traits and SSR Markers for Detecting the Salt
+- Tolerance of Advanced Spring Wheat Lines under Field Conditions
+- Reprinted from: Agriculture 2023, 13, 2135, https://doi.org/10.3390/agriculture13112135 . . . . 66
+- Patrı́cia Ferreira da Silva, Bárbara Davis Brito dos Santos, José Dantas Neto,
+- Alberto Soares de Melo, Rigoberto Moreira de Matos, Semako Ibrahim Bonou, et al.
+- Effect of Electrical Conductivity Levels and Hydrogen Peroxide Priming on Nutrient Solution
+- Uptake by Chives in a Hydroponic System
+- Reprinted from: Agriculture 2023, 13, 1346, https://doi.org/10.3390/agriculture13071346 . . . . 94
+- Josinaldo Lopes Araujo, Jackson de Mesquita Alves, Railene Hérica Carlos Rocha,
+- José Zilton Lopes Santos, Rodolfo dos Santos Barbosa, Francisco Marcelo Nascimento
+- da Costa, et al.
+- Beneﬁcial Microorganisms Affect Soil Microbiological Activity and Corn Yield under
+- Deﬁcit Irrigation
+- Reprinted from: Agriculture 2023, 13, 1169, https://doi.org/10.3390/agriculture13061169 . . . . 108
+- Kleane Targino Oliveira Pereira, Salvador Barros Torres, Emanoela Pereira de Paiva, Tatianne
+- Raianne Costa Alves, Maria Lilia de Souza Neta, Jefferson Bittencourt Venâncio, et al.
+- Discontinuous Hydration Cycles with Elicitors Improve Germination, Growth,
+- Osmoprotectant, and Salt Stress Tolerance in Zea mays L.
+- Reprinted from: Agriculture 2023, 13, 964, https://doi.org/10.3390/agriculture13050964 . . . . . 127
+-                                                          v
+- Gabriela Carvalho Maia de Queiroz, José Francismar de Medeiros, Rodrigo Rafael da Silva,
+- Francimar Maik da Silva Morais, Leonardo Vieira de Sousa, Maria Vanessa Pires
+- de Souza, et al.
+- Growth, Solute Accumulation, and Ion Distribution in Sweet Sorghum under Salt and Drought
+- Stresses in a Brazilian Potiguar Semiarid Area
+- Reprinted from: Agriculture 2023, 13, 803, https://doi.org/10.3390/agriculture13040803 . . . . . 141
+- Elias Ariel Moura, Vander Mendonça, Vladimir Batista Figueirêdo, Luana Mendes Oliveira,
+- Marlenildo Ferreira Melo, Toni Halan Silva Irineu, et al.
+- Irrigation Depth and Potassium Doses Affect Fruit Yield and Quality of Figs (Ficus carica L.)
+- Reprinted from: Agriculture 2023, 13, 640, https://doi.org/10.3390/agriculture13030640 . . . . . 163
+- Luca Nerva, Walter Chitarra, Gianni Fila, Lorenzo Lovat and Federica Gaiotti
+- Variability in Stomatal Adaptation to Drought among Grapevine Cultivars:
+- Genotype-Dependent Responses
+- Reprinted from: Agriculture 2023, 13, 2186, https://doi.org/10.3390/agriculture13122186 . . . . 179
+-                                                  vi
+- About the Editors
+- Francisco Vanies da Silva Sá
+-     Professor Dr. Francisco Vanies da Silva Sá holds PhDs in Agricultural Engineering and Agronomy;
+- a Master’s degree in Soil and Water Management; and a Bachelor’s degree in Agronomy. He has
+- a Post-Doc in Agricultural Engineering and in Soil and Water Management. He is a Professor
+- at the State University of Paraı́ba, a Professor of the Postgraduate Program in Agrarian Science,
+- and a Collaborating Professor of the Postgraduate Program in Soil and Water Management of the
+- Federal Rural University of the Semi-Arid Region. He has experience in Agricultural Engineering
+- and Agronomy.

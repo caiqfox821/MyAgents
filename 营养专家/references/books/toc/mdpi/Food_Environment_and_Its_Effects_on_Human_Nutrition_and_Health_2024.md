@@ -1,0 +1,79 @@
+# Food Environment and Its Effects on Human Nutrition and Health (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2026-9
+- 页数: 256
+- 全文: `text/mdpi/Food_Environment_and_Its_Effects_on_Human_Nutrition_and_Health_2024.txt`
+- 标签: 微量营养素, 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Alicia del Carmen Mondragon Portocarrero and Jose Manuel Miranda Lopez
+- Food Environment and Its Effects on Human Nutrition and Health
+- Reprinted from: Nutrients 2024, 16, 1733, doi:10.3390/nu16111733 . . . . . . . . . . . . . . . . . .          1
+- Bei Zhou, Yupeng Zhang, Michael Hiesmayr, Xuejin Gao, Yingchun Huang, Sitong Liu, et al.
+- Dietary Provision, GLIM-Deﬁned Malnutrition and Their Association with Clinical Outcome:
+- Results from the First Decade of nutritionDay in China
+- Reprinted from: Nutrients 2024, 16, 569, doi:10.3390/nu16040569 . . . . . . . . . . . . . . . . . . .         6
+- Man Zhang, Ruixin Chi, Zhenhui Li, Yujie Fang, Na Zhang, Qiaoqin Wan and
+- Guansheng Ma
+- Different Dimensions of the Home Food Environment May Be Associated with the Body Mass
+- Index of Older Adults: A Cross-Sectional Survey Conducted in Beijing, China
+- Reprinted from: Nutrients 2024, 16, 289, doi:10.3390/nu16020289 . . . . . . . . . . . . . . . . . . . 19
+- Cindy Needham, Claudia Strugnell, Steven Allender, Laura Alston and Liliana Orellana
+- BMI and the Food Retail Environment in Melbourne, Australia: Associations and Temporal
+- Trends
+- Reprinted from: Nutrients 2023, 15, 4503, doi:10.3390/nu15214503 . . . . . . . . . . . . . . . . . . 33
+- Happy Kurnia Permatasari, Queen Intan Permatasari, Nurpudji Astuti Taslim,
+- Dionysius Subali, Rudy Kurniawan, Reggie Surya, et al.
+- Revealing Edible Bird Nest as Novel Functional Foods in Combating Metabolic Syndrome:
+- Comprehensive In Silico, In Vitro, and In Vivo Studies
+- Reprinted from: Nutrients 2023, 15, 3886, doi:10.3390/nu15183886 . . . . . . . . . . . . . . . . . . 46
+- Laura Sinisterra-Loaiza, Patricia Alonso-Lovera, Alejandra Cardelle-Cobas, Jose Manuel
+- Miranda, Beatriz I. Vázquez and Alberto Cepeda
+- Compliance with Nutritional Recommendations and Gut Microbiota Proﬁle in Galician
+- Overweight/Obese and Normal-Weight Individuals
+- Reprinted from: Nutrients 2023, 15, 3418, doi:10.3390/nu15153418 . . . . . . . . . . . . . . . . . . 64
+- Afshin Zand, Sodbuyan Enkhbilguun, John M. Macharia, Ferenc Budán, Zoltán Gyöngyi
+- and Timea Varjas
+- Tartrazine Modiﬁes the Activity of DNMT and HDAC Genes—Is This a Link between Cancer
+- and Neurological Disorders?
+- Reprinted from: Nutrients 2023, 15, 2946, doi:10.3390/nu15132946 . . . . . . . . . . . . . . . . . . 83
+- Sunmin Park and Meiling Liu
+- A Positive Causal Relationship between Noodle Intake and Metabolic Syndrome:
+- A Two-Sample Mendelian Randomization Study
+- Reprinted from: Nutrients 2023, 15, 2091, doi:10.3390/nu15092091 . . . . . . . . . . . . . . . . . . 95
+- Fahrul Nurkolis, Nurpudji Astuti Taslim, Dionysius Subali, Rudy Kurniawan, Hardinsyah
+- Hardinsyah, William Ben Gunawan, et al.
+- Dietary Supplementation of Caulerpa racemosa Ameliorates Cardiometabolic Syndrome via
+- Regulation of PRMT-1/DDAH/ADMA Pathway and Gut Microbiome in Mice
+- Reprinted from: Nutrients 2023, 15, 909, doi:10.3390/nu15040909 . . . . . . . . . . . . . . . . . . . 115
+-                                                        v
+- Eva Valenčič, Emma Beckett, Clare E. Collins, Barbara Koroušić Seljak and Tamara Bucher
+- SnackTrack—An App-Based Tool to Assess the Inﬂuence of Digital and Physical Environments
+- on Snack Choice
+- Reprinted from: Nutrients 2023, 15, 349, doi:10.3390/nu15020349 . . . . . . . . . . . . . . . . . . . 134
+- Elisa Martino, Nunzia D’Onofrio, Anna Balestrieri, Antonino Colloca, Camilla Anastasio,
+- Celestino Sardu, et al.
+- Dietary Epigenetic Modulators: Unravelling the Still-Controversial Beneﬁts of miRNAs in
+- Nutrition and Disease
+- Reprinted from: Nutrients 2024, 16, 160, doi:10.3390/nu16010160 . . . . . . . . . . . . . . . . . . . 147
+- Zahra A. Padhani, Bernardette Cichon, Jai K. Das, Rehana A. Salam, Heather C. Stobaugh,
+- Muzna Mughal, et al.
+- Systematic Review of Management of Moderate Wasting in Children over 6 Months of Age
+- Reprinted from: Nutrients 2023, 15, 3781, doi:10.3390/nu15173781 . . . . . . . . . . . . . . . . . . 169
+- Aroa Lopez-Santamarina, Alicia del Carmen Mondragon, Alejandra Cardelle-Cobas,
+- Eva Maria Santos, Jose Julio Porto-Arias, Alberto Cepeda and Jose Manuel Miranda
+- Effects of Unconventional Work and Shift Work on the Human Gut Microbiota and the Potential
+- of Probiotics to Restore Dysbiosis
+- Reprinted from: Nutrients 2023, 15, 3070, doi:10.3390/nu15133070 . . . . . . . . . . . . . . . . . . 187
+- Timothy D. Nelson and Eric Stice
+- Contextualizing the Neural Vulnerabilities Model of Obesity
+- Reprinted from: Nutrients 2023, 15, 2988, doi:10.3390/nu15132988 . . . . . . . . . . . . . . . . . . 206
+- Shahrzad Ezzatpour, Alicia del Carmen Mondragon Portocarrero, Alejandra Cardelle-Cobas,
+- Alexandre Lamas, Aroa López-Santamarina, José Manuel Miranda and Hector C. Aguilar
+- The Human Gut Virome and Its Relationship with Nontransmissible Chronic Diseases
+- Reprinted from: Nutrients 2023, 15, 977, doi:10.3390/nu15040977 . . . . . . . . . . . . . . . . . . . 222
+-                                                    vi
+- About the Editor

@@ -1,0 +1,80 @@
+# Antibiotic Residues, Antimicrobial Resistance and Intervention Strategies of Foodborne Pathogens (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0923-3
+- 页数: 192
+- 全文: `text/mdpi/Antibiotic_Residues_Antimicrobial_Resistance_and_Intervention_Strategies_of_Foodborne_Pathogens_2024.txt`
+- 标签: 兽药残留, 微生物危害
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Yongning Wu and Zhenling Zeng
+- Antibiotic Residues, Antimicrobial Resistance and Intervention Strategies of Foodborne
+- Pathogens
+- Reprinted from: Antibiotics 2024, 13, 321, doi:10.3390/antibiotics13040321 . . . . . . . . . . . . . .         1
+- Ning Han, Jie Li, Peng Wan, Yu Pan, Tiantian Xu and Wenguang Xiong et al.
+- Co-Existence of Oxazolidinone Resistance Genes cfr(D) and optrA on Two Streptococcus parasuis
+- Isolates from Swine
+- Reprinted from: Antibiotics 2023, 12, 825, doi:10.3390/antibiotics12050825 . . . . . . . . . . . . . .         8
+- Patrick Muinde, John Maina, Kelvin Momanyi, Victor Yamo, John Mwaniki and John Kiiru
+- Antimicrobial Resistant Pathogens Detected in Raw Pork and Poultry Meat in Retailing Outlets
+- in Kenya
+- Reprinted from: Antibiotics 2023, 12, 613, doi:10.3390/antibiotics12030613 . . . . . . . . . . . . . . 18
+- Nicholas Bor, Alessandro Seguino, Derrick Noah Sentamu, Dorcas Chepyatich, James M.
+- Akoko and Patrick Muinde et al.
+- Prevalence of Antibiotic Residues in Pork in Kenya and the Potential of Using Gross
+- Pathological Lesions as a Risk-Based Approach to Predict Residues in Meat
+- Reprinted from: Antibiotics 2023, 12, 492, doi:10.3390/antibiotics12030492 . . . . . . . . . . . . . . 29
+- Yi-Yun Liu, Zong-Hua Qin, Hui-Ying Yue, Phillip J. Bergen, Li-Min Deng and Wan-Yun He
+- et al.
+- Synergistic Effects of Capric Acid and Colistin against Colistin-Susceptible and
+- Colistin-Resistant Enterobacterales
+- Reprinted from: Antibiotics 2022, 12, 36, doi:10.3390/antibiotics12010036 . . . . . . . . . . . . . . 40
+- Shaofei Yan, Xiaofan Zhang, Xiaofang Jia, Jiguo Zhang, Xiaomin Han and Chang Su et al.
+- Characterization of the Composition Variation of Healthy Human Gut Microbiome in
+- Correlation with Antibiotic Usage and Yogurt Consumption
+- Reprinted from: Antibiotics 2022, 11, 1827, doi:10.3390/antibiotics11121827 . . . . . . . . . . . . . 46
+- Dennis Carhuaricra, Carla G. Duran Gonzales, Carmen L. Rodrı́guez Cueva, Yennifer
+- Ignacion León, Thalia Silvestre Espejo and Geraldine Marcelo Monge et al.
+- Occurrence and Genomic Characterization of mcr-1-Harboring Escherichia coli Isolates from
+- Chicken and Pig Farms in Lima, Peru
+- Reprinted from: Antibiotics 2022, 11, 1781, doi:10.3390/antibiotics11121781 . . . . . . . . . . . . . 55
+- Xin Mao, Xiaozhen Zhou, Jun He, Gongzhen Liu, Huihui Liu and Han Zhao et al.
+- Metabolism Profile of Mequindox in Sea Cucumbers In Vivo Using LC-HRMS
+- Reprinted from: Antibiotics 2022, 11, 1599, doi:10.3390/antibiotics11111599 . . . . . . . . . . . . . 65
+- Tingting Cao, Yajie Guo, Dan Wang, Zhiyang Liu, Suli Huang and Changfeng Peng et al.
+- Effect of Phorate on the Development of Hyperglycaemia in Mouse and Resistance Genes in
+- Intestinal Microbiota
+- Reprinted from: Antibiotics 2022, 11, 1584, doi:10.3390/antibiotics11111584 . . . . . . . . . . . . . 75
+- Zhixin Fei, Shufeng Song, Xin Yang, Dingguo Jiang, Jie Gao and Dajin Yang
+- Occurrence and Risk Assessment of Fluoroquinolone Residues in Chicken and Pork in China
+- Reprinted from: Antibiotics 2022, 11, 1292, doi:10.3390/antibiotics11101292 . . . . . . . . . . . . . 85
+-                                                        v
+- Huixian Liang, Xinhui Li and He Yan
+- Identification of a Novel IncHI1B Plasmid in MDR Klebsiella pneumoniae 200 from Swine in China
+- Reprinted from: Antibiotics 2022, 11, 1225, doi:10.3390/antibiotics11091225 . . . . . . . . . . . . . 96
+- Alvin C. Alvarado, Samuel M. Chekabab, Bernardo Z. Predicala and Darren R. Korber
+- Impact of Raised without Antibiotics Measures on Antimicrobial Resistance and Prevalence of
+- Pathogens in Sow Barns
+- Reprinted from: Antibiotics 2022, 11, 1221, doi:10.3390/antibiotics11091221 . . . . . . . . . . . . . 107
+- Weishuai Zhai, Yingxin Tian, Dongyan Shao, Muchen Zhang, Jiyun Li and Huangwei Song
+- et al.
+- Fecal Carriage of Escherichia coli Harboring the tet(X4)-IncX1 Plasmid from a Tertiary Class-A
+- Hospital in Beijing, China
+- Reprinted from: Antibiotics 2022, 11, 1068, doi:10.3390/antibiotics11081068 . . . . . . . . . . . . . 120
+- Qiyan Chen, Zhiyu Zou, Chang Cai, Hui Li, Yang Wang and Lei Lei et al.
+- Characterization of blaNDM-5 -and blaCTX-M-199 -Producing ST167 Escherichia coli Isolated from
+- Shared Bikes
+- Reprinted from: Antibiotics 2022, 11, 1030, doi:10.3390/antibiotics11081030 . . . . . . . . . . . . . 132
+- Zengfeng Zhang, Xiaorong Tian and Chunlei Shi
+- Global Spread of MCR-Producing Salmonella enterica Isolates
+- Reprinted from: Antibiotics 2022, 11, 998, doi:10.3390/antibiotics11080998 . . . . . . . . . . . . . . 142
+- Senlin Zhang, Honghu Sun, Guangjie Lao, Zhiwei Zhou, Zhuochong Liu and Jiong Cai et
+- al.
+- Identification of Mobile Colistin Resistance Gene mcr-10 in Disinfectant and Antibiotic Resistant
+- Escherichia coli from Disinfected Tableware
+- Reprinted from: Antibiotics 2022, 11, 883, doi:10.3390/antibiotics11070883 . . . . . . . . . . . . . . 153
+- Jing Cao, Yajie Wang, Guanzhao Wang, Pingping Ren, Yongning Wu and Qinghua He
+- Effects of Typical Antimicrobials on Growth Performance, Morphology and Antimicrobial
+- Residues of Mung Bean Sprouts

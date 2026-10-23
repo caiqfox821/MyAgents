@@ -1,0 +1,81 @@
+# Research on the Properties of Polysaccharides Starch Protein Pectin and Fibre in Food Processing (2023, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-9675-4
+- 页数: 586
+- 全文: `text/mdpi/Research_on_the_Properties_of_Polysaccharides_Starch_Protein_Pectin_and_Fibre_in_Food_Processing_2023.txt`
+- PDF: `mdpi/Research_on_the_Properties_of_Polysaccharides_Starch_Protein_Pectin_and_Fibre_in_Food_Processing_2023.pdf`
+- 标签: 多糖淀粉, 蛋白果胶, 食品加工
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- xi
+- Xin Qi, Yanjun Zhang, Hansong Yu and Jianhua Xie
+- Research on the Properties of Polysaccharides, Starch, Protein, Pectin, and Fibre in Food
+- Processing
+- Reprinted from: Foods 2023, 12, 249, doi:10.3390/foods12020249 . . . . . . . . . . . . . . . . . . .
+- 1
+- Xiaohu Zhou, Chaohua Zhang, Liangzhong Zhao, Xiaojie Zhou, Wenhong Cao
+- and Chunxia Zhou
+- Effect of Pre-Emulsion of Pea-Grass Carp Co-Precipitation Dual Protein on the Gel Quality of
+- Fish Sausage
+- Reprinted from: Foods 2022, 11, 3192, doi:10.3390/foods11203192 . . . . . . . . . . . . . . . . . . .
+- 9
+- Xixiang Shuai, Lizhi Gao, Qin Geng, Ti Li, Xuemei He, Jun Chen, et al.
+- Effects of Moderate Enzymatic Hydrolysis on Structure and Functional Properties of Pea Protein
+- Reprinted from: Foods 2022, 11, 2368, doi:10.3390/foods11152368 . . . . . . . . . . . . . . . . . . . 25
+- Aneta Ocieczek, Dominika Mesinger and Henryk Toczek
+- Hygroscopic Properties of Three Cassava (Manihot esculenta Crantz) Starch Products:
+- Application of BET and GAB Models
+- Reprinted from: Foods 2022, 11, 1966, doi:10.3390/foods11131966 . . . . . . . . . . . . . . . . . . . 43
+- Lucia Ferron, Chiara Milanese, Raffaella Colombo, Raffaele Pugliese and Adele Papetti
+- A New Polysaccharide Carrier Isolated from Camelina Cake: Structural Characterization,
+- Rheological Behavior, and Its Inﬂuence on Purple Corn Cob Extract’s Bioaccessibility
+- Reprinted from: Foods 2022, 11, 1736, doi:10.3390/foods11121736 . . . . . . . . . . . . . . . . . . . 57
+- Taotao Dai, Xiaohong He, Jiahui Xu, Qin Geng, Changhong Li, Jian Sun, et al.
+- Effects of Betanin on Pasting, Rheology and Retrogradation Properties of Different Starches
+- Reprinted from: Foods 2022, 11, 1600, doi:10.3390/foods11111600 . . . . . . . . . . . . . . . . . . . 73
+- Xiu-Xiu Zhang, Bu-Yan Liao, Zi-Jing Guan, Kiran Thakur, Mohammad Rizwan Khan,
+- Rosa Busquets, et al.
+- Interaction between Gelatin and Mulberry Leaf Polysaccharides in Miscible System:
+- Physicochemical Characteristics and Rheological Behavior
+- Reprinted from: Foods 2022, 11, 1571, doi:10.3390/foods11111571 . . . . . . . . . . . . . . . . . . . 87
+- Tong Liu, Junbo Li, Qilong Tang, Peng Qiu, Dongxia Gou and Jun Zhao
+- Chitosan-Based Materials: An Overview of Potential Applications in Food Packaging
+- Reprinted from: Foods 2022, 11, 1490, doi:10.3390/foods11101490 . . . . . . . . . . . . . . . . . . . 103
+- Yang He, Dongxia Chen, Yuheng Liu, Xiaozhen Sun, Wenrui Guo, Lingyu An, et al.
+- Protective Effect and Mechanism of Soybean Insoluble Dietary Fiber on the Color Stability of
+- Malvidin-3-O-glucoside
+- Reprinted from: Foods 2022, 11, 1474, doi:10.3390/foods11101474 . . . . . . . . . . . . . . . . . . . 121
+- Tianfu Cheng, Caihua Liu, Zhaodong Hu, Zhongjiang Wang and Zengwang Guo
+- Effects of γ-Irradiation on Structure and Functional Properties of Pea Fiber
+- Reprinted from: Foods 2022, 11, 1433, doi:10.3390/foods11101433 . . . . . . . . . . . . . . . . . . . 135
+- v
+- Hongliang Fan, Ying Zhang, Mohammed Sharif Swallah, Sainan Wang, Jiarui Zhang,
+- Jiaqi Fang, et al.
+- Structural Characteristics of Insoluble Dietary Fiber from Okara with Different Particle Sizes
+- and Their Prebiotic Effects in Rats Fed High-Fat Diet
+- Reprinted from: Foods 2022, 11, 1298, doi:10.3390/foods11091298 . . . . . . . . . . . . . . . . . . . 151
+- Zhedong Li, Wenhao Xiao, Jianhua Xie, Yi Chen, Qiang Yu, Weidong Zhang
+- and Mingyue Shen
+- Isolation, Characterization and Antioxidant Activity of Yam Polysaccharides
+- Reprinted from: Foods 2022, 11, 800, doi:10.3390/foods11060800 . . . . . . . . . . . . . . . . . . . 171
+- Xingfen He, Bin Wang, Baotang Zhao and Fumin Yang
+- Ultrasonic Assisted Extraction of Quinoa (Chenopodium quinoa Willd.) Protein and Effect of Heat
+- Treatment on Its In Vitro Digestion Characteristics
+- Reprinted from: Foods 2022, 11, 771, doi:10.3390/foods11050771 . . . . . . . . . . . . . . . . . . . 183
+- Xiaohong He, Taotao Dai, Jian Sun, Ruihong Liang, Wei Liu, Mingshun Chen, et al.
+- Disintegrating the Structure and Improving the Functionalities of Pea Fiber by Industry-Scale
+- Microﬂuidizer System
+- Reprinted from: Foods 2022, 11, 418, doi:10.3390/foods11030418 . . . . . . . . . . . . . . . . . . . 199
+- Zizi Hu, Xiaomei Sha, Lu Zhang, Sheng Huang and Zongcai Tu
+- Effect of Grass Carp Scale Collagen Peptide FTGML on cAMP-PI3K/Akt and MAPK Signaling
+- Pathways in B16F10 Melanoma Cells and Correlation between Anti-Melanin and Antioxidant
+- Properties
+- Reprinted from: Foods 2022, 11, 391, doi:10.3390/foods11030391 . . . . . . . . . . . . . . . . . . . 213
+- Xuechun Zhang, Xi Yang, Yunqian Li, Zhenxing Wang, Xuemei He and Jian Sun
+- Effect of Peroxyl Radical-Induced Oxidation on Functional and Structural Characteristics of
+- Walnut Protein Isolates Revealed by High-Resolution Mass Spectrometry

@@ -1,0 +1,78 @@
+# Integrated Pest Management in Horticulture (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-3710-6
+- 页数: 142
+- 全文: `text/crops/Integrated_Pest_Management_in_Horticulture_2025.txt`
+- PDF: `crops/Integrated_Pest_Management_in_Horticulture_2025.pdf`
+- 标签: 植保, IPM, 园艺作物
+
+## 目录 (Contents)
+
+- Małgorzata Tartanus and Eligio Malusà
+- Drivers of and Barriers to the Implementation of Integrated Pest Management in Horticultural
+- Crops
+- Reprinted from: Horticulturae 2024, 10, 626, https://doi.org/10.3390/horticulturae10060626 . . .    1
+- Syed Arif Hussain Rizvi, Laila A. Al-Shuraym, Mariam S. Al-Ghamdi, Fahd Mohammed
+- Abd Al Galil, Fahd A. Al-Mekhlaﬁ, Mohamed Wadaan and Waqar Jaleel
+- Evaluation of Artemisia absinthium L. Essential Oil as a Potential Novel Prophylactic against the
+- Asian Citrus Psyllid Diaphorina citri Kuwayama
+- Reprinted from: Horticulturae 2023, 9, 758, https://doi.org/10.3390/horticulturae9070758 . . . .    4
+- José Alfonso Gómez-Guzmán, José M. Herrera, Vanesa Rivera, Sı́lvia Barreiro, José
+- Muñoz-Rojas, Roberto Garcı́a-Ruiz and Ramón González-Ruiz
+- A Comparison of IPM and Organic Farming Systems Based on the Efﬁciency of Oophagous
+- Predation on the Olive Moth (Prays oleae Bernard) in Olive Groves of Southern Iberia
+- Reprinted from: Horticulturae 2022, 8, 977, https://doi.org/10.3390/horticulturae8100977 . . . . 18
+- Randa Mahmoudi, Malik Laamari and Arturo Goldarazena
+- Assessment of Thrips Diversity Associated with Two Olive Varieties (Chemlal & Sigoise), in
+- Northeast Algeria
+- Reprinted from: Horticulturae 2023, 9, 107, https://doi.org/10.3390/horticulturae9010107 . . . . 32
+- András Lajos Juhász, Márk Szalai and Ágnes Szénási
+- Assessing the Impact of Variety, Irrigation, and Plant Distance on Predatory and Phytophagous
+- Insects in Chili
+- Reprinted from: Horticulturae 2022, 8, 741, https://doi.org/10.3390/horticulturae8080741 . . . . 43
+- Fani Fauziah, Agus Dana Permana and Ahmad Faizal
+- Characterization of Volatile Compounds from Tea Plants (Camellia sinensis (L.) Kuntze) and the
+- Effect of Identiﬁed Compounds on Empoasca ﬂavescens Behavior
+- Reprinted from: Horticulturae 2022, 8, 623, https://doi.org/10.3390/horticulturae8070623 . . . . 55
+- Ahmed Soliman, Saleh Matar and Gaber Abo-Zaid
+- Production of Bacillus velezensis Strain GB1 as a Biocontrol Agent and Its Impact on Bemisia tabaci
+- by Inducing Systemic Resistance in a Squash Plant
+- Reprinted from: Horticulturae 2022, 8, 511, https://doi.org/10.3390/horticulturae8060511 . . . . 67
+- Secilia E. Mrosso, Patrick Alois Ndakidemi and Ernest R. Mbega
+- Farmers’ Knowledge on Whiteﬂy Populousness among Tomato Insect Pests and Their
+- Management Options in Tomato in Tanzania
+- Reprinted from: Horticulturae 2023, 9, 253, https://doi.org/10.3390/horticulturae9020253 . . . . 83
+- Małgorzata Tartanus, Barbara Sobieszek, Agnieszka Furmańczyk-Gnyp and Eligio Malusà
+- Integrated Control of Scales on Highbush Blueberry in Poland
+- Reprinted from: Horticulturae 2023, 9, 604, https://doi.org/10.3390/horticulturae9050604 . . . . 97
+- Lauren Helen Farwell, Greg Deakin, Adrian Lee Harris, Georgina Fagg, Thomas Passey,
+- Carol Verheecke-Vaessen, et al.
+- Cladosporium Species: The Predominant Species Present on Raspberries from the U.K. and Spain
+- and Their Ability to Cause Skin and Stigmata Infections
+- Reprinted from: Horticulturae 2023, 9, 128, https://doi.org/10.3390/horticulturae9020128 . . . . 111
+-                                                   v
+- Héctor G. Núñez-Palenius, Blanca E. Orosco-Alcalá, Isidro Espitia-Vázquez, Vı́ctor
+- Olalde-Portugal, Mariana Hoﬂack-Culebro, Luis F. Ramı́rez-Santoyo, et al.
+- Biological Control of Downy Mildew and Yield Enhancement of Cucumber Plants by
+- Trichoderma harzianum and Bacillus subtilis (Ehrenberg) under Greenhouse Conditions
+- Reprinted from: Horticulturae 2022, 8, 1133, https://doi.org/10.3390/horticulturae8121133 . . . 122
+-                                                 vi
+-              horticulturae
+- Editorial
+- Drivers of and Barriers to the Implementation of Integrated Pest
+- Management in Horticultural Crops
+- Małgorzata Tartanus and Eligio Malusà *
+-                                          The National Institute of Horticultural Research, 96-100 Skierniewice, Poland; malgorzata.tartanus@inhort.pl
+-                                          * Correspondence: eligio.malusa@inhort.pl
+-                                                Integrated pest management (IPM) aims to protect plants using methods that limit
+-                                          the use of pesticides, as well as other interventions, to levels that are economically and
+-                                          ecologically justiﬁed, thus reducing the negative impact of crop protection on humans and
+-                                          the environment [1]. The adoption of IPM has been successful in fruit and protected crops,
+-                                          but remains marginal in other crops [2].
+-                                                The routine monitoring of pests, the application of pest population thresholds, and
+-                                          the rational use of pesticides are the major pillars upon which IPM is based. Adequate pest
+-                                          monitoring systems using innovative tools, such as automated insect/spore traps [3] or fore-
+-                                          casting systems [4], are currently available and are critical for the correct implementation
+-                                          of IPM. Tools predicting the dynamics of harmful organisms, including epidemiological
+-                                          models, have been developed to provide decision support systems (DSSs) that integrate

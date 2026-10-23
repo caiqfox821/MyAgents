@@ -1,0 +1,80 @@
+# Cardiovascular and Metabolic Disease (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7427-9
+- 页数: 612
+- 全文: `text/mdpi/Cardiovascular_and_Metabolic_Disease_2026.txt`
+- 标签: 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Alfredo Caturano
+- Cardiovascular and Metabolic Disease: New Treatment and Future Directions—The 3rd Edition
+- Reprinted from: Biomedicines 2025, 13, 1914, https://doi.org/10.3390/biomedicines13081914 . .                  1
+- Alexander E. Berezin, Tetiana A. Berezina, Evgen V. Novikov and Oleksandr O. Berezin
+- Serum Levels of Irisin Are Positively Associated with Improved Cardiac Function in Patients
+- with Heart Failure with Reduced Ejection Fraction
+- Reprinted from: Biomedicines 2025, 13, 866, https://doi.org/10.3390/biomedicines13040866 . . . 11
+- Irene Martínez-García, Alicia Saz-Lara, Carlos Pascual-Morena, Ana Díez-Fernández, Sara
+- Valladolid-Ayllón, Bruno Bizzozero-Peroni, et al.
+- Role of Advanced Glycation End Products in Mediating Glycated Haemoglobin and Pulse Wave
+- Velocity in Healthy Adults
+- Reprinted from: Biomedicines 2025, 13, 137, https://doi.org/10.3390/biomedicines13010137 . . . 29
+- Caitlin P. S. Ellis, Benjamin W. Tero, Christian M. Potts, Kimberly T. Malka, Xuehui Yang,
+- Joshua Hamilton, et al.
+- Cellular Characteristics and Protein Signatures of Human Adipose Tissues from Donors With
+- or Without Advanced Coronary Artery Disease
+- Reprinted from: Biomedicines 2024, 12, 2453, https://doi.org/10.3390/biomedicines12112453 . . 45
+- Kareem Awad, Laura Kakkola and Ilkka Julkunen
+- High Glucose Increases Lactate and Induces the Transforming Growth Factor Beta-Smad 1/5
+- Atherogenic Pathway in Primary Human Macrophages
+- Reprinted from: Biomedicines 2024, 12, 1575, https://doi.org/10.3390/biomedicines12071575 . . 69
+- Isabella D. Cooper, Yvoni Kyriakidou, Lucy Petagine, Kurtis Edwards, Adrian Soto-Mota,
+- Kenneth Brookler and Bradley T. Elliott
+- Ketosis Suppression and Ageing (KetoSAge) Part 2: The Effect of Suppressing Ketosis on
+- Biomarkers Associated with Ageing, HOMA-IR, Leptin, Osteocalcin, and GLP-1, in Healthy
+- Females
+- Reprinted from: Biomedicines 2024, 12, 1553, https://doi.org/10.3390/biomedicines12071553 . . 81
+- Manjula Nandakumar, Thozhukat Sathyapalan, Stephen L. Atkin and Alexandra E. Butler
+- Effect of Hypoglycemia and Rebound Hyperglycemia on Proteomic Cardiovascular Risk
+- Biomarkers
+- Reprinted from: Biomedicines 2024, 12, 1137, https://doi.org/10.3390/biomedicines12061137 . . 104
+- Jazmine A. Eccles-Miller, Tyler D. Johnson and William S. Baldwin
+- Sexually Dimorphic Effects of CYP2B6 in the Development of Fasting-Mediated Steatosis in
+- Mice: Role of the Oxylipin Products 9-HODE and 9-HOTrE
+- Reprinted from: Biomedicines 2025, 13, 295, https://doi.org/10.3390/biomedicines13020295 . . . 112
+- Jan Soukop, Ludmila Kazdová, Martina Hüttl, Hana Malínská, Irena Marková, Olena
+- Oliyarnyk, et al.
+- Beneﬁcial Effect of Fenoﬁbrate in Combination with Silymarin on Parameters of Hereditary
+- Hypertriglyceridemia-Induced Disorders in an Animal Model of Metabolic Syndrome
+- Reprinted from: Biomedicines 2025, 13, 212, https://doi.org/10.3390/biomedicines13010212 . . . 141
+-                                                        v
+- Balázs Sági, Tibor Vas, Botond Csiky, Judit Nagy and Tibor József Kovács
+- Does Metabolic Syndrome and Its Components Have Prognostic Signiﬁcance for Renal and
+- Cardiovascular Outcomes in IgA Nephropathy?
+- Reprinted from: Biomedicines 2024, 12, 1250, https://doi.org/10.3390/biomedicines12061250 . . 162
+- Ruike Yan and Yanli Cao
+- The Safety and Efﬁcacy of Dietary Epigallocatechin Gallate Supplementation for the
+- Management of Obesity and Non-Alcoholic Fatty Liver Disease: Recent Updates
+- Reprinted from: Biomedicines 2025, 13, 206, https://doi.org/10.3390/biomedicines13010206 . . . 180
+- Ferenc Sztanek, László Imre Tóth, Attila Pető, Marcell Hernyák, Ágnes Diószegi and
+- Mariann Harangi
+- New Developments in Pharmacological Treatment of Obesity and Type 2 Diabetes—Beyond
+- and within GLP-1 Receptor Agonists
+- Reprinted from: Biomedicines 2024, 12, 1320, https://doi.org/10.3390/biomedicines12061320 . . 199
+- Salvatore Nesci and Speranza Rubattu
+- UCP2, a Member of the Mitochondrial Uncoupling Proteins: An Overview from Physiological
+- to Pathological Roles
+- Reprinted from: Biomedicines 2024, 12, 1307, https://doi.org/10.3390/biomedicines12061307 . . 220
+- Piotr Wańczura, Wiktoria Mytych, Dorota Bartusik-Aebisher, Dawid Leksa, Adrian
+- Truszkiewicz and David Aebisher
+- Visualization of Atherosclerotic Plaques Paired with Joheksol 350 (Omnipaque)
+- Reprinted from: Biomedicines 2025, 13, 399, https://doi.org/10.3390/biomedicines13020399 . . . 234
+- Narae Kim, Hui-Jeong Hwang and In-Ho Yang
+- Assessing Cardiovascular Risk with Coronary Artery Calcium and Carotid Intima-Media
+- Thickness in Patients with Negative Stress Echocardiography
+- Reprinted from: Biomedicines 2024, 12, 2151, https://doi.org/10.3390/biomedicines12092151 . . 253
+- Jaroslav Chlupac, Jan Frank, David Sedmera, Ondrej Fabian, Zuzana Simunkova,
+- Iveta Mrazova, et al.
+- External Support of Autologous Internal Jugular Vein Grafts with FRAME Mesh in a Porcine

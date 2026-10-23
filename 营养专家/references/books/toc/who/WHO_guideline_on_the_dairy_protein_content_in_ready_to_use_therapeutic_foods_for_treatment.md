@@ -1,0 +1,80 @@
+# WHO guideline on the dairy protein content in ready-to-use therapeutic foods for treatment of uncomplicated severe acute malnutrition (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/340686
+- 页数: 70
+- 全文: `text/who/WHO_guideline_on_the_dairy_protein_content_in_ready_to_use_therapeutic_foods_for_treatment.txt`
+- 标签: 营养不良
+
+## 目录 (Contents)
+
+- Publication history                                             vi
+- Acknowledgements                                               vii
+-       Financial support                                         vii
+- Abbreviations                                                  viii
+- Executive summary                                               ix
+-       Purpose of the guideline                                  ix
+-       Guideline development methodology                         ix
+-       Available evidence                                         x
+-       Recommendations and rationale                             xi
+-       Research gaps                                             xi
+- Scope and purpose                                                1
+- Background                                                       2
+-       The global burden of severe acute malnutrition             2
+-       History of RUTF                                            2
+-       Composition of RUTF                                        2
+-       Protein quality and quantity in RUTF                       3
+-       Alternative RUTF formulations                              3
+-       Why is it important for WHO to develop this guideline?     3
+-       Aim of the guideline                                       4
+-       Target audience                                            4
+-       Scope                                                      4
+-       Population of interest                                     5
+-       Priority questions                                         5
+-       Outcomes of interest                                       5
+-       Assessment of certainty of evidence                        6
+- Guideline development process                                    7
+-       WHO steering committee                                     7
+-       Guideline development group                                7
+-       Systematic review teams                                    8
+-       Management of conflicts of interests                       8
+-       Identification of priority questions and outcomes          9
+-       Evidence identification and retrieval                      9
+-                                                                            iii
+-                                                                       Contents
+-                     Quality assessment and grading of evidence                                           9
+-                     Formulating the recommendations                                                     10
+-                     Decision-making during the guideline development group meeting                      10
+-               Evidence summary                                                                          11
+-                     Summary of the evidence                                                             11
+-               Summary of the considerations                                                             25
+-                     Remarks                                                                             26
+-                     Recommendation                                                                      27
+-               Research gaps                                                                             28
+-               External peer review                                                                      30
+-               Implementation of the guideline                                                           31
+-                     Implementation considerations                                                       31
+-                     Regulatory considerations                                                           31
+-                     Monitoring and evaluation of guideline implementation                               31
+-               Dissemination and plans for updating                                                      32
+-                     Dissemination                                                                       32
+-                     Plans for updating the guideline                                                    32
+-               References                                                                                33
+-               Annexes
+-               Annex 1. Nutritional composition of RUTF                                                  37
+-               Annex 2. Key questions in a population, intervention, comparator and
+-                        outcomes (PICO) format                                                           38
+-               Annex 3. Characteristics of the trials included in the systematic review for
+-                        effectiveness outcomes                                                           39
+-               Annex 4. Evidence-to-decision tables                                                      40
+-               Annex 5. Guideline development group members                                              49
+-               Annex 6. Observers                                                                        50
+-               Annex 7. Systematic review team members                                                   51
+-               Annex 8. Peer reviewers                                                                   52
+-               Annex 9. WHO steering committee members                                                   53
+- iv
+- WHO guideline on the dairy protein content in RUTF for treatment of uncomplicated severe acute malnutrition
+- List of tables
+- Table 1.   GRADE evidence profile                                                     19
+- Table 2.   Standard RUTF formulation cost estimates (2013)                            23
+- Table 3.   UNICEF tender results for alternative versions of RUTF (2019)              23

@@ -1,0 +1,71 @@
+# Bioethanol Technologies (2020, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/10379
+- 页数: 158
+- 全文: `text/intechopen/Bioethanol_Technologies_2020.txt`
+- PDF: `intechopen/Bioethanol_Technologies_2020.pdf`
+- 标签: 生物乙醇, 生物制造
+
+## 目录 (Contents)
+
+- Preface                                                              XIII
+- Chapter 1                                                              1
+- Bioethanol Production: An Overview
+- by Ifeanyichukwu Edeh
+- Chapter 2                                                            23
+- Ethanol Production, Current Facts, Future Scenarios, and Techno-
+- Economic Assessment of Different Biorefinery Configurations
+- by Jesús David Coral Medina and Antonio Irineudo Magalhaes Jr
+- Chapter 3                                                             37
+- Bio-Ethanol Production from Fruit and Vegetable Waste by Using
+- Saccharomyces cerevisiae
+- by Mohammad Moneruzzaman Khandaker, Umar Aliyu Abdullahi,
+- Mahmoud Dogara Abdulrahman, Noor Afiza Badaluddin
+- and Khamsah Suryati Mohd
+- Chapter 4                                                             55
+- Comparative Analysis of Bioethanol Production from Different
+- Potential Biomass Sources in the Philippines
+- by Kristel M. Gatdula, Rex B. Demafelis and Butch G. Bataller
+- Chapter 5                                                             75
+- An Attempt in Blending Higher Volume of Ethanol with Diesel
+- for Replacing the Neat Diesel to Fuel Compression Ignition Engines
+- by Prabakaran Balasubramanian
+- Chapter 6                                                            101
+- Bioethanol-Diesel Blends Used in Diesel Engines and Vehicles
+- under Transient Operation
+- by Octavio Armas Vergel, Dolores Cárdenas, Reyes García-Contreras
+- and Carmen Mata
+- Chapter 7                                                            127
+- Occupational Health Issue in a 2G Bioethanol Production Plant
+- by Biancamaria Pietrangeli and Roberto Lauri
+-                                  Preface
+- Bioethanol is by far the most widely used biofuel for transportation worldwide.
+- Bioethanol fuel has an important role in the field of environmental conservation by
+- mitigating global warming, providing energy independence, offering new employ-
+- ment possibilities, and conserving fossil fuels. The demand for first-generation bio-
+- ethanol (1G), produced mainly from agricultural crops, has continued to increase
+- significantly over the past few years. These biofuels are derived mainly from edible
+- food crops such as rice, wheat, barley, potato, corn, maize, sugarcane, starch-rich
+- crops, and vegetable oil, for example, soybean oil, sunflower oil, olive oil, canola oil,
+- mustard oil, and so on. Bioethanol is produced from these first-generation biofuels
+- through fermentation. Second-generation bioethanol (2G) is the main feedstock
+- for bioethanol production, which includes switchgrass, straw, cellulose, corn stover,
+- and lignocellulosic biomass. Second-generation bioethanol are fuels that can be
+- manufactured from various types of biomass. A major effort has begun to develop
+- alternative ethanol feedstock using crop residues, forest by-products, perennial
+- grasses, and other forms of plant biomass that are collectively termed “lignocellu-
+- losics.” Lignocellulosic biomass can be broadly classified into virgin biomass, waste
+- biomass (corn stover and straw included), and energy crops (switchgrass included).
+- Second-generation bioethanol is produced from non-food crops such as wood,
+- organic waste, food crop waste, and specific biomass crops. Second-generation
+- bioethanol is more cost-competitive in comparison with existing fossil fuels.
+- Third-generation bioethanol (3G) is the main feedstock for bioethanol production,
+- represented by microalgae. Successful microalgae-production systems are the key
+- to the development of the third bioethanol generation, as they could provide an
+- alternative to one of the most difficult problems of large-scale biomass production
+- deployment. Further, algae are the fastest-growing plants on earth. Improving the
+- quality of air is one of the most important functions of bioethanol. When added
+- to fuel, bioethanol reduces the use of cancer-causing gasoline compounds such as
+- ethylbenzene, xylene, toluene, and benzene. It also reduces the emissions of small
+- particulates and soot from motor fuels as well as greenhouse gas emissions. Fourth-

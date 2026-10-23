@@ -1,0 +1,81 @@
+# Bioactive Compounds in Foods and Their ByProducts (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 356
+- 全文: `text/mdpi/Bioactive_Compounds_in_Foods_and_Their_ByProducts_2026.txt`
+- PDF: `mdpi/Bioactive_Compounds_in_Foods_and_Their_ByProducts_2026.pdf`
+- 标签: 生物活性, 副产物, 功能食品
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Irene Dini
+- Bioactive Compounds, Food Fermentation, and Sustainable Valorization: Advances, Gaps, and
+- Future Directions
+- Reprinted from: Molecules 2026, 31, 2115, https://doi.org/10.3390/molecules31122115 . . . . . .
+- 1
+- Elena Roxana Margarit, Andreea Antonia Georgescu, Elena Corina Popescu, Aslıhan Tüğen
+- and Claudia Lavinia Buruleanu
+- Application of Broccoli Stalk Powder in Bread Formulations
+- Reprinted from: Molecules 2026, 31, 1414, https://doi.org/10.3390/molecules31091414 . . . . . .
+- 6
+- Jhazmin Quizhpe, Rocío Peñalver, Pablo Ayuso and Gema Nieto
+- Nutritionally Improved Gluten-Free Breads Fortiﬁed with Soluble Fiber and Bioactive
+- Compounds from Artichoke and Broccoli By-Products
+- Reprinted from: Molecules 2026, 31, 152, https://doi.org/10.3390/molecules31010152 . . . . . . 28
+- Génica Lawrence, Ingrid Marchaux, Ewa Pejcz, Agata Wojciechowicz-Budzisz,
+- RemigiuszOl˛edzki,AdamZaj˛
+- ac,etal.
+- PrescreeningofMango(MangiferaindicaL.)LeavesasaPotentialFunctionalFoodIngredient:
+- Techno-FunctionalandAntioxidativeCharacteristics
+- Reprinted from: Molecules 2025, 30, 3381, https://doi.org/10.3390/molecules30163381 . . . . . . 45
+- Rafał Ziobro, Dorota Gumul, Renata Sabat, Anna Wywrocka-Gurgul and Tomasz Zi˛eba
+- Effect of Addition Levels of By-Product Mixture (Apple Pomace: Red Potato Pulp: Sugar Beet
+- Pulp) on Phytochemical Proﬁle, Antioxidant Activity and Physical Properties of Extruded Corn
+- Snacks
+- Reprinted from: Molecules 2026, 31, 1037, https://doi.org/10.3390/molecules31061037 . . . . . . 63
+- Graciela Gavia-García, David Hernández-Álvarez, Taide Laurita Arista-Ugalde,
+- ItzenAguiñiga-Sánchez,EdelmiroSantiago-Osorio,JorgeCadena-Iñiguez,etal.
+- Sechium edule var. nigrum spinosum (Chayote) Increases the mRNA Expression of Genes
+- EncodingSirtuinsinOlderAdultswithType2DiabetesMellitus
+- Reprinted from: Molecules 2026, 31, 1182, https://doi.org/10.3390/molecules31071182 . . . . . . 81
+- RayeneBouaita,RandaDjemil,SamiraBouhalit,SabrinaLekmine,OuidedBenslama,
+- SaberBoutellaa,etal.
+- Phytochemistry and In Vitro Bioactivities of Elaeagnus angustifolia L. Leaves: Inﬂuenceof
+- SolventPolarity,AntioxidantProperties,andα-AmylaseInhibition
+- Reprinted from: Molecules 2026, 31, 861, https://doi.org/10.3390/molecules31050861 . . . . . . 97
+- Yousra Boutora, Samira Boussekine, Ouided Benslama, Sabrina Lekmine, Nedjwa Mansouri,
+- Nabil Touzout, et al.
+- Bioactive Potential and COX-2 Interaction of Ajuga iva (L.) Schreb. Hydroalcoholic Extract:
+- Evidence from Experimental and Computational Studies
+- Reprinted from: Molecules 2026, 31, 496, https://doi.org/10.3390/molecules31030496 . . . . . . 120
+- v
+- Ye-Lim You, Ha-Jun Byun, Namgil Kang, Min Soo Lee, Jeong-In Lee, Ilbum Park and
+- Hyeon-Son Choi
+- Standardized Hydroxytyrosol-Enriched Olive Pomace Juice Modulates Metabolic and
+- Neurotrophic Signaling Pathways to Attenuate Neuroinﬂammation and Protect Neuronal Cells
+- Reprinted from: Molecules 2026, 31, 336, https://doi.org/10.3390/molecules31020336 . . . . . . 136
+- Yu-Young Lee, In-Su Na, Jeong-Eun Kim, Jae-Gwang Song, Chae-Eun Han,
+- Hyung-WookKimandSoon-MiShim
+- StandardizationofGerminatedOatExtractsandTheirNeuroprotectiveEffectsAgainstAβ1-42
+- InducedCytotoxicityinSH-SY5YCells
+- Reprinted from: Molecules 2025, 30, 3291, https://doi.org/10.3390/molecules30153291 . . . . . . 157
+- Paweł Satora, Magdalena Skotniczny and Martyna Maziarek
+- Characteristics of Novel Fermented Cloudy Fruit Juices Produced Using Lactiplantibacillus
+- plantarum and Lactic Acid-Producing Lachancea spp. Yeasts
+- Reprinted from: Molecules 2025, 30, 3928, https://doi.org/10.3390/molecules30193928 . . . . . . 173
+- Anna Rymuszka and Wiktoria Gorczynska
+- Classical Food Fermentations as Modern Biotechnological Platforms: Alcoholic, Acetic, Butyric,
+- Lactic and Propionic Pathways and Applications
+- Reprinted from: Molecules 2026, 31, 333, https://doi.org/10.3390/molecules31020333 . . . . . . 196
+- Irene Dini
+- Probiotics and Fermented Foods in Human Nutrition
+- Reprinted from: Molecules 2026, 31, 1353, https://doi.org/10.3390/molecules31081353 . . . . . . 233
+- Ceren Birinci, Anna Kurek-Górecka, Elsevar Asadov, Zenon P. Czuba and Sevgi Kolaylı
+- Evaluation of Physicochemical Properties, Bioactive Composition, and Antioxidant Activity of
+- Prunus armeniaca L. Cultivars for Functional Food and Nutraceutical Development
+- Reprinted from: Molecules 2026, 31, 988, https://doi.org/10.3390/molecules31060988 . . . . . . 283
+- Ryohei Sakuraoka, Hirofumi Masutomi and Katsuyuki Ishihara

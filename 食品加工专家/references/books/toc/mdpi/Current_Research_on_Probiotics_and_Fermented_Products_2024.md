@@ -1,0 +1,81 @@
+# Current Research on Probiotics and Fermented Products (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 202
+- 全文: `text/mdpi/Current_Research_on_Probiotics_and_Fermented_Products_2024.txt`
+- PDF: `mdpi/Current_Research_on_Probiotics_and_Fermented_Products_2024.pdf`
+- 标签: 发酵食品, 益生菌, 功能
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Yushi Dong, Mohan Li and Xiqing Yue
+- Current Research on Probiotics and Fermented Products
+- Reprinted from: Foods 2024, 13, 1406, doi:10.3390/foods13091406
+- . . . . . . . . . . . . . . . . . .
+- 1
+- Jiang Yu, Mengying Sun, Shilong Jiang, Chuqi Jiang, Guangqing Mu and Yanfeng Tuo
+- Oral Administration of Fermented Milk from Co-Starter Containing Lactobacillus plantarum Y44
+- Shows an Ameliorating Effect on Hypertension in Spontaneously Hypertensive Rats
+- Reprinted from: Foods 2024, 13, 641, doi:10.3390/foods13050641 . . . . . . . . . . . . . . . . . . .
+- 7
+- Saranya Suwanangul, Pannapapol Jaichakan, Nukrob Narkprasom, Supaluck Kraithong,
+- Kanjana Narkprasom and Papungkorn Sangsawad
+- Innovative Insights for Establishing a Synbiotic Relationship with Bacillus coagulans: Viability,
+- Bioactivity, and In Vitro-Simulated Gastrointestinal Digestion
+- Reprinted from: Foods 2023, 12, 3692, doi:10.3390/foods12193692 . . . . . . . . . . . . . . . . . . 30
+- Marina Pihurov, Bogdan Păcularu-Burada, Mihaela Cotârlet, , Leontina Grigore-Gurgu,
+- Daniela Borda, Nicoleta Stănciuc, et al.
+- Kombucha and Water Keﬁr Grains Microbiomes’ Symbiotic Contribution to Postbiotics
+- Enhancement
+- Reprinted from: Foods 2023, 12, 2581, doi:10.3390/foods12132581 . . . . . . . . . . . . . . . . . . 47
+- Taewook Kang, Jin Ree, Joo-Woong Park, Hyewon Choe and Yong Il Park
+- Anti-Obesity Effects of SPY Fermented with Lactobacillus rhamnosus BST-L.601 via Suppression
+- of Adipogenesis and Lipogenesis in High-Fat Diet-Induced Obese Mice
+- Reprinted from: Foods 2023, 12, 2202, doi:10.3390/foods12112202 . . . . . . . . . . . . . . . . . . 61
+- Konstantin V. Moiseenko, Anna V. Begunova, Olga S. Savinova, Olga A. Glazunova, Irina V.
+- Rozhkova and Tatyana V. Fedorova
+- Biochemical and Genomic Characterization of Two New Strains of Lacticaseibacillus paracasei
+- Isolated from the Traditional Corn-Based Beverage of South Africa, Mahewu, and Their
+- Comparison with Strains Isolated from Keﬁr Grains
+- Reprinted from: Foods 2023, 12, 223, doi:10.3390/foods12010223 . . . . . . . . . . . . . . . . . . . 79
+- So-Young Yang and Ki-Sun Yoon
+- Effect of Probiotic Lactic Acid Bacteria (LAB) on the Quality and Safety of Greek Yogurt
+- Reprinted from: Foods 2022, 11, 3799, doi:10.3390/foods11233799 . . . . . . . . . . . . . . . . . . 98
+- Giovana M. N. Mendonça, Estela M. D. Oliveira, Alessandro O. Rios, Carlos H. Pagno and
+- Daniela C. U. Cavallini
+- Vegan Ice Cream Made from Soy Extract, Soy Keﬁr and Jaboticaba Peel: Antioxidant Capacity
+- and Sensory Proﬁle
+- Reprinted from: Foods 2022, 11, 3148, doi:10.3390/foods11193148 . . . . . . . . . . . . . . . . . . 110
+- Xinyu Shen, Aijun Xie, Zijing Li, Chengxi Jiang, Jiaqi Wu, Mohan Li and Xiqing Yue
+- Research Progress for Probiotics Regulating Intestinal Flora to Improve Functional Dyspepsia:
+- A Review
+- Reprinted from: Foods 2024, 13, 151, doi:10.3390/foods13010151 . . . . . . . . . . . . . . . . . . . 125
+- Aijun Xie, Yushi Dong, Zifei Liu, Zhiwei Li, Junhua Shao, Mohan Li and Xiqing Yue
+- A Review of Plant-Based Drinks Addressing Nutrients, Flavor, and Processing Technologies
+- Reprinted from: Foods 2023, 12, 3952, doi:10.3390/foods12213952 . . . . . . . . . . . . . . . . . . 144
+- v
+- Bibi Nabihah Abdul Hakim, Ng Jia Xuan and Siti Nur Hazwani Oslan
+- A Comprehensive Review of Bioactive Compounds from Lactic Acid Bacteria: Potential
+- Functions as Functional Food in Dietetics and the Food Industry
+- Reprinted from: Foods 2023, 12, 2850, doi:10.3390/foods12152850 . . . . . . . . . . . . . . . . . . 169
+- vi
+- About the Editors
+- Xiqing Yue
+- Xiqing Yue, Ph.D. is a Full Professor at the College of Food Science, Shenyang Agricultural
+- University, China, where he earned his degree in Food Science and Engineering. Xiqing Yue’s
+- research interests include the processing and utilization of animal-derived foods and the product
+- development of probiotics, mainly including the identiﬁcation, screening, characterization and
+- functional research of nutrients in dairy products, as well as the delivery system and targeted
+- screening of probiotics. Xiqing Yue serves as the Scientiﬁc Editor of the publication The Food Science
+- of Animal Products and holds editorial roles in prestigious journals such as The Frontiers in Nutrition,
+- Food Science, and The Journal of Shenyang Agricultural University. To date, Xiqing Yue has contributed
+- to 617 scientiﬁc publications, 206 of which have featured in international conferences, books, and
+- theses, and 411 of which have featured in international journals with referees.
+- Mohan Li
+- Mohan Li, Ph.D., is an Associate Professor at College of Food Science, Shenyang Agricultural
+- University, China, where he earned his degree in Food Science and Engineering. During his Ph.D.
+- studies, Dr Li conducted his research between Shenyang Agricultural University and the National
+- University of Singapore. His research interests include the application of multi-omic techniques
+- in dairy products; screening, extraction, and functional validation of characteristic nutritional

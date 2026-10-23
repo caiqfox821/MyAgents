@@ -1,0 +1,81 @@
+# Quality control in fruit and vegetable processing (1988, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/t0029e/t0029e.pdf
+- 页数: 72
+- 全文: `text/fao/Quality_Control_Fruit_Vegetable_Processing_1988.txt`
+- PDF: `fao/Quality_Control_Fruit_Vegetable_Processing_1988.pdf`
+- 标签: 果蔬加工, 质量控制
+
+## 目录 (Contents)
+
+- Page No.
+- CHAPTER 1
+- INTRODUCTION
+- 1
+- CHAPTER 2
+- 2.1
+- 2.2
+- ESTABLISHING QUALITY CONTROL SYSTEMS
+- Production planning
+- Interaction of quality control and production staff
+- during planning
+- Allocation of resources to quality control
+- Monitoring of the manufacturing process
+- Monitoring of the manufacturing environment
+- End-product testing
+- Incidence of defective product
+- Treatment of quality control data
+- Staff/management relations
+- 2
+- 2
+- 2
+- 2.3
+- 2.4
+- 2.5
+- 2.6
+- 2.7
+- 2.8
+- 2.9
+- CHAPTER 3
+- 3.1
+- 3.2
+- 3.3
+- 3.4
+- 3.5
+- 3.6
+- 3.7
+- CHAPTER 4
+- 4.1
+- 4.2
+- QUALITY CONTROL SYSTEMS FOR FRUIT AND VEGETABLE
+- PROCESSING
+- Raw materials:
+- - Fruits and vegetables
+- - Sugar, salt, spices, food acids and other minor
+- ingredients
+- - Water and steam
+- - Containers, labels and packaging materials
+- - Detergents, sanitizers and similar materials
+- Preparative treatments
+- Filling
+- Closing and sealing operations
+- Preservation treatments:
+- - Canned foods
+- - Dehydrated foods
+- - Frozen foods
+- - Pickled and chemically preserved foods
+- Labelling, packaging and warehousing
+- Cleaning, sanitation and waste disposal
+- METHODS OF ANALYSIS AND PHYSICAL TESTING
+- Scope
+- Chemical analyses:
+- - Acidity
+- - Aflatoxins - rapid screening method
+- - Alcohol insoluble solids
+- - Benzoic acid
+- - Caustic soda (lye)
+- - Chlorine in water
+- - Moisture
+- - Peroxidase
+- - pH

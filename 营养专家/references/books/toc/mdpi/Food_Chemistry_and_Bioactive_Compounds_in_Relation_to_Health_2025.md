@@ -1,0 +1,79 @@
+# Food Chemistry and Bioactive Compounds in Relation to Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5886-6
+- 页数: 202
+- 全文: `text/mdpi/Food_Chemistry_and_Bioactive_Compounds_in_Relation_to_Health_2025.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Leontina Grigore-Gurgu, Elena Enachi and Iuliana Aprodu
+- Food Chemistry and Bioactive Compounds in Relation to Health
+- Reprinted from: Molecules 2025, 30, 3977, https://doi.org/10.3390/molecules30193977 . . . . . .                   1
+- Tiziana Latronico, Tania Petraglia, Carmela Sileo, Domenico Bilancia, Rocco Rossano and
+- Grazia Maria Liuzzi
+- Inhibition of MMP-2 and MMP-9 by Dietary Antioxidants in THP-1 Macrophages and Sera from
+- Patients with Breast Cancer
+- Reprinted from: Molecules 2024, 29, 1718, https://doi.org/10.3390/molecules29081718 . . . . . .                   8
+- Maria Liccardo, Luigi Sapio, Shana Perrella, Ivana Sirangelo and Clara Iannuzzi
+- Genistein Prevents Apoptosis and Oxidative Stress Induced by Methylglyoxal in Endothelial
+- Cells
+- Reprinted from: Molecules 2024, 29, 1712, https://doi.org/10.3390/molecules29081712 . . . . . . 23
+- Zhe Wang, Guanlong Li and Xiaolan Liu
+- Identiﬁcation of Corn Peptides with Alcohol Dehydrogenase Activating Activity Absorbed by
+- Caco-2 Cell Monolayers
+- Reprinted from: Molecules 2024, 29, 1523, https://doi.org/10.3390/molecules29071523 . . . . . . 37
+- Deyan Cao, Zhu Zhu, Siyuan Zhao, Xi Zhang, Jianzai Lin, Junji Wang, et al.
+- Concentrations, Sources and Health Risk Assessment of Polycyclic Aromatic Hydrocarbons in
+- Chinese Herbal Medicines
+- Reprinted from: Molecules 2024, 29, 972, https://doi.org/10.3390/molecules29050972 . . . . . . 51
+- Celestina Adebimpe Ojo, Kinga Dziadek, Urszula Sadowska, Joanna Skoczylas and Aneta
+- Kopeć
+- Analytical Assessment of the Antioxidant Properties of the Coneﬂower (Echinacea purpurea L.
+- Moench) Grown with Various Mulch Materials
+- Reprinted from: Molecules 2024, 29, 971, https://doi.org/10.3390/molecules29050971 . . . . . . 68
+- Jorge Ederson Gonçalves Santana, Cícera Datiane de Morais Oliveira-Tintino, Gabriel
+- Gonçalves Alencar, Gustavo Miguel Siqueira, Daniel Sampaio Alves, Talysson Felismino
+- Moura, et al.
+- Comparative Antibacterial and Efﬂux Pump Inhibitory Activity of Isolated Nerolidol, Farnesol,
+- and α-Bisabolol Sesquiterpenes and Their Liposomal Nanoformulations
+- Reprinted from: Molecules 2023, 28, 7649, https://doi.org/10.3390/molecules28227649 . . . . . . 83
+- Dobrochna Rabiej-Kozioł, Monika Momot-Ruppert, Barbara Stawicka and Aleksandra
+- Szydłowska-Czerniak
+- Health Beneﬁts, Antioxidant Activity, and Sensory Attributes of Selected Cold-Pressed Oils
+- Reprinted from: Molecules 2023, 28, 5484, https://doi.org/10.3390/molecules28145484 . . . . . . 100
+- Renata Różyło, Ryszard Amarowicz, Michał Adam Janiak, Marek Domin, Sławomir
+- Gawłowski, Ryszard Kulig, et al.
+- Micronized Powder of Raspberry Pomace as a Source of Bioactive Compounds
+- Reprinted from: Molecules 2023, 28, 4871, https://doi.org/10.3390/molecules28124871 . . . . . . 125
+-                                                          v
+- Loredana Dumitras, cu, Andreea Lanciu Dorofte, Leontina Grigore-Gurgu and Iuliana Aprodu
+- Proteases as Tools for Modulating the Antioxidant Activity and Functionality of the Spent
+- Brewer’s Yeast Proteins
+- Reprinted from: Molecules 2023, 28, 3763, https://doi.org/10.3390/molecules28093763 . . . . . . 143
+- Ioana Mariana Has, , Bernadette-Emőke Teleky, Katalin Szabo, Elemer Simon, Floricuta Ranga,
+- Zorit, a Maria Diaconeasa, et al.
+- Bioactive Potential of Elderberry (Sambucus nigra L.): Antioxidant, Antimicrobial Activity,
+- Bioaccessibility and Prebiotic Potential
+- Reprinted from: Molecules 2023, 28, 3099, https://doi.org/10.3390/molecules28073099 . . . . . . 158
+- Oana-Raluca Negrean, Anca Corina Farcas, Oana Lelia Pop and Sonia Ancuta Socaci
+- Blackthorn—A Valuable Source of Phenolic Antioxidants with Potential Health Beneﬁts
+- Reprinted from: Molecules 2023, 28, 3456, https://doi.org/10.3390/molecules28083456 . . . . . . 172
+-                                                 vi
+- About the Editors
+- Leontina Grigore-Gurgu
+-      Leontina Grigore-Gurgu is a lecturer at the Faculty of Food Science and Engineering, Dunarea de
+- Jos University of Galati, Romania. She graduated from the Faculty of Biology, Bucharest University
+- in 2001 and completed her PhD in Industrial Engineering in 2011. Her academic portfolio includes
+- courses in microbiology, biotechnology, and hygiene in food industry, where she combines theoretical
+- knowledge with practical insights. Her research focuses on microbial genetics, foodborne pathogens,
+- and functional food components analysis, with publications in applied science and molecular
+- biology ﬁelds.
+- Elena Enachi
+-      Elena Enachi is a lecturer and a researcher at the Faculty of Medicine and Pharmacy and at Faculty
+- of Food Science and Engineering—the Integrated Center of Research, Expertise and Technological
+- Transfer in the Food Industry (BioAliment—TehnIA), “Dunarea de Jos” University of Galati, Romania.
+- Her doctoral research focused on studying and assessing the kinetic and molecular behavior of

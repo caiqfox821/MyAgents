@@ -1,0 +1,57 @@
+# On-farm post-harvest management of food grains (2009, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/i0959e/i0959e.pdf
+- 页数: 70
+- 全文: `text/fao/On_Farm_Post_Harvest_Management_Food_Grains_2009.txt`
+- PDF: `fao/On_Farm_Post_Harvest_Management_Food_Grains_2009.pdf`
+- 标签: 谷物加工, 采后, 贮藏
+
+## 目录 (Contents)
+
+- Preface
+- vii
+- Acknowledgements
+- viii
+- List of abbreviations
+- ix
+- 1. Introduction
+- 1
+- 2. The role of the extension worker
+- 3
+- 2.1 Analysing the problems
+- 4
+- 2.2 Giving information and advice
+- 7
+- 2.3 Monitoring post-harvest damage during storage
+- 9
+- 3. Quality loss of stored grain and methods of
+- prevention and control
+- 13
+- 3.1 Insects
+- 13
+- 3.2 Moulds
+- 28
+- 3.3 Termites
+- 34
+- 3.4 Rodents
+- 36
+- 3.5 Birds
+- 38
+- 4. Storage methods
+- 39
+- 4.1 Seed storage
+- 40
+- 4.2 Food grain storage
+- 41
+- 5. Good storage practice
+- 51
+- 5.1 Ensuring that the crop going into store is in good condition
+- 51
+- 5.2 Keeping the store in good condition
+- 52
+- 5.3 Practising good store hygiene
+- 53
+- 5.4 Maintaining the condition of the crop and the store
+- throughout the storage season
+- 53

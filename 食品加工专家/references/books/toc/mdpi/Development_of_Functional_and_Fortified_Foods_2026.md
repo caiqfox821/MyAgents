@@ -1,0 +1,81 @@
+# Development of Functional and Fortified Foods (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 222
+- 全文: `text/mdpi/Development_of_Functional_and_Fortified_Foods_2026.txt`
+- PDF: `mdpi/Development_of_Functional_and_Fortified_Foods_2026.pdf`
+- 标签: 功能食品, 营养强化, 配方
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Aili Li, Jie Zheng, Xueting Han, Sijia Yang, Shihui Cheng, Jingwen Zhao, et al.
+- Advances in Low-Lactose/ Lactose-Free Dairy Products and Their Production
+- Reprinted from: Foods 2023, 12, 2553, https://doi.org/10.3390/foods12132553 . . . . . . . . . . .
+- 1
+- Elif Ayse Anli, Asuman Gursel, Ayse Gursoy and Behic Mert
+- Assessment of the Quality Attributes of Oat β-glucan Fortiﬁed Reduced-Fat Goat Milk Yogurt
+- Supported by Microﬂuidization
+- Reprinted from: Foods 2023, 12, 3457, https://doi.org/10.3390/foods12183457 . . . . . . . . . . . 22
+- Diego Romano Perinelli, Agnese Santanatoglia, Giovanni Caprioli, Giulia Bonacucina,
+- Sauro Vittori, Filippo Maggi and Gianni Sagratini
+- Inulin Functionalized “Giuncata” Cheese as a Source of Prebiotic Fibers
+- Reprinted from: Foods 2023, 12, 3499, https://doi.org/10.3390/foods12183499 . . . . . . . . . . . 47
+- Vanja Travičić, Olja Šovljanski, Ana Tomić, Milica Perović, Maja Milošević, Nenad Ćetković
+- and Mirjana Antov
+- Augmenting Functional and Sensorial Quality Attributes of Keﬁr through Fortiﬁcation with
+- Encapsulated Blackberry Juice
+- Reprinted from: Foods 2023, 12, 4163, https://doi.org/10.3390/foods12224163 . . . . . . . . . . . 59
+- Fenhong Yang, Yingying Zhu, Xiaohan Li, Fengtao Xiang, Moru Deng, Wei Zhang, et al.
+- Identiﬁcation of Protein–Phenol Adducts in Meat Proteins: A Molecular Probe Technology Study
+- Reprinted from: Foods 2023, 12, 4225, https://doi.org/10.3390/foods12234225 . . . . . . . . . . . 80
+- Mohammad Tarahi, Sima Tahmouzi, Mohammad Reza Kianiani, Shiva Ezzati, Sara Hedayati
+- and Mehrdad Niakousari
+- Current Innovations in the Development of Functional Gummy Candies
+- Reprinted from: Foods 2024, 13, 76, https://doi.org/10.3390/foods13010076 . . . . . . . . . . . . 96
+- Mariana Spinei and Mircea Oroian
+- Characterization of Băbească Neagră Grape Pomace and Incorporation into Jelly Candy:
+- Evaluation of Phytochemical, Sensory, and Textural Properties
+- Reprinted from: Foods 2024, 13, 98, https://doi.org/10.3390/foods13010098 . . . . . . . . . . . . 113
+- Shuxian Su, Si Qin, Huiping Xia, Peiwang Li, Haiyan Li, Chenjia Li, et al.
+- The Impact of Oil Type on the Performance of β-Amyrin-Based Oleogels: Formation,
+- Physicochemical Properties, and Potential Correlation Analysis
+- Reprinted from: Foods 2024, 13, 876, https://doi.org/10.3390/foods13060876 . . . . . . . . . . . 132
+- Davide Reggi, Gaia Alessio, Andrè Ndereyimana, Andrea Minuti, Giorgia Spigno and
+- Giuseppe Bertoni
+- Ready-to-Use Supplementary-Food Biscuit Production with Low-Cost Ingredients for
+- Malnourished Children in Sub-Saharan Africa
+- Reprinted from: Foods 2024, 13, 1614, https://doi.org/10.3390/foods13111614 . . . . . . . . . . . 148
+- Helen Stephanie Ofei Darko, Lama Ismaiel, Benedetta Fanesi, Deborah Pacetti and
+- Paolo Lucci
+- Current Trends in Food Processing By-Products as Sources of High Value-Added Compounds in
+- Food Fortiﬁcation
+- Reprinted from: Foods 2024, 13, 2658, https://doi.org/10.3390/foods13172658 . . . . . . . . . . . 161
+- v
+- Hua Li, Hua Li, Yu Liu, Ruixin Liu and Sirithon Siriamornpun
+- Optimization of Heat–Moisture Treatment Conditions for High-Amylose Starch and Its
+- Application in High-Resistant Starch Triticale Noodles
+- Reprinted from: Foods 2024, 13, 2724, https://doi.org/10.3390/foods13172724 . . . . . . . . . . . 197
+- vi
+- About the Editor
+- Paolo Lucci
+- Paolo Lucci attained his PhD in 2008 at SAIFET department of the Polytechnic University
+- of Marche (Italy). Starting from February 2009, he joined the NASCENT European Project as an
+- experienced researcher (Marie Curie Postdoc) at POLYIntell SAS (France), and then, in 2010, he
+- joined the Department of Analytical Chemistry of the University of Barcelona (Spain) as experienced
+- researcher (Marie Curie Postdoc) within the Carbosorb European Project. In April 2011, he joined
+- the School of Sciences of the Pontiﬁcia Universidad Javeriana (Colombia), where he was named head
+- of the Research Group of “Foods, Nutrition and Health” in 2012 and then head of the Department
+- of Nutrition and Biochemistry in 2014. Currently, he is an associate professor at the Department
+- of Agricultural, Food and Environmental Sciences, Polytechnic University of Marche (Italy). He
+- has gained expertise in chemical, biological and nutritional characterization of animal and plant
+- matrices by using advanced chromatographic techniques coupled with mass spectrometry as well
+- as high resolution mass spectrometry. His activity research is documented by several publications
+- in international scientiﬁc journals present in the database with ISI impact factors. He also published
+- 12 book chapters and 4 books (as editor) present in Scopus database. Paolo Lucci is also a founding
+- member and member of the Italian Society of Food Chemistry “ITACHEMFOOD”, a member of the
+- Accademia dei Georgoﬁli, a member of the Italian Olive Academy and a member of the Accademia
+- Agraria in Pesaro. He was the principal investigator and researcher in several ﬁnanced research
+- projects at regional, national and international levels.
+- vii

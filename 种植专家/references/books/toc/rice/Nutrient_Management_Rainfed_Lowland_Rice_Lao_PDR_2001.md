@@ -1,0 +1,79 @@
+# Nutrient Management in Rainfed Lowland Rice in the Lao PDR (2001, IRRI)
+
+- 许可: Open Access
+- 来源: https://ageconsearch.umn.edu/record/281826
+- 页数: 95
+- 全文: `text/rice/Nutrient_Management_Rainfed_Lowland_Rice_Lao_PDR_2001.txt`
+- PDF: `rice/Nutrient_Management_Rainfed_Lowland_Rice_Lao_PDR_2001.pdf`
+- 标签: 水稻, 养分管理, 雨养, 施肥
+
+## 目录 (Contents)
+
+- FOREWORD                                                      v
+- ACKNOWLEDGMENTS                                              vi
+- Introduction                                                  1
+- Lowland rice                                                  2
+-    Area under production                                      3
+-       Wet-season rice                                         4
+-       Dry-season irrigated rice                               4
+-    Production practices                                       4
+-       Varieties                                               4
+-       Management                                              5
+- The production environment                                    7
+-    Rainfall                                                   7
+-    Temperature                                                9
+-    Daylength                                                 10
+-    Sunshine hours and solar radiation                        11
+- Nutrient deficiencies in lowland rice soils                  12
+-    Soils                                                     12
+-    Extent of major nutrient deficiencies                     13
+-       Rainfed wet season                                     14
+-       Irrigated dry season                                   18
+- Nutrient budgets                                             20
+-       Nutrient inputs                                        20
+-       Nutrient losses                                        22
+-       Residue management effects on nutrient budgets         23
+-       Nutrient budget for lowland systems                    25
+- Nutrient management                                          26
+-    Nursery management                                        26
+-    Residues                                                  26
+-       Rice response to residues                              27
+-       The role of residues in lowland rice farming systems   29
+-                                                                   iii
+-   Green manures                                       30
+-      Potential green manure crops                     30
+-      Green manure management                          31
+-      Rice response to GM                              32
+-      Considerations                                   32
+-   Inorganic fertilizers                               34
+-   Nitrogen                                            51
+-      Variety effect on N-use efficiency               53
+-      Management (splitting the N recommendation)      55
+-      Management (timing of the first N application)   56
+-      Management (timing of the last N application)    58
+-      Ratio of N in each split                         59
+-      Hill spacing                                     59
+-   Phosphorus                                          60
+-      Response to P                                    60
+-      Long-term P management                           61
+-      Rock phosphate                                   63
+-   Potassium                                           63
+-   Sulfur                                              66
+- Future challenges and opportunities                   67
+- References                                            68
+- NUTRIENT   MANAGEMENT RECOMMENDATIONS                 71
+- LAO-IRRI PROJECT LOWLAND RICE PUBLICATIONS            77
+- LIST   OF EXPERIMENTS                                 83
+- iv
+- Foreword
+- Rice, grown on more than 700,000 ha, is the single most important crop in Lao PDR.
+- The most important rice production system, in terms of productivity and area, is the
+- lowland system in which rice is grown in bunded, flooded fields. Annually, more
+- than 600,000 ha are devoted to lowland rice production in Laos.
+-     Since 1991, IRRI has been working with the government of Laos to improve the
+- productivity of the country’s rice-based systems. This collaboration has been through
+- the Swiss Agency for Development and Cooperation-funded Lao-IRRI Project. Within
+- the last few years, Laos has achieved self-sufficiency in rice as a result of improved
+- productivity in the lowland rice systems. Increased productivity has resulted from an
+- expansion in irrigated area (allowing cropping in both the wet and dry seasons), the
+- introduction of new varieties, and the increased use of fertilizer.

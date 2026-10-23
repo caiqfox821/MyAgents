@@ -1,0 +1,80 @@
+# Proper maternal nutrition during pregnancy planning and pregnancy: a healthy start in life: recommendations for health care professionals – the experience from Latvia (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/375254
+- 页数: 31
+- 全文: `text/who/Proper_maternal_nutrition_during_pregnancy_planning_and_pregnancy_a_healthy_start_in_life_.txt`
+- 标签: 母婴, 政策/环境
+
+## 目录 (Contents)
+
+- 1.
+-    Introduction
+- 2.
+-    Metabolic
+-   programming
+- 3.
+-    Effect
+-   of
+-   maternal
+-   diet
+-   before
+-   and
+-   during
+-   pregnancy
+-   on
+-   the
+-   life-­‐long
+-   health
+-   of
+-   the
+-   child
+-        3.1
+-    Weight
+-   gain
+-   during
+-   pregnancy
+-        3.2
+-    Insufficient
+-   intake
+-   of
+-   omega
+-   fatty
+-   acids
+-   during
+-   pregnancy
+-        3.3
+-    Obesity
+-   with
+-   deficiency
+-   of
+-   multiple
+-   micronutrients
+-        3.4
+-    Iron
+-   deficiency
+-        3.5
+-    Folate
+-   and
+-   other
+-   B
+-   vitamins
+-        3.6
+-    Vitamin
+-   D
+-        3.7
+-    Deficiency
+-   of
+-   multiple
+-   micronutrients
+- 4.
+-    Nutrition
+-   and
+-   physical
+-   activity
+-   policies
+-   for
+-   preventing
+-   the
+-   increase
+-   in

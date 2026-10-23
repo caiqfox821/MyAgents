@@ -1,0 +1,80 @@
+# WHO guideline on school health services: web annex A: compendium (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/343754
+- 页数: 109
+- 全文: `text/who/WHO_guideline_on_school_health_services_web_annex_A_compendium.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- Acknowledgementsiv
+- Abbreviationsvi
+- Compendium of interventions with WHO evidence    1
+- References                                      94
+- iv
+- Acknowledgements
+- Drafting of the guideline                              Programmes; Marina Plesons, Department of Sexual
+-                                                        and Reproductive Health and Research; Leanne
+- Mary Louisa Plummer, Child and Adolescent Health       Riley, Department of Noncommunicable Diseases;
+- Consultant, USA and David A. Ross, Department of       Chiara Servili, Department of Mental Health and
+- Maternal, Newborn, Child and Adolescent Health         Substance Use; Stéphanie Shendale, Department
+- and Ageing, World Health Organization (WHO),           of Immunization, Vaccines and Biologicals; Marcus
+- Switzerland.                                           Stahlhofer, Department of Maternal, Newborn, Child
+-                                                        and Adolescent Health and Ageing; Howard Sobel,
+- GRADE methodologist                                    WHO Regional Office for the Western Pacific; Martin
+- Nandi Siegfried, Public Health Medicine Specialist,    Weber, WHO Regional Office for Europe; and Juana
+- South Africa.                                          Willumsen, Department of Health Promotion.
+- Steering Group                                         Evidence review and synthesis
+- (WHO staff unless otherwise noted)                     Systematic overview of systematic reviews
+- Coordination                                           of comprehensive school health services
+- David Ross and Kid Kohl, Department of Maternal,       Julia Levinson, Kid Kohl, Valentina Baltag and
+- Newborn, Child and Adolescent Health and Ageing.       David Ross.
+- Members
+-                                                        Systematic reviews of the effectiveness
+- Jamela Al-Raiby, WHO Regional Office for the Eastern   and acceptability of comprehensive
+- Mediterranean; Wole Ameyan, Department of Global
+-                                                        school health services
+- HIV, Hepatitis and Sexually Transmitted Infections
+- Programmes; Valentina Baltag, Department of            Paul Montgomery, University of Birmingham,
+- Maternal, Newborn, Child and Adolescent Health         United Kingdom; Jacoby Patterson, Independent
+- and Ageing; Faten Ben-Abdelaziz, Department            Senior Research Consultant, United Kingdom; and
+- of Health Promotion; Paul Bloem, Department of         Anders M. Bach-Mortensen, University of Oxford,
+- Immunization, Vaccines and Biologicals; Sonja Caffe,   United Kingdom.
+- WHO Regional Office for the Americas; Marie Clem
+- Carlos, Department of Noncommunicable Diseases;
+- Shelly Chadha, Department of Noncommunicable
+-                                                        Review of global WHO health service
+- Diseases; Venkatraman Chandra-Mouli, Department        interventions for 5–19-year-olds
+- of Sexual and Reproductive Health and Research;        Mary Plummer, Kid Kohl and David Ross.
+- Katrin Engelhardt, Department of Nutrition and Food
+- Safety; Kaia Engesveen, Department of Nutrition
+- and Food Safety; Regina Guthold, Department            Survey of expert opinion on
+- of Maternal, Newborn, Child and Adolescent             school health services
+- Health and Ageing; Joanna Herat, United Nations        Mary Plummer; Ace Chan, Stigma and Resilience
+- Educational, Scientific and Cultural Organization      Among Vulnerable Youth Centre (SARAVYC), School
+- (UNESCO); Symplice Mbola Mbassi, WHO Regional          of Nursing, University of British Columbia, Vancouver,
+- Office for Africa; Rajesh Mehta, WHO Regional          Canada; Kid Kohl; Ashley Taylor (SARAVYC); Elizabeth
+- Office for South-East Asia; Denise Mupfasoni,          Saewyc (SARAVYC); and David Ross.
+- Department of Control of Neglected Tropical
+- Diseases; Martina Penazzato, Department of Global
+- HIV, Hepatitis and Sexually Transmitted Infections
+-                                                                                                             v
+- Brief exploratory review of school health                External Review Group
+- services globally                                        Bruce Dick, Adolescent Health Consultant,
+- Mary Plummer, Kid Kohl and Valentina Baltag.             Switzerland; Chris Kjolhede, Bassett Health Care
+-                                                          Network, United States of America; Regina Lee,
+-                                                          Professor of Nursing, University of Newcastle,
+- Guideline Development Group                              Australia; Maziko Matemvu, Her Liberty, Malawi;
+- Rima Afifi, University of Iowa, United States of         Antony Morgan, Glasgow Caledonian University,
+- America; Habib Benzian, New York University, United      United Kingdom; Blanca Pianello Castillo,
+- States of America; Harriet Birungi, Population           International Federation of Medical Students
+- Council, Kenya; Rashida Ferrand, Biomedical              Associations, Spain.
+- Research and Training Institute, Zimbabwe; Jorge
+- Gaete, Universidad de los Andes, Chile; Najat Gharbi,    Financial support
+- Ministry of Health, Morocco; Murthy Gudlavalleti
+- Venkata Satyanarayana, Indian Institute of Public        The United Kingdom Department for International
+- Health, India; Henrica J. M. Fransen, University         Development, the Bill and Melinda Gates Foundation
+- of Tunis El Manar, Tunisia; Julia Levinson, Boston       and the United States Agency for International
+- University, United States of America; Erin D. Maughan,   Development.
+- National Association of School Nurses, United States

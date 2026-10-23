@@ -1,0 +1,81 @@
+# Freezing of fruits and vegetables (2005, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/y5979e/y5979e.pdf
+- 页数: 76
+- 全文: `text/fao/Freezing_of_Fruits_and_Vegetables_2005.txt`
+- PDF: `fao/Freezing_of_Fruits_and_Vegetables_2005.pdf`
+- 标签: 冷冻, 果蔬加工
+
+## 目录 (Contents)
+
+- Table of contents
+- Foreword
+- Glossary
+- .....................................................
+- .....................................................
+- iii
+- v
+- Chapter 1. Introduction to freezing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1
+- 1.1 The importance of freezing as a preservation method . . . . . . .
+- 1.2 General recommendations on the freezing process . . . . . . . . .
+- 1.2.1 Freezing technology . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.2 Freezing process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Freezing point of foods . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Freezing time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Freezing rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Energy requirements . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.3 Refrigeration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.4 Freezing capacity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.5 Freezing systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.6 Freezing equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Air-blast freezers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Contact freezers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Cryogenic freezers . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.7 Packaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.2.8 Frozen storage and distribution . . . . . . . . . . . . . . . . . . .
+- 1.3 Freezing fruits and vegetables in small
+- and medium scale operations and its potential
+- applications in warm climates . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.3.1 Freezing fruits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Production and harvesting . . . . . . . . . . . . . . . . . . . . . . .
+- Pre-process handling and operations . . . . . . . . . . . . . .
+- Effect of ingredients . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Packaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 1.3.2 Freezing vegetables . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Crop cultivar, production, and maturity . . . . . . . . . . . .
+- 1
+- 7
+- 7
+- 8
+- 8
+- 11
+- 13
+- 14
+- 14
+- 16
+- 16
+- 17
+- 17
+- 21
+- 24
+- 25
+- 26
+- 26
+- 28
+- 28
+- 29
+- 29
+- 30
+- 31
+- 33
+- x
+- Freezing of fruits and vegetables: an agri-business alternative for rural and semi-rural areas
+- Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Pre-process handling . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Blanching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Packaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 33
+- 34
+- 34

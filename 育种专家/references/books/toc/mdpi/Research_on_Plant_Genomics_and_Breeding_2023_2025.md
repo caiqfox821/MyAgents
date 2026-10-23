@@ -1,0 +1,79 @@
+# Research on Plant Genomics and Breeding 2023 (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10480
+- 页数: 248
+- 全文: `text/mdpi/Research_on_Plant_Genomics_and_Breeding_2023_2025.txt`
+- 标签: 
+
+## 目录 (Contents)
+
+- Zhihui Chen, Xiaohong Tong, Jian Zhang, Jie Huang and Zhiyong Li
+- Research on Plant Genomics and Breeding: 2023
+- Reprinted from: Plants 2024, 13, 2998, https://doi.org/10.3390/plants13212998 . . . . . . . . . .   1
+- Akerke Amalova, Adylkhan Babkenov, Charlie Philp, Simon Griffiths, Saule Abugalieva
+- and Yerlan Turuspekov
+- Identification of Quantitative Trait Loci Associated with Plant Adaptation Traits Using Nested
+- Association Mapping Population
+- Reprinted from: Plants 2024, 13, 2623, https://doi.org/10.3390/plants13182623 . . . . . . . . . .   6
+- Qinxue Li, Xiaoyu Zhao, Jiajie Wu, Huixia Shou and Wei Wang
+- The F-Box Protein TaFBA1 Positively Regulates Drought Resistance and Yield Traits in Wheat
+- Reprinted from: Plants 2024, 13, 2588, https://doi.org/10.3390/plants13182588 . . . . . . . . . . 25
+- Andrey R. Suprun, Artem Yu. Manyakhin, Evgeniya V. Trubetskaya, Konstantin V. Kiselev
+- and Alexandra S. Dubrovina
+- Regulation of Anthocyanin Accumulation in Tomato Solanum lycopersicum L. by Exogenous
+- Synthetic dsRNA Targeting Different Regions of SlTRY Gene
+- Reprinted from: Plants 2024, 13, 2489, https://doi.org/10.3390/plants13172489 . . . . . . . . . . 47
+- Nikolay N. Nityagovsky, Konstantin V. Kiselev, Andrey R. Suprun and Alexandra S.
+- Dubrovina
+- Impact of Exogenous dsRNA on miRNA Composition in Arabidopsis thaliana
+- Reprinted from: Plants 2024, 13, 2335, https://doi.org/10.3390/plants13162335 . . . . . . . . . . 62
+- Xinyong Liu, Zixuan Yu, Xiaohong Tong, Longxue Chang, Jie Huang and Yifeng Wang et al.
+- Fine Mapping of qAL5.2 Controlling Anther Length in Oryza sativa
+- Reprinted from: Plants 2024, 13, 1130, https://doi.org/10.3390/plants13081130 . . . . . . . . . . 76
+- Man Yin, Xiaohong Tong, Jinyu Yang, Yichen Cheng, Panpan Zhou and Guan Li et al.
+- Dissecting the Genetic Basis of Yield Traits and Validation of a Novel Quantitative Trait Locus
+- for Grain Width and Weight in Rice
+- Reprinted from: Plants 2024, 13, 770, https://doi.org/10.3390/plants13060770 . . . . . . . . . . . 89
+- Konstantin V. Kiselev, Andrey R. Suprun, Olga A. Aleynova, Zlata V. Ogneva and Alexandra
+- S. Dubrovina
+- Simultaneous Application of Several Exogenous dsRNAs for the Regulation of Anthocyanin
+- Biosynthesis in Arabidopsis thaliana
+- Reprinted from: Plants 2024, 13, 541, https://doi.org/10.3390/plants13040541 . . . . . . . . . . . 104
+- Woon Ji Kim, Baul Yang, Ye-jin Lee, Jae Hoon Kim, Sang Hoon Kim and Joon-Woo Ahn et
+- al.
+- Genome-Wide Association Study for Agronomic Traits in Gamma-Ray-Derived Mutant Kenaf
+- (Hibiscus cannabinus L.)
+- Reprinted from: Plants 2024, 13, 249, https://doi.org/10.3390/plants13020249 . . . . . . . . . . . 122
+- Seong-Hoon Kim, Kingsley Ochar, Aejin Hwang, Yoon-Jung Lee and Hae Ju Kang
+- Variability of Glucosinolates in Pak Choy (Brassica rapa subsp. chinensis) Germplasm
+- Reprinted from: Plants 2023, 13, 9, https://doi.org/10.3390/plants13010009 . . . . . . . . . . . . 136
+-                                                   v
+- Yundong Yuan, Said Khourchi, Shujia Li, Yanfang Du and Pierre Delaplace
+- Unlocking the Multifaceted Mechanisms of Bud Outgrowth: Advances in Understanding Shoot
+- Branching
+- Reprinted from: Plants 2023, 12, 3628, https://doi.org/10.3390/plants12203628 . . . . . . . . . . 149
+- Yajuan Duan, Yue Li, Jing Zhang, Yongze Song, Yan Jiang and Xiaohong Tong et al.
+- Genome Survey and Chromosome-Level Draft Genome Assembly of Glycine max var.
+- Dongfudou 3: Insights into Genome Characteristics and Protein Deficiencies
+- Reprinted from: Plants 2023, 12, 2994, https://doi.org/10.3390/plants12162994 . . . . . . . . . . 173
+- Jia Shu, Xiaochang Yin, Yannan Liu, Yingjie Mi, Bin Zhang and Aoyuan Zhang et al.
+- MBD3 Regulates Male Germ Cell Division and Sperm Fertility in Arabidopsis thaliana
+- Reprinted from: Plants 2023, 12, 2654, https://doi.org/10.3390/plants12142654 . . . . . . . . . . 189
+- Nantapat Danpreedanan, Supapohn Yamuangmorn, Sansanee Jamjod, Chanakan
+- Prom-u-thai and Tonapha Pusadee
+- Genotypic Variation of Purple Rice in Response to Shading in Yield, Anthocyanin Content, and
+- Gene Expression
+- Reprinted from: Plants 2023, 12, 2582, https://doi.org/10.3390/plants12132582 . . . . . . . . . . 203
+- Wenrui Gao, Fuchun She, Yanjun Sun, Bing Han, Xiansheng Wang and Gang Xu
+- Transcriptome Analysis Reveals the Genes Related to Water-Melon Fruit Expansion under
+- Low-Light Stress
+- Reprinted from: Plants 2023, 12, 935, https://doi.org/10.3390/plants12040935 . . . . . . . . . . . 217
+-                                                   vi
+-               plants
+- Editorial
+- Research on Plant Genomics and Breeding: 2023
+- Zhihui Chen 1 , Xiaohong Tong 2 , Jian Zhang 2 , Jie Huang 2, * and Zhiyong Li 2, *
+-                                           1   Tea Research Institute of Fujian Academy of Agricultural Sciences, Fuzhou 350013, China;
+-                                               chenzhihui75@sina.com
+-                                           2   State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute,

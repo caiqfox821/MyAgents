@@ -1,0 +1,75 @@
+# Advances in Cereal Crops Breeding (2021, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-0365-2651-5
+- 页数: 198
+- 全文: `text/crops/Advances_in_Cereal_Crops_Breeding_2021.txt`
+- PDF: `crops/Advances_in_Cereal_Crops_Breeding_2021.pdf`
+- 标签: 育种, 粮食作物
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Advances in Cereal Crops Breeding” . . . . . . . . . . . . . . . . . . . . . . . . . . .         ix
+- Igor G. Loskutov
+- Advances in Cereal Crops Breeding
+- Reprinted from: Plants 2021, 10, 1705, doi:10.3390/plants10081705 . . . . . . . . . . . . . . . . . .         1
+- Igor G. Loskutov and Elena K. Khlestkina
+- Wheat, Barley, and Oat Breeding for Health Beneﬁt Components in Grain
+- Reprinted from: Plants 2021, 10, 86, doi:10.3390/plants10010086 . . . . . . . . . . . . . . . . . . .         5
+- Mohamed M. Kamara, Medhat Rehan, Khaled M. Ibrahim, Abdullah S. Alsohim, Mohsen
+- M. Elsharkawy, Ahmed M. S. Kheir, Emad M. Hafez and Mohamed A. El-Esawi
+- Genetic Diversity and Combining Ability of White Maize Inbred Lines under Different
+- Plant Densities
+- Reprinted from: Plants 2020, 9, 1140, doi:10.3390/plants9091140 . . . . . . . . . . . . . . . . . . . 23
+- Elena Dubina, Pavel Kostylev, Margarita Ruban, Sergey Lesnyak, Elena Krasnova and Kirill
+- Azarin
+- Rice Breeding in Russia Using Genetic Markers
+- Reprinted from: Plants 2020, 9, 1580, doi:10.3390/plants9111580 . . . . . . . . . . . . . . . . . . . 47
+- Ilya Kirov, Maxim Dudnikov, Pavel Merkulov, Andrey Shingaliev, Murad Omarov, Elizaveta
+- Kolganova, Alexandra Sigaeva, Gennady Karlov and Alexander Soloviev
+- Nanopore RNA Sequencing Revealed Long Non-Coding and LTR Retrotransposon-Related
+- RNAs Expressed at Early Stages of Triticale SEED Development
+- Reprinted from: Plants 2020, 9, 1794, doi:10.3390/plants9121794 . . . . . . . . . . . . . . . . . . . 61
+- Arfang Badji, Lewis Machida, Daniel Bomet Kwemoi, Frank Kumi, Dennis Okii, Natasha
+- Mwila, Symphorien Agbahoungba, Angele Ibanda, Astere Bararyenya, Selma Ndapewa
+- Nghituwamhata, Thomas Odong, Peter Wasswa, Michael Otim, Mildred Ochwo-Ssemakula,
+- Herbert Talwana, Godfrey Asea, Samuel Kyamanywa and Patrick Rubaihayo
+- Factors Inﬂuencing Genomic Prediction Accuracies of Tropical Maize Resistance to Fall
+- Armyworm and Weevils
+- Reprinted from: Plants 2021, 10, 29, doi:10.3390/plants10010029 . . . . . . . . . . . . . . . . . . . 81
+- Mahmoud M. Gaballah, Azza M. Metwally, Milan Skalicky, Mohamed M. Hassan, Marian
+- Brestic, Ayman EL Sabagh and Aysam M. Fayed
+- Genetic Diversity of Selected Rice Genotypes under Water Stress Conditions
+- Reprinted from: Plants 2021, 10, 27, doi:10.3390/plants10010027 . . . . . . . . . . . . . . . . . . . 103
+- Jiajia Liu, Qi Zhang, Deyuan Meng, Xiaoli Ren, Hanwen Li, Zhenqi Su, Na Zhang, Liya Zhi,
+- Jun Ji, Junming Li, Fa Cui and Liqiang Song
+- QMrl-7B Enhances Root System, Biomass, Nitrogen Accumulation and Yield in Bread Wheat
+- Reprinted from: Plants 2021, 10, 764, doi:10.3390/plants10040764 . . . . . . . . . . . . . . . . . . 123
+-                                                        v
+- Thao Duc Le, Floran Gathignol, Huong Thi Vu, Khanh Le Nguyen, Linh Hien Tran, Hien
+- Thi Thu Vu, Tu Xuan Dinh, Françoise Lazennec, Xuan Hoi Pham, Anne-Aliénor Véry, Pascal
+- Gantet and Giang Thi Hoang
+- Genome-Wide Association Mapping of Salinity Tolerance at the Seedling Stage in a Panel of
+- Vietnamese Landraces Reveals New Valuable QTLs for Salinity Stress Tolerance Breeding in
+- Rice
+- Reprinted from: Plants 2021, 10, 1088, doi:10.3390/plants10061088 . . . . . . . . . . . . . . . . . . 141
+- Shivani Saini, Navdeep Kaur, Deeksha Marothia, Baldev Singh, Varinder Singh, Pascal
+- Gantet and Pratap Kumar Pati
+- Morphological Analysis, Protein Proﬁling and Expression Analysis of Auxin Homeostasis
+- Genes of Roots of Two Contrasting Cultivars of Rice Provide Inputs on Mechanisms Involved
+- in Rice Adaptation towards Salinity Stress
+- Reprinted from: Plants 2021, 10, 1544, doi:10.3390/plants10081544 . . . . . . . . . . . . . . . . . . 165
+-                                                    vi
+- About the Editor
+-      Igor G. Loskutov was born in 1956. In 1978, he graduated from Saint Petersburg State University
+- with a diploma of Agrochemistry and Soil Science. In 1985, he completed his Ph. D (plant breeding)
+- and in 2003, his D. Sc. (botany and plant breeding) from N.I. Vavilov Institute of Plant Genetic
+- Resources (VIR).
+-      He has vast experience in different areas of Plant Genetic Resources: the theoretical, practical and
+- legislative aspects of collecting, evaluation and storage of plant genetic resources; botany, systematic,
+- evolution, distribution and diversity of cultivated and wild oats; genomic, genetics and breeding of
+- the main characters and properties of cereals.
+-      At present, he is Head of the Department of Genetic Resources of Oat, Barley and Rye, N.I.
+- Vavilov Institute of Plant Genetic Resources (VIR), Russia; Professor of Department of Agrochemistry,
+- Biology Faculty, Sankt-Petersburg State University, Russia.

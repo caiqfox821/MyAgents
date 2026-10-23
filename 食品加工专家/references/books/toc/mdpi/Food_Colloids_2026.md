@@ -1,0 +1,81 @@
+# Food Colloids (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7211-4
+- 页数: 154
+- 全文: `text/mdpi/Food_Colloids_2026.txt`
+- PDF: `mdpi/Food_Colloids_2026.pdf`
+- 标签: 食品胶体, 乳化, 界面
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Eleni P. Kalogianni and Julia Maldonado-Valderrama
+- Special Issue “Food Colloids: 3rd Edition”
+- Reprinted from: Colloids Interfaces 2025, 9, 77, https://doi.org/10.3390/colloids9060077 . . . . .
+- 1
+- Galiya Madybekova, Elmira Turkeyeva, Botagoz Mutaliyeva, Dinara Osmanova,
+- Saule Aidarova, Reinhard Miller, et al.
+- Study of Probiotic Bacteria Encapsulation for Potential Application in Enrichment of Fermented
+- Beverage
+- Reprinted from: Colloids Interfaces 2024, 8, 51, https://doi.org/10.3390/colloids8050051 . . . . .
+- 4
+- Anand Vaishnav, Naresh Kumar Mehta, Mocherla Bhargavi Priyadarshini,
+- Soibam Khogen Singh, Pratap Chandra Acharya, Satyajeet Biswal, et al.
+- Impact of Carrageenan-Based Encapsulation on the Physicochemical, Structural, and
+- Antioxidant Properties of Freshwater Snail (Bellamya bengalensis) Protein Hydrolysates
+- Reprinted from: Colloids Interfaces 2025, 9, 29, https://doi.org/10.3390/colloids9030029 . . . . . 19
+- Pitima Sinlapapanya, Jirayu Buatong, Suriya Palamae, Rasool Abdul Nazeer, Bin Zhang,
+- Thummanoon Prodpran and Soottawat Benjakul
+- Ethanolic Cashew Leaf Extract Encapsulated in Tripolyphosphate–Chitosan Complexes:
+- Characterization, Antimicrobial, and Antioxidant Activities
+- Reprinted from: Colloids Interfaces 2024, 8, 52, https://doi.org/10.3390/colloids8050052 . . . . . 49
+- Reynaldo J. Silva-Paz, Celenia E. Ñope-Quito, Thalia A. Rivera-Ashqui,
+- Nicodemo C. Jamanca-Gonzales, Amparo Eccoña-Sota, Natalia Riquelme
+- and Carla Arancibia
+- Encapsulation of Canola Oil by Sonication for the Development of Protein and Starch Systems:
+- Physical Characteristics and Rheological Properties
+- Reprinted from: Colloids Interfaces 2025, 9, 10, https://doi.org/10.3390/colloids9010010 . . . . . 64
+- Amira Ayman Hendawy, Amal A. M. Elgharbawy, Najihah Mohd Noor, Nurhidayu Al-Saari,
+- Nor Azrini Nadiha Azmi and Hamzah Mohd Salleh
+- Exploring the Safety of the Sustainable Toxicity Testing in Zebraﬁsh and Brine Shrimp Using
+- Nanoemulsions Formulated from Fish Byproducts and Lemon Oil
+- Reprinted from: Colloids Interfaces 2024, 8, 59, https://doi.org/10.3390/colloids8060059 . . . . . 81
+- Cao Tuan Anh, Dao Tran Cao and Luong Truc-Quynh Ngan
+- Preparation of Colloidal Silver Triangular Nanoplates and Their Application in SERS Detection
+- of Trace Levels of Antibiotic Enroﬂoxacin
+- Reprinted from: Colloids Interfaces 2025, 9, 31, https://doi.org/10.3390/colloids9030031 . . . . . 96
+- Despoina Georgiou, Aggelos Charisis, Athina Theocharidou, Christos Ritzoulis,
+- Georgia Papapanagiotou, Christina Samara, et al.
+- Foaming Properties of Chlorella sorokiniana Microalgal Biomass
+- Reprinted from: Colloids Interfaces 2024, 8, 66, https://doi.org/10.3390/colloids8060066 . . . . . 110
+- Anshika Sharma and Arun K. Singh
+- Sodium Alginate: A Green Biopolymer Resource-Based Antimicrobial Edible Coating to
+- Enhance Fruit Shelf-Life: A Review
+- Reprinted from: Colloids Interfaces 2025, 9, 32, https://doi.org/10.3390/colloids9030032 . . . . . 127
+- v
+- About the Editors
+- Eleni P. Kalogianni
+- Eleni P. Kalogianni is a Professor in the Department of Food Science and Technology, School
+- of Geosciences, International Hellenic University (I.H.U.), Greece. She is Vice President of the
+- European Federation for the Science and Technology of Lipids and a national representative for
+- the same organization. She currently heads the Oils and Interfaces research group and specializes
+- in food science and technology, with a speciﬁc focus on the study of food colloids and interfacial
+- properties, as well as on the extraction, processing, and characterization of lipids. She has research
+- experience lasting over 20 years, she has published more than 65 JCR-indexed articles and has been
+- the coordinator/head of a series of competitive research projects funded by Greek, European, and
+- private grants. She has organized and chaired scientiﬁc conferences and one-day seminars and, in
+- April 2024, the 19th Food Colloids Conference. She was head of the Food Science and Technology
+- department for 2021–2023 and has also been a member of the I.H.U. Research Committee. She
+- represents I.H.U. on the Greek Technological Platform “Food for Life” (a member of the European
+- Platform) and coordinates the working group “Sustainable food production” under the aegis of the
+- Federation of Hellenic Food Industries.
+- Julia Maldonado Valderrama
+- Julia Maldonado Valderrama holds a PhD in Science and Technology of Colloids and Interfaces
+- and a Degree in Physics from the University of Granada, Spain. She has worked in international
+- laboratories including the Max Planck Institute of Colloids and Interfaces (Germany), the Laboratorie
+- de Physique des Solides (France), and the Institute of Food Research (UK) as a Marie-Curie Fellow,
+- and more recently worked as a visiting professor at the University of South Australia (Australia). She
+- is currently Associate Professor at the Department of Applied Physics, UGR, and has three children
+- born in 2012, 2014 and 2016. Her research lines focus on the interfacial characterization of foams and
+- emulsions, in vitro digestion, and the development of biomedical and food nanosystems, having

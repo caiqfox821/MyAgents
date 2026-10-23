@@ -1,0 +1,77 @@
+# Advances in Research for Horticultural Crops Breeding and Genetics (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11933
+- 页数: 242
+- 全文: `text/mdpi/Advances_in_Research_for_Horticultural_Crops_Breeding_and_Genetics_2025.txt`
+- 标签: 园艺作物, 育种
+
+## 目录 (Contents)
+
+- Shuangjuan Yang, Hao Tang, Xiaochun Wei, Yanyan Zhao, Zhiyong Wang, Henan Su, et al.
+- BrWAX3, Encoding a β-ketoacyl-CoA Synthase, Plays an Essential Role in Cuticular Wax
+- Biosynthesis in Chinese Cabbage
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 10938, https://doi.org/10.3390/ijms231810938 . . . . .   1
+- Ao-Qi Duan, Shan-Shan Tan, Yuan-Jie Deng, Zhi-Sheng Xu and Ai-Sheng Xiong
+- Genome-Wide Identiﬁcation and Evolution Analysis of R2R3-MYB Gene Family Reveals S6
+- Subfamily R2R3-MYB Transcription Factors Involved in Anthocyanin Biosynthesis in Carrot
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 11859, https://doi.org/10.3390/ijms231911859 . . . . . 17
+- Yan Wang, Zhiyi Wang, Jing Zhang, Zhenshan Liu, Hao Wang, Hongxia Tu, et al.
+- Integrated Transcriptome and Metabolome Analyses Provide Insights into the Coloring
+- Mechanism of Dark-red and Yellow Fruits in Chinese Cherry [Cerasus pseudocerasus
+- (Lindl.) G. Don]
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 3471, https://doi.org/10.3390/ijms24043471 . . . . . . 34
+- Hao Zhou, Wei Zhou, Xinzhuan Yao, Qi Zhao and Litang Lu
+- Genome-Wide Investigation and Functional Analysis Reveal That CsGeBP4 Is Required for Tea
+- Plant Trichome Formation
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 5207, https://doi.org/10.3390/ijms24065207 . . . . . . 54
+- Weijuan Han, Yiru Wang, Huawei Li, Songfeng Diao, Yujing Suo, Taishan Li, et al.
+- Transcriptome and Metabolome Reveal Distinct Sugar Accumulation Pattern between PCNA
+- and PCA Mature Persimmon Fruit
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 8599, https://doi.org/10.3390/ijms24108599 . . . . . . 74
+- Lianxi Zhang, Yiping Wang, Maolan Yue, Leiyu Jiang, Nating Zhang, Ya Luo, et al.
+- FaMYB5 Interacts with FaBBX24 to Regulate Anthocyanin and Proanthocyanidin Biosynthesis in
+- Strawberry (Fragaria × ananassa)
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 12185, https://doi.org/10.3390/ijms241512185 . . . . . 87
+- Zheng Jiang, Lihui Du, Lei Shen, Jie He, Xin Xia, Longhao Zhang and Xu Yang
+- Genome-Wide Exploration and Expression Analysis of the CNGC Gene Family in Eggplant
+- (Solanum melongena L.) under Cold Stress, with Functional Characterization of SmCNGC1a
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 13049, https://doi.org/10.3390/ijms241713049 . . . . . 101
+- Yuanxiu Lin, Hao He, Yanling Wen, Shuaipeng Cao, Zisen Wang, Ziqing Sun, et al.
+- Comprehensive Analysis of the Pectate Lyase Gene Family and the Role of FaPL1 in Strawberry
+- Softening
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 13217, https://doi.org/10.3390/ijms241713217 . . . . . 122
+- Lei Shen, Xin Xia, Longhao Zhang, Shixin Yang and Xu Yang
+- Genome-Wide Identiﬁcation of Catalase Gene Family and the Function of SmCAT4 in Eggplant
+- Response to Salt Stress
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 16979, https://doi.org/10.3390/ijms242316979 . . . . . 136
+- Marzena Mazurek, Aleksandra Siekierzyńska, Tomasz Piechowiak, Anna Spinardi and
+- Wojciech Litwińczuk
+- Comprehensive Analysis of Highbush Blueberry Plants Propagated In Vitro and Conventionally
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 544, https://doi.org/10.3390/ijms25010544 . . . . . . . 154
+- Zhihang Hu, Nan Zhang, Zhiyuan Qin, Jinwen Li, Ni Yang, Yi Chen, et al.
+- Differential Response of MYB Transcription Factor Gene Transcripts to Circadian Rhythm in Tea
+- Plants (Camellia sinensis)
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 657, https://doi.org/10.3390/ijms25010657 . . . . . . . 172
+-                                                    v
+- Lu Wei, Cheng Yang, Jerome Jeyakumar John Martin, Rui Li, Lixia Zhou, Shuanghong Cheng,
+- et al.
+- Metabonomics and Transcriptomic Analysis of Free Fatty Acid Synthesis in Seedless and Tenera
+- Oil Palm
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 1686, https://doi.org/10.3390/ijms25031686 . . . . . . 193
+- Kexin Wang, Xinyu Wang, Lijing Zhang, Yichen Chi, Yusong Luo, Wenlong Xu, et al.
+- Morphological Analyses and QTL Mapping of Mottled Leaf in Zucchini (Cucurbita pepo L.)
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 2491, https://doi.org/10.3390/ijms25052491 . . . . . . 213
+-                                                   vi
+-            International Journal of
+-            Molecular Sciences
+- Article
+- BrWAX3, Encoding a β-ketoacyl-CoA Synthase, Plays an
+- Essential Role in Cuticular Wax Biosynthesis in
+- Chinese Cabbage
+- Shuangjuan Yang 1 , Hao Tang 1,2 , Xiaochun Wei 1 , Yanyan Zhao 1 , Zhiyong Wang 1 , Henan Su 1 , Liujing Niu 1 ,
+- Yuxiang Yuan 1, * and Xiaowei Zhang 1, *
+-                   1   Institute of Horticulture, Henan Academy of Agricultural Sciences, Zhengzhou 450002, China
+-                   2   College of Horticulture and Landscape, Henan Institute of Science and Technology, Xinxiang 453003, China
+-                   *   Correspondence: yuxiangyuan126@126.com (Y.Y.); xiaowei5737@163.com (X.Z.)
+-                   Abstract: In this study, we identiﬁed a novel glossy mutant from Chinese cabbage, named SD369, and

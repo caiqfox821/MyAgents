@@ -1,0 +1,80 @@
+# Fermentation as a Strategy to Improve the Functional and Nutritional Value of Foods (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7505-4
+- 页数: 252
+- 全文: `text/mdpi/Fermentation_as_a_Strategy_to_Improve_the_Functional_and_Nutritional_Value_of_Foods_2026.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Pretty Mhlanga, Sephora Mutombo Mianda and Dharini Sivakumar
+- Impact of Fermentation of Pumpkin Leaves and Melon Varieties with Lactobacillus Strains on
+- Physicochemical Properties, Antioxidant Activity, and Carotenoid Compounds
+- Reprinted from: Foods 2024, 13, 3562, https://doi.org/10.3390/foods13223562 . . . . . . . . . . .                 1
+- Francesca Valerio, Mariaelena Di Biase, Valentina Cifarelli, Stella Lisa Lonigro, Amina
+- Maalej, Stella Plazzotta, et al.
+- Okra (Abelmoschus esculentus L.) Flour Integration in Wheat-Based Sourdough: Effect on
+- Nutritional and Technological Quality of Bread
+- Reprinted from: Foods 2024, 13, 3238, https://doi.org/10.3390/foods13203238 . . . . . . . . . . . 26
+- Yu Wang, Min Zhao, Chunzhi Xie, Lilang Li, Ling Lin, Qiji Li, et al.
+- Fermented Gastrodia elata Bl. Alleviates Cognitive Deﬁcits by Regulating Neurotransmitters and
+- Gut Microbiota in D-Gal/AlCl3 -Induced Alzheimer’s Disease-like Mice
+- Reprinted from: Foods 2024, 13, 2154, https://doi.org/10.3390/foods13132154 . . . . . . . . . . . 47
+- Mengchun Qin, Yinfei Xing, Maocheng Sun, Lin Ma, Xiaolei Li, Fumin Ma, et al.
+- An Exploration of the Antioxidative and Anti-Inﬂammatory Role of Lactiplantibacillus plantarum
+- 106 via Improving Mitochondrial Function
+- Reprinted from: Foods 2024, 13, 1981, https://doi.org/10.3390/foods13131981 . . . . . . . . . . . 63
+- Joel Armando Njieukam, Marianna Ciccone, Davide Gottardi, Arianna Ricci, Giuseppina
+- Paola Parpinello, Lorenzo Siroli, et al.
+- Microbiological, Functional, and Chemico-Physical Characterization of Artisanal Kombucha:
+- An Interesting Reservoir of Microbial Diversity
+- Reprinted from: Foods 2024, 13, 1947, https://doi.org/10.3390/foods13121947 . . . . . . . . . . . 81
+- Eda Nur Ayar-Sümer, Yannick Verheust, Beraat Özçelik and Katleen Raes
+- Impact of Lactic Acid Bacteria Fermentation Based on Biotransformation of Phenolic
+- Compounds and Antioxidant Capacity of Mushrooms
+- Reprinted from: Foods 2024, 13, 1616, https://doi.org/10.3390/foods13111616 . . . . . . . . . . . 101
+- Zixin Song, Jiaxuan Fang, Dongdong Wang, Yuncai Tian, Yuhua Xu, Ziwen Wang, et al.
+- Inhibition of LPS-Induced Skin Inﬂammatory Response and Barrier Damage via MAPK/NF-κB
+- Signaling Pathway by Houttuynia cordata Thunb Fermentation Broth
+- Reprinted from: Foods 2024, 13, 1470, https://doi.org/10.3390/foods13101470 . . . . . . . . . . . 120
+- Gabriela Cid-Ibarra, Rosa M. Rodrı́guez-Jasso, Gilver Rosero-Chasoy, Ruth Belmares, Juan
+- Carlos Contreras-Esquivel, Samanta Machado-Cepeda, et al.
+- Microalgae Biomass Production from Rice Husk as Alternative Media Cultivation and
+- Extraction of Phycocyanin Using 3D-Printed Ohmic Heating Reactor
+- Reprinted from: Foods 2024, 13, 1421, https://doi.org/10.3390/foods13091421 . . . . . . . . . . . 142
+- Qi Sun, Jinghao Ma, Rana Abdul Basit, Zhilei Fu, Xiaoyan Liu and Guangsen Fan
+- Screening of a Saccharomyces cerevisiae Strain with High 3-Methylthio-1-Propanol Yield and
+- Optimization of Its Fermentation Conditions
+- Reprinted from: Foods 2024, 13, 1296, https://doi.org/10.3390/foods13091296 . . . . . . . . . . . 159
+-                                                          v
+- Morena Gabriele, Andrea Cavallero, Elena Tomassi, Naﬁou Arouna, Július Árvay, Vincenzo
+- Longo, et al.
+- Assessment of Sourdough Fermentation Impact on the Antioxidant and Anti-Inﬂammatory
+- Potential of Pearl Millet from Burkina Faso
+- Reprinted from: Foods 2024, 13, 704, https://doi.org/10.3390/foods13050704 . . . . . . . . . . . 175
+- Karolina Jakubczyk, Łukasz Łopusiewicz, Joanna Kika, Katarzyna Janda-Milczarek and
+- Karolina Skonieczna-Żydecka
+- Fermented Tea as a Food with Functional Value—Its Microbiological Proﬁle, Antioxidant
+- Potential and Phytochemical Composition
+- Reprinted from: Foods 2024, 13, 50, https://doi.org/10.3390/foods13010050 . . . . . . . . . . . . 187
+- Laryssa Peres Fabbri, Andrea Cavallero, Francesca Vidotto and Morena Gabriele
+- Bioactive Peptides from Fermented Foods: Production Approaches, Sources, and Potential
+- Health Beneﬁts
+- Reprinted from: Foods 2024, 13, 3369, https://doi.org/10.3390/foods13213369 . . . . . . . . . . . 198
+- Belén Hidalgo-Fuentes, Edgar de Jesús-José, Anselmo de J. Cabrera-Hidalgo, Ofelia
+- Sandoval-Castilla, Teodoro Espinosa-Solares, Ricardo. M. González-Reza, et al.
+- Plant-Based Fermented Beverages: Nutritional Composition, Sensory Properties, and Health
+- Beneﬁts
+- Reprinted from: Foods 2024, 13, 844, https://doi.org/10.3390/foods13060844 . . . . . . . . . . . 219
+-                                                  vi
+- About the Editors
+- Morena Gabriele
+-     Morena Gabriele is an Italian researcher at the Institute of Agricultural Biology and
+- Biotechnology (IBBA) of the National Research Council (CNR) in Pisa. Her scientiﬁc activity
+- focuses on food biochemistry and the study of functional and nutraceutical properties of plant-based
+- foods, with particular attention to their impact on human health. Her main research areas include:
+- Bioactive Compounds Characterization: identiﬁcation and analysis of phytochemicals with potential
+- health beneﬁts; Antioxidant and Anti-inﬂammatory Activities: evaluation of the biological properties

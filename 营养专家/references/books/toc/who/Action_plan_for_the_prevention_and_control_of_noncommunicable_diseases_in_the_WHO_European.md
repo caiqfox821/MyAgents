@@ -1,0 +1,80 @@
+# Action plan for the prevention and control of noncommunicable diseases in the WHO European Region (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/341522
+- 页数: 39
+- 全文: `text/who/Action_plan_for_the_prevention_and_control_of_noncommunicable_diseases_in_the_WHO_European.txt`
+- 标签: 慢病(NCD), 政策/环境
+
+## 目录 (Contents)
+
+- Introduction                                                                       1
+- Scope                                                                              2
+- Priority action areas                                                              3
+-     Governance                                                                     3
+-     Surveillance, monitoring and evaluation, and research                          4
+-     Prevention and health promotion                                                4
+-     Health systems                                                                 5
+- Priority interventions (population-level)                                          6
+-     Promoting healthy consumption via fiscal and marketing policies                6
+-     Product reformulation and improvement: salt, fats and sugars                   7
+-     Salt reduction                                                                 8
+-     Promoting active living and mobility                                           8
+-     Promoting clean air                                                           10
+- Priority interventions (individual-level)                                         11
+-     Cardio-metabolic risk assessment and management                               11
+-     Early detection and effective treatment of major NCDs                         12
+-     Vaccination and relevant communicable disease control                         14
+- Supporting interventions                                                          15
+-     Promoting oral health and musculoskeletal health                              15
+-     Promoting mental health                                                       16
+-     Promoting health in specific settings                                         17
+- Role of the Regional Office for Europe                                            18
+-     Leadership and advocacy                                                       18
+-     Capacity-building                                                             19
+-     Monitoring and surveillance                                                   19
+-     Working with others                                                           19
+- References                                                                        20
+- Annex 1. Mapping of action areas and interventions of the Action Plan for the
+-           Prevention and Control of Noncommunicable Diseases in the
+-           WHO European Region 2016–2025 to specific global and regional targets   25
+- Annex 2. Mapping of actions within existing WHO strategies and action plans
+-           to the Action Plan for the Prevention and Control of Noncommunicable
+-           Diseases in the WHO European Region 2016–2025                           29
+- Resolution                                                                        32
+-      Conceptual overview and main elements
+-      Vision
+-      A health-promoting Europe free of preventable noncommunicable disease (NCD), premature
+-      death and avoidable disability
+-      Goal
+-      The goal of the Action Plan for the Prevention and Control of Noncommunicable Diseases in
+-      the WHO European Region 2016–2025 is to avoid premature death and significantly reduce
+-      the disease burden from NCD by taking integrated action, improving the quality of life and
+-      making healthy life expectancy more equitable within and between Member States.
+-      Objectives
+-      •   To take integrated action on risk factors and their underlying determinants across sectors
+-      •   To strengthen health systems for improved prevention and control of NCDs
+-      Strategic approach
+-      A comprehensive approach that systematically integrates policy and action to reduce
+-      inequalities in health and tackles NCDs by simultaneously:
+-      (1) promoting population-level health promotion and disease prevention programmes;
+-      (2) actively targeting groups and individuals at high risk; and
+-      (3) maximizing population coverage with effective treatment and care.
+-      Targets
+-      Achievement of global and European targets on relative reduction of premature mortality from
+- iv   four NCDs of: 1.5% annually by 2020 (Health 2020); 25% by 2025 (global NCD monitoring
+-      framework); and one third by 2030 (Sustainable Development Goals) (baseline 2010).
+-      Focus and supporting areas
+-      Priority action areas
+-      •   Governance
+-      •   Surveillance, monitoring and evaluation, and research
+-      •   Prevention and health promotion
+-      •   Health systems
+-      Priority interventions: population-level
+-      •   Promoting healthy consumption via fiscal and marketing policies: tobacco, alcohol, food
+-      •   Product reformulation and improvement: salt, fats and sugars
+-      •   Salt reduction
+-      •   Promoting active living and mobility
+-      •   Promoting clean air
+-      Priority interventions: individual-level
+-      •   Cardio-metabolic risk assessment and management

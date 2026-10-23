@@ -1,0 +1,79 @@
+# Risk Assessment of Nanomaterials Toxicity (2023, mdpi-res.com)
+
+- 许可: 开放获取（机构库）
+- 来源: https://doi.org/10.3390/books978-3-0365-7813-2
+- 页数: 306
+- 全文: `text/guides/Risk_Assessment_of_Nanomaterials_Toxicity.txt`
+- 标签: tox
+
+## 目录 (Contents)
+
+- Andrea Hartwig and Christoph van Thriel
+- Risk Assessment of Nanomaterials Toxicity
+- Reprinted from: Nanomaterials 2023, 13, 1512, doi:10.3390/nano13091512 . . . . . . . . . . . . . .    1
+- Claudia Meindl, Markus Absenger-Novak, Ramona Jeitler, Eva Roblegg
+- and Eleonore Fröhlich
+- Assessment of Carbon Nanotubes on Barrier Function, Ciliary Beating Frequency and Cytokine
+- Release in In Vitro Models of the Respiratory Tract
+- Reprinted from: Nanomaterials 2023, 13, 682, doi:10.3390/nano13040682 . . . . . . . . . . . . . . .   3
+- Gabriela de Souza Castro, Wanderson de Souza, Thais Suelen Mello Lima,
+- Danielle Cabral Bonfim, Jacques Werckmann, Braulio Soares Archanjo, et al.
+- The Effects of Titanium Dioxide Nanoparticles on Osteoblasts Mineralization: A Comparison
+- between 2D and 3D Cell Culture Models
+- Reprinted from: Nanomaterials 2023, 13, 425, doi:10.3390/nano13030425 . . . . . . . . . . . . . . . 23
+- Elisabeth Elje, Espen Mariussen, Erin McFadden, Maria Dusinska and Elise Rundén-Pran
+- Different Sensitivity of Advanced Bronchial and Alveolar Mono- and Coculture Models for
+- Hazard Assessment of Nanomaterials
+- Reprinted from: Nanomaterials 2023, 13, 407, doi:10.3390/nano13030407 . . . . . . . . . . . . . . . 39
+- Paul Schumacher, Franziska Fischer, Joachim Sann, Dirk Walter and Andrea Hartwig
+- Impact of Nano- and Micro-Sized Chromium(III) Particles on Cytotoxicity and Gene Expression
+- Proﬁles Related to Genomic Stability in Human Keratinocytes and Alveolar Epithelial Cells
+- Reprinted from: Nanomaterials 2022, 12, 1294, doi:10.3390/nano12081294 . . . . . . . . . . . . . . 67
+- Otto Creutzenberg, Helena Oliveira, Lucian Farcal, Dirk Schaudien, Ana Mendes,
+- Ana Catarina Menezes, et al.
+- PLATOX: Integrated In Vitro/In Vivo Approach for Screening of Adverse Lung Effects of
+- Graphene-Related 2D Nanomaterials
+- Reprinted from: Nanomaterials 2022, 12, 1254, doi:10.3390/nano12081254 . . . . . . . . . . . . . . 85
+- Linda Elberskirch, Adriana Sofranko, Julia Liebing, Norbert Rieﬂer, Kunigunde Binder,
+- Christian Bonatto Minella, et al.
+- How Structured Metadata Acquisition Contributes to the Reproducibility of Nanosafety
+- Studies: Evaluation by a Round-Robin Test
+- Reprinted from: Nanomaterials 2022, 12, 1053, doi:10.3390/nano12071053 . . . . . . . . . . . . . . 119
+- Mauro Sousa de Almeida, Patricia Taladriz-Blanco, Barbara Drasler, Sandor Balog,
+- Phattadon Yajan, Alke Petri-Fink and Barbara Rothen-Rutishauser
+- Cellular Uptake of Silica and Gold Nanoparticles Induces Early Activation of Nuclear Receptor
+- NR4A1
+- Reprinted from: Nanomaterials 2022, 12, 690, doi:10.3390/nano12040690 . . . . . . . . . . . . . . . 139
+- Harald F. Krug
+- Collection of Controlled Nanosafety Data—The CoCoN-Database, a Tool to Assess
+- Nanomaterial Hazard
+- Reprinted from: Nanomaterials 2022, 12, 441, doi:10.3390/nano12030441 . . . . . . . . . . . . . . . 157
+- Sarah May, Cordula Hirsch, Alexandra Rippl, Alexander Bürkle and Peter Wick
+- Assessing Genotoxicity of Ten Different Engineered Nanomaterials by the Novel
+- Semi-Automated FADU Assay and the Alkaline Comet Assay
+- Reprinted from: Nanomaterials 2022, 12, 220, doi:10.3390/nano12020220 . . . . . . . . . . . . . . . 175
+-                                                    v
+- Johanna Wall, Didem Ag Seleci, Feranika Schworm, Ronja Neuberger, Martin Link,
+- Matthias Hufnagel, et al.
+- Comparison of Metal-Based Nanoparticles and Nanowires: Solubility, Reactivity,
+- Bioavailability and Cellular Toxicity
+- Reprinted from: Nanomaterials 2021, 12, 147, doi:10.3390/nano12010147 . . . . . . . . . . . . . . . 199
+- Sivakumar Murugadoss, Sonja Mülhopt, Silvia Diabaté, Manosij Ghosh,
+- Hanns-Rudolf Paur, Dieter Stapf, et al.
+- Agglomeration State of Titanium-Dioxide (TiO2 ) Nanomaterials Inﬂuences the Dose Deposition
+- and Cytotoxic Responses in Human Bronchial Epithelial Cells at the Air-Liquid Interface
+- Reprinted from: Nanomaterials 2021, 11, 3226, doi:10.3390/nano11123226 . . . . . . . . . . . . . . 219
+- Sivakumar Murugadoss, Lode Godderis, Manosij Ghosh and Peter H. Hoet
+- Assessing the Toxicological Relevance of Nanomaterial Agglomerates and Aggregates Using
+- Realistic Exposure In Vitro
+- Reprinted from: Nanomaterials 2021, 11, 1793, doi:10.3390/nano11071793 . . . . . . . . . . . . . . 235
+- Nienke Ruijter, Lya G. Soeteman-Hernández, Marie Carrière, Matthew Boyles,
+- Polly McLean, Julia Catalán, et al.
+- The State of the Art and Challenges of In Vitro Methods for Human Hazard Assessment of
+- Nanomaterials in the Context of Safe-by-Design
+- Reprinted from: Nanomaterials 2023, 13, 472, doi:10.3390/nano13030472 . . . . . . . . . . . . . . . 249
+-                                                   vi
+-              nanomaterials
+- Editorial
+- Risk Assessment of Nanomaterials Toxicity
+- Andrea Hartwig 1 and Christoph van Thriel 2, *

@@ -1,0 +1,81 @@
+# Agribusiness Handbook: Fruit and Vegetable Processing (2009, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/al177e/al177e.pdf
+- 页数: 93
+- 全文: `text/fao/Agribusiness_Handbook_Fruit_Vegetable_Processing_2009.txt`
+- PDF: `fao/Agribusiness_Handbook_Fruit_Vegetable_Processing_2009.pdf`
+- 标签: 果蔬加工, 产业手册
+
+## 目录 (Contents)
+
+- ACRONYMS AND DEFINITIONS
+- 5
+- INTRODUCTION
+- 9
+- 1. MARKET TRENDS
+- 1.1 Market trends in developed countries
+- 1.2 Opportunities to export
+- 1.3 Market trends in emerging markets
+- 1.4 Opportunities for import substitution
+- 11
+- 11
+- 11
+- 12
+- 12
+- 2. CHALLENGES FOR THE EARLY TRANSITION COUNTRIES (ETCs)
+- AND THE WESTERN BALKAN COUNTRIES (WBCs)
+- 13
+- 2.1 Increasing raw material supply
+- 13
+- 2.2 Modernizing agroprocessing industries
+- 14
+- 3. CIGAR BOX AND RISK ANALYSIS
+- 3.1 Sales price
+- 3.2 Variable costs
+- 3.3 Fixed costs
+- 3.4 Volume produced and sold
+- 17
+- 17
+- 18
+- 18
+- 19
+- 4. KEY INFORMATION ON SELECTED PRODUCTS
+- 4.1 Tomato paste
+- 4.2 Ketchup
+- 4.3 Fruit juice concentrates and purées
+- 4.4 Juices, nectars, and drinks
+- 4.5 Preserves, jams, syrups and compotes
+- 4.6 Canned vegetables
+- 4.7 Frozen fruits and vegetables
+- 21
+- 21
+- 25
+- 29
+- 36
+- 41
+- 45
+- 49
+- 5. BACKGROUND INFORMATION ON PRODUCTION
+- AND PROCESSING STEPS
+- 57
+- 5.1 Different types of fruits and vegetables
+- 57
+- 5.2 Ripeness or harvest readiness
+- 57
+- 5.3 Post-harvest actions
+- 58
+- 5.4 Preserving food
+- 58
+- ANNEX
+- 63
+- ACRONYMS AND DEFINITIONS
+- Abbreviation
+- Meaning
+- AJC
+- BRC
+- Apple Juice Concentrate
+- British Retail Consortium
+- Bx or Brix
+- Breaking Index
+- CA/ULO

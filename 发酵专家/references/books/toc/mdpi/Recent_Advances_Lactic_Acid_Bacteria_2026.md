@@ -1,0 +1,71 @@
+# Recent Advances in Lactic Acid Bacteria and Metabolite for Food Quality (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-7521-4
+- 页数: 180
+- 全文: `text/mdpi/Recent_Advances_Lactic_Acid_Bacteria_2026.txt`
+- PDF: `mdpi/Recent_Advances_Lactic_Acid_Bacteria_2026.pdf`
+- 标签: 乳酸菌, 菌种, 食品发酵
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Luis M. Medina and Fernando Pérez-Rodrı́guez
+- Lactic Acid Bacteria: An Inexhaustible Source of Scientiﬁc Knowledge and Food Innovation
+- Reprinted from: Foods 2025, 14, 858, https://doi.org/10.3390/foods14050858 . . . . . . . . . . .                  1
+- José M. Martı́n Miguélez, Irene Martı́n, Jurgen Robledo, Sonia Ventanas and Juan J. Córdoba
+- Effect of Artisanal Processing on Volatile Compounds and Sensory Characteristics of Traditional
+- Soft-Ripened Cheeses Matured with Selected Lactic Acid Bacteria
+- Reprinted from: Foods 2025, 14, 231, https://doi.org/10.3390/foods14020231 . . . . . . . . . . .                  4
+- Ramón Arias, Claudio Alba, Javier Calzada, Lorena Jiménez, Leónides Fernández,
+- Marta Ávila, et al.
+- Application of Ligilactobacillus salivarius SP36, a Strain Isolated from an Old Cheese Seal, as an
+- Adjunct Culture in Cheesemaking
+- Reprinted from: Foods 2024, 13, 2296, https://doi.org/10.3390/foods13142296 . . . . . . . . . . . 25
+- Claudio Alba, Rebeca Arroyo, Leónides Fernández, Arjan Narbad and Juan M. Rodrı́guez
+- Characterization of a Ligilactobacillus salivarius Strain Isolated from a Cheese Seal Which Was
+- Last Used in 1936
+- Reprinted from: Foods 2024, 13, 2005, https://doi.org/10.3390/foods13132005 . . . . . . . . . . . 39
+- José M. Martı́n-Miguélez, Jurgen Robledo, Irene Martı́n, Cristina Castaño, Josué Delgado
+- and Juan J. Córdoba
+- Biocontrol of L. monocytogenes with Selected Autochthonous Lactic Acid Bacteria in Raw Milk
+- Soft-Ripened Cheese under Different Water Activity Conditions
+- Reprinted from: Foods 2024, 13, 172, https://doi.org/10.3390/foods13010172 . . . . . . . . . . . 52
+- Tiago de Melo Nazareth, Jorge Calpe, Carlos Luz, Jordi Mañes and Giuseppe Meca
+- Manufacture of a Potential Antifungal Ingredient Using Lactic Acid Bacteria from Dry-Cured
+- Sausages
+- Reprinted from: Foods 2023, 12, 1427, https://doi.org/10.3390/foods12071427 . . . . . . . . . . . 66
+- Javier Feito, Carlos Araújo, Sara Arbulu, Diogo Contente, Beatriz Gómez-Sala,
+- LaraDı́az-Formoso,etal.
+- Designof Lactococcuslactis StrainsProducing GarvicinA and/orGarvicin Q, EitherAloneor
+- TogetherwithNisinAorNisinZandHighAntimicrobialActivityagainstLactococcusgarvieae
+- Reprinted from: Foods 2023, 12, 1063, https://doi.org/10.3390/foods12051063 . . . . . . . . . . . 88
+- Marı́a J. Ruiz, José A. Salatti-Dorado, Marı́a J. Cardador, Laureano Frizzo, Rafael Jordano,
+- Lourdes Arce and Luis M. Medina
+- Relationship between Volatile Organic Compounds and Microorganisms Isolated from Raw
+- Sheep Milk Cheeses Determined by Sanger Sequencing and GC–IMS
+- Reprinted from: Foods 2023, 12, 372, https://doi.org/10.3390/foods12020372 . . . . . . . . . . . 107
+- Leónides Fernández, Belén Orgaz and Juan M. Rodrı́guez
+- The Safety of Probiotics Intended for Use in Pregnant and Lactating Women: From a Desirable
+- to a Required Task
+- Reprinted from: Foods 2024, 13, 4024, https://doi.org/10.3390/foods13244024 . . . . . . . . . . . 121
+-                                                          v
+- Maria-FlorinaRos,ca,AdrianaPăucean,SimonaMariaMan,MariaSimonaChis,,
+- CarmenR.Pop,AnamariaPopandAncaC.Fărcas,
+- Leuconostoccitreum: APromisingSourdoughFermentingStarterforLow-Sugar-ContentBaked
+- Goods
+- Reprinted from: Foods 2024, 13, 96, https://doi.org/10.3390/foods13010096 . . . . . . . . . . . . 138
+- Yueying Huang, Yu Wang, Nan Shang and Pinglan Li
+- Microbial Fermentation Processes of Lactic Acid: Challenges, Solutions, and Future Prospects
+- Reprinted from: Foods 2023, 12, 2311, https://doi.org/10.3390/foods12122311 . . . . . . . . . . . 152
+-                                                  vi
+- About the Editors
+- Luis M. Medina
+-     Luis M. Medina earned a degree in Veterinary Medicine (1989), specializing in Food Science,
+- Health, and Food Technology, and he holds a Ph.D. in Veterinary Medicine (1993), having also
+- received an Extraordinary Doctorate Award from the University of Córdoba, Spain. He holds a
+- Postgraduate Diploma from the University of Jaén and is recognized as an Expert in University
+- Policy and Management (2021) by the International University of Andalusia (UNIA). Throughout
+- his career, he has been a member of various research groups and entities, such as the International
+- Food Protection Association, the Spanish Society of Microbiology, and the Andalusian Association

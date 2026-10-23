@@ -1,0 +1,78 @@
+# Sustainable Crop Production (2019, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/9345
+- 页数: 354
+- 全文: `text/crops/Sustainable_Crop_Production_2019.txt`
+- PDF: `crops/Sustainable_Crop_Production_2019.pdf`
+- 标签: 综合栽培, 可持续农业, 肥水
+
+## 目录 (Contents)
+
+- Preface                                                            XV
+- Section 1
+- Crop Production and Farming System                                  1
+- Chapter 1                                                           3
+- Effect of Abiotic Stress on Crops
+- by Summy Yadav, Payal Modi, Akanksha Dave, Akdasbanu Vijapura,
+- Disha Patel and Mohini Patel
+- Chapter 2                                                          25
+- Possibility of No-Input Farming in Lowland Rice Fields in Japan
+- from the Viewpoint of Sustaining Soil Fertility
+- by Naoki Moritsuka
+- Chapter 3                                                          41
+- Crops Diversification and the Role of Orphan Legumes to Improve
+- the Sub-Saharan Africa Farming Systems
+- by Patricia Vidigal, Maria Manuel Romeiras and Filipa Monteiro
+- Chapter 4                                                          61
+- Review on the Role of Salicylic Acid in Plants
+- by Ali S. Hassoon and Inas Abdulsattar Abduljabbar
+- Chapter 5                                                         67
+- Development of Androgenesis Studies on Eggplant
+- (Solanum melongena L.) in Turkey from Past to Present
+- by Gülsün Elif Vural, Esin Ari, Sinan Zengin
+- and Sekure Sebnem Ellialtioglu
+- Chapter 6                                                          93
+- SSR Markers in the Genus Pistacia
+- by Salih Kafkas
+- Section 2
+- Soil Management                                                   109
+- Chapter 7                                                         111
+- Soil Management in Sustainable Agriculture
+- by Koç Mehmet Tuğrul
+- Chapter 8                                                              127
+- Managing Soil Nitrogen under Rain-Fed Lowland Rice Production
+- Systems in the Forest Agroecological Zones in Ghana
+- by Mohammed Moro Buri and Roland Nuhu Issaka
+- Chapter 9                                                              141
+- Plant Nutrition and Sustainable Crop Production in Nigeria
+- by Romanus Osabohien and Toun Ogunbiyi
+- Chapter 10                                                             165
+- Enhancing Soil Properties and Maize Yield through Organic
+- and Inorganic Nitrogen and Diazotrophic Bacteria
+- by Arshad Jalal, Kamran Azeem, Marcelo Carvalho Minhoto Teixeira
+- Filho and Ayesha Khan
+- Chapter 11                                                             179
+- Microwave Soil Treatment and Plant Growth
+- by Graham Brodie, Muhammad Jamal Khan and Dorin Gupta
+- Chapter 12                                                             197
+- Fertilizer Use Issues for Smallholder Agriculture in Tropical Africa
+- by Charles S. Wortmann, Anthony O. Esilaba, Kayuki C. Kaizzi,
+- Catherine Kibunja, Keziah W. Ndungu-Magiroi and Nouri Maman
+- Section 3
+- Sustainable and Advanced Technologies for Crop Production              209
+- Chapter 13                                                             211
+- Fungal Endophyte-Host Plant Interactions: Role in Sustainable
+- Agriculture
+- by Tamanreet Kaur
+- Chapter 14                                                             229
+- Endophytes Potential Use in Crop Production
+- by Fabiana Tonial, Francine Falcão de Macedo Nava, Ana Luisa Gayger
+- and Talita Bernardon Mar
+- Chapter 15                                                             247
+- Application Potentials of Plant Growth Promoting Rhizobacteria
+- and Fungi as an Alternative to Conventional Weed Control Methods
+- by Adnan Mustafa, Muhammad Naveed, Qudsia Saeed,
+- Muhammad Nadeem Ashraf, Azhar Hussain, Tanveer Abbas,
+- Muhammad Kamran, Nan-Sun and Xu Minggang
+- Chapter 16                                                             271

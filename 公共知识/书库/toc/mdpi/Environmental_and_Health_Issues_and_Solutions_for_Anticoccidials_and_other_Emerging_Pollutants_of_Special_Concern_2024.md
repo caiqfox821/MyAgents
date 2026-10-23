@@ -1,0 +1,80 @@
+# Environmental and Health Issues and Solutions for Anticoccidials and other Emerging Pollutants of Special Concern (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2200-3
+- 页数: 182
+- 全文: `text/mdpi/Environmental_and_Health_Issues_and_Solutions_for_Anticoccidials_and_other_Emerging_Pollutants_of_Special_Concern_2024.txt`
+- 标签: risk, 样品前处理
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- AvelinoøÛ£-Delgado,ElzaBontempi,YaoyuZhou,EsperanzaÁlvarez-Rodrı́guez,
+- Marı́aVictoriaLópez-Ramón,MarioCoccia,etal.
+- EditorialoftheTopic“EnvironmentalandHealthIssuesandSolutionsforAnticoccidialsand
+- OtherEmergingPollutantsofSpecialConcern”
+- Reprinted from: Processes 2024, 12, 1379, doi:10.3390/pr12071379 . . . . . . . . . . . . . . . . . . .         1
+- SamihaHamdi,ManelIssaoui,SoniaHammami,AinoaMı́guez-González,
+- RaquelCela-Dablanca,AnaBarreiro,etal.
+- RemovaloftheHighlyToxicAnticoccidialMonensinUsingSixDifferentLow-Cost
+- Bio-Adsorbents
+- Reprinted from: Toxics 2024, 12, 606, doi:10.3390/toxics12080606 . . . . . . . . . . . . . . . . . . .         4
+- RaquelCela-Dablanca,AinoaMı́guez-González,Lucı́aRodrı́guez-López,AnaBarreiro,
+- ManuelArias-Estévez,Marı́aJ.Fernández-Sanjurjo,etal.
+- RemovalofCefuroximefromSoilsAmendedwithPineBark,MusselShellandOakAsh
+- Reprinted from: Processes 2024, 12, 1335, doi:10.3390/pr12071335 . . . . . . . . . . . . . . . . . . . 27
+- Xiaoming Zeng, Hao He, Liejiang Yuan, Haizhi Wu and Cong Zhou
+- Determination of 24 Trace Aromatic Substances in Rosemary Hydrosol by Dispersed
+- Liquid–Liquid Microextraction–Gas Chromatography
+- Reprinted from: Processes 2024, 12, 498, doi:10.3390/pr12030498 . . . . . . . . . . . . . . . . . . . 43
+- Amer Al-Jokhadar, Yasmine Soudi, Suzanne Abdelmalek, Sarah R. Badran
+- and YasserAbuhashem
+- AStudyonSensitivityofSoil-BasedBuildingMixturestoBiodeteriorationbyFungi: Towards
+- SustainableEarthStructures
+- Reprinted from: Sustainability 2024, 16, 1294, doi:10.3390/su16031294 . . . . . . . . . . . . . . . . 58
+- SongsongChen,YuncaiWangandLiminMa
+- AssessingBiodegradationProcessesofAtrazineinConstructedWetlandUsing
+- Compound-SpecificStableIsotopeAnalysis
+- Reprinted from: Processes 2023, 11, 3252, doi:10.3390/pr11113252 . . . . . . . . . . . . . . . . . . . 74
+- Chaoqun Wang, Yongxiang Zhang, Lirong Deng, Mingtao Zhao, Meiqi Liang,
+- Lien-ChiehLee,etal.
+- VisualizationNetworkAnalysisofStudiesonAgriculturalDrainageWaterTreatment
+- Reprinted from: Processes 2023, 11, 2952, doi:10.3390/pr11102952 . . . . . . . . . . . . . . . . . . . 89
+- Lingling Li, Yuanyuan Xue, Hengsheng Wang and Yansong Chen
+- Effects of Chlortetracycline on the Growth of Eggplant and Associated Rhizosphere Bacterial
+- Communities
+- Reprinted from: Sustainability 2023, 15, 14593, doi:10.3390/su151914593 . . . . . . . . . . . . . . . 107
+- Jongho Kim, Sujin Kim and Jinwook Chung
+- Examining the Relationship between Pro-Environmental Attitudes, Self-Determination, and
+- Sustained Intention in Eco-Friendly Sports Participation: A Study on Plogging Participants
+- Reprinted from: Sustainability 2023, 15, 11806, doi:10.3390/su151511806 . . . . . . . . . . . . . . . 122
+-                                                        v
+- Wei Li, Bin Yao, Yuguo Zheng, Guiqiang Zhang, Dan Zhi and Yaoyu Zhou
+- Efﬁcient Degradation of Chlortetracycline by Graphene Supported Cobalt Oxide Activated
+- Peroxydisulfate: Performances and Mechanisms
+- Reprinted from: Processes 2023, 11, 1381, doi:10.3390/pr11051381 . . . . . . . . . . . . . . . . . . . 141
+- Sanja Vasiljević, Maja Vujić, Jasmina Agbaba, Stefania Federici, Serena Ducoli,
+- RadivojTomićandAleksandraTubić
+- Efficiency of Coagulation/Flocculation for the Removal of Complex Mixture of Textile Fibers
+- fromWater
+- Reprinted from: Processes 2023, 11, 820, doi:10.3390/pr11030820 . . . . . . . . . . . . . . . . . . . 154
+-                                                     vi
+- About the Editors
+- Avelino Núñez-Delgado
+-     Avelino Núñez-Delgado, Ph.D., was born in O Barco de Valdeorras (Ourense province, Galicia,
+- Spain). He obtained his Ph.D. at the Department of Soil Science and Agricultural Chemistry, USC,
+- in 1993. Between 1993 and 1996, he worked as a Post-doc Researcher in France (University of
+- Montpellier) and Spain (USC), at the end of which he became a Professor in the Department of Soil
+- Science and Agricultural Chemistry, Engineering Polytechnic School, Campus Lugo, University of
+- Santiago de Compostela (USC), Spain, a position which he continues to hold to this day. He holds
+- nine patents, has won several research awards, and has more than 400 publications to his name to
+- date (July 2024), around 200 of which are in D1 and Q1 JCR journals. He has served as the principal
+- investigator and/or a collaborator of more than 40 research projects. He is listed among the top
+- 2% of world researchers by the Stanford ranking system and among the world’s top researchers
+- by Researchgate, Expertscape, Web of Sciences, Scopus, and other world research classiﬁcations.
+- Currently, he is collaborating with a variety of research teams from various countries around the
+- world. He is a Book Editor for Springer Nature, Elsevier, and other top scientiﬁc publishers. He
+- is a Book Series Editor for Springer Nature, an Editor for various top research journals (covering
+- roles such as Chief Editor, Associate Editor, Special Issue Editor, Managing Guest Editor, and Guest
+- Editor), and a Reviewer for national and international research projects.
+- Elza Bontempi

@@ -1,0 +1,78 @@
+# Technical note: supplementary foods for the management of moderate acute malnutrition in infants and children 6–59 months of age (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/75836
+- 页数: 20
+- 全文: `text/who/Technical_note_supplementary_foods_for_the_management_of_moderate_acute_malnutrition_in_in.txt`
+- 标签: 婴幼儿/儿童, 营养不良
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                    iv
+- Scope and purpose                                                                   1
+- Background                                                                          2
+- Summary of evidence and current thinking                                            4
+- Principles of nutritional management of children with moderate acute malnutrition   7
+- Further research                                                                    10
+- References                                                                          11
+-                                            iii
+-                              Acknowledgements
+- T   his technical note was coordinated by Zita Weise Prinzo, with technical support from Dr Juan
+-     Pablo Peña-Rosas, Dr Luz Maria De-Regil and Dr Lisa Rogers, Department of Nutrition for Health
+- and Development, and from Dr Nigel Rollins, Department of Maternal, Newborn, Child and Adolescent
+- Health. The World Health Organization (WHO) is particularly grateful to Professor Michael Golden for
+- his advice in the development of estimates for the nutrient composition of foods for moderately mal-
+- nourished children and for his inputs to the final draft. Special thanks are due to Dr André Briend and to
+- Dr Saskia de Pee for their technical advice throughout the process, and to Professor Tahmeed Ahmed,
+- Dr Beatrice Amadi, Dr Paluku Bahwere, Ms Gertrudis Baptista, Ms Hedwig Deconinck, Professor Kathryn
+- Dewey, Dr Elizabeth Dini, Professor Alan Jackson, Dr Marzia Lazzerini, Dr Mark Manary, Professor Kim
+- Michaelsen and Dr Jeremy Shoham for their valuable comments and technical advice in the discussions
+- leading to the preparation of this note. Special thanks are also due to Juana Willumsen for her support
+- in drafting the technical note.
+- WHO gratefully acknowledges the technical input of the focal points of the World Food Programme
+- (WFP), the United Nations Children’s Fund (UNICEF), the Office of the United Nations High Commissioner
+- for Refugees (UNHCR), and Médecins Sans Frontières (MSF).
+- Financial support
+- WHO acknowledges the financial support from the Government of Luxembourg, the Global Alliance for
+- Improved Nutrition (GAIN), and the European Commission – Directorate General for Humanitarian Aid
+- and Civil Protection (ECHO) for this work.
+-                                                    iv
+-                              Scope and purpose
+- C     urrently there are no evidence-informed recommendations for the composition of supplementary
+-       foods specially designed for the management of children with moderate acute malnutrition. This
+- technical note summarizes the available evidence and presents some principles underlying the dietary
+- management of children with moderate acute malnutrition with a proposed nutrient composition pro-
+- file for supplementary foods relevant to situations in which their use may be warranted. The information
+- presented does not cover the quantity of supplementary foods that should be given, the proportion of
+- dietary intake that should be made up by supplementary foods, the duration of the intervention, the
+- discharge criteria or the benchmarks for making these decisions.
+- This document is intended for senior technical and programme staff in organizations involved in opera-
+- tional research and in the design and implementation of food-based interventions to manage moderate
+- acute malnutrition in children. It is not intended for field staff or community-based health workers in-
+- volved in the management of malnutrition.
+-                                                    1
+-                                                   Background
+- It is estimated that in 2010, 55 million preschool-age children were wasted, of whom about 40 million
+-  were moderately acutely malnourished1 (2). Childhood malnutrition is a major global health problem,
+- contributing to increased morbidity and mortality, impaired intellectual development, suboptimal adult
+- work capacity and even increased risk of disease in adulthood (3). Of the 7.6 million deaths annually
+- among children under 5 years of age, approximately 20% can be attributed to child underweight (4).
+- Malnutrition in infants and young children typically develops during the period between the first
+- 6 and 18 months of age (5), and is often associated with intake of low nutrient and energy density
+- diets, consisting predominantly of starch-rich staples that are provided in addition to breast milk. Linear
+- growth and brain development are especially rapid during the first 2 years of life and young children
+- are particularly susceptible to growth failure and developmental delays if they are not breastfed and
+- are fed complementary foods with low nutrient and energy density and poor bioavailability of vitamins
+- and minerals (6). Furthermore, preparation of complementary foods in conditions of poor hygiene and
+- sanitation can lead to dietary contamination and frequent infections, which further impairs children’s
+- nutritional status.
+- Children with moderate acute malnutrition have nutritional requirements that differ from non-malnour-
+- ished and severely malnourished children, that is, they require increased intake of energy and essential
+- nutrients over and above those required by non-malnourished children and, when necessary, treatment
+- for any associated medical conditions.
+- The dietary management of moderate acute malnutrition should normally be based on the optimal
+- use of locally available nutrient-dense foods to improve the nutritional status of children and prevent
+- them from becoming severely acutely malnourished or failing to thrive (7). Intake of nutrients present in
+- inadequate amounts in the habitual diet can be increased through a number of approaches, including
+- dietary diversification and fortification of certain staple foods with vitamins and minerals.
+- In situations of food shortage, or where some nutrients are not sufficiently available through local foods,

@@ -1,0 +1,81 @@
+# Plant Protein Processing (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7676-1
+- 页数: 198
+- 全文: `text/mdpi/Plant_Protein_Processing_2026.txt`
+- PDF: `mdpi/Plant_Protein_Processing_2026.pdf`
+- 标签: 植物蛋白, 蛋白加工, 工艺
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Xiaodong Li, Huihui Dai, Boning Mao, Hongzhou An, Yanhong Bai and Lovedeep Kaur
+- The Impact of Varying Enzymatic Pretreatment Durations of Wheat Gluten on the Flavour
+- Characteristics of High-Moisture Plant-Based Extrudates
+- Reprinted from: Foods 2026, 15, 912, https://doi.org/10.3390/foods15050912 . . . . . . . . . . .
+- 1
+- Qian Zhang, Yanmei Deng, Yanling Lu, Long Han, Qian Ma, Lei Guo and Fangyu Fan
+- Effects of Treatment Methods on the Formation, Structure, and Functional Properties of Soy
+- Protein Amyloid Fibrils
+- Reprinted from: Foods 2025, 14, 3835, https://doi.org/10.3390/foods14223835 . . . . . . . . . . . 21
+- Yanmei Deng, Guohui Yuan, Tongqin Yang, Baoyu Gao, Yanling Lu, Jiaojiao Yang, et al.
+- Modifying the Structural and Functional Properties of Walnut Glutenin Through Atmospheric
+- Cold Plasma Treatment: Evaluation of Treatment Times Effects
+- Reprinted from: Foods 2025, 14, 2289, https://doi.org/10.3390/foods14132289 . . . . . . . . . . . 39
+- Jingru Sun, Xiyuan Yang, Jingjing Diao, Yichang Wang and Changyuan Wang
+- Exploration of Pea Protein Isolate–Sodium Alginate Complexes as a Novel Strategy to
+- Substitute Sugar in Plant Cream: Synergistic Interactions Between the Two at the Interface
+- Reprinted from: Foods 2025, 14, 991, https://doi.org/10.3390/foods14060991 . . . . . . . . . . . 56
+- Zhuoran Jiao, Zhiqiang Feng, Siqi Zhao, Yuwei Wang, Miao Feng, Qian Chen, et al.
+- Synergistic Effects of Ultrasound and pH-Shifting on the Solubility and Emulsiﬁcation
+- Properties of Peanut Protein
+- Reprinted from: Foods 2025, 14, 853, https://doi.org/10.3390/foods14050853 . . . . . . . . . . . 79
+- Mary H. Grace, Roberta Targino Hoskin, Malak Alghamdi, Mary Ann Lila and Vesela I.
+- Chalova
+- Betalain–Chickpea Protein Particles Produced by Freeze Drying and Spray Drying:
+- Physicochemical Aspects, Storage Stability, and In Vitro Digestion
+- Reprinted from: Foods 2025, 14, 281, https://doi.org/10.3390/foods14020281 . . . . . . . . . . . 102
+- Zhongjiang Wang, Yachao Tian, Fangxiao Lou and Zengwang Guo
+- Effect of Pea Protein Isolate–Soybean Meal Ratio on Fiber Structure and Texture Properties of
+- High-Moisture Meat Analogs
+- Reprinted from: Foods 2024, 13, 3818, https://doi.org/10.3390/foods13233818 . . . . . . . . . . . 119
+- Kartik Sharma, Nattaya Konsue, Samart Sai-Ut, Ekasit Onsaard, Wanli Zhang, Shusong Wu,
+- et al.
+- Peach Palm (Bactris gasipaes) as a Sustainable Source of Plant Proteins, Dietary Fiber and Other
+- Functional Ingredients: Recovery Techniques and Functional Food Applications
+- Reprinted from: Foods 2026, 15, 736, https://doi.org/10.3390/foods15040736 . . . . . . . . . . . 132
+- Ruiqi Long, Yuanyuan Huang, Mokhtar Dabbour, Benjamin Kumah Mintah, Jiayin Pan,
+- Minquan Wu, et al.
+- Physical Processing-Assisted pH Shifting for Food Protein Modiﬁcation: A Comprehensive
+- Review
+- Reprinted from: Foods 2025, 14, 2360, https://doi.org/10.3390/foods14132360 . . . . . . . . . . . 158
+- v
+- About the Editors
+- Zhongjiang Wang
+- Zhongjiang Wang is a professor at the College of Food Science, Northeast Agricultural
+- University. His research interests primarily focus on theoretical research, common key technological
+- innovation, and industrialization demonstration in the ﬁeld of soybean processing. He has presided
+- over and completed 22 national and provincial-level projects, including for the National Key
+- Research and Development Program and the National Natural Science Foundation of China. A
+- highly cited researcher listed in the global top 2% of scientists, he has published extensively in
+- top-tier journals, with an H-index of 34. A total of 125 patents have been authorized to him; as the
+- ﬁrst principal investigator, he has received the ﬁrst-class award for natural sciences in Heilongjiang
+- Province, the second-class award for scientiﬁc and technological progress in Hainan Province,
+- the second prize of the 13th Dabonong Science and Technology Award, and other provincial and
+- ministerial-level awards such as the Young Science and Technology Award of Heilongjiang Province,
+- totaling 7 awards; as a main contributor, he has received 12 provincial and ministerial-level awards
+- such as the ﬁrst-class award for technological invention of Heilongjiang Province.
+- Zengwang Guo
+- Zengwang Guo is a professor at the College of Food Science, Northeast Agricultural University,
+- where he also serves as the Deputy Director of the Grain Engineering Department. His research
+- focuses on the texture improvement and ﬂavor regulation of plant-based meat analogs, the
+- development of plant-based foods, and the high-value processing and utilization of plant proteins.
+- He has hosted four provincial and ministerial-level scientiﬁc research projects, such as sub-projects
+- of the Key Research and Development Program of Shandong Province. He has published numerous
+- papers in top-tier journals, and holds 11 authorized invention patents. His innovative research has
+- led to the development of ﬁve new functional soybean milk powders and four new soybean protein
+- products, generating signiﬁcant economic beneﬁts with an added sales revenue of 260 million yuan
+- for enterprises.
+- Zhaoxian Huang
+- Zhaoxian Huang is a researcher and doctoral supervisor recognized as a High-Level Talent in

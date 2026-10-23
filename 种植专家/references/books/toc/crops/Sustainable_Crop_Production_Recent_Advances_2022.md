@@ -1,0 +1,75 @@
+# Sustainable Crop Production - Recent Advances (2022, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/11357
+- 页数: 210
+- 全文: `text/crops/Sustainable_Crop_Production_Recent_Advances_2022.txt`
+- PDF: `crops/Sustainable_Crop_Production_Recent_Advances_2022.pdf`
+- 标签: 综合栽培, 可持续农业
+
+## 目录 (Contents)
+
+- Preface                                                                         XI
+- Section 1
+- Nutrient Management                                                              1
+- Chapter 1                                                                        3
+- Toward the Recent Advances in Nutrient Use Efficiency (NUE): Strategies
+- to Improve Phosphorus Availability to Plants
+- by Addisu Ebbisa
+- Chapter 2                                                                       27
+- Effect of Balanced and Integrated Crop Nutrition on Sustainable
+- Crop Production in a Classical Long-Term Trial
+- by Melkamu Jate and Joachim Lammel
+- Chapter 3                                                                       53
+- Vermicomposting: A Step towards Sustainability
+- by Priyanka Saha, Anamika Barman and Anurag Bera
+- Section 2
+- Crop Management                                                                 71
+- Chapter 4                                                                       73
+- Sustainability-Based Review of Irrigation Schemes Performance for Sustainable
+- Crop Production in Nigeria
+- by Nura Jafar Shanono, Nura Yahaya Usman, Mu’azu Dantala Zakari,
+- Habibu Ismail, Shehu Idris Umar, Sunusi Abubakar Amin
+- and Nuraddeen Mukhtar Nasidi
+- Chapter 5                                                                       89
+- Crop Diversification an Effective Strategy for Sustainable Agriculture
+- Development
+- by Anamika Barman, Priyanka Saha, Shashank Patel and Anurag Bera
+- Section 3
+- Soil Management                                                               107
+- Chapter 6                                                                     109
+- Reducing Soil Compaction from Equipment to Enhance Agricultural
+- Sustainability
+- by Michael M. Boland, Young U. Choi, Daniel G. Foley, Matthew S. Gobel,
+- Nathan C. Sprague, Santiago Guevara-Ocana, Yury A. Kuleshov
+- and Robert M. Stwalley III
+- Chapter 7                                                                     151
+- Potential Applications of Rhizobacteria as Eco-Friendly Biological Control,
+- Plant Growth Promotion and Soil Metal Bioremediation
+- by Nafeesa Farooq Khan, Aatifa Rasool, Sheikh Mansoor, Sana Saleem,
+- Tawseef Rehman Baba, Sheikh Maurifatul Haq, Sheikh Aafreen Rehman,
+- Charles Oluwaseun Adetunji and Simona Mariana Popescu
+- Chapter 8                                                                     181
+- Heavy Metal Contamination in Vegetables and Their Toxic Effects
+- on Human Health
+- by Seema Manwani, Vanisree C.R., Vibha Jaiman, Kumud Kant Awasthi,
+- Chandra Shekhar Yadav, Mahipal Singh Sankhla, Pritam P. Pandit
+- and Garima Awasthi
+- X
+- II
+-                                  Preface
+- Sustainable food production systems have a major role to play in ensuring global food
+- security, especially for developing nations. These systems are responsible for produc-
+- ing food that is nutritious and affordable to a rapidly growing global population.
+- Climate change is having major adverse impacts on agricultural production systems,
+- and agriculturists must adapt to and mitigate these negative effects. Therefore,
+- sustainable food production systems are essential.
+- This book includes eight chapters addressing various nutrient, crop, and soil manage-
+- ment issues, including recent advances in sustainable food production in the context
+- of the changing climate. Chapters present case studies on long-term field experiments
+- in specific locations with a focus on the state of the art of sustainable agriculture
+- production systems.
+- This book is useful for undergraduate and graduate students, teachers, and research-
+- ers, particularly in the fields of crop science, soil science, and agronomy.
+-                                                                 Vijay Singh Meena
+-                                   CIMMYT – Borlaug Institute for South Asia (BISA),

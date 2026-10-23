@@ -1,0 +1,77 @@
+# WHO guideline for complementary feeding of infants and young children 6-23 months of age: web annex: evidence summary tables (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/373338
+- 页数: 85
+- 全文: `text/who/WHO_guideline_for_complementary_feeding_of_infants_and_young_children_6_23_months_of_age_w.txt`
+- 标签: 婴幼儿/儿童
+
+## 目录 (Contents)
+
+- Continued breastfeeding ............................................................................................................................................................ 1
+- Milks for infants 6–11-months of age fed milks other than breast milk ...................................................................................... 9
+-    Animal milk versus formula milk..................................................................................................................................................... 9
+- Milks for children 12-23 months of age fed milks other than breast milk ................................................................................. 12
+-    Animal milk vs follow-on formula ................................................................................................................................................. 12
+-    Full-fat milk vs lower-fat milk ....................................................................................................................................................... 15
+-    Animal milk versus plant-based milk ............................................................................................................................................ 16
+- Age of introduction of complementary foods ........................................................................................................................... 17
+-    Early introduction of CF (<= 4 months of age) compared to 6 months of age .............................................................................. 17
+-    Early introduction of CF (< 6 months of age) compared to >=6 months of age ............................................................................ 19
+-    Late introduction of CF (> 6 months of age) compared to <=6 months of age ............................................................................. 23
+- Dietary diversity: Animal source foods ..................................................................................................................................... 27
+-    Greater amount of animal source food (ASF) vs. lesser amount of ASF (RCTs) ............................................................................ 30
+-    Greater amount of animal source food (ASF) vs. lesser amount of ASF (observational studies) .................................................. 35
+-    More varied animal source foods (ASF) vs. less varied ASF (RCTs) ............................................................................................... 36
+- Dietary diversity: Fruits and vegetables.................................................................................................................................... 37
+-    More frequent consumption of vegetables compared to less frequent consumption of vegetables ........................................... 37
+-    More frequent consumption of fruit compared to less frequent consumption of fruit ................................................................ 41
+-    More frequent consumption of fruit and vegetables compared to less frequent consumption of fruit and vegetables .............. 45
+- Dietary diversity: Pulses, nuts and seeds .................................................................................................................................. 46
+- Unhealthy foods and beverages: Foods high in sugar, salt, and unhealthy fats ........................................................................ 48
+- Unhealthy foods and beverages: Sugar-sweetened beverages ................................................................................................. 52
+- Unhealthy foods and beverages: beverages with non-sugar sweeteners.................................................................................. 55
+- Unhealthy foods and beverages: 100% fruit juice ..................................................................................................................... 57
+- Nutrient supplements and fortified food products: Multiple micronutrient powders (MNPs) .................................................. 59
+- Nutrient supplements and fortified food products: Fortified complementary foods ................................................................ 60
+- Nutrient supplements and fortified food products: Fortified milk ............................................................................................ 64
+- Small-quantity lipid-based nutrient supplements (SQ-LNS) ...................................................................................................... 66
+- Responsive feeding .................................................................................................................................................................. 69
+-                                                                                             iii
+- Continued breastfeeding
+-                                               Certainty assessment                                                                                 Effect
+-  № of                                                                                             Other        № of patients       Relative                 Absolute             Certainty   Importance
+-             Study design     Risk of bias     Inconsistency   Indirectness     Imprecision
+- studies                                                                                       considerations                       (95% CI)                 (95% CI)
+- Child Development, Intelligence, Cognition and Behaviour
+- Delayed Development
+-     2            Cohort         seriousa       not serious     very seriousb    not serious        none             1872       1.15 [0.54, 2.43]                                 ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                                                         VERY LOW
+- IQ
+-     6            Cohort      very seriousc     not serious     not serious      not serious        none             5079                                MD 0.01 higher           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.06 lower to 0.08 higher)   VERY LOW
+- Learning ability
+-     1            Cohort         seriousa       not serious     very seriousb    not serious        none             413                                  MD 0.02 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.27 lower to 0.23 higher)   VERY LOW
+- Coding Wisc III
+-     1            Cohort         seriousa       not serious     very seriousb    not serious        none             413                                 MD 0.14 higher           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.11 lower to 0.39 higher)   VERY LOW
+- Visuospatial Problem Solving
+-     2            Cohort        seriousa,d      not serious     not serious      not serious        none             1403                                 MD 0.17 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.33 lower to 0.01 lower)    VERY LOW
+- Verbal Intelligence
+-     3            Cohort       seriousa,d,e     not serious     not serious      not serious        none             1936                                 MD 0.08 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.18 lower to 0.01 higher)   VERY LOW
+- Working Memory
+-     2            Cohort        seriousa,e      not serious     not serious      not serious        none             946                                  MD 0.05 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.19 lower to 0.10 higher)   VERY LOW
+- Reasoning
+-     3            Cohort       seriousa,d,e     not serious     not serious      not serious        none             1936                                 MD 0.13 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.22 lower to 0.03 lower)    VERY LOW
+- Processing Speed
+-     1            Cohort     very seriousb,e    not serious     not serious      not serious        none             533                                  MD 0.07 lower           ⨁◯◯◯         CRITICAL
+-                  Studies                                                                                                                           (0.24 lower to 0.11 higher)   VERY LOW
+- Child Growth and anthropometry
+- Underweight
+-    7            Cross           seriousf       not serious     not serious      not serious        none             15441      1.25 [1.08, 1.46]                                 ⨁◯◯◯         CRITICAL
+-                Sectional                                                                                                                                                         VERY LOW

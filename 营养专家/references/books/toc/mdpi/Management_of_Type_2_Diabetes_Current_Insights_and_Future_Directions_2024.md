@@ -1,0 +1,80 @@
+# Management of Type 2 Diabetes: Current Insights and Future Directions (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0648-5
+- 页数: 184
+- 全文: `text/mdpi/Management_of_Type_2_Diabetes_Current_Insights_and_Future_Directions_2024.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- Andrej Belančić, Sanja Klobučar and Dario Rahelić
+- Current Obstacles (With Solutions) in Type 2 Diabetes Management, Alongside Future
+- Directions
+- Reprinted from: Diabetology 2023, 4, 31, doi:10.3390/diabetology4030031 . . . . . . . . . . . . . .    1
+- Timothy J. Renier, Htun Ja Mai, Zheshi Zheng, Mary Ellen Vajravelu, Emily Hirschfeld,
+- Diane Gilbert-Diamond, et al.
+- Utilizing the Glucose and Insulin Response Shape of an Oral Glucose Tolerance Test to Predict
+- Dysglycemia in Children with Overweight and Obesity, Ages 8–18 Years
+- Reprinted from: Diabetology 2024, 5, 8, doi:10.3390/diabetology5010008 . . . . . . . . . . . . . . .   4
+- Anwar Althubyani, Clarice Tang, Jency Thomas and Sabrina Gupta
+- Evaluating the Use of Web-Based Technologies for Self-Management among Arabic-Speaking
+- Immigrants Living with Type 2 Diabetes Mellitus: A Cross-Sectional Study in Saudi Arabia
+- Reprinted from: Diabetology 2024, 5, 7, doi:10.3390/diabetology5010007 . . . . . . . . . . . . . . . 18
+- Simon Lebech Cichosz, Clara Bender and Ole Hejlesen
+- A Comparative Analysis of Machine Learning Models for the Detection of Undiagnosed
+- Diabetes Patients
+- Reprinted from: Diabetology 2024, 5, 1, doi:10.3390/diabetology5010001 . . . . . . . . . . . . . . . 29
+- Musawenkosi Ndlovu, Phiwayinkosi V. Dludla, Ndivhuwo Muvhulawa, Yonela Ntamo,
+- Asanda Mayeye, Nomahlubi Luphondo, et al.
+- Global Trends in Risk Factors and Therapeutic Interventions for People with Diabetes and
+- Cardiovascular Disease: Results from the WHO International Clinical Trials Registry Platform
+- Reprinted from: Diabetology 2023, 4, 50, doi:10.3390/diabetology4040050 . . . . . . . . . . . . . . 40
+- Vilma Kolarić, Valentina Rahelić and Zrinka Šakić
+- The Quality of Life of Caregivers of People with Type 2 Diabetes Estimated Using the
+- WHOQOL-BREF Questionnaire
+- Reprinted from: Diabetology 2023, 4, 37, doi:10.3390/diabetology4040037 . . . . . . . . . . . . . . 54
+- Marco Mancuso, Rocco Bulzomı̀, Marco Mannisi, Francesco Martelli and
+- Claudia Giacomozzi
+- 3D-Printed Insoles for People with Type 2 Diabetes: An Italian, Ambulatory Case Report on
+- the Innovative Care Model
+- Reprinted from: Diabetology 2023, 4, 29, doi:10.3390/diabetology4030029 . . . . . . . . . . . . . . 64
+- Mariza Brandão Palma, Elisa Paolin, Ismaela Maria Ferreira de Melo,
+- Francisco De Assis Leite Souza, Álvaro Aguiar Coelho Teixeira, Leucio Duarte Vieira, et al.
+- Biological Evidence of Improved Wound Healing Using Autologous Micrografts in a Diabetic
+- Animal Model
+- Reprinted from: Diabetology 2023, 4, 26, doi:10.3390/diabetology4030026 . . . . . . . . . . . . . . 82
+- Dominik Strikić, Andro Vujević, Dražen Perica, Dunja Leskovar, Kristina Paponja,
+- Ivan Pećin, et al.
+- Importance of Dyslipidaemia Treatment in Individuals with Type 2 Diabetes Mellitus—A
+- Narrative Review
+- Reprinted from: Diabetology 2023, 4, 48, doi:10.3390/diabetology4040048 . . . . . . . . . . . . . . 101
+- Bright Test and Jay H. Shubrook
+- Prevention of Type 2 Diabetes: The Role of Intermittent Fasting
+- Reprinted from: Diabetology 2023, 4, 44, doi:10.3390/diabetology4040044 . . . . . . . . . . . . . . 116
+-                                                    v
+- Filip Mustač, Tin Galijašević, Eva Podolski, Andrej Belančić, Martina Matovinović and
+- Darko Marčinko
+- Recent Advances in Psychotherapeutic Treatment and Understanding of Alexithymia in
+- Patients with Obesity and Diabetes Mellitus Type 2
+- Reprinted from: Diabetology 2023, 4, 41, doi:10.3390/diabetology4040041 . . . . . . . . . . . . . . 128
+- Nikol Georgieva, Viktor Tenev, Maria Kamusheva and Guenka Petrova
+- Diabetes Mellitus—Digital Solutions to Improve Medication Adherence: Scoping Review
+- Reprinted from: Diabetology 2023, 4, 40, doi:10.3390/diabetology4040040 . . . . . . . . . . . . . . 137
+- Erik M. Donker, Andrej Belančić, Joost D. Piët, Dinko Vitezić, Jelle Tichelaar and on behalf
+- of the Clinical Pharmacology and Therapeutics Teach the Teacher (CP4T) Program and the
+- Early Career Pharmacologists of the European Association for Clinical Pharmacology and
+- Therapeutics (EACPT)
+- Educating Medical Students on How to Prescribe Anti-Hyperglycaemic Drugs: A Practical
+- Guide
+- Reprinted from: Diabetology 2023, 4, 43, doi:10.3390/diabetology4040043 . . . . . . . . . . . . . . 153
+- Elvira Meni Maria Gkrinia, Andrea Katrin Faour, Andrej Belančić, Jacques Bazile,
+- Emma Marland and Dinko Vitezić
+- A Systematic Review of Economic Evaluations of Insulin for the Management of Type 2
+- Diabetes
+- Reprinted from: Diabetology 2023, 4, 38, doi:10.3390/diabetology4040038 . . . . . . . . . . . . . . 161
+-                                                   vi
+- Editorial
+- Current Obstacles (With Solutions) in Type 2 Diabetes
+- Management, Alongside Future Directions
+- Andrej Belančić 1,2, *,† , Sanja Klobučar 3,4,† and Dario Rahelić 5,6,7,†

@@ -1,0 +1,78 @@
+# Propagation and Flowering of Ornamental Plants (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/12595
+- 页数: 152
+- 全文: `text/mdpi/Propagation_and_Flowering_of_Ornamental_Plants_2026.txt`
+- 标签: 扦插繁殖, 花期调控, 花卉
+
+## 目录 (Contents)
+
+- Xueru Jiang, Xuying Wei, Hua Cheng, Xin You and Junhuo Cai
+- Metabolomic Analysis of Lycoris radiata across Developmental and Dormancy Stages
+- Reprinted from: Horticulturae 2024, 10, 636, https://doi.org/10.3390/horticulturae10060636 . . .   1
+- Hye Sook Kwon and Seong Heo
+- Classiﬁcation of Vase Life Day Based on Petal Colorimetric Data in Cut Lisianthus Using
+- AutoML
+- Reprinted from: Horticulturae 2024, 10, 1033, https://doi.org/10.3390/horticulturae10101033 . . 13
+- Jiayi Li, Yalan Su, Xiangjian Chen and Zhixiong Liu
+- Characterization of AGAMOUS Ortholog and Promoter from the Ilex verticillata (Aquifoliaceae)
+- Reprinted from: Horticulturae 2024, 10, 1058, https://doi.org/10.3390/horticulturae10101058 . . 27
+- Chaocui Nong, Jiayi Hou, Jin He, Yanju Zheng, Shugen Yang, Lai Jiang, et al.
+- Phenotypic and Genetic Diversity Analysis of 18 Ornamental Strawberries
+- Reprinted from: Horticulturae 2024, 10, 1364, https://doi.org/10.3390/horticulturae10121364 . . 39
+- Dong Gyu Lee, Suejin Park, Chae Won Kim, Jae Hui Kim and Seung Youn Lee
+- Flowering Responses to Vernalization and Photoperiod in Minuartia laricina (L.) Mattf., a
+- Perennial Herb in the Korean Peninsula
+- Reprinted from: Horticulturae 2025, 11, 188, https://doi.org/10.3390/horticulturae11020188 . . . 56
+- Georgia Vlachou and Maria Papafotiou
+- Efﬁcient Micropropagation Using Different Types of Explant and Addressing the
+- Hyperhydricity of Ballota acetabulosa, a Mediterranean Plant with High Xeriscaping Potential
+- Reprinted from: Horticulturae 2025, 11, 390, https://doi.org/10.3390/horticulturae11040390 . . . 71
+- Dongli Li, Fangyun Cheng, Xiwen Tao and Yuan Zhong
+- Effect of Cutting Phenological Stage, Chemical Treatments, and Substrate on Rooting Softwood
+- Cuttings of Tree Peony
+- Reprinted from: Horticulturae 2025, 11, 552, https://doi.org/10.3390/horticulturae11050552 . . . 91
+- Jae Hui Kim, Hak Cheol Kwon and Seung Youn Lee
+- Seed Dormancy and Germination Characteristics of Scutellaria indica L. var. coccinea S.T.Kim &
+- S.T.Lee., an Endemic Species Found on Jeju Island, South Korea
+- Reprinted from: Horticulturae 2025, 11, 1019, https://doi.org/10.3390/horticulturae11091019 . . 108
+- Die Hu and Longsheng Hu
+- Effects of Exogenous IBA on Cutting Propagation in Different Cutting Types of Bougainvillea
+- spectabilis ‘Yunnan Purple’
+- Reprinted from: Horticulturae 2025, 11, 1496, https://doi.org/10.3390/horticulturae11121496 . . 128
+-                                                  v
+-            horticulturae
+- Article
+- Metabolomic Analysis of Lycoris radiata across Developmental
+- and Dormancy Stages
+- Xueru Jiang 1 , Xuying Wei 2 , Hua Cheng 1 , Xin You 1 and Junhuo Cai 1, *
+-                   1   Jiangxi Provincial Key Laboratory of Conservation Biology, Jiangxi Provincial Key Laboratory of Subtropical
+-                       Forest Resources Cultivation, College of Forestry/College of Art and Landscape, Jiangxi Agricultural
+-                       University, Nanchang 330045, China; hnfgjxr@163.com (X.J.); chenghua0802@sina.com (H.C.);
+-                       youxin0428@163.com (X.Y.)
+-                   2   College of Art, Jiangxi Finance and Economics University, Nanchang 330032, China; weixuyin74@163.com
+-                   *   Correspondence: cjhuo7692@163.com
+-                   Abstract: The Lycoris radiata (L’ Herit.) Herb. is a perennial bulbous plant characterized by its high
+-                   ornamental and medicinal value, exhibiting a unique growth rhythm where the ﬂower and leaf do not
+-                   coexist and a period of summer dormancy. However, its metabolic response to various developmental
+-                   stages remains unclear. To address this gap, we conducted a non-targeted metabolomic analysis
+-                   spanning six developmental stages of L. radiata. The results showed that most differentially accumu-
+-                   lated metabolites (DAMs) demonstrated enrichment predominantly in carbohydrate and amino acid
+-                   metabolism pathways, with the former being more active during vegetative growth and the latter
+-                   during reproductive stages. The proportion of DAMs categorized under “quaternary ammonium
+-                   salts”, “tricarboxylic acids and derivatives”, “fatty acids and conjugates”, and “pyrimidine nucleotide
+-                   sugars” was notably higher in comparisons between the ﬂowering and dormancy stages than in
+-                   other comparative groups. Furthermore, DAMs involved in the KEGG pathways of C5-branched
+-                   dibasic acid metabolism and lysine biosynthesis were uniquely identiﬁed during the transition from
+-                   Dormancy to Flowering. The proportion of DAMs associated with “linoleic acids and derivatives”
+-                   and “pyridines and pyridine derivatives” was notably higher in the leaﬁng out versus ﬂowering
+-                   comparison than in other comparative groups. Furthermore, the glycolysis/gluconeogenesis path-
+-                   way was uniquely enriched by DAMs during this phase. This study provided an in-depth view of
+-                   metabolite changes in L. radiata over its annual growth cycle, enriching our understanding of the
+-                   regulatory mechanisms governing its development, dormancy, and ﬂowering.
+-                   Keywords: Lycoris radiata; metabolomic; developmental; dormancy; ﬂowering
+-                   1. Introduction
+-                        Lycoris radiata (L’ Herit.) Herb, a perennial bulbous plant within the Amaryllidaceae
+-                   family, predominantly thrives in East Asia’s warm temperate and subtropical regions.
+-                   This species is esteemed for its substantial ornamental and medicinal virtues. Alkaloids

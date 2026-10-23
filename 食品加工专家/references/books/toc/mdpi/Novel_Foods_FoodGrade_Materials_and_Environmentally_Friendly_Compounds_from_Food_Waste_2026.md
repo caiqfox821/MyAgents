@@ -1,0 +1,81 @@
+# Novel Foods Food-Grade Materials and Environmentally Friendly Compounds from Food Waste (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 276
+- 全文: `text/mdpi/Novel_Foods_FoodGrade_Materials_and_Environmentally_Friendly_Compounds_from_Food_Waste_2026.txt`
+- PDF: `mdpi/Novel_Foods_FoodGrade_Materials_and_Environmentally_Friendly_Compounds_from_Food_Waste_2026.pdf`
+- 标签: 食品废弃物, 食品级材料, 增值
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Maria Martuscelli, Luigi Esposito, Donatella Restuccia, Meijin Guo and Dino Mastrocola
+- New Perspectives to Enhance Wastes and By-Products from Agro-Food Processing
+- Reprinted from: Foods 2023, 12, 4057, https://doi.org/10.3390/foods12224057 . . . . . . . . . . .
+- 1
+- Yue Wu, Shunyu Yao, Bhakti Anand Narale, Akalya Shanmugam, Srinivas Mettu and
+- Muthupandian Ashokkumar
+- Ultrasonic Processing of Food Waste to Generate Value-Added Products
+- Reprinted from: Foods 2022, 11, 2035, https://doi.org/10.3390/foods11142035 . . . . . . . . . . .
+- 5
+- Živan Mrkonjić, Dušan Rakić, Aleksandar Takači, Muammer Kaplan, Nemanja Teslić,
+- Zoran Zeković, et al.
+- Polyphenols Recovery from Thymus serpyllum Industrial Waste Using Microwave-Assisted
+- Extraction–Comparative RSM and ANN Approach for Process Optimization
+- Reprinted from: Foods 2022, 11, 1184, https://doi.org/10.3390/foods11091184 . . . . . . . . . . . 30
+- Santiago P. Aubourg, Marcos Trigo, María Jesús González, Salomé Lois and Isabel Medina
+- Comparative Study of Bioactive Lipid Extraction from Squid (Doryteuthis gahi) by-Products by
+- Green Solvents
+- Reprinted from: Foods 2022, 11, 2188, https://doi.org/10.3390/foods11152188 . . . . . . . . . . . 46
+- Khadijah Nabilah Mohd Zahri, Khalilah Abdul Khalil, Claudio Gomez-Fuentes,
+- Azham Zulkharnain, Suriana Sabri, Peter Convey, et al.
+- Mathematical Modelling of Canola Oil Biodegradation and Optimisation of Biosurfactant
+- Production by an Antarctic Bacterial Consortium Using Response Surface Methodology
+- Reprinted from: Foods 2021, 10, 2801, https://doi.org/10.3390/foods10112801 . . . . . . . . . . . 60
+- Ana C. Gonçalves, Radhia Aitfella Lahlou, Gilberto Alves, Cristina Garcia-Viguera,
+- Diego A. Moreno and Luís R. Silva
+- Potential Activity of Abrantes Pollen Extract: Biochemical and Cellular Model Studies
+- Reprinted from: Foods 2021, 10, 2804, https://doi.org/10.3390/foods10112804 . . . . . . . . . . . 82
+- Athanasia Panitsa, Theano Petsi, Panagiotis Kandylis, Maria Kanellaki and
+- Athanasios A. Koutinas
+- Tubular Cellulose from Orange Juice By-Products as Carrier of Chemical Preservatives;
+- Delivery Kinetics and Microbial Stability of Orange Juice
+- Reprinted from: Foods 2021, 10, 1882, https://doi.org/10.3390/foods10081882 . . . . . . . . . . . 97
+- Lucas Krusinski, Isabella C. F. Maciel, Selin Sergin, Vijayashree Jambunathan, Esha Garg,
+- Andrea J. Garmyn, et al.
+- Effects of Hay, Baleage, and Soybean Hulls Waste Used as Supplemental Feeds on the
+- Nutritional Proﬁle of Grass-Finished Beef
+- Reprinted from: Foods 2022, 11, 3856, https://doi.org/10.3390/foods11233856 . . . . . . . . . . . 106
+- Selin Sergin, Vijayashree Jambunathan, Esha Garg, Jason E. Rowntree and Jenifer I. Fenton
+- Fatty Acid and Antioxidant Proﬁle of Eggs from Pasture-Raised Hens Fed a Corn- and Soy-Free
+- Diet and Supplemented with Grass-Fed Beef Suet and Liver
+- Reprinted from: Foods 2022, 11, 3404, https://doi.org/10.3390/foods11213404 . . . . . . . . . . . 128
+- v
+- Sol-Hee Lee and Hack-Youn Kim
+- Utilization of By-Products from Livestock: Study on the Mechanical and Thermal Properties of
+- Biodegradable Containers Made with Pork Skin Gelatin Polymer
+- Reprinted from: Foods 2022, 11, 2513, https://doi.org/10.3390/foods11162513 . . . . . . . . . . . 145
+- Francesca Bennato, Andrea Ianni, Marco Florio, Lisa Grotta, Francesco Pomilio,
+- Maria Antonietta Saletti and Giuseppe Martino
+- Nutritional Properties of Milk from Dairy Ewes Fed with a Diet Containing Grape Pomace
+- Reprinted from: Foods 2022, 11, 1878, https://doi.org/10.3390/foods11131878 . . . . . . . . . . . 155
+- Teresa Sigüenza-Andrés, Valentín Pando, Manuel Gómez and José M. Rodríguez-Nogales
+- Optimization of a Simultaneous Enzymatic Hydrolysis to Obtain a High-Glucose Slurry from
+- Bread Waste
+- Reprinted from: Foods 2022, 11, 1793, https://doi.org/10.3390/foods11121793 . . . . . . . . . . . 168
+- Marc C. Steger, Marina Rigling, Patrik Blumenthal, Valerie Segatz,
+- Andrès Quintanilla-Belucci, Julia M. Beisel, et al.
+- Coffee Leaf Tea from El Salvador: On-Site Production Considering Inﬂuences of Processing on
+- Chemical Composition
+- Reprinted from: Foods 2022, 11, 2553, https://doi.org/10.3390/foods11172553 . . . . . . . . . . . 181
+- Maria Martuscelli, Luigi Esposito, Carla Daniela Di Mattia, Antonella Ricci and
+- Dino Mastrocola
+- Characterization of Coffee Silver Skin as Potential Food-Safe Ingredient
+- Reprinted from: Foods 2021, 10, 1367, https://doi.org/10.3390/foods10061367 . . . . . . . . . . . 215
+- Johannes Delgado-Ospina, Maria Martuscelli, Carlos David Grande-Tovar,
+- Raquel Lucas-González, Junior Bernardo Molina-Hernandez, Manuel Viuda-Martos, et al.
+- Cacao Pod Husk Flour as an Ingredient for Reformulating Frankfurters: Effects on Quality
+- Properties
+- Reprinted from: Foods 2021, 10, 1243, https://doi.org/10.3390/foods10061243 . . . . . . . . . . . 230
+- Nadine Tritsch, Marc C. Steger, Valerie Segatz, Patrik Blumenthal, Marina Rigling,

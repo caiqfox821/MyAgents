@@ -1,0 +1,80 @@
+# Diabetes (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5558-2
+- 页数: 268
+- 全文: `text/mdpi/Diabetes_2025.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Eman Alshawaf, Sulaiman K. Maraﬁe, Mohamed Abu-Farha, Ahmed N. Albatineh, Tahani
+- Alramah, Aldana Albuhairi, et al.
+- Circulating Isthmin-1 Levels and Their Relationship with Diabetes and Metabolic Diseases in
+- Kuwaiti Adults
+- Reprinted from: Biomedicines 2025, 13, 101, https://doi.org/10.3390/biomedicines13010101 . . .                1
+- Marian Gabriela Vargas Guerrero, Lieve Vonken, Erwin Peters, Jimmy Lucchesi and Jacobus J.
+- C. Arts
+- Material Technologies for Improved Diabetic Foot Ulcer (DFU) Treatment: A Questionnaire
+- Study of Healthcare Professionals’ Needs
+- Reprinted from: Biomedicines 2024, 12, 2483, https://doi.org/10.3390/biomedicines12112483 . . 12
+- Raedeh Basiri, Yatisha Rajanala, Megan Kassem, Lawrence J. Cheskin, Cara L. Frankenfeld
+- and Maryam S. Farvid
+- Diabetes Control Status and Severity of Depression: Insights from NHANES 2005–2020
+- Reprinted from: Biomedicines 2024, 12, 2276, https://doi.org/10.3390/biomedicines12102276 . . 27
+- Khaled H. Aburisheh, Mazen M. Barhoush, Abdulaziz N. Alahmari, Ziyad A. Altasan and
+- Muffarah H. Alharthi
+- Neonatal Outcomes in Patients with Gestational Diabetes Mellitus Treated with Metformin: A
+- Retrospective Study in Saudi Arabia
+- Reprinted from: Biomedicines 2024, 12, 2040, https://doi.org/10.3390/biomedicines12092040 . . 39
+- Masumi Kondo, Kaichiro Sawada, Yosuke Matsuda, Makiko Abe, Noriyuki Sanechika, Yumi
+- Takanashi, et al.
+- Study of the Effects of Deuterium-Depleted Water on the Expression of GLUT4 and Insulin
+- Resistance in the Muscle Cell Line C2C12
+- Reprinted from: Biomedicines 2024, 12, 1771, https://doi.org/10.3390/biomedicines12081771 . . 48
+- Anca Butuca, Carmen Maximiliana Dobrea, Anca Maria Arseniu, Adina Frum, Adriana
+- Aurelia Chis, Luca Liviu Rus, et al.
+- An Assessment of Semaglutide Safety Based on Real World Data: From Popularity to Spontaneous
+- Reporting in EudraVigilance Database
+- Reprinted from: Biomedicines 2024, 12, 1124, https://doi.org/10.3390/biomedicines12051124 . . 59
+- Yu-Hsuan Li, Yu-Cheng Cheng, Hsiu-Chen Liu, Junyi Wu and I-Te Lee
+- Depressive Symptoms Associated with Peripheral Artery Disease and Predicting Mortality in
+- Type 2 Diabetes
+- Reprinted from: Biomedicines 2024, 12, 29, https://doi.org/10.3390/biomedicines12010029 . . . . 81
+- Vadim V. Klimontov, Kamilla R. Mavlianova, Nikolai B. Orlov, Julia F. Semenova and Anton I.
+- Korbut
+- Serum Cytokines and Growth Factors in Subjects with Type 1 Diabetes: Associations with Time
+- in Ranges and Glucose Variability
+- Reprinted from: Biomedicines 2023, 11, 2843, https://doi.org/10.3390/biomedicines11102843 . . 94
+- Tiantian Wu, Qiang Wang, Changsheng Pu and Keming Zhang
+- The Correlation between Islet β Cell Secretion Function and Gallbladder Stone Disease: A
+- Retrospective Study Based on Chinese Patients with Newly Diagnosed Type 2 Diabetes Mellitus
+- Reprinted from: Biomedicines 2023, 11, 2840, https://doi.org/10.3390/biomedicines11102840 . . 111
+-                                                        v
+- Aleksejs Fedulovs, Lilian Tzivian, Polina Zalizko, Santa Ivanova, Renāte Bumane, Jana
+- Janeviča, et al.
+- Progression of Diabetic Kidney Disease and Gastrointestinal Symptoms in Patients with Type I
+- Diabetes
+- Reprinted from: Biomedicines 2023, 11, 2679, https://doi.org/10.3390/biomedicines11102679 . . 123
+- Tomislav Bulum, Marijana Vučić Lovrenčić, Jadranka Knežević Ćuća, Martina Tomić, Sandra
+- Vučković-Rebrina and Lea Duvnjak
+- Relationship between β-Cell Autoantibodies and Their Combination with Anthropometric and
+- Metabolic Components and Microvascular Complications in Latent Autoimmune Diabetes in
+- Adults
+- Reprinted from: Biomedicines 2023, 11, 2561, https://doi.org/10.3390/biomedicines11092561 . . 135
+- Tao Liu, Xing-Xing Zhuang and Jia-Rong Gao
+- Identifying Aging-Related Biomarkers and Immune Inﬁltration Features in Diabetic Nephropathy
+- Using Integrative Bioinformatics Approaches and Machine-Learning Strategies
+- Reprinted from: Biomedicines 2023, 11, 2454, https://doi.org/10.3390/biomedicines11092454 . . 146
+- Salvatore Greco, Vincenzo M. Monda, Giorgia Valpiani, Nicola Napoli, Carlo Crespini, Fabio
+- Pieraccini, et al.
+- The Impact of GLP-1 RAs and DPP-4is on Hospitalisation and Mortality in the COVID-19 Era: A
+- Two-Year Observational Study
+- Reprinted from: Biomedicines 2023, 11, 2292, https://doi.org/10.3390/biomedicines11082292 . . 170
+- Alfredo Caturano, Raffaele Galiero, Maria Rocco, Giuseppina Tagliaferri, Alessia Piacevole,
+- Davide Nilo, et al.
+- Modern Challenges in Type 2 Diabetes: Balancing New Medications with Multifactorial Care
+- Reprinted from: Biomedicines 2024, 12, 2039, https://doi.org/10.3390/biomedicines12092039 . . 188
+- Michele Perrelli, Pruthvi Goparaju, Teodor T. Postolache, Laura del Bosque-Plata and Claudia
+- Gragnoli

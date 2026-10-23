@@ -1,0 +1,80 @@
+# Antioxidants from Food and Food Wastes for Nutraceutical, Pharmaceutical and Cosmetic Fields (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7453-8
+- 页数: 272
+- 全文: `text/mdpi/Antioxidants_from_Food_and_Food_Wastes_for_Nutraceutical_Pharmaceutical_and_Cosmetic_Fields_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Vincenzo Disca and Monica Locatelli
+- Editorial: Antioxidants from Food and Food Wastes for Nutraceutical, Pharmaceutical and
+- Cosmetic Fields
+- Reprinted from: Antioxidants 2026, 15, 226, https://doi.org/10.3390/antiox15020226 . . . . . . .               1
+- Paulina Tapia-Quirós, Aina Mir-Cerdà, Mercè Granados, Sonia Sentellas and Javier Saurina
+- From Waste to Resource: Exploring Green Approaches for Phenolics Recovery from Olive
+- Leaves
+- Reprinted from: Antioxidants 2025, 14, 136, https://doi.org/10.3390/antiox14020136 . . . . . . .               4
+- Zhanar Nabiyeva, Akerke Kulaipbekova, Serena Carpentieri, Yuliya Pronina,
+- Abdyssemat Samadun, Elmira Assembayeva and Giovanna Ferrari
+- Optimization of Conventional and Ultrasound-Assisted Extraction to Maximize Recovery of
+- Total Phenolic Content and In Vitro Antioxidant Activity from Crataegus almaatensis Leaves
+- Reprinted from: Antioxidants 2025, 14, 1003, https://doi.org/10.3390/antiox14081003 . . . . . . 18
+- Slad̄ana Krivošija, Ana Ballesteros-Gómez, Mire Zloh, Nataša Milić, Aleksandra Popović,
+- Nataša Nastić and Senka Vidović
+- Subcritical Water and Pressurised Ethanol Extractions for Maximum Recovery of Antioxidants
+- from Orange Peel Herbal Dust with Evaluation of Its Pharmacological Potential Using In Silico
+- and In Vitro Analysis
+- Reprinted from: Antioxidants 2025, 14, 638, https://doi.org/10.3390/antiox14060638 . . . . . . . 45
+- Pamela Raquel Rivera-Tovar, Gabriela Contreras-Contreras, Paulina Isabel Rivas-Reyes,
+- Jara Pérez-Jiménez, Maximiliano Martínez-Cifuentes, José Ricardo Pérez-Correa and
+- María Salomé Mariotti-Celis
+- Sustainable Recovery of Phlorotannins from Durvillaea incurvata: Integrated Extraction
+- and Puriﬁcation with Advanced Characterization
+- Reprinted from: Antioxidants 2025, 14, 250, https://doi.org/10.3390/antiox14030250 . . . . . . . 66
+- Ioannis C. Martakos, Paraskeui Tzika, Marilena E. Dasenaki, Eleni P. Kalogianni and
+- Nikolaos S. Thomaidis
+- Lipidomic Characterization of Marine By-Product Oils: Impact of Species and Extraction
+- Methods on Lipid Proﬁle and Antioxidant Potential
+- Reprinted from: Antioxidants 2026, 15, 95, https://doi.org/10.3390/antiox15010095 . . . . . . . . 86
+- Chien-Shan Chiu, Yung-Jia Chan, Yan-Zhen Wu, Wen-Chien Lu, Po-Yuan Chiang and
+- Po-Hsien Li
+- Bioactive Compounds and Antioxidant Efﬁcacy of Djulis (Chenopodium formosanum) Leaves:
+- Implications for Sustainable Cosmeceutical Development
+- Reprinted from: Antioxidants 2025, 14, 202, https://doi.org/10.3390/antiox14020202 . . . . . . . 106
+- Jimin Hyun, Kyoung-Min Rheu, Bae-Jin Lee and Bomi Ryu
+- Targeting Aging Skin with GABALAGEN® : A Synergistic Marine Nutricosmetic Ingredient
+- Validated Through Human Randomized Trials
+- Reprinted from: Antioxidants 2025, 14, 245, https://doi.org/10.3390/antiox14030245 . . . . . . . 125
+- Giovanni Buonaiuto, Alessia Federiconi, Carla Giuditta Vecchiato, Elisa Benini and
+- Attilio Luigi Mordenti
+- Betaine Dietary Supplementation: Healthy Aspects in Human and Animal Nutrition
+- Reprinted from: Antioxidants 2025, 14, 771, https://doi.org/10.3390/antiox14070771 . . . . . . . 145
+-                                                        v
+- Ezgi Nur Yuksek, Antia G. Pereira and Miguel A. Prieto
+- Dietary Supplements Derived from Food By-Products for the Management of Diabetes Mellitus
+- Reprinted from: Antioxidants 2025, 14, 1176, https://doi.org/10.3390/antiox14101176 . . . . . . 176
+- Ranya Demir, Sümeyye Sarıtaş, Mikhael Bechelany and Sercan Karav
+- Polyphenols from Byproducts: Their Applications and Health Effects
+- Reprinted from: Antioxidants 2026, 15, 87, https://doi.org/10.3390/antiox15010087 . . . . . . . . 210
+-                                                  vi
+- About the Editors
+- Monica Locatelli
+-      Monica Locatelli holds a PhD in Science of Bioactive Substances and is Associate Professor of
+- Food Chemistry at the Department of Pharmaceutical Sciences, Università del Piemonte Orientale
+- (Italy). Her research activity is focused on the chemical characterization and the study of bioactive
+- compounds of foods and food by-products, as well as on the evaluation of the effect of food
+- processing (both at the industrial and domestic level).       She is an expert in the application of
+- extraction/separation methods (also considering green approaches), characterization of complex
+- phytoextracts (spectrophotometric and chromatographic methods, such as HPLC and HPLC-MS),
+- and evaluation of bioactivity and antioxidant properties. Part of her research activity is dedicated to
+- the study of bioaccessibility of bioactive compounds through simulated in vitro digestion and on the
+- formulation/stabilization of functional ingredients and functional foods. Additional expertise is in
+- the use of multivariate statistical analysis techniques and artiﬁcial neural networks for the processing
+- and interpretation of chemical data.
+- Vincenzo Disca
+-      Vincenzo Disca is a Postdoctoral Research Fellow at the Food Chemistry, Biotechnology and
+- Nutrition unit of the Department of Pharmaceutical Sciences, Università del Piemonte Orientale
+- (Italy). He is Co-founder and Chief Research Ofﬁcer of nutractiva S.r.l., an academic start-up focused

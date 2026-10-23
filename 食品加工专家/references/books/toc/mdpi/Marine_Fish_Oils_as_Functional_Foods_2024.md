@@ -1,0 +1,81 @@
+# Marine Fish Oils as Functional Foods (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1224-0
+- 页数: 170
+- 全文: `text/mdpi/Marine_Fish_Oils_as_Functional_Foods_2024.txt`
+- PDF: `mdpi/Marine_Fish_Oils_as_Functional_Foods_2024.pdf`
+- 标签: 水产, 鱼油, 功能食品
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Cliodhna Caffrey, Anna Leamy, Ellen O’Sullivan, Ioannis Zabetakis, Ronan Lordan and
+- Constantina Nasopoulou
+- Cardiovascular Diseases and Marine Oils: A Focus on Omega-3 Polyunsaturated Fatty Acids
+- and Polar Lipids
+- Reprinted from: Mar. Drugs 2023, 21, 549, doi:10.3390/md21110549 . . . . . . . . . . . . . . . . .
+- 1
+- Xi-Yu Wang, Shu-Sen He, Miao-Miao Zhou, Xiao-Ran Li, Cheng-Cheng Wang,
+- Ying-Cai Zhao, et al.
+- EPA and DHA Alleviated Chronic Dextran Sulfate Sodium Exposure-Induced Depressive-like
+- Behaviors in Mice and Potential Mechanisms Involved
+- Reprinted from: Mar. Drugs 2024, 22, 76, doi:10.3390/md22020076 . . . . . . . . . . . . . . . . . . 26
+- Yueqi Yang, Xueyan Wang, Lu Chen, Shiben Wang, Jun Han, Zhengping Wang and Min Wen
+- A Compared Study of Eicosapentaenoic Acid and Docosahexaenoic Acid in Improving
+- Seizure-Induced Cognitive Deﬁciency in a Pentylenetetrazol-Kindling Young Mice Model
+- Reprinted from: Mar. Drugs 2023, 21, 464, doi:10.3390/md21090464 . . . . . . . . . . . . . . . . . 42
+- Yi-Wen Wang, Qian Li, Xiao-Yue Li, Ying-Cai Zhao, Cheng-Cheng Wang, Chang-Hu Xue, et al.
+- A Comparative Study about the Neuroprotective Effects of DHA-Enriched Phosphatidylserine
+- and EPA-Enriched Phosphatidylserine against Oxidative Damage in Primary Hippocampal
+- Neurons
+- Reprinted from: Mar. Drugs 2023, 21, 410, doi:10.3390/md21070410 . . . . . . . . . . . . . . . . . 58
+- Hong-Yu Zou, Hui-Juan Zhang, Ying-Cai Zhao, Xiao-Yue Li, Yu-Ming Wang, Tian-Tian Zhang
+- and Chang-Hu Xue
+- N-3 PUFA Deﬁciency Aggravates Streptozotocin-Induced Pancreatic Injury in Mice but Dietary
+- Supplementation with DHA/EPA Protects the Pancreas via Suppressing Inﬂammation, Oxidative
+- Stress and Apoptosis
+- Reprinted from: Mar. Drugs 2023, 21, 39, doi:10.3390/md21010039 . . . . . . . . . . . . . . . . . . 72
+- Hao Yue, Yingying Tian, Zifang Zhao, Yuying Bo, Yao Guo and Jingfeng Wang
+- Comparative Study of Docosahexaenoic Acid with Different Molecular Forms for Promoting
+- Apoptosis of the 95D Non-Small-Cell Lung Cancer Cells in a PPARγ-Dependent Manner
+- Reprinted from: Mar. Drugs 2022, 20, 599, doi:10.3390/md20100599 . . . . . . . . . . . . . . . . . 91
+- Lingyu Zhang, Jiaqin Mu, Jing Meng, Wenjin Su and Jian Li
+- Dietary Phospholipids Alleviate Diet-Induced Obesity in Mice: Which Fatty Acids and Which
+- Polar Head
+- Reprinted from: Mar. Drugs 2023, 21, 555, doi:10.3390/md21110555 . . . . . . . . . . . . . . . . . 101
+- Chih-Hung Guo, Wen-Chin Li, Chia-Lin Peng, Pei-Chung Chen, Shih-Yu Lee and Simon Hsia
+- Targeting EGFR in Combination with Nutritional Supplements on Antitumor Efﬁcacy in a Lung
+- Cancer Mouse Model
+- Reprinted from: Mar. Drugs 2022, 20, 751, doi:10.3390/md20120751 . . . . . . . . . . . . . . . . . 114
+- Junliang Luo, Yongxiong Huang, Yanghui Chen, Yunhao Yuan, Guojian Li, Shuanghu Cai, et al.
+- Heme Oxygenase-1 Is Involved in the Repair of Oxidative Damage Induced by Oxidized Fish
+- Oil in Litopenaeus vannamei by Sulforaphane
+- Reprinted from: Mar. Drugs 2023, 21, 548, doi:10.3390/md21100548 . . . . . . . . . . . . . . . . . 130
+- v
+- Pengcheng Zhao, Yuan Ji, Han Yang, Xianghong Meng and Bingjie Liu
+- Soy Protein Isolate–Chitosan Nanoparticle-Stabilized Pickering Emulsions: Stability and In Vitro
+- Digestion for DHA
+- Reprinted from: Mar. Drugs 2023, 21, 546, doi:10.3390/md21100546 . . . . . . . . . . . . . . . . . 144
+- vi
+- About the Editors
+- Yuming Wang
+- Dr. Yuming Wang is a professor and Ph.D. supervisor at the College of Food Science and
+- Engineering, Ocean University of China. He serves as the Managing Director of Shandong Nutrition
+- Society and the Vice Chairman of the society’s Special Food Professional Committee. He has achieved
+- a series of innovative results in the effective utilization of functional ingredients of aquatic products,
+- as well as the extensive processing of pelagic ﬁshery resources such as Antarctic krill and cultured rare
+- and valuable products such as sea cucumbers and delivered remarkable economic and social outcomes.
+- Prof. Wang has undertaken more than 20 research projects supported by national and regional funds,
+- including the National Key R&D Program of China, the National Natural Science Foundation of
+- China, and the National Science and Technology Support Program. Prof. Wang is also the recipient of
+- numerous awards, including second prize in the National Science and Technology Progress Awards,
+- JSPS International Fellowships for Research in Japan, the AOCS Award, and the JOCS Young Fellows
+- Award and has been supported by the New Century Excellent Talents Program from the Ministry of
+- Education, China. Additionally, he has published more than 300 papers, including 200 SCI papers. He
+- has published 10 academic books and holds 70 authorized national invention patents. His research
+- primarily focuses on seafood nutrition and chronic disease prevention, nutritional maintenance
+- techniques, and functional foods.
+- Tiantian Zhang
+- Dr. Tiantian Zhang is an associate professor and master’s supervisor at the College of Food
+- Science and Engineering, Ocean University of China. She serves as a council member of Shandong

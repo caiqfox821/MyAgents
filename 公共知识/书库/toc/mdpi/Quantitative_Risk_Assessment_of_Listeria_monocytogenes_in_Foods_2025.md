@@ -1,0 +1,80 @@
+# Quantitative Risk Assessment of Listeria monocytogenes in Foods (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5468-4
+- 页数: 218
+- 全文: `text/mdpi/Quantitative_Risk_Assessment_of_Listeria_monocytogenes_in_Foods_2025.txt`
+- 标签: 风险评估, 微生物危害, 定量与验证
+
+## 目录 (Contents)
+
+- Juliana De Oliveira Mota and Michel Federighi
+- Quantitative Risk Assessment of Listeria monocytogenes in Foods
+- Reprinted from: Chemosensors 2025, 14, 3353, https://doi.org/10.3390/foods14193353 . . . . . .   1
+- Laurent Guillier, Ursula Gonzales-Barron, Régis Pouillot, Juliana De Oliveira Mota,
+- Ana Allende, Jovana Kovacevic, et al.
+- A Quantitative Risk Assessment Model for Listeria monocytogenes in Ready-to-Eat Cantaloupe
+- Reprinted from: Chemosensors 2025, 14, 2212, https://doi.org/10.3390/foods14132212 . . . . . .   6
+- Ursula Gonzales-Barron, Régis Pouillot, Taran Skjerdal, Elena Carrasco, Paula Teixeira,
+- Matthew J. Stasiewicz, et al.
+- A Quantitative Risk Assessment Model for Listeria monocytogenes in Ready-to-Eat Smoked and
+- Gravad Fish
+- Reprinted from: Chemosensors 2024, 13, 3831, https://doi.org/10.3390/foods13233831 . . . . . . 42
+- Ursula Gonzales-Barron, Régis Pouillot, Juliana De Oliveira Mota, Akio Hasegawa,
+- Ana Allende, Qingli Dong, et al.
+- A Quantitative Risk Assessment Model for Listeria monocytogenes in Non-Ready-to-Eat
+- Frozen Vegetables
+- Reprinted from: Chemosensors 2024, 13, 3610, https://doi.org/10.3390/foods13223610 . . . . . . 89
+- Régis Pouillot, Andreas Kiermeier, Laurent Guillier, Vasco Cadavez and Moez Sanaa
+- Updated Parameters for Listeria monocytogenes Dose–Response Model Considering Pathogen
+- Virulence and Age and Sex of Consumer
+- Reprinted from: Chemosensors 2024, 13, 751, https://doi.org/10.3390/foods13050751 . . . . . . . 117
+- Ursula Gonzales-Barron, Vasco Cadavez, Juliana De Oliveira Mota, Laurent Guillier
+- and Moez Sanaa
+- A Critical Review of Risk Assessment Models for Listeria monocytogenes in Produce
+- Reprinted from: Chemosensors 2024, 13, 1111, https://doi.org/10.3390/foods13071111 . . . . . . 132
+- Ursula Gonzales-Barron, Vasco Cadavez, Juliana De Oliveira Mota, Laurent Guillier
+- and Moez Sanaa
+- A Critical Review of Risk Assessment Models for Listeria monocytogenes in Seafood
+- Reprinted from: Chemosensors 2024, 13, 716, https://doi.org/10.3390/foods13050716 . . . . . . . 151
+- Ursula Gonzales-Barron, Vasco Cadavez, Juliana De Oliveira Mota, Laurent Guillier
+- and Moez Sanaa
+- A Critical Review of Risk Assessment Models for Listeria monocytogenes in Meat and
+- Meat Products
+- Reprinted from: Chemosensors 2024, 13, 359, https://doi.org/10.3390/foods13030359 . . . . . . . 168
+- Ursula Gonzales-Barron, Vasco Cadavez, Laurent Guillier and Moez Sanaa
+- A Critical Review of Risk Assessment Models for Listeria monocytogenes in Dairy Products
+- Reprinted from: Chemosensors 2023, 12, 4436, https://doi.org/10.3390/foods12244436 . . . . . . 189
+-                                                 v
+- Editorial
+- Quantitative Risk Assessment of Listeria monocytogenes
+- in Foods
+- Juliana De Oliveira Mota 1 and Michel Federighi 2,3, *
+-                    1   Department of Nutrition and Food Safety, World Health Organization, 1211 Geneva, Switzerland
+-                    2   Laboratoire de Sécurité des Aliments, Anses, 94700 Maisons-Alfort, France
+-                    3   HQSA Unit, Ecole Nationale Vétérinaire d’Alfort, 94700 Maisons-Alfort, France
+-                   *    Correspondence: michel.federighi@vet-alfort.fr
+-                    1. Introduction
+-                          Listeriosis is a rare foodborne infection caused by Listeria monocytogenes, with 0.1 to
+-                    10 cases per 1 million people per year according to the World Health Organization [1].
+-                    It is a 1–2 μm long bacillus that can multiply at low temperatures and in the presence
+-                    of high salt concentrations. This bacterium is ubiquitous: it can be found in water, soil,
+-                    plants, and many animals. In addition, this bacterium has the ability to contaminate ready-
+-                    to-eat foods and food production sites. It is sensitive to heat but can multiply slowly at
+-                    low temperatures.
+-                          Often occurring sporadically, their widespread dissemination in a wide range of foods
+-                    can cause epidemics. It is important to remember that vertical transmission (from mother
+-                    to fetus) through the placenta also occurs. The main clinical forms of listeriosis include
+-                    septicemia and infection of the central nervous system or neuro-listeriosis, associated with
+-                    a mortality rate of 30 to 45%, respectively, and maternal–neonatal forms. For example, in
+-                    France, there is a ratio of 10 between neonatal forms (40/year) and other forms (400 to
+-                    500/year).
+-                          The scope of this Special Issue ‘Quantitative Risk Assessment of Listeria monocytogenes
+-                    in Foods’ is twofold: (1) it aims to present a critical analysis of the existing human listeriosis
+-                    quantitative risk assessment models conducted on milk and dairy products, produce,
+-                    seafood, and meat products, highlighting common results from intervention strategies
+-                    despite the unavoidable differences in model scopes and assumptions; (2) it also aims to
+-                    present new quantitative risk assessment models of a longer food chain scope, in the light
+-                    of new data and approaches, to control listeriosis linked to speciﬁc foods such as frozen
+-                    vegetables, cantaloupe, and ready-to-eat seafood. In response to a request by the Codex
+-                    Committee on Food Hygiene (CCFH) during its 52nd session, formal risk assessment

@@ -1,0 +1,80 @@
+# Metabolic Features and Nutritional Interventions in Chronic Diseases (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8960-0
+- 页数: 148
+- 全文: `text/mdpi/Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases_2026.txt`
+- 标签: 代谢与心血管, 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Junjie Luo, Peng An and Yongting Luo
+- Metabolic Features and Nutritional Interventions in Chronic Diseases—2nd Edition
+- Reprinted from: Nutrients 2026, 18, 2485, https://doi.org/10.3390/nu18152485 . . . . . . . . . .               1
+- Yangguang Zhang, Huihui Wang, Yijia Zhang, Xintong Wang, Ziyu Qiao, Jiayu Wang, et al.
+- α-Ketoglutarate Ameliorates Sarcopenia in D-Galactose-Induced Aging Mice by Modulating
+- Protein Homeostasis and Optimizing Mitochondrial Function
+- Reprinted from: Nutrients 2025, 17, 3336, https://doi.org/10.3390/nu17213336 . . . . . . . . . .               5
+- Kexin Yuan, Wenbin Wu, Ning Su, Mingyang Cui, Jingyi Qi, Yang Zhang, et al.
+- Broccoli-Derived Peptides and Leucine in Combination Ameliorate D-Galactose-Induced
+- Sarcopenia in Mice
+- Reprinted from: Nutrients 2026, 18, 1997, https://doi.org/10.3390/nu18121997 . . . . . . . . . . 21
+- Yitong Cheng, Chenxuan Wang, Jack Yang, Ziyue Wang, Haoran Xing, Wenbin Wu, et al.
+- The Effect of Whey Peptides and Micronutrients on Improving Exercise Performance in Mice
+- Reprinted from: Nutrients 2026, 18, 237, https://doi.org/10.3390/nu18020237 . . . . . . . . . . . 44
+- Wenhao Li, Lili Qiu, Qianqian Huang, Ran Wang, Rui Song, Yixuan Li and Xiaoyu Wang
+- Lactobacillus paracasei L9 Improves Amino Acid Absorption in Aged Mice via Enhanced LAT2
+- Expression Through the Akt/mTOR Pathway
+- Reprinted from: Nutrients 2026, 18, 1468, https://doi.org/10.3390/nu18091468 . . . . . . . . . . 59
+- Yizhi Jing, Xiaoyue Bai, Yun Ji, Zhengyuan Zhai, Youyou Zhao and Yanling Hao
+- Fecal Microbiota Transplantation from Toddler Donors Ameliorated DSS-Induced Colitis in
+- Mice by Reshaping Gut Microbiota
+- Reprinted from: Nutrients 2026, 18, 1611, https://doi.org/10.3390/nu18101611 . . . . . . . . . . 72
+- You Sun, Xiaokang Niu, Yifan Wang, Qi Zhang, Yan Liu, Jingjing He, et al.
+- Effects of Mulberry Leaf and Corn Silk Extracts Against α-Amylase and α-Glucosidase In Vitro
+- and on Postprandial Glucose in Prediabetic Individuals: A Randomized Crossover Trial
+- Reprinted from: Nutrients 2025, 17, 3438, https://doi.org/10.3390/nu17213438 . . . . . . . . . . 90
+- Xiangyue Gu, Botao Wang, Tianmeng Zhang, Qiuxiang Zhang, Bingyong Mao,
+- Xin Tang, et al.
+- Zinc-Enriched Biﬁdobacterium longum subsp. longum CCFM1195 Alleviates Cutibacterium
+- acnes-Induced Skin Lesions in Mice by Mitigating Inﬂammatory Responses and Oxidative Stress
+- Reprinted from: Nutrients 2025, 17, 1803, https://doi.org/10.3390/nu17111803 . . . . . . . . . . 104
+- Cenorina Martinez, Emily M. Sitkowski, Maria E. Martinez, Esbeyda Martinez,
+- Priyali N. Patel, Hannah L. Walsh and Sammy Khalili
+- Diet, Nutrition, and Rhinosinusitis: A Systematic Review of Dietary Interventions
+- and Exposures
+- Reprinted from: Nutrients 2026, 18, 2299, https://doi.org/10.3390/nu18142299 - . . . . . . . . . 120
+-                                                        v
+- About the Editors
+- Yongting Luo
+-      Yongting Luo earned a BS in Biological Science from Sichuan University (2007) and a PhD in Cell
+- Biology from the Institute of Biophysics, Chinese Academy of Sciences (2012). He is now a Professor
+- in the Department of Nutrition and Health, China Agricultural University. His work in nutrition and
+- cardiovascular health has resulted in over 90 publications, numerous presentations, lectures, and
+- courses; memberships, including editorial roles for international journals and as a review expert for
+- the Ministry of Education’s dissertation committee; and awards, including the China Agricultural
+- University Outstanding Talent Award, recognition as an Outstanding Doctoral Dissertation Advisor,
+- and over 20 awards from international academic journals. His research interests include nutrition
+- and cardiovascular health; the pathogenesis of major cardiovascular diseases such as heart failure,
+- myocardial infarction, atherosclerosis, and aortic dissection; and the protective effects of dietary
+- nutrients on the cardiovascular system.
+- Junjie Luo
+-      Junjie Luo, Ph.D., is an Associate Professor and Doctoral Supervisor in the Department of
+- Nutrition and Health at China Agricultural University. He received his Bachelor’s degree from
+- China Agricultural University and his Ph.D. in molecular biology, with research interests bridging
+- nutrition, pathology, and molecular biology. Dr. Luo’s research centers on mitochondria as a
+- core hub, with a particular emphasis on nutritional interventions for chronic diseases through the
+- nutrition–mitochondria axis. His work aims to overcome the bottlenecks of limited therapeutic
+- targets and the scarcity of effective intervention agents in chronic disease management.              By
+- pioneering innovative approaches such as single-cell mitochondrial multi-omics, he and his
+- colleagues have identiﬁed novel disease targets and established new nutritional intervention
+- strategies for cardiovascular diseases and cancer.       He has published over 70 papers in total,
+- including in journals such as the European Heart Journal, Blood (two articles, both featured as cover
+- stories), Cell Research, Science Bulletin, PNAS, Nucleic Acids Research, Advanced Science, and Journal of
+- Advanced Research.
+- Peng An
+-      Peng An, Ph.D., currently works as an Associate Professor in the Department of Nutrition
+- and Health at China Agricultural University.        He received his Bachelor’s degree from Wuhan
+- University, then completed an integrated master’s and doctoral program at the Institute for
+- Nutritional Sciences, Chinese Academy of Sciences, with joint training at East China University of

@@ -1,0 +1,80 @@
+# Nutrition Interventions for Healthy Ageing (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2716-9
+- 页数: 156
+- 全文: `text/mdpi/Nutrition_Interventions_for_Healthy_Ageing_2025.txt`
+- 标签: 老年营养
+
+## 目录 (Contents)
+
+- Valérie Dormal, Barbara Pachikian, Elena Debock, Marine Buchet, Sylvie Copine and Louise
+- Deldicque
+- Evaluation of a Dietary Supplementation Combining Protein and a Pomegranate Extract in
+- Older People: A Safety Study
+- Reprinted from: Nutrients 2022, 14, 5182, https://doi.org/10.3390/nu14235182 . . . . . . . . . .   1
+- Charlotte Mortensen, Inge Tetens, Michael Kristensen and Anne Marie Beck
+- Vitamin D and Calcium Supplementation in Nursing Homes—A Quality Improvement Study
+- Reprinted from: Nutrients 2022, 14, 5360, https://doi.org/10.3390/nu14245360 . . . . . . . . . . 10
+- Miho Kanazashi, Tadayuki Iida, Ryosuke Nakanishi, Masayuki Tanaka, Hiromi Ikeda,
+- Naomi Takamiya, et al.
+- Brazilian Propolis Intake Decreases Body Fat Mass and Oxidative Stress in
+- Community-Dwelling Elderly Females: A Randomized Placebo-Controlled Trial
+- Reprinted from: Nutrients 2023, 15, 364, https://doi.org/10.3390/nu15020364 . . . . . . . . . . . 20
+- Moustapha Dramé and Lidvine Godaert
+- The Obesity Paradox and Mortality in Older Adults: A Systematic Review
+- Reprinted from: Nutrients 2023, 15, 1780, https://doi.org/10.3390/nu15071780 . . . . . . . . . . 32
+- Muhammed Tunc, Pinar Soysal, Ozge Pasin, Lee Smith, Masoud Rahmati, Veliye Yigitalp,
+- et al.
+- Hypomagnesemia Is Associated with Excessive Daytime Sleepiness, but Not Insomnia, in Older
+- Adults
+- Reprinted from: Nutrients 2023, 15, 2467, https://doi.org/10.3390/nu15112467 . . . . . . . . . . 47
+- Nadine Simo-Tabue, Denis Boucaud-Maitre, Laurys Letchimy, Jeff Guilhem-Decleon,
+- Jeannie Helene-Pelage, Guillaume T. Duval and Maturin Tabue-Teguo
+- Correlates of Undernutrition in Older People in Guadeloupe (French West Indies): Results from
+- the KASADS Study
+- Reprinted from: Nutrients 2023, 15, 2950, https://doi.org/10.3390/nu15132950 . . . . . . . . . . 59
+- Theng Choon Ooi, Azizan Ahmad, Nor Fadilah Rajab and Razinah Sharif
+- The Effects of 12 Weeks Colostrum Milk Supplementation on the Expression Levels of
+- Pro-Inﬂammatory Mediators and Metabolic Changes among Older Adults: Findings from the
+- Biomarkers and Untargeted Metabolomic Analysis
+- Reprinted from: Nutrients 2023, 15, 3184, https://doi.org/10.3390/nu15143184 . . . . . . . . . . 68
+- Lei An, Qiu Lu, Ke Wang and Yousheng Wang
+- Urolithins: A Prospective Alternative against Brain Aging
+- Reprinted from: Nutrients 2023, 15, 3884, https://doi.org/10.3390/nu15183884 . . . . . . . . . . 83
+- Sapna Virdi, Abbey M. McKee, Manogna Nuthi and Naﬁsa M. Jadavji
+- The Role of One-Carbon Metabolism in Healthy Brain Aging
+- Reprinted from: Nutrients 2023, 15, 3891, https://doi.org/10.3390/nu15183891 . . . . . . . . . . 108
+- Nadja-R. Baer, Noemi Vanessa Grissmer, Liane Schenk, Hanna R. Wortmann,
+- Petra Warschburger and Ulrike A. Gisch
+- Practicing Interoceptive Sensitivity as a Couple: A Mixed-Methods Acceptance Analysis of a
+- Dyadic vs. Single Pilot Randomized Controlled Trial
+- Reprinted from: Nutrients 2024, 16, 1949, https://doi.org/10.3390/nu16121949 . . . . . . . . . . 119
+-                                                  v
+-              nutrients
+- Article
+- Evaluation of a Dietary Supplementation Combining Protein
+- and a Pomegranate Extract in Older People: A Safety Study
+- Valérie Dormal 1,2 , Barbara Pachikian 1 , Elena Debock 1 , Marine Buchet 1 , Sylvie Copine 1 and
+- Louise Deldicque 1,2, *
+-                                           1   Center of Investigation in Clinical Nutrition, Université Catholique de Louvain,
+-                                               1348 Louvain-la-Neuve, Belgium
+-                                           2   Institute of Neuroscience, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium
+-                                           *   Correspondence: louise.deldicque@uclouvain.be
+-                                           Abstract: Malnutrition is a highly prevalent condition in older adults. It is associated with low muscle
+-                                           mass and function and increased occurrence of health problems. Maintaining an adequate nutritional
+-                                           status as well as a sufﬁcient nutrient intake in older people is therefore essential to address this public
+-                                           health problem. For this purpose, protein supplementation is known to prevent the loss of muscle
+-                                           mass during aging, and the consumption of various pomegranate extracts induces numerous health
+-                                           beneﬁts, mainly through their antioxidant properties. However, to our knowledge, no study has to
+-                                           date investigated the impact of their combination on the level of malnutrition in older people. The
+-                                           objective of this preliminary study was thus to evaluate the safety of a combination of protein and
+-                                           a pomegranate extract in healthy subjects aged 65 years or more during a 21-day supplementation
+-                                           period. Thirty older participants were randomly assigned to receive protein and a pomegranate
+-                                           extract (Test group) or protein and maltodextrin (Control group) during a 21-day intervention
+-                                           period. The primary outcomes were the safety and tolerability of the supplementation deﬁned as the
+- Citation: Dormal, V.; Pachikian, B.;
+-                                           occurrence of adverse events, and additional secondary outcomes included physical examination and
+- Debock, E.; Buchet, M.; Copine, S.;
+-                                           hematological and biochemical parameters. No serious adverse events were reported in any group.
+- Deldicque, L. Evaluation of a Dietary

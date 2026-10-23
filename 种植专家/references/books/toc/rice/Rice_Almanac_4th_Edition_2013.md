@@ -1,0 +1,81 @@
+# Rice Almanac, 4th Edition (2013, IRRI / Archive.org)
+
+- 许可: Open Access
+- 来源: https://archive.org/details/RiceAlmanac
+- 页数: 296
+- 全文: `text/rice/Rice_Almanac_4th_Edition_2013.txt`
+- PDF: `rice/Rice_Almanac_4th_Edition_2013.pdf`
+- 标签: 水稻, 综合, 种质, 生产统计
+
+## 目录 (Contents)
+
+- Foreword v
+- Acknowledgments vi
+- A note on the country rice maps vii
+- On the cover: Stylized rice grain “flags” viii
+- The facts of rice x
+- 1. Introduction and setting 1
+-    A brief history of rice farming 2
+-    The rice plant 4
+-    Genetic diversity 7
+-    Rice as human food 10
+-    Specialty uses of rice 14
+- 2. Rice and the environment 15
+-    Rice environments and cropping systems 16
+-    Soils 19
+-    Water use and water productivity 19
+-    Ecosystem services 21
+-    Managing pests in the rice ecosystem 22
+-    Environmental impacts 24
+-    Rice and health—pollution and nutrition 26
+- 3. Rice in the economy 29
+-    Global rice production and consumption 30
+-    The ongoing revolution 34
+-    Production, area, and yield trends over time 37
+-    International rice markets 40
+-    Domestic rice markets 43
+-    Domestic policy instruments 44
+-    Changes in demography and the rice economy 46
+- 4. The future of rice 47
+-    Production challenges 48
+-    Challenges for future rice cropping systems 52
+-    Response options 53
+- 5. Responding to rice challenges 65
+-    Neglect of the agricultural sector 66
+-    Opportunities for a new global research strategy 66
+-    Global Rice Science Partnership 67
+-    GRiSP research themes 68
+-    Partners and partnerships in rice research and development 69
+- 6. Rice around the world 79
+-    Rice and food security in Asia 80
+-    Rice in Latin America and the Caribbean 88
+-    Rice in West Africa 91
+-    Rice in East and Southern Africa 96
+-    Rice in North America 98
+-    Rice in Europe 101
+-                                                                    iii
+-      Contents (continued)
+-        Selected rice-producing countries 104
+-        Asia
+-        • China 105                                •   Ghana, Republic of 220
+-        • India 111                                •   Greece 221
+-        • Indonesia 116                            •   Guinea 222
+-        • Bangladesh 121                           •   Guinea Bissau 223
+-        • Vietnam 126                              •   Guyana 224
+-        • Myanmar 130                              •   Haiti 225
+-        • Thailand 134                             •   Iran 226
+-        • Philippines 139                          •   Iraq 227
+-        • Japan 144                                •   Italy 228
+-        • Cambodia 149                             •   Kazakhstan 229
+-        Latin America                              •   Korea DPR 230
+-        • Argentina 153                            •   Korea, Republic of 231
+-        • Brazil 158                               •   Lao PDR 232
+-        • Colombia 164                             •   Liberia 233
+-        • Peru 169                                 •   Malawi 234
+-        • Uruguay 174                              •   Malaysia 235
+-                                                   •   Mauritania 236
+-        Sub-Saharan Africa                         •   Mexico 237
+-        • Madagascar 179                           •   Mozambique 238
+-        • Mali 183                                 •   Nepal 239
+-        • Nigeria 187                              •   Nicaragua 240
+-        • Senegal 191                              •   Niger 241

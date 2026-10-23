@@ -1,0 +1,77 @@
+# Environmental Exposure, Biomonitoring and Exposure Assessment (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1744-3
+- 页数: 376
+- 全文: `text/mdpi/Environmental_Exposure_Biomonitoring_and_Exposure_Assessment_2024.txt`
+- 标签: 暴露评估, 环境与生态毒理, ms
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Mathilda Alsen, Vikram Vasan, Eric M. Genden, Catherine Sinclair and Maaike van Gerwen
+- Correlation between Lindane Use and the Incidence of Thyroid Cancer in the United States: An
+- Ecological Study
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 13158, doi:10.3390/jerph192013158 . .             1
+- Alexey A. Dudarev and Jon Oeyvind Odland
+- Forty-Year Biomonitoring of Environmental Contaminants in Russian Arctic: Progress, Gaps
+- and Perspectives
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 11951, doi:10.3390/jerph191911951 . . 11
+- Hyo Jeong Kang, Min Jeong Baek, Ji Hyoun Kang and Yeon Jae Bae
+- DNA Barcoding of Chironomid Larvae (Diptera: Chironomidae) from Large Rivers in South
+- Korea to Facilitate Freshwater Biomonitoring and Public Health Surveillance
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 12035, doi:10.3390/jerph191912035 . . 46
+- Federica Castellani, Arianna Antonucci, Ivano Pindinello, Carmela Protano
+- and Matteo Vitali
+- Determination of Carbonyl Compounds in Different Work Environments: Comparison between
+- LC-UV/DAD and LC–MS/MS Detection Methods
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 12052, doi:10.3390/jerph191912052 . . 58
+- Pengcheng Zhao, Pak-To Chan, Nan Zhang and Yuguo Li
+- An    Advanced       Tape-Stripping      Approach      for     High-Efﬁciency      Sampling   on
+- Non-Absorbent Surfaces
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 12571, doi:10.3390/jerph191912571 . . 78
+- Mizanur Rahman, Hans Petersen, Hammad Irshad, Congjian Liu, Jacob McDonald,
+- Akshay Sood, et al.
+- Cleaning the Flue in Wood-Burning Stoves Is a Key Factor in Reducing Household Air Pollution
+- Reprinted from: Toxics 2022, 10, 615, doi:10.3390/toxics10100615 . . . . . . . . . . . . . . . . . . . 94
+- Kyung-Eun Lee, Kayoung Park, Dong Joon Park and Sungkyun Park
+- Vulnerable Factors Affecting Urinary N-Methylformamide Concentration among Migrant
+- Workers in Manufacturing Industries in Comparison with Native Workers in the Republic of
+- Korea (2012–2019)
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 13450, doi:10.3390/jerph192013450 . . 106
+- Huipeng Nie, Huanliang Liu, Yue Shi, Wenqing Lai, Xuan Liu, Zhuge Xi and Bencheng Lin
+- Effects of Different Concentrations of Oil Mist Particulate Matter on Pulmonary Fibrosis In Vivo
+- and In Vitro
+- Reprinted from: Toxics 2022, 10, 647, doi:10.3390/toxics10110647 . . . . . . . . . . . . . . . . . . . 115
+- Marı́aElenaCalderon-Segura,AlejandroRamı́rez-Guzmán,OscarTalavera-Mendoza,
+- YolandaCarbajal-López,Marı́adelCarmenMartı́nez-Valenzuela,
+- MarthaElenaMora-Herrera,etal.
+- Genotoxic Biomonitoring in Children Living near the El Fraile Mine Tailings in Northern
+- GuerreroState,Mexico
+- Reprinted from: Toxics 2022, 10, 674, doi:10.3390/toxics10110674 . . . . . . . . . . . . . . . . . . . 128
+-                                                         v
+- Zhong-Min Li and Kurunthachalam Kannan
+- Determination of 19 Steroid Hormones in Human Serum and Urine Using Liquid
+- Chromatography-Tandem Mass Spectrometry
+- Reprinted from: Toxics 2022, 10, 687, doi:10.3390/toxics10110687 . . . . . . . . . . . . . . . . . . . 141
+- Konstantinos C. Makris, Pantelis Charisiadis, Thibaut Delplancke, Nikolaos Efthymiou
+- and Alessandro Giuliani
+- Diurnal Nonlinear Recurrence Metrics of Skin Temperature and Their Association with
+- Metabolic Hormones in Contrasting Climate Settings: A Randomized Cross-Over Trial
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 15195, doi:10.3390/jerph192215195 . . 156
+- Vivek Kumar, Chandra Shekhar Yadav and Basu Dev Banerjee
+- Xeno-Estrogenic Pesticides and the Risk of Related Human Cancers
+- Reprinted from: J. Xenobiot. 2022, 12, 24, doi:10.3390/jox12040024 . . . . . . . . . . . . . . . . . . 171
+- Dimitra Florou, Thalia Vlachou, Vasilios Sakkas and Vassiliki Boumba
+- Application of Fabric Phase Sorptive Extraction (FPSE) Engaged to Tandem LC-MS/MS for
+- Quantiﬁcation of Brorphine in Oral Fluid
+- Reprinted from: Toxics 2022, 10, 25, doi:10.3390/toxics12040025 . . . . . . . . . . . . . . . . . . . 183
+- Hyojik Yoon and Jonghyun Yoon
+- (Danio rerio) and Water Fleas (Daphnia magna) in the Vicinity of the Geum River Basin in KoreaThe
+- Impact Evaluation of Acid Mine Drainage on Zebraﬁsh
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 16470, doi:10.3390/jerph192416470 . . 192
+- Bayartogtokh Bataa, Kodai Motohira, Delgermurun Dugar, Tsend-Ayush Sainnokhoi,
+- Lkhamjav Gendenpil, Tserenchimed Sainnokhoi, et al.
+- Accumulation of Metals in the Environment and Grazing Livestock near A Mongolian
+- Mining Area
+- Reprinted from: Toxics 2022, 10, 773, doi:10.3390/toxics10120773 . . . . . . . . . . . . . . . . . . . 201

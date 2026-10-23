@@ -1,0 +1,53 @@
+# Initial Recommendations on Evaluation of Data from the Developmental Neurotoxicity (DNT) In-Vitro Testing Battery (2023, www.oecd.org)
+
+- 许可: 开放获取（机构库）
+- 来源: https://doi.org/10.1787/91964ef3-en
+- 页数: 404
+- 全文: `text/guides/Initial_Recommendations_on_Evaluation_of_Data_from_the_Developmental_N.txt`
+- 标签: tox
+
+## 目录 (Sections)
+
+- 3 November 2023
+- 75775 Paris Cedex 16
+- 1 Introduction                                                            12
+- 2 Context and Description of the DNT IVB                                  17
+- 3 Elements for Establishing WoE                                           27
+- 4 Integration of Evidence                                                 43
+- 1 Introduction
+- 2 Context and Description of the DNT
+- 3 Elements for Establishing WoE
+- 4 Integration of Evidence
+- 0 Characterization and definition of source cells
+- 0 Omics characterization of the test system
+- 4.7 Features of the test system that reflect the in vivo tissue
+- 0 Applicability of test method
+- 0 Characterization and definition of source cells
+- 0 Omics characterization of the test system
+- 4.7 Features of the test system that reflect the in vivo tissue
+- 0 Applicability of test method
+- 5.10 Throughput estimate
+- 2018 Sep 1;354:24-39.
+- 2018 Sep 1;354:24-39.
+- 2018 Sep 1;354:24-39.
+- 2017 Sep 6. PMID: 28809115.
+- 2016 Nov;154(1):126-139. doi: 10.1093/toxsci/kfw147. PMID: 27492221
+- 2017 May;60:280-292. doi: 10.1016/j.neuro.2016.03.019.
+- 2018 Sep 1;354:24-39.
+- 1        Proliferation
+- 2        Neuronal differentiation
+- 3        Neurite outgrowth (neurite length, neurite area)
+- 4        Oligodendrocyte differentiation
+- 5        Neural Crest Cell Migration
+- 6        Neurite Outgrowth of Neural Crest Cells
+- 7        Neuronal network formation and function
+- 8        Synaptogenesis
+- 9        Cell viability
+- 10       Cytotoxicity
+- 30   IUF         858   IUF_NPC2-5                      2769   IUF_NPC4_neurite_area_120hr
+- 30   IUF         858   IUF_NPC2-5                      2774   IUF-NPC2-5_viability_120hr
+- 31   CCTE_MUND    849   CCTE_Mundy_HCI_hN2_NOG   2695   CCTE_Mundy_HCI_hN2_NOG_BPCount
+- 20   CCTE_SHAFE   573   CCTE_Shafer_MEA_dev      2472   CCTE_Shafer_MEA_dev_burst_rate
+- 20   CCTE_SHAFE   573   CCTE_Shafer_MEA_dev   2488   CCTE_Shafer_MEA_dev_LDH
+- 20   CCTE_SHAFE   573   CCTE_Shafer_MEA_dev   2489   CCTE_Shafer_MEA_dev_AB
+- 20   CCTE_SHAFE   573   CCTE_Shafer_MEA_dev   2819   CCTE_Shafer_MEA_dev_burst_rate_DIV12

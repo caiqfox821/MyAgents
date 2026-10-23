@@ -1,0 +1,79 @@
+# Guideline: Iron supplementation in postpartum women (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/249242
+- 页数: 38
+- 全文: `text/who/Guideline_Iron_supplementation_in_postpartum_women.txt`
+- 标签: 微量营养素补充, 母婴
+
+## 目录 (Contents)
+
+- Acknowledgements	                                                                                                                        v
+-             Financial support                                                                                                             v
+- Executive summary                                                                                                                        vi
+-              Purpose of the guideline                                                                                                  vi
+-              Guideline development methodology                                                                                         vi
+-              Available evidence                                                                                                       vii
+-              Recommendation                                                                                                           vii
+-              Key remarks                                                                                                              vii
+-              Research priorities                                                                                                     viii
+- Scope and purpose	                                                                                                                       1
+- Background                                                                                                                               1
+- Objectives	2
+- Summary of available evidence	                                                                                                           2
+- Recommendation	5
+- Remarks	5
+- Research priorities	                                                                                                                     6
+- Dissemination, implementation and ethical considerations	                                                                                7
+-              Diss­emination                                                                                                              7
+-              Implementation                                                                                                              7
+-              Regulatory considerations                                                                                                   8
+-              Ethical considerations                                                                                                      8
+-              Monitoring and evaluation of guideline implementation                                                                       9
+- Guideline development process	                                                                                                       10
+-              Advisory groups                                                                                                         10
+-              Scope of the guideline, evidence appraisal and decision-making                                                          10
+-              Management of competing interests                                                                                       11
+-              Plans for updating the guideline                                                                                        12
+- References	13
+-                                                                               WHO Guideline: Iron supplementation in postpartum women.        iii
+-                   Annex 1. GRADE summary of findings table	                                          17
+-                   Annex 2. Summary of the considerations of the members of the
+-                   guideline development group for determining the strength of the
+-                   recommendation for iron supplementation in postpartum women	                       18
+-                   Annex 3. Questions in population, intervention, control, outcomes (PICO) format	   19
+-                   Annex 4. WHO Steering Committee for Nutrition Guidelines Development	              21
+-                   Annex 5. WHO guideline development group	                                          22
+-                   Annex 6. External resource experts                                                 23
+-                   Annex 7. WHO Secretariat	                                                          24
+-                   Annex 8. Peer-reviewers	                                                           26
+- iv   WHO Guideline: Iron supplementation in postpartum women.
+- Acknowledgements
+- This guideline was coordinated by the World Health Organization (WHO) Evidence and Programme Guidance
+- Unit, Department of Nutrition for Health and Development. Dr Lisa Rogers and Dr Juan Pablo Peña-Rosas
+- oversaw the preparation of this document. WHO acknowledges the technical contributions of the following
+- individuals (in alphabetical order): Ms Hala Boukerdenna, Dr Christian Breymann, Dr Luz Maria De-Regil,
+- Ms Rae Galloway, Dr Pura Rayco-Solon, Dr Hanne Wielandt and Mr Gerardo Zamora.
+- We would like to express our gratitude to the WHO Guidelines Review Committee Secretariat and members of
+- the Guidelines Review Committee for their technical support throughout the process. Thanks are also due to
+- Mr Issa T Matta and Ms Chantal Streijffert Garon from the WHO Office of the Legal Counsel, for their support
+- in the management of conflicts-of-interest procedures. Mrs Paule Pillard and Ms Jennifer Volonnino from the
+- Evidence and Programme Guidance Unit, Department of Nutrition for Health and Development, provided
+- logistic support.
+- WHO gratefully acknowledges the technical input of the members of the WHO Steering Committee for
+- Nutrition Guidelines Development and the WHO guidelines development groups, especially the chair of the
+- meeting concerning this guideline, Dr Igor Veljkovik. WHO is also grateful to the Cochrane Pregnancy and
+- Childbirth Group staff for their support during the development of the systematic review used to inform this
+- guideline.
+- Financial support
+- WHO thanks the Bill & Melinda Gates Foundation for providing financial support for this work. The
+- Micronutrient Initiative and the International Micronutrient Malnutrition Prevention and Control Program of
+- the United States Centers for Disease Control and Prevention (CDC) provided financial support to the Evidence
+- and Programme Guidance Unit, Department of Nutrition for Health and Development, for the commissioning
+- of systematic reviews of nutrition interventions. Donors do not fund specific guidelines and do not participate
+- in any decision related to the guideline development process, including the composition of research questions,
+- membership of the guideline groups, conduct and interpretation of systematic reviews, or formulation of
+- recommendations.
+-                                                                        WHO Guideline: Iron supplementation in postpartum women.   v
+-      WHO Guideline1: Iron supplementation in postpartum women
+-      Executive summary

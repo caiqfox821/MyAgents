@@ -1,0 +1,81 @@
+# Qualitative and Nutritional Improvement of Cereal-Based Foods and Beverages (2021, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-0707-1
+- 页数: 308
+- 全文: `text/mdpi/Qualitative_and_Nutritional_Improvement_of_CerealBased_Foods_and_Beverages_2021.txt`
+- PDF: `mdpi/Qualitative_and_Nutritional_Improvement_of_CerealBased_Foods_and_Beverages_2021.pdf`
+- 标签: 谷物食品, 营养强化, 饮料
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Antonella Pasqualone and Carmine Summo
+- Qualitative and Nutritional Improvement of Cereal-Based Foods and Beverages
+- Reprinted from: Foods 2021, 10, 338, doi:10.3390/foods10020338 . . . . . . . . . . . . . . . . . . .
+- 1
+- Bo Ram Kim, Seung Soo Park, Geum-Joung Youn, Yeon Ju Kwak and Mi Jeong Kim
+- Characteristics of Sunsik, a Cereal-Based Ready-to-Drink Korean Beverage, with Added
+- Germinated Wheat and Herbal Plant Extract
+- Reprinted from: Foods 2020, 9, 1654, doi:10.3390/foods9111654 . . . . . . . . . . . . . . . . . . . .
+- 5
+- Maria Valentina Ignat, Liana Claudia Salant, ă, Oana Lelia Pop, Carmen Rodica Pop, Maria
+- Tofană, Elena Mudura, Teodora Emilia Coldea, Andrei Bors, a and Antonella Pasqualone
+- Current Functionality and Potential Improvements of Non-Alcoholic Fermented
+- Cereal Beverages
+- Reprinted from: Foods 2020, 9, 1031, doi:10.3390/foods9081031 . . . . . . . . . . . . . . . . . . . . 19
+- Maria Ambrogina Pagani, Debora Giordano, Gaetano Cardone, Antonella Pasqualone,
+- Maria Cristina Casiraghi, Daniela Erba, Massimo Blandino and Alessandra Marti
+- Nutritional Features and Bread-Making Performance of Wholewheat: Does the Milling
+- System Matter?
+- Reprinted from: Foods 2020, 9, 1035, doi:10.3390/foods9081035 . . . . . . . . . . . . . . . . . . . . 47
+- Parisa Abbasi Parizad, Mauro Marengo, Francesco Bonomi, Alessio Scarafoni, Cristina
+- Cecchini, Maria Ambrogina Pagani, Alessandra Marti and Stefania Iametti
+- Bio-Functional and Structural Properties of Pasta Enriched with a Debranning Fraction from
+- Purple Wheat
+- Reprinted from: Foods 2020, 9, 163, doi:10.3390/foods9020163 . . . . . . . . . . . . . . . . . . . . . 65
+- Simonetta Fois, Marco Campus, Piero Pasqualino Piu, Silvia Siliani, Manuela Sanna, Tonina
+- Roggio and Pasquale Catzeddu
+- Fresh Pasta Manufactured with Fermented Whole Wheat Semolina: Physicochemical, Sensorial,
+- and Nutritional Properties
+- Reprinted from: Foods 2019, 8, 422, doi:10.3390/foods8090422 . . . . . . . . . . . . . . . . . . . . . 79
+- Laurencia Govender and Muthulisi Siwela
+- The Effect of Moringa oleifera Leaf Powder on the Physical Quality, Nutritional Composition and
+- Consumer Acceptability of White and Brown Breads
+- Reprinted from: Foods 2020, 9, 1910, doi:10.3390/foods9121910 . . . . . . . . . . . . . . . . . . . . 93
+- Gabriele Rocchetti, Corrado Rizzi, Gabriella Pasini, Luigi Lucini, Gianluca Giuberti and
+- Barbara Simonato
+- Effect of Moringa oleifera L. Leaf Powder Addition on the Phenolic Bioaccessibility and on In
+- Vitro Starch Digestibility of Durum Wheat Fresh Pasta
+- Reprinted from: Foods 2020, 9, 628, doi:10.3390/foods9050628 . . . . . . . . . . . . . . . . . . . . . 111
+- Antonella Pasqualone, Davide De Angelis, Giacomo Squeo, Graziana Difonzo, Francesco
+- Caponio and Carmine Summo
+- The Effect of the Addition of Apulian black Chickpea Flour on the Nutritional and Qualitative
+- Properties of Durum Wheat-Based Bakery Products
+- Reprinted from: Foods 2019, 8, 504, doi:10.3390/foods8100504 . . . . . . . . . . . . . . . . . . . . . 123
+- v
+- Rosa Schettino, Erica Pontonio and Carlo Giuseppe Rizzello
+- Use of Fermented Hemp, Chickpea and Milling By-Products to Improve the Nutritional Value
+- of Semolina Pasta
+- Reprinted from: Foods 2019, 8, 604, doi:10.3390/foods8120604 . . . . . . . . . . . . . . . . . . . . . 137
+- Pei-Ling Chung, Ean-Tun Liaw, Mohsen Gavahian and Ho-Hsien Chen
+- Development and Optimization of Djulis Sourdough Bread Using Taguchi Grey
+- Relational Analysis
+- Reprinted from: Foods 2020, 9, 1149, doi:10.3390/foods9091149 . . . . . . . . . . . . . . . . . . . . 153
+- Jazmin L. Tobias-Espinoza, Carlos A. Amaya-Guerra, Armando Quintero-Ramos, Esther
+- Pérez-Carrillo, Marı́a A. Núñez-González, Fernando Martı́nez-Bustos, Carmen O.
+- Meléndez-Pizarro, Juan G. Báez-González and Juan A. Ortega-Gutiérrez
+- Effects of the Addition of Flaxseed and Amaranth on the Physicochemical and Functional
+- Properties of Instant-Extruded Products
+- Reprinted from: Foods 2019, 9, 183, doi:10.3390/foods8060183 . . . . . . . . . . . . . . . . . . . . . 173
+- Rodrigo Subiria-Cueto, Alfonso Larqué-Saavedra, Marı́a L. Reyes-Vega, Laura A. de la Rosa,
+- Laura E. Santana-Contreras, Marcela Gaytán-Martı́nez, Alma A. Vázquez-Flores, Joaquı́n
+- Rodrigo-Garcı́a, Alba Y. Corral-Avitia, José A. Núñez-Gastélum and Nina R. Martı́nez-Ruiz
+- Brosimum alicastrum Sw. (Ramón): An Alternative to Improve the Nutritional Properties and
+- Functional Potential of the Wheat Flour Tortilla
+- Reprinted from: Foods 2019, 8, 613, doi:10.3390/foods8120613 . . . . . . . . . . . . . . . . . . . . . 187
+- Temitope D. Awobusuyi, Muthulisi Siwela and Kirthee Pillay
+- Sorghum–Insect Composites for Healthier Cookies: Nutritional, Functional, and Technological
+- Evaluation
+- Reprinted from: Foods 2020, 9, 1427, doi:10.3390/foods9101427 . . . . . . . . . . . . . . . . . . . . 205
+- Sirichat Chanadang and Edgar Chambers IV

@@ -1,0 +1,79 @@
+# Advances in Propagation and Cultivation of Mushroom (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/13200
+- 页数: 344
+- 全文: `text/mdpi/Advances_in_Propagation_and_Cultivation_of_Mushroom_2026.txt`
+- 标签: 食用菌, 菌种繁育, 栽培种
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Hailong Yu, Yajie Zou, Shoumian Li and Qiang Li
+- Advances in Propagation and Cultivation of Mushroom
+- Reprinted from: Horticulturae 2026, 12, 625, https://doi.org/10.3390/horticulturae12050625 . . .                  1
+- Chunge Sheng, Fei Wang, Lei Shi, Jinhe Wang, Zitong Liu, Peng Zhang, et al.
+- Evaluation of Tyromyces chioneus Production Using Sawdust Supplemented with Corncobs
+- Reprinted from: Horticulturae 2025, 11, 367, https://doi.org/10.3390/horticulturae11040367 . . .                  7
+- Xueqian Bai, Yicong Wang, Muhan Wang, Jiabei Zhang, Lingyue Wu, Xuecheng Wang and
+- Yiping Li
+- Distribution of Oligaphorura ursi in Morchella Cultivation Soil, Screening of Pesticides, and
+- Analysis of Their Effects on Mycelial Growth and Pesticide Residues
+- Reprinted from: Horticulturae 2025, 11, 471, https://doi.org/10.3390/horticulturae11050471 . . . 17
+- Tai-Zeng Xin, Yang Fu, Xiao-Shuai Wang, Ning Jiang, Dan-Dan Zhai, Xiao-Dong Shang, et al.
+- Research Progress of Selenium-Enriched Edible Fungi
+- Reprinted from: Horticulturae 2025, 11, 531, https://doi.org/10.3390/horticulturae11050531 . . . 29
+- Fei Bian, Yonghui Wang, Haixia Ren, Luzhang Wan, Huidong Guo, Yuxue Jia, et al.
+- A Fungi-Driven Sustainable Circular Model Restores Saline Coastal Soils and Boosts
+- Farm Returns
+- Reprinted from: Horticulturae 2025, 11, 730, https://doi.org/10.3390/horticulturae11070730 . . . 44
+- Xiuge Yao, Jiechi Zhang, Chunge Sheng, Yan Guo, Chuang Han, Shuang Tian, et al.
+- Transcriptome Analysis Reveals Molecular Mechanisms of Melanin Synthesis in Auricularia
+- heimuer Under Different Fermentation Times
+- Reprinted from: Horticulturae 2025, 11, 817, https://doi.org/10.3390/horticulturae11070817 . . . 70
+- Weihang Li, Jiandong Han, Hongyan Xie, Yi Sun, Feng Li, Zhiyuan Gong and Yajie Zou
+- Comparative Proteomic Analysis of Flammulina ﬁliformis Reveals Substrate-Speciﬁc Enzymatic
+- Strategies for Lignocellulose Degradation
+- Reprinted from: Horticulturae 2025, 11, 912, https://doi.org/10.3390/horticulturae11080912 . . . 84
+- Ji-Ling Song, Ya Xin, Zu-Fa Zhou, Xue-Ping Kang, Yang Zhang, Wei-Dong Yuan and Bin Yu
+- Biological Characteristics and Domestication of a Wild Hericium coralloides
+- Reprinted from: Horticulturae 2025, 11, 917, https://doi.org/10.3390/horticulturae11080917 . . . 106
+- Ruixiang Sun, Jiandong Han, Peng Yang, Shude Yang, Hongyan Xie, Jin Li, et al.
+- Formula Screening and Optimization of Physical and Chemical Properties for Cultivating
+- Flammulina ﬁliformis Using Soybean Straw as Substrate
+- Reprinted from: Horticulturae 2025, 11, 947, https://doi.org/10.3390/horticulturae11080947 . . . 121
+- Jie Cheng, Lei Ye, Xin Li, Yunfu Gu, Yi Wang, Zebin Zeng, et al.
+- Changes in Microbial Diversity During Dictyophora indusiata Mycelium Regression Period
+- Reprinted from: Horticulturae 2025, 11, 981, https://doi.org/10.3390/horticulturae11080981 . . . 138
+- Zhiying Zhang, Qin Qiu, Lijuan Hou, Ping Xu, Ning Jiang, Jinsheng Lin, et al.
+- A Preliminary Study on the Resistance Mechanism of Pleurotus ostreatus to Mitigate the Impact
+- of Insecticides
+- Reprinted from: Horticulturae 2025, 11, 1180, https://doi.org/10.3390/horticulturae11101180 . . 156
+-                                                          v
+- Xutao Chen, Guoliang Meng, Mengqian Liu, Jiancheng Dai, Guanghua Huo, Caihong Dong
+- and Yunhui Wei
+- Pathogen Survey in Agrocybe chaxingu and Characterization of the Dominant Pathogen
+- Fuligo gyrosa
+- Reprinted from: Horticulturae 2025, 11, 1190, https://doi.org/10.3390/horticulturae11101190 . . 176
+- Zhu Lu, Yang Yang, Shuang Hu, Yu-Kun Ma, Zi-Ming Ren, Yue Wang, et al.
+- The Agronomic Traits Differences in Hericium erinaceus Cultivated with Different Straw
+- Formulations by Replacing Wood with Straw
+- Reprinted from: Horticulturae 2025, 11, 1220, https://doi.org/10.3390/horticulturae11101220 . . 211
+- Xuelian Cao, Ying Chen, Lixu Liu, Jie Tang, Shishi Liu, Liyuan Xie and Yiping Li
+- Construction of a Core Collection for Morchella Based on Phenotypic Traits from China
+- Reprinted from: Horticulturae 2025, 11, 1274, https://doi.org/10.3390/horticulturae11111274 . . 227
+- Wang Li, Meng Li, Shuai Xu, Yueting Dai, Yingyao Shao, Zhan Li, et al.
+- The Effects of Hypoxic Stress on the Growth and Lignocellulose- Degrading Capacity of
+- Pleurotus ostreatus
+- Reprinted from: Horticulturae 2025, 11, 1298, https://doi.org/10.3390/horticulturae11111298 . . 243
+- Xuhan Liu, Zhu Lu, Frederick Leo Sossah, Lin Xu, Hanting Cheng, Qinfen Li, et al.
+- Optimization of Agro-Residue Substrates for Sustainable Cultivation of Pleurotus giganteus in
+- Hainan, China
+- Reprinted from: Horticulturae 2025, 11, 1412, https://doi.org/10.3390/horticulturae11121412 . . 272
+- Ji-Wen Zhang, Gang Huang, Wen-Hao Cui, Hao-Ran Dong, Ji-Ling Song, Xuan Cheng and
+- Hai-Long Yu
+- Effect of Corn Cobs Replacing Cottonseed Hulls on the Cultivation of Pleurotus giganteus
+- Reprinted from: Horticulturae 2026, 12, 213, https://doi.org/10.3390/horticulturae12020213 . . . 295
+- Weizhen Huang, Jiayan Wang, Haitao Chen, Jiali Lai, Ben Menda Ukii, Lin Zhang, et al.
+- Optimization of Juncao Substrate Formulation for Flammulina ﬁliformis Cultivation: An Enzymatic

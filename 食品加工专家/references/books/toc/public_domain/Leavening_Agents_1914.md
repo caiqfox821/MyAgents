@@ -1,0 +1,60 @@
+# Leavening Agents: Yeast, Leaven, Salt-rising Fermentation, Baking Powder (1914, Archive.org)
+
+- 作者: Hart
+- 许可: Public Domain
+- 来源: https://archive.org/details/leaveningagentsy00hartrich
+- 页数: 116
+- 全文: `text/public_domain/Leavening_Agents_1914.txt`
+- PDF: `public_domain/Leavening_Agents_1914.pdf`
+- 标签: 烘焙, 膨松剂, 历史经典
+
+## 目录 (Contents)
+
+- YEAST
+- I
+- Fermentation and
+- I/if e
+- Its
+- Cause
+- I
+- and Characteristics of Yeast
+- Activities of Yeast
+- Breathing, Nutrition, Fermentation
+- 8
+- Hansen's Pure Culture
+- Selection
+- Keeping
+- 3
+- 15
+- of Yeast
+- 16
+- Tests for Yeast
+- 20
+- Manufacture of Compressed Yeast
+- Old Vienna Process Materials, Disturbances
+- Aeration Process
+- 21
+- in
+- Fermentation
+- 25
+- Materials, Disturbances in Fermentation
+- 33
+- Yeast in Bread
+- 36
+- Leaven and Homemade Yeasts
+- 43
+- FERMENTATION
+- BAKING POWDERS
+- SAI/T-RISING
+- 47
+- 51
+- General
+- The Alkali
+- The Acid Cream
+- 5i
+- 53
+- of Tarter, Phosphate,
+- Aluminum
+- Salts
+- .
+- -

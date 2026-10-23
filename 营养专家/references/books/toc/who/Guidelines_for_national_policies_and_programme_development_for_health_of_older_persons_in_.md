@@ -1,0 +1,60 @@
+# Guidelines for national policies and programme development for health of older persons in the Western Pacific Region (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/207518
+- 页数: 72
+- 全文: `text/who/Guidelines_for_national_policies_and_programme_development_for_health_of_older_persons_in_.txt`
+- 标签: 老年营养
+
+## 目录 (Sections)
+
+- 1.1    Global Population Ageing                           4
+- 1.2    Ageing in the Western Pacific Region               5
+- 1.3    Implications of Population Ageing in the
+- 1.4    Existing Policy and Programmes for the Health
+- 1.5    The Need for Policy and Programmes for the
+- 2.1    Rights of Older Persons                            12
+- 2.2    Quality of Care                                    12
+- 2.3    Life Course Perspective                            13
+- 2.4    Healthy Ageing                                     13
+- 2.5    Productivity and Participation of Older Persons    14
+- 2.6    Access to Comprehensive Care                       14
+- 2.7    Family/ Community Orientation                      15
+- 2.8    Cultural Perspective                               15
+- 2.9    Traditional Care and Practices                     16
+- 2.10   Gender Variation                                   16
+- 2.11   Cohort Perspective                                 17
+- 2.12   Rural/ Urban Distinction                           17
+- 3.1    National Policy Declaration                        18
+- 3.2    Health Care Financing                              19
+- 3.3    National Coordinating Mechanism                    20
+- 3.4    Ministry Focus                                     22
+- 3.5    Coordination of Agencies                           23
+- 4.1    Health Education, Health Promotion
+- 4.2    Primary Health Care                                 27
+- 4.3    Home and Community-based Care                       27
+- 4.4    Rehabilitation                                      29
+- 4.5    Specialist Medical Services                         30
+- 4.6    Mental Health Services                              31
+- 4.7    Sheltered Residential Care                          32
+- 4.8    Human Resources Development                         33
+- 4.9    Roles for Nongovernmental Organizations             35
+- 4.10   Research, Information and Development               36
+- 1       The rights of individuals must be maintained and protected as
+- 2       Quality assurance should be introduced to cover all aspects of
+- 3       Ageing must be approached as a life-span process, not simply as
+- 4       The primary focus of health care for older persons should be on
+- 5       The positive contribution of older persons to development and
+- 6       Full access to comprehensive health services should be ensured
+- 7       The integral relationship between older persons and their families
+- 8       Positive cultural traditions should be respected in providing health
+- 9       Traditional health care methods where practised should be
+- 10      Gender differences in both health and lifestyle should be
+- 11      The diversity of older populations should be recognized and
+- 12      Potential inequities in provision and access to appropriate health
+- 13      Every nation should have a comprehensive policy on health and
+- 14      Every nation should make appropriate provision for funding of
+- 17      Ministries of Health should establish a clearly defined and
+- 18      Specific programmes should be introduced to provide for health
+- 19      Training of non-professional and professional primary health care
+- 20      Community-based services for health care of older persons should

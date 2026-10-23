@@ -1,0 +1,80 @@
+# Microbial safety of lipid-based ready-to-use foods for management of moderate acute malnutrition and severe acute malnutrition: first report (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/249581
+- 页数: 82
+- 全文: `text/who/Microbial_safety_of_lipid_based_ready_to_use_foods_for_management_of_moderate_acute_malnut.txt`
+- 标签: 营养不良
+
+## 目录 (Contents)
+
+-    Acknowledgements                                                        iv
+-    List of contributors                                                     v
+-    Abbreviations used in the text                                         vii
+-    Executive summary                                                      viii
+- 1 Background                                                                1
+- 2 Introduction                                                             3
+-    2.1 Lipid-based ready-to-use foods for management of moderate acute
+-        malnutrition and severe acute malnutrition                       6
+-    2.2 Existing specifications for lipid-based ready-to-use foods for
+-        management of moderate acute malnutrition and severe acute
+-        malnutrition                                                     8
+-    2.3 Microbiological hazards associated with low-moisture foods.        10
+- 3 Hazard  Identification: Micro-organisms of concern in
+-   lipid-based ready-to-use foods for management of moderate
+-    acute malnutrition and severe acute malnutrition                       11
+- 4 Hazard caracterization                                                  14
+- 5 Control of microbiological hazards in low-moisture foods                18
+-    5.1. Challenges to addressing the safety of lipid-based ready-to-use
+-         foods for management of moderate acute malnutrition and
+-         severe acute malnutrition                                         20
+-    5.2 Control of Salmonella spp. and other pathogens in lipid-based
+-        ready-to-use foods for management of moderate acute
+-        malnutrition and severe acute malnutrition                         22
+-    5.3 Role of sampling in assuring food safety                           25
+- 6 Conclusions and recommendations                                         30
+-    6.1 Pathogens of greatest concern                                      30
+-    6.2 Food safety control                                                31
+-    6.3 Operational guidance                                               32
+-    Bibliography                                                           38
+- ANNEXES
+-    Annex 1                                                                46
+-    Annex 2                                                                52
+-    FAO/WHO Microbiological Risk Assessment Series                         67
+-      Acknowledgements
+-      The Food and Agriculture Organization of the United Nations and the World
+-      Health Organization would like to express their appreciation to all those who con-
+-      tributed to the preparation of this document through the provision of their time,
+-      expertise and other relevant information both before, during and after the meeting.
+-      Special appreciation is extended to Dr Morris Potter for chairing the meeting and
+-      leading the preparation of the meeting report. Appreciation is also extended to
+-      colleagues in WFP, UNICEF and MSF for the data and insights they provided on
+-      the production and use of this product and those producers who also provided
+-      data for consideration by the expert meeting. All contributors are listed on the
+-      following pages.
+-      FAO and WHO would also like to acknowledge the financial resources provided by
+-      the WFP and UNICEF to support this work.
+-      Final editing for language was by Thorgeir Lawrence and layout by Joanne
+-      Morgante.
+- iv
+- List of contributors
+- MEETING PARTICIPANTS
+- Invited Experts
+- Larry Beuchat, University of Georgia, USA
+- Anna Bowen, Centers for Disease Control and Prevention, USA
+- Jean-Louis Cordier, ICMSF and Nestle, Switzerland
+- Seamus Fanning, University College Dublin, Ireland
+- Stephen Forsythe, Nottingham Trent University, United Kingdom
+- Carol Iverson, Nestec Ltd., Switzerland
+- Gregory Paoli, Risk Sciences International, Inc., Canada
+- Mary Alice Smith, University of Georgia, USA
+- Tom Ross, University of Tasmania, Australia
+- Declarations of interests
+- All experts completed a Declaration of Interest form. Three of the invited experts
+- work within the private sector (Mr Cordier, Ms Iverson and Mr Paoli). Mr Paoli
+- declared no potential conflict of interest. Ms Iverson who is an employee of Nestec
+- S.A. undertakes research for that company. She has been extensively involved in
+- the development of methodology for the detection of Cronobacter, and continues
+- to be involved on a voluntary basis. Mr Cordier is an employee of Nestlé and has
+- worked extensively on the control of Cronobacter and other Enterobacteriaceae in
+- powdered infant formula. Mr Forsyth and Ms Smith, who both work in academia,

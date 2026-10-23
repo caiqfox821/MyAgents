@@ -1,0 +1,110 @@
+[
+ {
+  "sub": "guides",
+  "file": "WHO_EHC240_Ch5_dose-response_2020",
+  "title": "WHO/FAO EHC 240 (update) Chapter 5: Dose-Response Analysis of Chemical Data in Health Risk Assessment",
+  "year": 2020,
+  "publisher": "WHO/IPCS-FAO",
+  "license": "开放获取",
+  "source": "https://www.who.int/publications/i/item/9789241572408",
+  "pdf_url": "https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter5-dose-response.pdf",
+  "themes": [
+   "tox",
+   "risk"
+  ],
+  "tags": [
+   "剂量-反应",
+   "风险评估"
+  ]
+ },
+ {
+  "sub": "guides",
+  "file": "WHO_EHC240_Ch6_dietary-exposure_2020",
+  "title": "WHO/FAO EHC 240 (update) Chapter 6: Dietary and Total Intake Exposure Assessment of Chemicals",
+  "year": 2020,
+  "publisher": "WHO/FAO",
+  "license": "开放获取",
+  "source": "https://www.who.int/publications/i/item/9789241572408",
+  "pdf_url": "https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter6-dietary-exposure.pdf",
+  "themes": [
+   "risk"
+  ],
+  "tags": [
+   "暴露评估",
+   "风险评估"
+  ]
+ },
+ {
+  "sub": "guides",
+  "file": "WHO_EHC240_S4.5_genotoxicity_2020",
+  "title": "WHO/FAO EHC 240 (update) Section 4.5: Genotoxicity as a Hazard Identification Endpoint",
+  "year": 2020,
+  "publisher": "WHO/FAO",
+  "license": "开放获取",
+  "source": "https://www.who.int/publications/i/item/9789241572408",
+  "pdf_url": "https://cdn.who.int/media/docs/default-source/food-safety/publications/section4-5-genotoxicity.pdf",
+  "themes": [
+   "tox"
+  ],
+  "tags": [
+   "遗传毒性",
+   "剂量-反应"
+  ]
+ },
+ {
+  "sub": "guides",
+  "file": "WHO_EHC240_S9.1.4.2_enzymes_2020",
+  "title": "WHO/FAO EHC 240 (update) Section 9.1.4.2: Enzyme Induction and Toxicological Relevance",
+  "year": 2020,
+  "publisher": "WHO/FAO",
+  "license": "开放获取",
+  "source": "https://www.who.int/publications/i/item/9789241572408",
+  "pdf_url": "https://cdn.who.int/media/docs/default-source/food-safety/publications/section9-1-4-2-enzymes.pdf",
+  "themes": [
+   "tox"
+  ],
+  "tags": [
+   "毒作用机制/AOP"
+  ]
+ },
+ {
+  "sub": "guides",
+  "file": "ICH_M7R2_Guideline_Step4_2023",
+  "title": "ICH M7(R2): Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals to Limit Potential Carcinogenic Risk (Step 4, final)",
+  "year": 2023,
+  "publisher": "ICH",
+  "license": "公开获取（ICH 官网）",
+  "source": "https://database.ich.org/sites/default/files/ICH_M7%28R2%29_Guideline_Step4_2023_0216.pdf",
+  "pdf_url": "https://database.ich.org/sites/default/files/ICH_M7%28R2%29_Guideline_Step4_2023_0216.pdf",
+  "themes": [
+   "tox",
+   "risk"
+  ],
+  "tags": [
+   "遗传毒性",
+   "TTC/LTL",
+   "药品杂质",
+   "ICH"
+  ]
+ },
+ {
+  "sub": "guides",
+  "file": "SANTE_11312_2021_v2026",
+  "title": "Analytical Quality Control and Method Validation Procedures for Pesticide Residues Analysis in Food and Feed (SANTE/11312/2021 v2026)",
+  "year": 2025,
+  "publisher": "European Commission (DG SANTE / EURL-FV)",
+  "license": "公开获取（EC 官网）",
+  "source": "https://food.ec.europa.eu/document/download/d4786faf-c574-4222-a5c6-45086b3920b8_en",
+  "pdf_url": "https://food.ec.europa.eu/document/download/d4786faf-c574-4222-a5c6-45086b3920b8_en?filename=pesticides_mrl_guidelines_wrkdoc_2021-11312.pdf",
+  "themes": [
+   "ms",
+   "guides"
+  ],
+  "tags": [
+   "农残分析",
+   "方法验证",
+   "鉴定判据",
+   "质谱"
+  ]
+ }
+]

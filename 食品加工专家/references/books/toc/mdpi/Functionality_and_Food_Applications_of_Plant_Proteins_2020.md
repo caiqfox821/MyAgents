@@ -1,0 +1,81 @@
+# Functionality and Food Applications of Plant Proteins (2020, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 274
+- 全文: `text/mdpi/Functionality_and_Food_Applications_of_Plant_Proteins_2020.txt`
+- PDF: `mdpi/Functionality_and_Food_Applications_of_Plant_Proteins_2020.pdf`
+- 标签: 植物蛋白, 功能特性, 应用
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Functionality and Food Applications of Plant Proteins” . . . . . . . . . . . . . . . .
+- ix
+- Brigitta P. Yaputri, Fan Bu and Baraem P. Ismail
+- Salt Solubilization Coupled with Membrane Filtration-Impact on the Structure/Function of
+- Chickpea Compared to Pea Protein
+- Reprinted from: Foods 2023, 12, 1694, doi:10.3390/foods12081694 . . . . . . . . . . . . . . . . . . .
+- 1
+- Zhiyun Zhang, Kanon Kobata, Hung Pham, Dorian Kos, Yunbing Tan and Jiakai Lu et al.
+- Production of Plant-Based Seafood: Scallop Analogs Formed by Enzymatic Gelation of Pea
+- Protein-Pectin Mixtures
+- Reprinted from: Foods 2022, 11, 851, doi:10.3390/foods11060851 . . . . . . . . . . . . . . . . . . . 19
+- Shuguang Wang, Mouming Zhao, Hongbing Fan and Jianping Wu
+- Peptidomics Study of Plant-Based Meat Analogs as a Source of Bioactive Peptides
+- Reprinted from: Foods 2023, 12, 1061, doi:10.3390/foods12051061 . . . . . . . . . . . . . . . . . . . 35
+- Delaney Webb, Hulya Dogan, Yonghui Li and Sajid Alavi
+- Physico-Chemical Properties and Texturization of Pea, Wheat and Soy Proteins Using Extrusion
+- and Their Application in Plant-Based Meat
+- Reprinted from: Foods 2023, 12, 1586, doi:10.3390/foods12081586 . . . . . . . . . . . . . . . . . . . 51
+- Shan Hong, Yanting Shen and Yonghui Li
+- Physicochemical and Functional Properties of Texturized Vegetable Proteins and Cooked Patty
+- Textures: Comprehensive Characterization and Correlation Analysis
+- Reprinted from: Foods 2022, 11, 2619, doi:10.3390/foods11172619 . . . . . . . . . . . . . . . . . . . 77
+- Anja Herneke, Christofer Lendel, Saeid Karkehabadi, Jing Lu and Maud Langton
+- Protein Nanofibrils from Fava Bean and Its Major Storage Proteins: Formation and Ability to
+- Generate and Stabilise Foams
+- Reprinted from: Foods 2023, 12, 521, doi:10.3390/foods12030521 . . . . . . . . . . . . . . . . . . . 103
+- Jolien Devaere, Ann De Winne, Lore Dewulf, Ilse Fraeye, Irena Šoljić and Elsa Lauwers et
+- al.
+- Improving the Aromatic Profile of Plant-Based Meat Alternatives: Effect of Myoglobin Addition
+- on Volatiles
+- Reprinted from: Foods 2022, 11, 1985, doi:10.3390/foods11131985 . . . . . . . . . . . . . . . . . . . 119
+- Qian Chen, Shuhui Li, Hua Xiong and Qiang Zhao
+- Effect of Different Extraction Methods on Physicochemical Characteristics and Antioxidant
+- Activity of C-Phycocyanin from Dry Biomass of Arthrospira platensis
+- Reprinted from: Foods 2022, 11, 1296, doi:10.3390/foods11091296 . . . . . . . . . . . . . . . . . . . 131
+- Martin Vogelsang-O’Dwyer, Aylin W. Sahin, Elke K. Arendt and Emanuele Zannini
+- Enzymatic Hydrolysis of Pulse Proteins as a Tool to Improve Techno-Functional Properties
+- Reprinted from: Foods 2022, 11, 1307, doi:10.3390/foods11091307 . . . . . . . . . . . . . . . . . . . 145
+- Bo Lyu, Jiaxin Li, Xiangze Meng, Hongling Fu, Wei Wang and Lei Ji et al.
+- The Protein Composition Changed the Quality Characteristics of Plant-Based Meat Analogues
+- Produced by a Single-Screw Extruder: Four Main Soybean Varieties in China as Representatives
+- Reprinted from: Foods 2022, 11, 1112, doi:10.3390/foods11081112 . . . . . . . . . . . . . . . . . . . 171
+- v
+- Ge-Ge Hu, Jing Liu, Yi-Hui Wang, Zhen-Nai Yang and Hong-Bo Shao
+- Applications of Plant Protein in the Dairy Industry
+- Reprinted from: Foods 2022, 11, 1067, doi:10.3390/foods11081067 . . . . . . . . . . . . . . . . . . . 187
+- Marcin A. Kurek, Anna Onopiuk, Ewelina Pogorzelska-Nowicka, Arkadiusz Szpicer,
+- Magdalena Zalewska and Andrzej Półtorak
+- Novel Protein Sources for Applications in Meat-Alternative Products—Insight and Challenges
+- Reprinted from: Foods 2022, 11, 957, doi:10.3390/foods11070957 . . . . . . . . . . . . . . . . . . . 201
+- Andrea Rivera del Rio, Remko M. Boom and Anja E. M. Janssen
+- Effect of Fractionation and Processing Conditions on the Digestibility of Plant Proteins as Food
+- Ingredients
+- Reprinted from: Foods 2022, 11, 870, doi:10.3390/foods11060870 . . . . . . . . . . . . . . . . . . . 217
+- Mirela Kopjar, Ivana Buljeta, Ina Ćorković, Anita Pichler and Josip Šimunović
+- Adsorption of Quercetin on Brown Rice and Almond Protein Matrices: Effect of Quercetin
+- Concentration
+- Reprinted from: Foods 2022, 11, 793, doi:10.3390/foods11060793 . . . . . . . . . . . . . . . . . . . 235
+- Noppol Leksawasdi, Siraphat Taesuwan, Trakul Prommajak, Charin Techapun, Rattanaporn
+- Khonchaisri and Nattha Sittilop et al.
+- Ultrasonic Extraction of Bioactive Compounds from Green Soybean Pods and Application in
+- Green Soybean Milk Antioxidants Fortification
+- Reprinted from: Foods 2022, 11, 588, doi:10.3390/foods11040588 . . . . . . . . . . . . . . . . . . . 247
+- vi
+- About the Editor
+- Yonghui Li
+- Dr. Yonghui Li is an Associate Professor of Grain Chemistry and the Director of the Wheat
+- Quality Lab at Kansas State University. He also serves as a graduate faculty member of the Food
+- Science Institute. He teaches undergraduate and graduate courses in Grain Analysis and Protein

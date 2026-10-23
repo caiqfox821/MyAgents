@@ -1,0 +1,81 @@
+# Small-scale poultry processing (1992, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/t0561e/t0561e.pdf
+- 页数: 124
+- 全文: `text/fao/Small_Scale_Poultry_Processing_1992.txt`
+- PDF: `fao/Small_Scale_Poultry_Processing_1992.pdf`
+- 标签: 肉制品加工, 禽类, 小规模加工
+
+## 目录 (Contents)
+
+- CHAPTER 1
+- INTRODUCTION TO POULTRY PROCESSING
+- Poultry
+- Poultry
+- Poultry
+- Poultry
+- Production
+- Consumption
+- Rearing Systems
+- Hygiene
+- Poultry rearing hygiene
+- Preslaughter inspection
+- Vehicle and transport hygiene (including cages)
+- Personal cleanliness and habits
+- 1
+- 2
+- 4
+- 6
+- 6
+- 6
+- 6
+- 6
+- Marketing of Live Poultry
+- Harvesting and transport systems
+- Transport to market
+- Display methods
+- Sales methods
+- 6
+- 6
+- 7
+- 7
+- 7
+- Poultry Slaughter and Marketing
+- Systems of operation of poultry processing plant
+- Ownership of birds
+- Production methods
+- Type of product
+- Packaging
+- Refrigeration
+- Transport to market
+- Display & sales
+- Customer use
+- 7
+- 7
+- 8
+- 8
+- 8
+- 9
+- 9
+- 9
+- 9
+- 9
+- CHAPTER 2
+- DESIGN & CONSTRUCTION OF SMALL POULTRY
+- PROCESSING PLANTS
+- 1
+- GENERAL DESIGN PRINCIPLES
+- Planning
+- Economics
+- Management
+- Location of Plant
+- Facilities Required
+- Flow Diagram
+- Equipment and Machinery
+- 11
+- 11
+- 12
+- 13
+- 14
+- 14

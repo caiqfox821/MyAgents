@@ -1,0 +1,80 @@
+# Training course on the inpatient management of severe acute malnutrition: module 8: outpatient management of severe acute malnutrition (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/352673
+- 页数: 46
+- 全文: `text/who/Training_course_on_the_inpatient_management_of_severe_acute_malnutrition_module_8_outpatie.txt`
+- 标签: 营养不良
+
+## 目录 (Contents)
+
+- Prefacev
+- Acknowledgementsxii
+- Abbreviationsxiii
+-                                                                                     8. Outpatient management of severe acute malnutrition | TRAINING COURSE ON THE INPATIENT MANAGEMENT OF SEVERE ACUTE MALNUTRITION
+- Introduction1
+- Learning objectives                                                            3
+- 1.   Principles of outpatient management of severe acute malnutrition         3
+-      1.1 Community mobilization                                               3
+-      1.2 Timely detection of cases                                            4
+-      1.3 Integration                                                          4
+-      1.4 Linkages with other programmes                                       4
+- 2.   Case-finding for severe acute malnutrition                               5
+- 3. Admission to outpatient care                                               6
+-    3.1 Appetite test                                                          6
+-    3.2 Categories of admission for outpatient care in children aged 6 months
+-         and older                                                              7
+-    3.3 Admission procedures                                                    7
+- 4. Medical management in outpatient care                                       8
+-    4.1 Routine medication                                                      8
+-    4.2 Specific treatments                                                     9
+- 5. Nutrition management in outpatient care                                    10
+- 6. Follow-up during treatment in outpatient care                              12
+-    6.1 Home visits                                                            13
+-    6.2 Tools for individual follow-up                                         13
+- 7. Discharge from outpatient care                                             14
+-    7.1 Discharge criteria and categories                                      14
+-    7.2 Discharge procedures                                                   15
+- 8. Monitoring and reporting in outpatient care                                15
+-    8.1 Monitoring                                                             15
+-    8.2 Reporting                                                              16
+- Annex 1.    Outpatient care treatment card for children 6 months or older     19
+- Annex 2.    RUTF ration card for children 6 months or older                   21
+- Annex 3.    Transfer/referral form                                            22
+- Annex 4.    Checklists for set-up of outpatient care services                 23
+- Annex 5.    Outpatient care action protocol                                   25
+- Annex 6.    Monthly site report                                               27
+- Annex 7.    Monthly home visits report form                                   28
+-                                          iii
+- PREFACE
+- The World Health Organization (WHO) Training course on the inpatient management
+- of severe acute malnutrition includes training modules, training guides, and supporting
+- materials. The training package is based on the 2002 WHO Training course on
+-                                                                                                                                8. Outpatient management of severe acute malnutrition | TRAINING COURSE ON THE INPATIENT MANAGEMENT OF SEVERE ACUTE MALNUTRITION
+- the management of severe malnutrition1, which was updated in 20092 to include
+- the WHO Child Growth Standards, the use of mid-upper arm circumference to
+- assess wasting, and the provision of ready-to-use therapeutic foods (RUTF) for
+- the management of severe acute malnutrition, which enabled early transfer of
+- children from inpatient to outpatient care. In 2013, WHO issued the Guideline:
+- updates on the management of severe acute malnutrition in infants and children3,
+- which provided updated recommendations on the following:
+-         a. admission and discharge criteria for children aged 6–59 months with
+-            severe acute malnutrition;
+-         b. where to manage children with severe acute malnutrition who have bilateral
+-            pitting oedema;
+-         c. use of antibiotics in the management of children with severe acute
+-            malnutrition in outpatient care;
+-         d. changes in the provision of vitamin A supplementation in the treatment
+-            of children with severe acute malnutrition;
+-         e. options for therapeutic feeding approaches in the management of severe
+-            acute malnutrition in children aged 6–59 months;
+-         f. fluid management of children with severe acute malnutrition and dehydration
+-            with and without shock;
+-         g. management of HIV-infected children with severe acute malnutrition;
+-         h. identifying and managing infants who are less than 6 months old with
+-            severe acute malnutrition.
+- The training course has been updated to incorporate these updates. Table 1 lists
+- the key technical updates made for each module.
+- 1
+-     Training course on the management of severe malnutrition. Geneva: World Health Organization; 2002 (WHO/NHD/02.4; http://
+-     apps.who.int/iris/handle/10665/70449).

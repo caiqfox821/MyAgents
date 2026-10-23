@@ -1,0 +1,80 @@
+# Policies and interventions to create healthy school food environments: WHO guideline (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/384322
+- 页数: 106
+- 全文: `text/who/Policies_and_interventions_to_create_healthy_school_food_environments_WHO_guideline.txt`
+- 标签: 微量营养素补充, 政策/环境
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                          v
+- Abbreviations                                                                           vii
+- Glossary		                                                                              viii
+- Executive summary                                                                        ix
+-      Background                                                                          ix
+-      Objective, scope and methods                                                        ix
+-      The evidence                                                                         x
+-      Good-practice statement and recommendations                                         xii
+-      Key considerations for implementation                                               xv
+- 1.   Introduction                                                                         1
+-      1.1   Background                                                                     1
+-      1.2   Scope and purpose                                                              3
+-      1.3   Objectives                                                                     5
+-      1.4   Target audience                                                                6
+- 2.   How this guideline was developed                                                     7
+-      2.1   Contributors to guideline development                                          7
+-      2.2   Guideline development process                                                  7
+-      2.3   Management of conflicts of interest                                           12
+- 3.   Summary of evidence                                                                13
+-   3.1      Evidence on effectiveness of policies and interventions that influence the
+- 		         school food environment                                                       13
+-      3.2   Evidence on contextual factors                                                21
+- 4.   Good-practice statement and recommendations                                        23
+- 5.   Implementation considerations                                                      31
+-      5.1   Considerations for food provision                                             33
+-      5.2   Considerations for nutrition standards or rules                               35
+-      5.3   Considerations for nudging interventions                                      35
+-      5.4   Considerations for multicomponent interventions                               36
+-      5.5   Additional resources                                                          37
+-                                                                                          iii
+- 6.    Research gaps                                                                    39
+-       6.1    Overarching research gaps                                                 39
+-       6.2    Considerations for the design of future evaluations                       40
+- 7.    Uptake, monitoring and updating of the guideline                                 41
+- References		                                                                           42
+- Annexes
+- Annex 1. Global calls to action and commitments related to food environment policies   49
+- Annex 2. WHO Secretariat                                                               50
+- Annex 3. Members of the WHO Steering Committee (headquarters)                          51
+- Annex 4. Members of the WHO NUGAG Subgroup on Policy Actions                           52
+- Annex 5. External contributors                                                         54
+- Annex 6. Guidance questions for the review of contextual factors                       56
+- Annex 7. Details of rapid review update                                                57
+- Annex 8. GRADE evidence profiles                                                       63
+- 		GRADE evidence profile 1                                                             63
+- 		GRADE evidence profile 2                                                             68
+- 		GRADE evidence profile 3                                                             72
+- 		Annex 8. References                                                                  80
+- Annex 9. Summary of declarations of interests of contributors to the guideline
+- 		 development process                                                                 84
+- iv
+- Acknowledgements
+- This guideline was prepared by the Department of Nutrition and Food Safety (NFS) of the World Health
+- Organization (WHO) under the overall leadership of Francesco Branca, Director, NFS (retired 2024). Katrin
+- Engelhardt was the responsible technical officer and coordinated the guideline development with Luz De
+- Regil, Unit Head, Multisectoral Action in Food Systems (AFS), and Chizuru Nishida, Unit Head, Safe, Healthy
+- and Sustainable Diet Unit (retired 2023).
+- WHO gratefully acknowledges the many individuals and organizations that have contributed to the
+- development of this guideline.
+- Guideline Development Group (WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup on
+- Policy Actions): Nawal Al Hamad (Public Authority for Food and Nutrition, Kuwait), Carukshi Arambepola
+- (University of Colombo, Sri Lanka), Gastón Ares (Universidad de la República, Uruguay), Sharon Friel
+- (Australian National University, Australia), Cho-il Kim (Seoul National University, Republic of Korea), Knut-
+- Inge Klepp (Norwegian Institute of Public Health, Norway), Joerg Meerpohl (University Medical Center
+- Freiburg, Germany), Musonda Mofu (National Food and Nutrition Commission, Zambia), Ladda Mo-suwan
+- (Prince of Songkla University, Thailand), Monica Muti (University of Witwatersrand, South Africa), Celeste
+- Naude (Stellenbosch University, South Africa), Lisa Powell (University of Illinois Chicago, United States of
+- America), Mike Rayner (University of Oxford, United Kingdom of Great Britain and Northern Ireland), Eva
+- Rehfuess (Ludwig Maximilian University Munich, Germany), Lorena Rodríguez Osiac (University of Chile,
+- Chile), Franco Sassi (Imperial College London, United Kingdom of Great Britain and Northern Ireland),

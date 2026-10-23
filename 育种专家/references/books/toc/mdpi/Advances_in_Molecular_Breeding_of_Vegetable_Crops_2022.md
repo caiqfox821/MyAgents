@@ -1,0 +1,80 @@
+# Advances in Molecular Breeding of Vegetable Crops (2022, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/6399
+- 页数: 244
+- 全文: `text/mdpi/Advances_in_Molecular_Breeding_of_Vegetable_Crops_2022.txt`
+- 标签: 蔬菜, 分子育种
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Yaru Wang and Yuyang Zhang
+- Advances in Molecular Breeding of Vegetable Crops
+- Reprinted from: Horticulturae 2022, 8, 821, doi:10.3390/horticulturae8090821 . . . . . . . . . . . .          1
+- Fengqing Han, Yumei Liu, Zhiyuan Fang, Limei Yang, Mu Zhuang, Yangyong Zhang,
+- Honghao Lv, Yong Wang, Jialei Ji and Zhansheng Li
+- Advances in Genetics and Molecular Breeding of Broccoli
+- Reprinted from: Horticulturae 2021, 7, 280, doi:10.3390/horticulturae7090280 . . . . . . . . . . . .          5
+- Lili Wan, Zhuanrong Wang, Mi Tang, Dengfeng Hong, Yuhong Sun, Jian Ren, Na Zhang and
+- Hongxia Zeng
+- CRISPR-Cas9 Gene Editing for Fruit and Vegetable Crops: Strategies and Prospects
+- Reprinted from: Horticulturae 2021, 7, 193, doi:10.3390/horticulturae7070193 . . . . . . . . . . . . 23
+- Chunqing Liu, Xueqin Yao, Guangqing Li, Lei Huang, Xinyan Wu and Zhujie Xie
+- Identiﬁcation of Major Loci and Candidate Genes for Anthocyanin Biosynthesis in Broccoli
+- Using QTL-Seq
+- Reprinted from: Horticulturae 2021, 7, 246, doi:10.3390/horticulturae7080246 . . . . . . . . . . . . 43
+- So-Jeong Kim, Jee-Soo Park, TaeHoon Park, Hyun-Min Lee, Ju-Ri Choi and Young-Doo Park
+- Development of Molecular Markers Associated with Resistance to Gray Mold Disease in Onion
+- (Allium cepa L.) through RAPD-PCR and Transcriptome Analysis
+- Reprinted from: Horticulturae 2021, 7, 436, doi:10.3390/horticulturae7110436 . . . . . . . . . . . . 57
+- Yi-Fei Li, Shi-Cai Zhang, Xiao-Miao Yang, Chun-Ping Wang, Qi-Zhong Huang and
+- Ren-Zhong Huang
+- Generation of a High-Density Genetic Map of Pepper (Capsicum annuum L.) by SLAF-seq and
+- QTL Analysis of Phytophthora capsici Resistance
+- Reprinted from: Horticulturae 2021, 7, 92, doi:10.3390/horticulturae7050092 . . . . . . . . . . . . 77
+- Yangmin Zhong, Yuan Cheng, Meiying Ruan, Qingjing Ye, Rongqing Wang, Zhuping Yao,
+- Guozhi Zhou, Jia Liu, Jiahong Yu and Hongjian Wan
+- High-Throughput SSR Marker Development and the Analysis of Genetic Diversity in Capsicum
+- frutescens
+- Reprinted from: Horticulturae 2021, 7, 187, doi:10.3390/horticulturae7070187 . . . . . . . . . . . . 95
+- Md. Shalim Uddin, Masum Billah, Rozina Afroz, Sajia Rahman, Nasrin Jahan, Md. Golam
+- Hossain, Shamim Ara Bagum, Md. Sorof Uddin, Abul Bashar Mohammad Khaldun, Md.
+- Golam Azam, Neelima Hossain, Mohammad Abdul Latif Akanda, Majid Alhomrani, Ahmed
+- Gaber and Akbar Hossain
+- Evaluation of 130 Eggplant (Solanum melongena L.) Genotypes for Future Breeding Program
+- Based on Qualitative and Quantitative Traits, and Various Genetic Parameters
+- Reprinted from: Horticulturae 2021, 7, 376, doi:10.3390/horticulturae7100376 . . . . . . . . . . . . 109
+- Chunping Wang, Yifei Li, Wenqin Bai, Xiaomiao Yang, Hong Wu, Kairong Lei, Renzhong
+- Huang, Shicai Zhang, Qizhong Huang and Qing Lin
+- Comparative Transcriptome Analysis Reveals Different Low-Nitrogen-Responsive Genes in
+- Pepper Cultivars
+- Reprinted from: Horticulturae 2021, 7, 110, doi:10.3390/horticulturae7050110 . . . . . . . . . . . . 133
+-                                                        v
+- Yan-Li Liu, Shuai Liu, Jing-Jing Xiao, Guo-Xin Cheng, Haq Saeed ul and Zhen-Hui Gong
+- CaHSP18.1a, a Small Heat Shock Protein from Pepper (Capsicum annuum L.), Positively
+- Responds to Heat, Drought, and Salt Tolerance
+- Reprinted from: Horticulturae 2021, 7, 117, doi:10.3390/horticulturae7050117 . . . . . . . . . . . . 149
+- Lei Zhu, Huayu Zhu, Yanman Li, Yong Wang, Xiangbin Wu, Jintao Li, Zhenli Zhang, Yanjiao
+- Wang, Jianbin Hu, Sen Yang, Luming Yang and Shouru Sun
+- Genome Wide Characterization, Comparative and Genetic Diversity Analysis of Simple
+- Sequence Repeats in Cucurbita Species
+- Reprinted from: Horticulturae 2021, 7, 143, doi:10.3390/horticulturae7060143 . . . . . . . . . . . . 171
+- Chao Gong, Qiangqiang Pang, Zhiliang Li, Zhenxing Li, Riyuan Chen, Guangwen Sun and
+- Baojuan Sun
+- Genome-Wide Identiﬁcation and Characterization of Hsf and Hsp Gene Families and Gene
+- Expression Analysis under Heat Stress in Eggplant (Solanum melongema L.)
+- Reprinted from: Horticulturae 2021, 7, 149, doi:10.3390/horticulturae7060149 . . . . . . . . . . . . 185
+- Yiqi Xie, Libo Tian, Xu Han and Yan Yang
+- Research Advances in Allelopathy of Volatile Organic Compounds (VOCs) of Plants
+- Reprinted from: Horticulturae 2021, 7, 278, doi:10.3390/horticulturae7090278 . . . . . . . . . . . . 201
+- Fei Wang, Yanxu Yin, Chuying Yu, Ning Li, Sheng Shen, Yabo Liu, Shenghua Gao, Chunhai
+- Jiao and Minghua Yao
+- Transcriptomics Analysis of Heat Stress-Induced Genes in Pepper (Capsicum annuum L.)
+- Seedlings
+- Reprinted from: Horticulturae 2021, 7, 339, doi:10.3390/horticulturae7100339 . . . . . . . . . . . . 217
+-                                                    vi
+- About the Editor
+- Yuyang Zhang
+-     Dr. Yuyang Zhang is a Principal Investigator in Hubei Hongshan Laboratory, Wuhan, China.
+- He has also been a professor in the College of Horticulture and Forestry Science at the Huazhong

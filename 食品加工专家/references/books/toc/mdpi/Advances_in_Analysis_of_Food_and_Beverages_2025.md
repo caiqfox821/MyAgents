@@ -1,0 +1,81 @@
+# Advances in Analysis of Food and Beverages (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7870-3
+- 页数: 358
+- 全文: `text/mdpi/Advances_in_Analysis_of_Food_and_Beverages_2025.txt`
+- PDF: `mdpi/Advances_in_Analysis_of_Food_and_Beverages_2025.pdf`
+- 标签: 食品饮料, 分析, 检测
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- xi
+- Maxwell K. Kibor, Monica Scali and Rita Vignani
+- Varietal Authentication of Brunello di Montalcino Wine Using a Minimal Panel of DNA Markers
+- Reprinted from: Beverages 2025, 11, 81, https://doi.org/10.3390/beverages11030081 . . . . . . .
+- 1
+- Taraneh Javanbakht
+- Optimization of Beverage Formulation with Technique for Order of Preference by Similarity to
+- Ideal Solution
+- Reprinted from: Beverages 2025, 11, 38, https://doi.org/10.3390/beverages11020038 . . . . . . . 13
+- Hung Trieu Hong, Julius Rami, Michael Rychlik, Tim J. O’Hare and Michael E. Netzel
+- Phytochemicals, Organic Acid, and Vitamins in Red Rhapsody Strawberry—Content and
+- Storage Stability
+- Reprinted from: Foods 2025, 14, 379, https://doi.org/10.3390/foods14030379 . . . . . . . . . . . 30
+- Seongeung Lee, Eunmee Han, Jisun Kang, Seohee Kwon, Minkyung Sung, Minkyoung Kim,
+- et al.
+- Untargeted Metabolomic Analysis Using High-Resolution Orbitrap Mass Spectrometry for the
+- Comparison of Volatile and Non-Volatile Compounds in Hot and Cold Brew Coffee
+- Reprinted from: Beverages 2025, 11, 10, https://doi.org/10.3390/beverages11010010 . . . . . . . 42
+- Karolin Kern, Suttinee Santa-Ardharnpreecha, Nicolas Delaroque, Sabine Dölle-Bierke,
+- Regina Treudler, Eva Ehrentreich-Förster, et al.
+- Heat Treatment of Hazelnut Allergens Monitored by Polyclonal Sera and Epitope
+- Fingerprinting
+- Reprinted from: Foods 2024, 13, 3932, https://doi.org/10.3390/foods13233932 . . . . . . . . . . 55
+- Jonhatan Carrasco-Chávez, Marı́a Fernanda Quintero-Soto, Rosalio Velarde-Barraza, Ignacio
+- Alfredo Rivero-Espejel, Ismael Dı́az-Peña, Martha Elena Vázquez-Ontiveros, et al.
+- Changes in the Proﬁle of Phenolic Compounds and in the Antioxidant, Hypoglycemic, and
+- Antidiabetic Activities of a Beverage Based on Sesame By-Product Caused by the Simulated
+- Gastrointestinal Digestion Process
+- Reprinted from: Beverages 2024, 10, 115, https://doi.org/10.3390/beverages10040115 . . . . . . 71
+- Zhengyuan Wang, Liping Shen, Jinpeng Ning, Zhuo Sun, Yiwen Xu, Zehuan Shi, et al.
+- The Consumption of Non-Sugar Sweetened and Ready-to-Drink Beverages as Emerging Types
+- of Beverages in Shanghai
+- Reprinted from: Nutrients 2024, 16, 3547, https://doi.org/10.3390/nu16203547 . . . . . . . . . . 89
+- Liping Zhang, Xin Song, Yuxiao Dong and Xiyan Zhao
+- Green Synthesis of Molecularly Imprinted Polymers for Selective Extraction of Protocatechuic
+- Acid from Mango Juice
+- Reprinted from: Foods 2024, 13, 2955, https://doi.org/10.3390/foods13182955 . . . . . . . . . . 102
+- Gabi Drochioiu, Elena Mihalcea, Jeanclaude Lagobo and Catalina-Ionica Ciobanu
+- Rapid Tryptophan Assay as a Screening Procedure for Quality Protein Maize
+- Reprinted from: Molecules 2024, 29, 4341, https://doi.org/10.3390/molecules29184341
+- v
+- . . . . . 117
+- Gabriela Crystal Franco, Jasmine Leiva, Sanjiev Nand, Danica Marvi Lee, Michael
+- Hajkowski, Katherine Dick, et al.
+- Soil Microbial Communities and Wine Terroir: Research Gaps and Data Needs
+- Reprinted from: Foods 2024, 13, 2475, https://doi.org/10.3390/foods13162475 . . . . . . . . . . 130
+- Ivan Cruz-Chamorro, Guillermo Santos-Sánchez, Franz Martı́n, Marı́a-Soledad FernándezPachón, Dámaso Hornero-Méndez and Isabel Cerrillo
+- Evaluation of the Impact of the Ripening Stage on the Composition and Antioxidant Properties
+- of Fruits from Organically Grown Tomato (Solanum lycopersicum L.) Spanish Varieties
+- Reprinted from: Foods 2024, 13, 2337, https://doi.org/10.3390/foods13152337 . . . . . . . . . . 142
+- Yuan-Ke Chen, Tuzz-Ying Song, Chi-Yu Chang, Shiann-Cherng Sheu and Chih-Wei Chen
+- Analyzing the Effects of Rapid and Natural Cooling Techniques on the Quality of Hand-Shaken
+- Green Tea Beverages
+- Reprinted from: Foods 2024, 13, 2322, https://doi.org/10.3390/foods13152322 . . . . . . . . . . 156
+- Yiding Zhuang, Zhencheng Xie, Minghan Fu, Hongliang Luo, Yitong Li, Ye Ding and Zhixu
+- Wang
+- Assessment of Water Intake among Chinese Toddlers: The Report of a Survey
+- Reprinted from: Nutrients 2024, 16, 2012, https://doi.org/10.3390/nu16132012 . . . . . . . . . . 168
+- Evangelia Anastasia Tsapou, Vassilia J. Sinanoglou, George Ntourtoglou and Elisabeth
+- Koussissi
+- Emphasizing the Potential of Attenuated Total Reﬂectance–Fourier Transform Infrared
+- (ATR-FTIR) Spectroscopy Combined with Chemometrics, for Classiﬁcation of Greek Grape
+- Marc Spirits
+- Reprinted from: Beverages 2024, 10, 42, https://doi.org/10.3390/beverages10020042 . . . . . . . 181
+- Miguel Vega-Castellote, Marı́a-Teresa Sánchez, Irina Torres-Rodrı́guez, José-Antonio
+- Entrenas and Dolores Pérez-Marı́n
+- NIR Sensing Technologies for the Detection of Fraud in Nuts and Nut Products: A Review

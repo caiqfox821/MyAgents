@@ -1,0 +1,80 @@
+# Evaluation and Prevention of Mycotoxin Contamination and Toxicological Effects (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0886-1
+- 页数: 216
+- 全文: `text/mdpi/Evaluation_and_Prevention_of_Mycotoxin_Contamination_and_Toxicological_Effects_2024.txt`
+- 标签: 真菌毒素, 毒素分析
+
+## 目录 (Contents)
+
+- Maria Alonso-Jauregui, Elena González-Peñas, Adela López de Cerain and Ariane Vettorazzi
+- Genotoxicity of 12 Mycotoxins by the SOS/umu Test: Comparison of Liver and Kidney S9
+- Fraction
+- Reprinted from: Toxins 2022, 14, 400, doi:10.3390/toxins14060400 . . . . . . . . . . . . . . . . . .   1
+- Asma Alkuwari, Zahoor Ul Hassan, Randa Zeidan, Roda Al-Thani and Samir Jaoua
+- Occurrence of Mycotoxins and Toxigenic Fungi in Cereals and Application of Yeast Volatiles for
+- Their Biological Control
+- Reprinted from: Toxins 2022, 14, 404, doi:10.3390/toxins14060404 . . . . . . . . . . . . . . . . . . 15
+- Kailin Li, Dianzhen Yu, Zheng Yan, Na Liu, Yingying Fan, Cheng Wang and Aibo Wu
+- Exploration of Mycotoxin Accumulation and Transcriptomes of Different Wheat Cultivars
+- during Fusarium graminearum Infection
+- Reprinted from: Toxins 2022, 14, 482, doi:10.3390/toxins14070482 . . . . . . . . . . . . . . . . . . 28
+- Jianhui Wu, Xiaochen Zhang, Muhammad Hamid Bashir and Shaukat Ali
+- Lethal and Sublethal Toxicity Assessment of Cyclosporin C (a Fungal Toxin) against Plutella
+- xylostella (L.)
+- Reprinted from: Toxins 2022, 14, 514, doi:10.3390/toxins14080514 . . . . . . . . . . . . . . . . . . 43
+- Paula Llorens Castelló, Ana Juan-Garcı́a, Juan Carlos Moltó Cortés, Jordi Mañes Vinuesa and
+- Cristina Juan Garcı́a
+- Application of an In Vitro Digestion Model for Wheat and Red Beetroot Bread to Assess the
+- Bioaccessibility of Aﬂatoxin B1 , Ochratoxin A and Zearalenone and Betalains
+- Reprinted from: Toxins 2022, 14, 540, doi:10.3390/toxins14080540 . . . . . . . . . . . . . . . . . . 57
+- Bolade Thomas Adeyemo, Ndidi Gloria Enefe, Tanimomo Babatunde Kayode, Augustina
+- Ezekwesili, Olatunde Hamza Olabode, Audu Zakariya, et al.
+- Effects of Dietary Lanthanum Chloride on Growth Performance, Hematology and Serum
+- Biochemistry of Juvenile Clarias gariepinus Catﬁsh Fed Diets Amended with Mixtures of
+- Aﬂatoxin B1 and Fumonisin B1
+- Reprinted from: Toxins 2022, 14, 553, doi:10.3390/toxins14080553 . . . . . . . . . . . . . . . . . . 70
+- Youdan Zhang, Xiaochen Zhang, Jieming Zhang, Shaukat Ali and Jianhui Wu
+- Spaceﬂight Changes the Production and Bioactivity of Secondary Metabolites in Beauveria
+- bassiana
+- Reprinted from: Toxins 2022, 14, 555, doi:10.3390/toxins14080555 . . . . . . . . . . . . . . . . . . 88
+- Bernat Borràs-Vallverdú, Antonio J. Ramos, Carlos Cantero-Martı́nez, Sonia Marı́n, Vicente
+- Sanchis and Jesús Fernández-Ortega
+- Inﬂuence of Agronomic Factors on Mycotoxin Contamination in Maize and Changes during a
+- 10-Day Harvest-Till-Drying Simulation Period: A Different Perspective
+- Reprinted from: Toxins 2022, 14, 620, doi:10.3390/toxins14090620 . . . . . . . . . . . . . . . . . . 101
+- Eva Mateo, Rik Paulus Bernardus Tonino, Antolin Canto, Antonio Monroy Noyola, Maria
+- Miranda, Jose Miguel Soria and Marı́a Angeles Garcia Esparza
+- The Neurotoxic Effect of Ochratoxin-A on the Hippocampal Neurogenic Niche of Adult Mouse
+- Brain
+- Reprinted from: Toxins 2022, 14, 624, doi:10.3390/toxins14090624 . . . . . . . . . . . . . . . . . . 116
+-                                                    v
+- Eva Marı́a Mateo, Andrea Tarazona, Misericordia Jiménez and Fernando Mateo
+- Lactic Acid Bacteria as Potential Agents for Biocontrol of Aﬂatoxigenic and Ochratoxigenic
+- Fungi
+- Reprinted from: Toxins 2022, 14, 807, doi:10.3390/toxins14110807 . . . . . . . . . . . . . . . . . . 129
+- Gamal M. Hamad, Amr Amer, Baher El-Nogoumy, Mohamed Ibrahim, Sabria Hassan,
+- Shahida Anusha Siddiqui, et al.
+- Evaluation of the Effectiveness of Charcoal, Lactobacillus rhamnosus, and Saccharomyces cerevisiae
+- as Aﬂatoxin Adsorbents in Chocolate
+- Reprinted from: Toxins 2023, 15, 21, doi:10.3390/toxins15010021 . . . . . . . . . . . . . . . . . . . 154
+- Veronica Zingales, Maria Rosaria Esposito, Noemi Torriero, Mercedes Taroncher, Elisa
+- Cimetta and Marı́a-José Ruiz
+- The Growing Importance of Three-Dimensional Models and Microphysiological Systems in the
+- Assessment of Mycotoxin Toxicity
+- Reprinted from: Toxins 2023, 15, 422, doi:10.3390/toxins15070422 . . . . . . . . . . . . . . . . . . 172
+- Khouloud Ben Hassouna, Jalila Ben Salah-Abbès, Kamel Chaieb, Samir Abbès, Emilia
+- Ferrer, Francisco J. Martı́-Quijal, et al.
+- The Occurrence and Health Risk Assessment of Aﬂatoxin M1 in Raw Cow Milk Collected from
+- Tunisia during a Hot Lactating Season
+- Reprinted from: Toxins 2023, 15, 518, doi:10.3390/toxins15090518 . . . . . . . . . . . . . . . . . . 194
+-                                                    vi
+-              toxins
+- Article
+- Genotoxicity of 12 Mycotoxins by the SOS/umu Test:
+- Comparison of Liver and Kidney S9 Fraction
+- Maria Alonso-Jauregui 1 , Elena González-Peñas 2 , Adela López de Cerain 1 and Ariane Vettorazzi 1, *
+-                                           1   MITOX Research Group, Department of Pharmacology and Toxicology, School of Pharmacy and Nutrition,
+-                                               Universidad de Navarra, 31008 Pamplona, Spain; malonso.17@alumni.unav.es (M.A.-J.);
+-                                               acerain@unav.es (A.L.d.C.)

@@ -1,0 +1,96 @@
+# 人参皂苷与活性成分 目标清单（制表符分隔）
+# name <TAB> group <TAB> note
+Ginsenoside Rb1	皂苷-常见	PPD-四糖
+Ginsenoside Rb2	皂苷-常见	PPD-四糖
+Ginsenoside Rb3	皂苷-常见	PPD-四糖
+Ginsenoside Rc	皂苷-常见	PPD-四糖
+Ginsenoside Rd	皂苷-常见	PPD-三糖
+Ginsenoside Re	皂苷-常见	PPT-四糖
+Ginsenoside Rf	皂苷-常见	PPT-二糖
+Ginsenoside Rg1	皂苷-常见	PPT-二糖
+Ginsenoside Rg2	皂苷-常见	PPD-三糖
+Ginsenoside Rg3	皂苷-常见	PPD-二糖
+Ginsenoside Rh1	皂苷-常见	PPT-单糖
+Ginsenoside Rh2	皂苷-常见	PPD-单糖
+Ginsenoside Ro	皂苷-常见	齐墩果烷型
+Ginsenoside F1	皂苷-常见	PPT-单糖
+Ginsenoside F2	皂苷-常见	PPD-二糖
+Ginsenoside F3	皂苷-常见	PPT-三糖
+Ginsenoside Ra1	皂苷-常见	PPD-多糖
+Ginsenoside Ra2	皂苷-常见	PPD-多糖
+Ginsenoside Ra3	皂苷-常见	PPD-多糖
+Ginsenoside F5	皂苷-常见	PPT-二糖
+Ginsenoside Rg5	皂苷-稀有	脱氢PPD
+Ginsenoside Rg6	皂苷-稀有	脱氢PPT
+Ginsenoside Rg8	皂苷-稀有	脱氢
+Ginsenoside Rk1	皂苷-稀有	脱氢PPD
+Ginsenoside Rk2	皂苷-稀有	脱氢PPT
+Ginsenoside Rk3	皂苷-稀有	脱氢PPT
+Ginsenoside Rh3	皂苷-稀有	脱氢PPD
+Ginsenoside Rh4	皂苷-稀有	脱氢PPT
+Ginsenoside Rh5	皂苷-稀有	
+Ginsenoside Rh6	皂苷-稀有	
+Ginsenoside Rh7	皂苷-稀有	
+Ginsenoside Rh8	皂苷-稀有	
+Ginsenoside Rs1	皂苷-稀有	丙二酰化
+Ginsenoside Rs2	皂苷-稀有	丙二酰化
+Ginsenoside Rs3	皂苷-稀有	丙二酰化
+Ginsenoside Rs4	皂苷-稀有	丙二酰化
+Ginsenoside Rs5	皂苷-稀有	丙二酰化
+Ginsenoside Rs6	皂苷-稀有	丙二酰化
+Ginsenoside Rs7	皂苷-稀有	丙二酰化
+Ginsenoside Rs8	皂苷-稀有	丙二酰化
+Ginsenoside Rs9	皂苷-稀有	丙二酰化
+Ginsenoside F4	皂苷-稀有	脱氢PPT
+Ginsenoside Fa	皂苷-稀有	PPD
+Ginsenoside Fc	皂苷-稀有	PPD
+Ginsenoside Fe	皂苷-稀有	PPD
+Ginsenoside compound K	皂苷-稀有	代谢物 M1
+Ginsenoside M6	皂苷-稀有	代谢物
+Ginsenoside Mc	皂苷-稀有	代谢物
+Ginsenoside III	皂苷-稀有	
+Notoginsenoside R1	皂苷-其他	三七
+Notoginsenoside R2	皂苷-其他	三七
+Notoginsenoside R3	皂苷-其他	三七
+Notoginsenoside R4	皂苷-其他	三七
+Notoginsenoside R5	皂苷-其他	三七
+Notoginsenoside R6	皂苷-其他	三七
+Pseudoginsenoside F11	皂苷-其他	拟人参皂苷
+Vinaginsenoside R1	皂苷-其他	
+Majonoside R2	皂苷-其他	越南人参
+Gypenoside XVII	皂苷-其他	绞股蓝
+Quinquenoside R1	皂苷-其他	
+Ocotillol	皂苷-其他	奥克梯隆型
+20(S)-Protopanaxadiol	苷元	PPD
+20(R)-Protopanaxadiol	苷元	PPD
+20(S)-Protopanaxatriol	苷元	PPT
+20(R)-Protopanaxatriol	苷元	PPT
+Panaxadiol	苷元	酸水解
+Panaxatriol	苷元	酸水解
+25-Hydroxyprotopanaxadiol	苷元	代谢物
+25-Hydroxyprotopanaxatriol	苷元	代谢物
+Oleanolic acid	活性成分	三萜酸
+Ursolic acid	活性成分	三萜酸
+Maltol	活性成分	美拉德产物
+5-Hydroxymethylfurfural	活性成分	美拉德产物
+4-Aminobutyric acid	活性成分	GABA
+L-Arginine	活性成分	氨基酸
+Panaxynol	活性成分	聚乙炔
+Panaxydol	活性成分	聚乙炔
+Panaxytriol	活性成分	聚乙炔
+Salicylic acid	活性成分	酚酸
+Vanillic acid	活性成分	酚酸
+Syringic acid	活性成分	酚酸
+Ferulic acid	活性成分	酚酸
+Caffeic acid	活性成分	酚酸
+p-Coumaric acid	活性成分	酚酸
+Protocatechuic acid	活性成分	酚酸
+Gentisic acid	活性成分	酚酸
+Kaempferol	活性成分	黄酮
+Quercetin	活性成分	黄酮
+Isorhamnetin	活性成分	黄酮
+Rutin	活性成分	黄酮苷
+Trifolin	活性成分	黄酮苷
+beta-Sitosterol	活性成分	甾醇
+Stigmasterol	活性成分	甾醇
+Daucosterol	活性成分	甾醇苷

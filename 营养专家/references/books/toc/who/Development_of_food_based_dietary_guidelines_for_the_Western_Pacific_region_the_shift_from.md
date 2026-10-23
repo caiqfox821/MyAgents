@@ -1,0 +1,52 @@
+# Development of food-based dietary guidelines for the Western Pacific region : the shift from nutrients and food groups to food availability, traditional cuisine and modern foods in relation to emerging chronic noncommunicable diseases (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/207023
+- 页数: 75
+- 全文: `text/who/Development_of_food_based_dietary_guidelines_for_the_Western_Pacific_region_the_shift_from.txt`
+- 标签: 慢病(NCD)
+
+## 目录 (Sections)
+
+- 1.1    Background                                      10
+- 1.2    Rationale                                       11
+- 1.3    FBDGs and chronic noncommunicable               14
+- 1.4    Reformulating of food health relationships      16
+- 2.1     Nutrition problems and policies                19
+- 2.2    Sociocultural issues                            30
+- 2.3    Food security                                   31
+- 2.4    Food safety                                     33
+- 2.5    Third wave diseases                             34
+- 2.6    Ageing                                          35
+- 3.1    Policy                                          37
+- 3.2    Environmental issues                            38
+- 3.3    Unintended effects of change                    39
+- 4.1    Locating the target audience for FBDGs                 42
+- 4.2    Evidence-based FBDGs                                   43
+- 4.3    Robustness of food cultures, historical                44
+- 4.4    Promoting healthy traditional and modern               45
+- 4.5    Modern Western Pacific cuisine                         50
+- 4.6    Strategies for the development of FDGBs                53
+- 4.7    Principles of FBDGs for the Western                    55
+- 1.1     Background
+- 1.2     Rationale
+- 1.3 FBDGs and chronic noncommunicable diseases
+- 1.4     Reformulation of food-health relationships in an
+- 2.1     Nutrition problems and policies
+- 2.2     Sociocultural issues
+- 2.3     Food security
+- 2.4     Food safety
+- 2.5       Third wave diseases
+- 2.6     Ageing
+- 3.1     Policy
+- 3.2     Environmental issues
+- 3.3     Unintended effects of change
+- 4.1        Locating the target audience for FBDGs 3
+- 4.2     Evidence-based FBDGs
+- 4.3     Robustness of food cultures, historical content
+- 4.4       Promoting healthy traditional and modern foods
+- 4.5     Modern Western Pacific cuisine
+- 4.6     Strategies for the development of FBDGs
+- 2    FBDGs for CNCD prevention or management will have limited
+- 4.7     Principles of FBDGs for the Western Pacific
+- 80 Kouris-Blazos A, Wahlqvist ML. The traditional Greek food

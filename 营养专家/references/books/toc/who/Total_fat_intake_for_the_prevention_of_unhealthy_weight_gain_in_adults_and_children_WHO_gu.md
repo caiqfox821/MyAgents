@@ -1,0 +1,80 @@
+# Total fat intake for the prevention of unhealthy weight gain in adults and children: WHO guideline (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/370421
+- 页数: 66
+- 全文: `text/who/Total_fat_intake_for_the_prevention_of_unhealthy_weight_gain_in_adults_and_children_WHO_gu.txt`
+- 标签: 脂肪, 婴幼儿/儿童, 肥胖
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                v
+- Abbreviations and acronyms                                                     vi
+- Executive summary                                                              vii
+- Introduction                                                                    1
+-       Background                                                                1
+-       Rationale                                                                 2
+-       Scope		                                                                   3
+-       Objective                                                                 3
+-       Target audience                                                           4
+- How this guideline was developed                                                5
+-       Contributors to the development of this guideline                         5
+-       Management of conflicts of interest                                       6
+-       Guideline development process                                             6
+- Summary of evidence                                                             9
+- Evidence to recommendations                                                    15
+- Recommendations and supporting information                                     18
+- Uptake of the guideline and future work                                        21
+- References		                                                                   24
+- Annexes		                                                                      31
+-       Annex 1: Members of the WHO Steering Group                               33
+-       Annex 2: Members of the guideline development group (NUGAG Subgroup on
+-       Diet and Health)                                                         34
+-       Annex 3: Members of the external peer review group                       36
+-       Annex 4: Summary and management of declarations of interests             37
+-       Annex 5: Key question in PICO format                                     40
+-       Annex 6: GRADE evidence profiles                                         41
+-       Annex 7: Evidence to recommendations table                               47
+-                                                                                 iii
+- Acknowledgements
+- This guideline was prepared by the Department of Nutrition and Food Safety of the World Health Organization
+- (WHO) under the overall leadership of Francesco Branca, Director of the Department of Nutrition and Food
+- Safety, and the coordination of Chizuru Nishida. Jason Montez was the responsible technical officer. WHO
+- gratefully acknowledges the contributions that many individuals and organizations have made to the
+- development of this guideline.
+- WHO Steering Group: Ayoub Al-Jawaldeh, Anshu Banerjee, Hana Bekele, Fabio Da Silva Gomes, Jason
+- Montez, Chizuru Nishida, Juan Pablo Peña-Rosas, Padmini Angela De Silva, Juliawati Untoro, Cherian
+- Varghese, Kremlin Wickramasinghe
+- Guideline Development Group (WHO Nutrition Guidance Expert Advisory Group – Subgroup on Diet
+- and Health): Hayder Al-Domi (University of Jordan, Jordan), John H Cummings (University of Dundee,
+- United Kingdom of Great Britain and Northern Ireland), Ibrahim Elmadfa (University of Vienna, Austria), Lee
+- Hooper (University of East Anglia, United Kingdom of Great Britain and Northern Ireland), Shiriki Kumanyika
+- (University of Pennsylvania, United States of America), Mary L’Abbé (University of Toronto, Canada), Pulani
+- Lanerolle (University of Colombo, Sri Lanka), Duo Li (Zhejiang University, China), Jim Mann (University of
+- Otago, New Zealand), Joerg Meerpohl (University of Freiburg, Germany), Carlos Monteiro (University of Sao
+- Paulo, Brazil), Laetitia Ouedraogo Nikièma (Institut de Recherche en Sciences de la Santé, Burkina Faso),
+- Harshpal Singh Sachdev (Sitaram Bhartia Institute of Science and Research, India), Barbara Schneeman
+- (University of California, Davis, United States of America), Murray Skeaff (University of Otago, New Zealand),
+- Bruno Fokas Sunguya (Muhimbili University of Health and Allied Sciences, United Republic of Tanzania), HH
+- (Esté) Vorster (North-West University, South Africa)
+- External peer review group: Hassan Aguenaou (Ibn Tofaïl University, Morocco), Leanne Hodson (University
+- of Oxford, United Kingdom of Great Britain and Northern Ireland), Tatsuya Koyama (Aomori University
+- of Health and Welfare, Japan), Anna Lartey (University of Ghana, Ghana), K. Srinath Reddy (Public Health
+- Foundation of India, India), Juan Rivera (Instituto Nacional de Salud Pública, Mexico), Linda Snetselaar
+- (University of Iowa College of Public Health, United States of America)
+- WHO would like to acknowledge the important contributions made by members of the systematic review
+- teams (see pages 5–6). Additional thanks are also due to former interns of the Department of Nutrition and
+- Food Safety: Angela Amico, Grace Carroll, Katharina da Silva Lopes and Yvonne Teng, for feedback on the
+- draft guideline and various technical inputs.
+- WHO gratefully acknowledges the financial support provided by the Ministry of Health, Labour and Welfare
+- of the Government of Japan for the guideline development work, including the systematic reviews, and by
+- Qingdao University in China for hosting the 13th meeting of the WHO Nutrition Guidance Expert Advisory
+- Group – Subgroup on Diet and Health in December 2019.
+-                                                                                                             v
+- Abbreviations and acronyms
+- BMI     body mass index
+- CI      confidence interval
+- CVDs    cardiovascular diseases
+- eLENA   WHO e-Library of Evidence for Nutrition Actions
+- FAO     Food and Agriculture Organization of the United Nations
+- GINA    WHO Global Database on the Implementation of Nutrition Action

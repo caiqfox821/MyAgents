@@ -1,0 +1,80 @@
+# Dietary Supplements in Cardiovascular and Metabolic Diseases (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1296-7
+- 页数: 202
+- 全文: `text/mdpi/Dietary_Supplements_in_Cardiovascular_and_Metabolic_Diseases_2024.txt`
+- 标签: 代谢与心血管, 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- Bruno Trimarco and Gaetano Santulli
+- Dietary Supplements in Cardiovascular and Metabolic Diseases
+- Reprinted from: Nutrients 2024, 16, 1418, doi:10.3390/nu16101418 . . . . . . . . . . . . . . . . . .   1
+- Rosita Stanzione, Maurizio Forte, Maria Cotugno, Francesca Oppedisano, Cristina Carresi,
+- Simona Marchitti, et al.
+- Beneﬁcial Effects of Citrus Bergamia Polyphenolic Fraction on Saline Load-Induced Injury
+- in Primary Cerebral Endothelial Cells from the Stroke-Prone Spontaneously Hypertensive
+- Rat Model
+- Reprinted from: Nutrients 2023, 15, 1334, doi:10.3390/nu15061334 . . . . . . . . . . . . . . . . . .   4
+- Rocco Mollace, Roberta Macrì, Annamaria Tavernese, Micaela Gliozzi, Vincenzo Musolino,
+- Cristina Carresi, et al.
+- Comparative Effect of Bergamot Polyphenolic Fraction and Red Yeast Rice Extract in Rats Fed
+- a Hyperlipidemic Diet: Role of Antioxidant Properties and PCSK9 Expression
+- Reprinted from: Nutrients 2022, 14, 477, doi:10.3390/nu14030477 . . . . . . . . . . . . . . . . . . . 16
+- Micaela Gliozzi, Roberta Macrì, Anna Rita Coppoletta, Vincenzo Musolino, Cristina Carresi,
+- Miriam Scicchitano, et al.
+- From Diabetes Care to Heart Failure Management: A Potential Therapeutic Approach
+- Combining SGLT2 Inhibitors and Plant Extracts
+- Reprinted from: Nutrients 2022, 14, 3737, doi:10.3390/nu14183737 . . . . . . . . . . . . . . . . . . 25
+- María José Sánchez-Quintero, Josué Delgado, Dina Medina-Vera, Víctor M. Becerra-Muñoz,
+- María Isabel Queipo-Ortuño, Mario Estéveγz, et al.
+- Beneﬁcial Effects of Essential Oils from the Mediterranean Diet on Gut Microbiota and Their
+- Metabolites in Ischemic Heart Disease and Type-2 Diabetes Mellitus
+- Reprinted from: Nutrients 2022, 14, 4650, doi:10.3390/nu14214650 . . . . . . . . . . . . . . . . . . 41
+- Michał Majewski, Jerzy Juśkiewicz, Magdalena Krajewska-Włodarczyk,
+- Leszek Gromadziński, Katarzyna Socha, Ewelina Cholewińska, et al.
+- The Role of 20-HETE, COX, Thromboxane Receptors, and Blood Plasma Antioxidant Status in
+- Vascular Relaxation of Copper-Nanoparticle-Fed WKY Rats
+- Reprinted from: Nutrients 2021, 13, 3793, doi:10.3390/nu13113793 . . . . . . . . . . . . . . . . . . 67
+- Agata Walkowiak-Bródka, Natalia Piekuś-Słomka, Kacper Wnuk and Bogumiła Kupcewicz
+- Analysis of White Mulberry Leaves and Dietary Supplements, ATR-FTIR Combined with
+- Chemometrics for the Rapid Determination of 1-Deoxynojirimycin
+- Reprinted from: Nutrients 2022, 14, 5276, doi:10.3390/nu14245276 . . . . . . . . . . . . . . . . . . 78
+- Leona Yuen-Ling Leung, Sidney Man-Ngai Chan, Hon-Lon Tam and Emily Sze-Wan Wong
+- Astaxanthin Inﬂuence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A
+- Systematic Review and Meta-Analysis
+- Reprinted from: Nutrients 2022, 14, 2050, doi:10.3390/nu14102050 . . . . . . . . . . . . . . . . . . 92
+- Gaetano Santulli, Urna Kansakar, Fahimeh Varzideh, Pasquale Mone,
+- Stanislovas S. Jankauskas and Angela Lombardi
+- Functional Role of Taurine in Aging and Cardiovascular Health: An Updated Overview
+- Reprinted from: Nutrients 2023, 15, 4236, doi:10.3390/nu15194236 . . . . . . . . . . . . . . . . . . 108
+-                                                    v
+- Huan Yu, Junhui Wu, Hongbo Chen, Mengying Wang, Siyue Wang, Ruotong Yang, et al.
+- Glucosamine Use Is Associated with a Higher Risk of Cardiovascular Diseases in Patients with
+- Osteoarthritis: Results from a Large Study in 685,778 Subjects
+- Reprinted from: Nutrients 2022, 14, 3694, doi:10.3390/nu14183694 . . . . . . . . . . . . . . . . . . 126
+- Matteo Tosato, Riccardo Calvani, Anna Picca, Francesca Ciciarello, Vincenzo Galluzzo,
+- Hélio José Coelho-Júnior, et al.
+- Effects of L -Arginine Plus Vitamin C Supplementation on Physical Performance, Endothelial
+- Function, and Persistent Fatigue in Adults with Long COVID: A Single-Blind Randomized
+- Controlled Trial
+- Reprinted from: Nutrients 2022, 14, 4984, doi:10.3390/nu14234984 . . . . . . . . . . . . . . . . . . 137
+- Jesús Castro-Marrero, Maria Jose Segundo, Marcos Lacasa, Alba Martinez-Martinez,
+- Ramon Sanmartin Sentañes and Jose Alegre-Martin
+- Effect of Dietary Coenzyme Q10 Plus NADH Supplementation on Fatigue Perception and
+- Health-Related Quality of Life in Individuals with Myalgic Encephalomyelitis/Chronic Fatigue
+- Syndrome: A Prospective, Randomized, Double-Blind, Placebo-Controlled Trial
+- Reprinted from: Nutrients 2021, 13, 2658, doi:10.3390/nu13082658 . . . . . . . . . . . . . . . . . . 150
+- Zezhong Tian, Kongyao Li, Die Fan, Xiaoli Gao, Xilin Ma, Yimin Zhao, et al.
+- Water-Soluble Tomato Concentrate, a Potential Antioxidant Supplement, Can Attenuate Platelet
+- Apoptosis and Oxidative Stress in Healthy Middle-Aged and Elderly Adults: A Randomized,
+- Double-Blinded, Crossover Clinical Trial
+- Reprinted from: Nutrients 2022, 14, 3374, doi:10.3390/nu14163374 . . . . . . . . . . . . . . . . . . 166
+- Federica Fogacci, Elisabetta Rizzoli, Marina Giovannini, Marilisa Bove, Sergio D’Addato,
+- Claudio Borghi, et al.
+- Effect of Dietary Supplementation with Eufortyn® Colesterolo Plus on Serum Lipids,
+- Endothelial Reactivity, Indexes of Non-Alcoholic Fatty Liver Disease and Systemic
+- Inﬂammation in Healthy Subjects with Polygenic Hypercholesterolemia: The ANEMONE
+- Study
+- Reprinted from: Nutrients 2022, 14, 2099, doi:10.3390/nu14102099 . . . . . . . . . . . . . . . . . . 182

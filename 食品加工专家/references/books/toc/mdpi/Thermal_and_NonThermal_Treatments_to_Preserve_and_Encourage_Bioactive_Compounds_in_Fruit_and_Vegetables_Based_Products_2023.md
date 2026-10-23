@@ -1,0 +1,81 @@
+# Thermal and Non-Thermal Treatments to Preserve and Encourage Bioactive Compounds in Fruit and Vegetables Based Products (2023, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 308
+- 全文: `text/mdpi/Thermal_and_NonThermal_Treatments_to_Preserve_and_Encourage_Bioactive_Compounds_in_Fruit_and_Vegetables_Based_Products_2023.txt`
+- PDF: `mdpi/Thermal_and_NonThermal_Treatments_to_Preserve_and_Encourage_Bioactive_Compounds_in_Fruit_and_Vegetables_Based_Products_2023.pdf`
+- 标签: 果蔬加工, 热/非热, 生物活性
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Thermal and Non-Thermal Treatments to Preserve and Encourage Bioactive
+- Compounds in Fruit and Vegetables Based Products” . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Marina Cano-Lamadrid and Francisco Artés-Hernández
+- Thermal and Non-Thermal Treatments to Preserve and Encourage Bioactive Compounds in
+- Fruit- and Vegetable-Based Products
+- Reprinted from: Foods 2022, 11, 3400, doi:10.3390/foods11213400 . . . . . . . . . . . . . . . . . . .
+- 1
+- Francisco Artés-Hernández, Noelia Castillejo, Lorena Martı́nez-Zamora and Ginés Benito
+- Martı́nez-Hernández
+- Phytochemical Fortiﬁcation in Fruit and Vegetable Beverages with Green Technologies
+- Reprinted from: Foods 2021, 10, 2534, doi:10.3390/foods10112534 . . . . . . . . . . . . . . . . . . .
+- 5
+- Jan Bedrnı́ček, Ivana Laknerová, František Lorenc, Priscila Probio de Moraes, Markéta
+- Jarošová, Eva Samková, et al.
+- The Use of a Thermal Process to Produce Black Garlic: Differences in the Physicochemical and
+- Sensory Characteristics Using Seven Varieties of Fresh Garlic
+- Reprinted from: Foods 2021, 10, 2703, doi:10.3390/foods10112703 . . . . . . . . . . . . . . . . . . . 37
+- Marina Cano-Lamadrid and Francisco Artés-Hernández
+- By-Products Revalorization with Non-Thermal Treatments to Enhance Phytochemical
+- Compounds of Fruit and Vegetables Derived Products: A Review
+- Reprinted from: Foods 2022, 11, 59, doi:10.3390/foods11010059 . . . . . . . . . . . . . . . . . . . . 55
+- Marina Cano-Lamadrid, Lorena Martı́nez-Zamora, Noelia Castillejo and Francisco
+- Artés-Hernández
+- From Pomegranate Byproducts Waste to Worth: A Review of Extraction Techniques and
+- Potential Applications for Their Revalorization
+- Reprinted from: Foods 2022, 11, 2596, doi:10.3390/foods11172596 . . . . . . . . . . . . . . . . . . . 79
+- Magalı́ Darré, Ariel Roberto Vicente, Luis Cisneros-Zevallos and Francisco Artés-Hernández
+- Postharvest Ultraviolet Radiation in Fruit and Vegetables: Applications and Factors Modulating
+- Its Efﬁcacy on Bioactive Compounds and Microbial Growth
+- Reprinted from: Foods 2022, 11, 653, doi:10.3390/foods11050653 . . . . . . . . . . . . . . . . . . . 113
+- Daniel A. Jacobo-Velázquez and Jorge Benavides
+- Non-Thermal Technologies as Tools to Increase the Content of Health-Promoting Compounds
+- in Whole Fruits and Vegetables While Retaining Quality Attributes
+- Reprinted from: Foods 2021, 10, 2904, doi:10.3390/foods10122904 . . . . . . . . . . . . . . . . . . . 133
+- Gloria López-Gámez, Pedro Elez-Martı́nez, Olga Martı́n-Belloso and Robert Soliva-Fortuny
+- Applying Pulsed Electric Fields to Whole Carrots Enhances the Bioaccessibility of Carotenoid
+- and Phenolic Compounds in Derived Products
+- Reprinted from: Foods 2021, 10, 1321, doi:10.3390/foods10061321 . . . . . . . . . . . . . . . . . . . 155
+- Anna Michalska-Ciechanowska, Aleksandra Hendrysiak, Jessica Brzezowska, Aneta
+- Wojdyło and Agnieszka Gajewicz-Skretna
+- How Do the Different Types of Carrier and Drying Techniques Affect the Changes in
+- Physico-Chemical Properties of Powders from Chokeberry Pomace Extracts?
+- Reprinted from: Foods 2021, 10, 1864, doi:10.3390/foods10081864 . . . . . . . . . . . . . . . . . . . 173
+- v
+- Margherita Modesti, Monica Macaluso, Isabella Taglieri, Andrea Bellincontro and Chiara
+- Sanmartin
+- Ozone and Bioactive Compounds in Grapes and Wine
+- Reprinted from: Foods 2021, 10, 2934, doi:10.3390/foods10122934 . . . . . . . . . . . . . . . . . . . 197
+- Francisco J. Salar, Paula M. Periago, Vicente Agulló, Cristina Garcı́a-Viguera and Pablo S.
+- Fernández
+- High Hydrostatic Pressure vs. Thermal Pasteurization: The Effect on the Bioactive Compound
+- Proﬁle of a Citrus Maqui Beverage
+- Reprinted from: Foods 2021, 10, 2416, doi:10.3390/foods10102416 . . . . . . . . . . . . . . . . . . . 211
+- Gabriela Lorena Salazar-Orbea, Rocı́o Garcı́a-Villalba, Francisco A. Tomás-Barberán and
+- Luis Manuel Sánchez-Siles
+- High–Pressure Processing vs. Thermal Treatment: Effect on the Stability of Polyphenols in
+- Strawberry and Apple Products
+- Reprinted from: Foods 2021, 10, 2919, doi:10.3390/foods10122919 . . . . . . . . . . . . . . . . . . . 233
+- Konstantina Tsikrika, Aine Muldoon, Nora M. O’Brien and Dilip K. Rai
+- High-Pressure Processing on Whole and Peeled Potatoes: Inﬂuence on Polyphenol Oxidase,
+- Antioxidants, and Glycaemic Indices
+- Reprinted from: Foods 2021, 10, 2425, doi:10.3390/foods10102425 . . . . . . . . . . . . . . . . . . . 265
+- Qinyu Zhao, Quyu Yuan, Chenxu Gao, Xiaoyang Wang, Bihe Zhu, Jiaqi Wang, et al.
+- Thermosonication Combined with Natural Antimicrobial Nisin: A Potential Technique
+- Ensuring Microbiological Safety and Improving the Quality Parameters of Orange Juice
+- Reprinted from: Foods 2021, 10, 1851, doi:10.3390/foods10081851 . . . . . . . . . . . . . . . . . . . 279
+- vi
+- About the Editors

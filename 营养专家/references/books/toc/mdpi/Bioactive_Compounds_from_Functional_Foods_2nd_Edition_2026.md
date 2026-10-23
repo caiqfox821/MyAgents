@@ -1,0 +1,80 @@
+# Bioactive Compounds from Functional Foods, 2nd Edition (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7778-2
+- 页数: 250
+- 全文: `text/mdpi/Bioactive_Compounds_from_Functional_Foods_2nd_Edition_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Jhonny Colorado-Ríos, Diana C. Restrepo-Espinosa, Yuli Restrepo-Moná,
+- Juan David Monsalve, Diana M. Márquez-Fernández, Leonardo Castellanos
+- and Alejandro Martínez-Martínez
+- Chemical Exploration of Polysaccharides, Fatty Acids, and Antioxidants as Functional
+- Ingredients from Colombian Macroalgae Acanthophora spicifera, Sargassum ramifolium, and
+- Sargassum ﬂuitans
+- Reprinted from: Molecules 2025, 30, 3333, https://doi.org/10.3390/molecules30163333 . . . . . .                   1
+- Magdalena Kr˛ecisz, Joanna Kolniak-Ostek, Bogdan St˛epień and Maciej Combrzyński
+- Bio-Compounds, Antioxidant Activity, and Phenolic Content of Broccoli After Impregnation
+- with Beetroot Juice
+- Reprinted from: Molecules 2025, 30, 2143, https://doi.org/10.3390/molecules30102143 . . . . . . 24
+- Olloqui Enrique Javier, González-Rodríguez Maurilio Alejandro,
+- Contreras-López Elizabeth, Pérez-Flores Jesús Guadalupe, Pérez-Escalante Emmanuel,
+- Moreno-Seceña Juan Carlos and Martínez-Carrera Daniel
+- In Vitro Multi-Bioactive Potential of Enzymatic Hydrolysis of a Non-Toxic Jatropha curcas Cake
+- Protein Isolate
+- Reprinted from: Molecules 2024, 29, 3088, https://doi.org/10.3390/molecules29133088 . . . . . . 44
+- Dominik Dörfel, Sascha Rohn and Eckard Jantzen
+- Quantiﬁcation of Trimethylamine-N-Oxide and Trimethylamine in Fish Oils for
+- Human Consumption
+- Reprinted from: Molecules 2024, 29, 1339, https://doi.org/10.3390/molecules29061339 . . . . . . 56
+- Margarita Koleva Petkova, Neli Hristova Grozeva, Milena Tankova Tzanova
+- and Mima Hristova Todorova
+- A Review of Phytochemical and Pharmacological Studies on Galium verum L., Rubiaceae
+- Reprinted from: Molecules 2025, 30, 1856, https://doi.org/10.3390/molecules30081856 . . . . . . 69
+- Michał Czelej, Katarzyna Garbacz, Tomasz Czernecki, Kamila Rachwał,
+- Jacek Wawrzykowski and Adam Waśko
+- Whey Protein Enzymatic Breakdown: Synthesis, Analysis, and Discovery of New Biologically
+- Active Peptides in Papain-Derived Hydrolysates
+- Reprinted from: Molecules 2025, 30, 1451, https://doi.org/10.3390/molecules30071451 . . . . . . 103
+- Grzegorz Tokarczyk, Grzegorz Bienkiewicz, Patrycja Biernacka, Sylwia Przybylska,
+- Wojciech Sawicki and Małgorzata Tabaszewska
+- Effect of Frying Temperature on Lipid Binding, Fatty Acid Composition, and Nutritional
+- Quality of Fish Crackers Prepared from Carp (Ciprinus carpio L.) and Tapioca Starch
+- (Manihot esculentus)
+- Reprinted from: Molecules 2025, 30, 1139, https://doi.org/10.3390/molecules30051139 . . . . . . 118
+- Karolina Nowak, Sascha Rohn and Michał Halagarda
+- Impact of Cooking Techniques on the Dietary Fiber Proﬁle in Selected Cruciferous Vegetables
+- Reprinted from: Molecules 2025, 30, 590, https://doi.org/10.3390/molecules30030590 . . . . . . 135
+-                                                          v
+- Aram Y. Rubio-Reyes, Iván Delgado-Enciso, Eduardo Casas, Estela Garza-Brenner
+- and Ana M. Sifuentes-Rincón
+- Inﬂuence of the Casein Genotype on Goat Milk Bioactivity: An In Silico Analysis of the Casein
+- Peptidome
+- Reprinted from: Molecules 2025, 30, 2601, https://doi.org/10.3390/molecules30122601 . . . . . . 145
+- Yong Lai, Xin Lan, Zhicheng Chen, Guanhua Lou, Ying Li, Chang Liu, et al.
+- The Role of Wolﬁporia cocos (F. A. Wolf ) Ryvarden and Gilb. Polysaccharides in Regulating the
+- Gut Microbiota and Its Health Beneﬁts
+- Reprinted from: Molecules 2025, 30, 1193, https://doi.org/10.3390/molecules30061193 . . . . . . 162
+- Anna Zinkow, Wojciech Grodzicki, Malwina Czerwińska and Katarzyna Dziendzikowska
+- Molecular Mechanisms Linking Omega-3 Fatty Acids and the Gut–Brain Axis
+- Reprinted from: Molecules 2025, 30, 71, https://doi.org/10.3390/molecules30010071 . . . . . . . 190
+- Magdalena Lis, Marianna Szczypka, Agnieszka Suszko-Pawłowska, Aleksandra Pawlak,
+- Łukasz Bobak and Bożena Obmińska-Mrukowicz
+- Inﬂuence of Ovophospholipids on Lymphocyte Subsets and Humoral Immune Response
+- in Mice
+- Reprinted from: Molecules 2025, 30, 2253, https://doi.org/10.3390/molecules30112253 . . . . . . 218
+-                                                 vi
+- About the Editors
+- Michał Halagarda
+-     Michał Halagarda, born 1984, is an associate professor and the Head of the Department of
+- Food Product Quality at the Krakow University of Economics (Poland). He graduated from the
+- University of Abertay in Dundee, Scotland (BSc in Food Product Design, 2007), and the Krakow
+- University of Economics (MSc in Commodity Science, specialty: Product Quality Management, 2008).
+- In 2014, he obtained his Ph.D. in Commodity Science from the Faculty of Commodity Science at
+- the Krakow University of Economics, Poland, with a dissertation focused on modeling new food
+- product development processes based on bakery industry products. In 2019, he completed his
+- habilitation at the Faculty of Commodity Science and Product Management of the Krakow University

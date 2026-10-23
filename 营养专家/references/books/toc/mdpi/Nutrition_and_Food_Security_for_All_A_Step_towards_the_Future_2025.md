@@ -1,0 +1,80 @@
+# Nutrition and Food Security for All: A Step towards the Future (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3831-8
+- 页数: 270
+- 全文: `text/mdpi/Nutrition_and_Food_Security_for_All_A_Step_towards_the_Future_2025.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- António Raposo and Ariana Saraiva
+- Nutrition and Food Security for All: A Step Towards the Future
+- Reprinted from: Nutrients 2025, 17, 1241, https://doi.org/10.3390/nu17071241 . . . . . . . . . .               1
+- Sávio Fernandes, Leandro Oliveira, Alda Pereira, Maria do Céu Costa, António Raposo,
+- Ariana Saraiva and Bruno Magalhães
+- Exploring Vitamin B12 Supplementation in the Vegan Population: A Scoping Review of the
+- Evidence
+- Reprinted from: Nutrients 2024, 16, 1442, https://doi.org/10.3390/nu16101442 . . . . . . . . . .               5
+- Ewa Duda
+- Understanding Health-Related Motivations for Urban Food Self-Production in the Light of
+- Semantic Fields Analysis
+- Reprinted from: Nutrients 2024, 16, 1533, https://doi.org/10.3390/nu16101533 . . . . . . . . . . 25
+- Jayna M. Dave, Tzuan A. Chen, Alexandra N. Castro, Mamie A. White, Elizabeth A. Onugha,
+- Sloane Zimmerman and Debbe Thompson
+- Urban–Rural Disparities in Food Insecurity and Weight Status among Children in the United
+- States
+- Reprinted from: Nutrients 2024, 16, 2132, https://doi.org/10.3390/nu16132132 . . . . . . . . . . 41
+- Farooq Ahmed, Najma Iqbal Malik, Shamshad Bashir, Nazia Noureen, Jam Bilal Ahmad and
+- Kun Tang
+- Political Economy of Maternal Child Malnutrition: Experiences about Water, Food, and
+- Nutrition Policies in Pakistan
+- Reprinted from: Nutrients 2024, 16, 2642, https://doi.org/10.3390/nu16162642 . . . . . . . . . . 51
+- Teeranut Harnirattisai, Sararud Vuthiarpa, Lisa Renee Pawloski, Kevin Michael Curtin,
+- Eden Blackwell, Jenny Nguyen and Sophia Madeleine Bourgeois
+- Nutritional Health Risk (Food Security) in Thai Older Adults and Related Factors
+- Reprinted from: Nutrients 2024, 16, 2703, https://doi.org/10.3390/nu16162703 . . . . . . . . . . 71
+- Martı́n del Valle M, Kirsteen Shields and Sofı́a Boza
+- Using Household Dietary Diversity Score and Spatial Analysis to Inform Food Governance in
+- Chile
+- Reprinted from: Nutrients 2024, 16, 2937, https://doi.org/10.3390/nu16172937 . . . . . . . . . . 83
+- Priscila Claudino De Almeida, Eduardo Yoshio Nakano, Ivana Aragão Lira Vasconcelos,
+- Renata Puppin Zandonadi, António Raposo, Ariana Saraiva, et al.
+- Food Neophobia in Children: A Case Study in Federal District/Brazil
+- Reprinted from: Nutrients 2024, 16, 2962, https://doi.org/10.3390/nu16172962 . . . . . . . . . . 106
+- Shuxian Hua, Vicky Vong, Audrey E. Thomas, Yeeli Mui and Lisa Poirier
+- Barriers and Enablers for Equitable Healthy Food Access in Baltimore Carryout Restaurants: A
+- Qualitative Study in Healthy Food Priority Areas
+- Reprinted from: Nutrients 2024, 16, 3028, https://doi.org/10.3390/nu16173028 . . . . . . . . . . 118
+- Mateusz Rozmiarek
+- The Role of Nutrition in Maintaining the Health and Physical Condition of Sports Volunteers
+- Reprinted from: Nutrients 2024, 16, 3336, https://doi.org/10.3390/nu16193336 . . . . . . . . . . 134
+-                                                        v
+- Yasemin Ertaş Öztürk, Sevtap Kabalı, Yasemin Açar, Duygu Ağagündüz and Ferenc Budán
+- Adaptation of the Food Literacy (FOODLIT) Tool for Turkish Adults: A Validity and Reliability
+- Study
+- Reprinted from: Nutrients 2024, 16, 3416, https://doi.org/10.3390/nu16193416 . . . . . . . . . . 144
+- Diana Melo Ferreira, Susana Machado, Liliana Espı́rito Santo, Maria Antónia Nunes,
+- Anabela S. G. Costa, Manuel Álvarez-Ortı́, et al.
+- Defatted Flaxseed Flour as a New Ingredient for Foodstuffs: Comparative Analysis with Whole
+- Flaxseeds and Updated Composition of Cold-Pressed Oil
+- Reprinted from: Nutrients 2024, 16, 3482, https://doi.org/10.3390/nu16203482 . . . . . . . . . . 154
+- Mateusz Rozmiarek
+- Nutritional Education Needs and Preferences of Sports Volunteers: Access, Expectations, and
+- Forms of Support
+- Reprinted from: Nutrients 2024, 16, 3568, https://doi.org/10.3390/nu16203568 . . . . . . . . . . 171
+- Leandro Oliveira, Ariana Saraiva, Maria João Lima, Edite Teixeira-Lemos,
+- Jwaher Haji Alhaji, Conrado Carrascosa and António Raposo
+- Mediterranean Food Pattern Adherence in a Female-Dominated Sample of Health and Social
+- Sciences University Students: Analysis from a Perspective of Sustainability
+- Reprinted from: Nutrients 2024, 16, 3886, https://doi.org/10.3390/nu16223886 . . . . . . . . . . 182
+- Angélica Hernández-Moreno, Olga Vásquez-Palma, Leonardo Castillo-Cárdenas,
+- Juan Erices-Reyes, Alexsa Guzmán-Jiménez, Carlos Domı́nguez-Scheid, et al.
+- Food Security in the Rural Mapuche Elderly: Analysis and Proposals
+- Reprinted from: Nutrients 2024, 16, 4042, https://doi.org/10.3390/nu16234042 . . . . . . . . . . 197
+- Katarzyna Czarnek, Małgorzata Tatarczak-Michalewska, Grzegorz Wójcik,
+- Agnieszka Szopa, Dariusz Majerek, Karolina Fila, et al.
+- Nutritional Risks of Heavy Metals in the Human Diet—Multi-Elemental Analysis of Energy
+- Drinks
+- Reprinted from: Nutrients 2024, 16, 4306, https://doi.org/10.3390/nu16244306 . . . . . . . . . . 214

@@ -1,0 +1,76 @@
+# Recent Advances in Rice Research (2020, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/9669
+- 页数: 260
+- 全文: `text/rice/Recent_Advances_in_Rice_Research_2020.txt`
+- PDF: `rice/Recent_Advances_in_Rice_Research_2020.pdf`
+- 标签: 水稻, 栽培, 综合
+
+## 目录 (Contents)
+
+- Preface                                                                    XIII
+- Section 1
+- Introduction                                                                 1
+- Chapter 1                                                                   3
+- Introductory Chapter: Recent Advances in Rice Biotechnology
+- for Abiotic Stress Tolerance
+- by Munazza Ijaz, Roshina Shahzadi, Akmaral U. Issayeva,
+- Shazia Anwer Bukhari and Mahmood-ur-Rahman
+- Section 2
+- Hybrid Rice                                                                21
+- Chapter 2                                                                  23
+- Hybrid Rice Research: Current Status and Prospects
+- by Diptibala Rout, Debarchana Jena, Vineeta Singh, Manish Kumar,
+- Pandurang Arsode, Prakash Singh, Jawahar Lal Katara,
+- Sanghamitra Samantaray and Ramlakhan Verma
+- Chapter 3                                                                  47
+- Hybrid Rice in Africa: Progress, Prospects, and Challenges
+- by Samuel Oppong Abebrese and Alex Yeboah
+- Section 3
+- Rice Metabolites and Biology                                               61
+- Chapter 4                                                                  63
+- Phenolic Compounds and Potential Health Benefits of Pigmented Rice
+- by Prinya Wongsa
+- Chapter 5                                                                  83
+- Computational Analysis of Rice Transcriptomic and Genomic Datasets
+- in Search for SNPs Involved in Flavonoid Biosynthesis
+- by Rabiatul-Adawiah Zainal-Abidin and Zeti-Azura Mohamed-Hussein
+- Chapter 6                                                                  101
+- Current Applicable DNA Markers for Marker Assisted Breeding in Rice
+- (Oryza sativa L.)
+- by Nor’Aishah Hasan, Mohd Rafii Yusoff, Abdul Rahim Harun and Faiz Ahmad
+- Chapter 7                                                                 123
+- Pathogens Transmitted through Contaminated Rice
+- by Leka Lutpiatina
+- Section 4
+- Rice Biology under Stress                                                 135
+- Chapter 8                                                                 137
+- Nitrogen Use Efficiency in Rice under Abiotic Stress: Plant Breeding
+- Approach
+- by Satyen Mondal, Jamil Hasan, Priya Lal Biswas, Emam Ahmed,
+- Tuhin Halder, Md. Panna Ali, Amina Khatun, Muhammad Nasim,
+- Tofazzal Islam, Evangelina S. Ella and Endang M. Septiningsih
+- Chapter 9                                                                 161
+- Adaptive Mechanisms of Root System of Rice for Withstanding
+- Osmotic Stress
+- by Afsana Hannan, Md. Najmol Hoque, Lutful Hassan
+- and Arif Hasan Khan Robin
+- Section 5
+- Rice Economics, Valne Addition and Product Development                    181
+- Chapter 10                                                                183
+- Does the Incidence of COVID-19 Pandemic Affect Rice Yield? Lessons
+- from Southeast Nigeria
+- by Nnaemeka Success Esiobu
+- Chapter 11                                                                207
+- Advances in Rice Postharvest Loss Reduction Strategies in Africa
+- through Low Grade Broken Rice Fractions and Husk Value Addition
+- by Danbaba Nahemiah, Iro Nkama, Idakwo Paul Yahaya,
+- Mamudu Halidu Badau and Aliyu Umar
+- Chapter 12                                                                227
+- Improving the Efficacy of Climate Policy in the Indonesian Rice Sector:
+- The Potential Use of Perceived-Impact Measures in Targeting Policy
+- Beneficiaries
+- by Rokhani, Mohammad Rondhi, Anik Suwandari, Ahmad Asrofi,
+- Ahmad Fatikhul Khasan, Yasuhiro Mori and Takumi Kondo
+- II

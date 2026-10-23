@@ -1,0 +1,81 @@
+# Functional Bakery Products (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 252
+- 全文: `text/mdpi/Functional_Bakery_Products_2025.txt`
+- PDF: `mdpi/Functional_Bakery_Products_2025.pdf`
+- 标签: 烘焙, 功能食品, 配方
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Piotr Zarzycki, Anna Wirkijowska and Urszula Pankiewicz
+- Functional Bakery Products: Technological, Chemical and Nutritional Modification
+- Reprinted from: Appl. Sci. 2024, 14, 12023, https://doi.org/10.3390/app142412023 . . . . . . . .
+- 1
+- Anna Diowksz, Przemysław Kopeć and Anna Koziróg
+- The Inactivation of Microscopic Fungi in Bakery Products Using Hurdle Technology—A Case
+- Study
+- Reprinted from: Appl. Sci. 2024, 14, 10648, https://doi.org/10.3390/app142210648 . . . . . . . .
+- 5
+- Piotr Lewko, Agnieszka Wójtowicz and Marek Gancarz
+- Application of Conventional and Hybrid Thermal-Enzymatic Modified Wheat Flours as Clean
+- Label Bread Improvers
+- Reprinted from: Appl. Sci. 2024, 14, 7659, https://doi.org/10.3390/app14177659 . . . . . . . . . 21
+- Krzysztof Juś, Mateusz Ścigaj, Daniela Gwiazdowska, Katarzyna Marchwińska and
+- Wiktoria Studenna
+- Innovative Fermented Beverages Based on Bread Waste—Fermentation Parameters and
+- Antibacterial Properties
+- Reprinted from: Appl. Sci. 2024, 14, 5036, https://doi.org/10.3390/app14125036 . . . . . . . . . 45
+- Iuliana Banu and Iuliana Aprodu
+- Assessment of the Performance of Oat Flakes and Pumpkin Seed Powders in Gluten-Free
+- Dough and Bread Based on Rice Flour
+- Reprinted from: Appl. Sci. 2024, 14, 3479, https://doi.org/10.3390/app14083479 . . . . . . . . . 63
+- Iva Burešová, Romana Šebestı́ková, Jaromı́r Šebela, Anna Adámková, Magdalena Zvonková,
+- Nela Skowronková and Jiřı́ Mlček
+- The Effect of Inulin Addition on Rice Dough and Bread Characteristics
+- Reprinted from: Appl. Sci. 2024, 14, 2882, https://doi.org/10.3390/app14072882 . . . . . . . . . 76
+- Angelika Bieniek and Krzysztof Buksa
+- The Influence of Arabinoxylan on the Properties of Sourdough Wheat Bread
+- Reprinted from: Appl. Sci. 2024, 14, 2649, https://doi.org/10.3390/app14062649 . . . . . . . . . 88
+- Aneta Sławińska, Ewa Jabłońska-Ryś and Waldemar Gustaw
+- Physico-Chemical, Sensory, and Nutritional Properties of Shortbread Cookies Enriched with
+- Agaricus bisporus and Pleurotus ostreatus Powders
+- Reprinted from: Appl. Sci. 2024, 14, 1938, https://doi.org/10.3390/app14051938 . . . . . . . . . 101
+- Agata Blicharz-Kania, Kostiantyn Vasiukov, Agnieszka Sagan, Dariusz Andrejko, Weronika
+- Fifowska and Marek Domin
+- Nutritional Value, Physical Properties, and Sensory Quality of Sugar-Free Cereal Bars Fortified
+- with Grape and Apple Pomace
+- Reprinted from: Appl. Sci. 2023, 13, 10531, https://doi.org/10.3390/app131810531 . . . . . . . . 126
+- Salih Salihu, Njomza Gashi and Endrit Hasani
+- Effect of Plant Extracts Addition on the Physico-Chemical and Sensory Properties of Biscuits
+- Reprinted from: Appl. Sci. 2023, 13, 9674, https://doi.org/10.3390/app13179674 . . . . . . . . . 136
+- v
+- Anna Wirkijowska, Piotr Zarzycki, Dorota Teterycz, Agnieszka Nawrocka,
+- Agata Blicharz-Kania and Paulina Łysakowska
+- The Influence of Tomato and Pepper Processing Waste on Bread Quality
+- Reprinted from: Appl. Sci. 2023, 13, 9312, https://doi.org/10.3390/app13169312 . . . . . . . . . 147
+- Grażyna Cacak-Pietrzak, Katarzyna Sujka, Jerzy Księżak, Jolanta Bojarszczuk and Dariusz
+- Dziki
+- Sourdough Wheat Bread Enriched with Grass Pea and Lupine Seed Flour: Physicochemical and
+- Sensory Properties
+- Reprinted from: Appl. Sci. 2023, 13, 8664, https://doi.org/10.3390/app13158664 . . . . . . . . . 162
+- Agata Marzec, Patrycja Kramarczuk, Hanna Kowalska and Jolanta Kowalska
+- Effect of Type of Flour and Microalgae (Chlorella vulgaris) on the Rheological, Microstructural,
+- Textural, and Sensory Properties of Vegan Muffins
+- Reprinted from: Appl. Sci. 2023, 13, 7632, https://doi.org/10.3390/app13137632 . . . . . . . . . 178
+- Piotr Zarzycki, Anna Wirkijowska, Dorota Teterycz and Paulina Łysakowska
+- Innovations in Wheat Bread: Using Food Industry By-Products for Better Quality and Nutrition
+- Reprinted from: Appl. Sci. 2024, 14, 3976, https://doi.org/10.3390/app14103976 . . . . . . . . . 193
+- Joanna Stasiak, Dariusz M. Stasiak and Justyna Libera
+- The Potential of Aquafaba as a Structure-Shaping Additive in Plant-Derived Food Technology
+- Reprinted from: Appl. Sci. 2023, 13, 4122, https://doi.org/10.3390/app13074122 . . . . . . . . . 229
+- vi
+- Preface
+- Bakery products are a vital part of modern diets, offering nutrients like complex carbohydrates,
+- proteins, vitamins, and minerals. This reprint delves into the latest research on modifying these
+- products using advanced technologies to enhance their health benefits; it is an essential resource for
+- anyone interested in food innovation and healthy living.
+- Anna Wirkijowska, Piotr Zarzycki, Agata Blicharz-Kania, and Urszula Pankiewicz
+- Guest Editors

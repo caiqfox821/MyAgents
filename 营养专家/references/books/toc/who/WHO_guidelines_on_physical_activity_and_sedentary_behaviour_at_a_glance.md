@@ -1,0 +1,78 @@
+# WHO guidelines on physical activity and sedentary behaviour: at a glance (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/337001
+- 页数: 24
+- 全文: `text/who/WHO_guidelines_on_physical_activity_and_sedentary_behaviour_at_a_glance.txt`
+- 标签: 身体活动
+
+## 目录 (Contents)
+
+- Acknowledgements									 iv
+- Key messages
+-                       1
+- Introduction										 2
+- Scope 										 2
+- Target audience									 2
+- Development process									 2
+- Recommendations									 2
+-     Children and adolescents (aged 5–17 years)
+-                                                    3
+-     Adults (aged 18–64 years)
+-                                      4
+-     Older adults (aged 65 years and older)
+-                                                 6
+-     Pregnant and postpartum women
+-                                        8
+-     Adults and older adults with chronic conditions (aged 18 years and older)      10
+-     Children and adolescents (aged 5–17 years) living with disability 		           12
+-     Adults (aged 18 years and older) living with disability 				                   14
+- Research gaps										16
+- Adoption and dissemination								16
+- From guidelines to action					                                 			17
+- Implications for surveillance 								17
+- References										17
+- Web Annex: Evidence profiles
+- https://apps.who.int/iris/bitstream/handle/10665/336657/9789240015111-eng.pdf
+-                                                                                         Contents   iii
+-                                                                            ACKNOWLEDGEMENTS
+-                                                                            The World Health Organization (WHO) gratefully acknowledges the contribution to and support
+-                                                                            of the following individuals and organizations in the development of these guidelines:
+-                                                                            Fiona Bull and Juana Willumsen led the process of developing these guidelines. Valentina Baltag,
+-                                                                            Maurice Bucagu, Alex Butchart, Neerja Chowdhary, Regina Guthold, Riitta-Maija Hämäläinen, Andre Ilbawi,
+-                                                                            Wasiq Khan, Lindsay Lee, Alana Officer, Leanne Riley and Gojka Roglic were members of the WHO Steering
+-                                                                            Group that managed the guideline development process.
+-                                                                            The members of the Guideline Development Group (GDG) included Salih Saad Al-Ansari, Stuart Biddle,
+-                                                                            Katja Borodulin, Matthew Buman, Greet Cardon (co-chair), Catherine Carty, Jean-Philippe Chaput, Sebastien
+-                                                                            Chastin, Paddy Dempsey, Loretta DiPietro, Ulf Ekelund, Joseph Firth, Christine Friedenreich, Leandro Garcia,
+-                                                                            Muthoni Gichu, Russ Jago, Peter Katzmarzyk, Estelle V. Lambert, Michael Leitzmann, Karen Milton, Francisco
+-                                                                            B. Ortega, Chathuranga Ranasinghe, Emmanuel Stamatakis (co-chair), Anne Tiedemann, Richard Troiano,
+-                                                                            Hidde van der Ploeg, Vicky Wari. Roger Chou served as GRADE methodologist. The external review group
+-                                                                            included Kingsley Akinroye, Huda Alsiyabi, Alberto Flórez-Pregonero, Shigeru Inoue, Agus Mahendra,
+- WHO guidelines on physical activity and sedentary behaviour: at a glance
+-                                                                            Deborah Salvo and Jasper Schipperijn.
+-                                                                            Systematic reviews of evidence prepared for 2018 US Physical Activity Guidelines Advisory Committee
+-                                                                            Scientific Report to the Secretary of Health and Human Services were updated thanks to additional literature
+-                                                                            searches conducted by Kyle Sprow (National Cancer Institutes, National Institutes of Health, Maryland,
+-                                                                            USA). Additional support to review papers identified was provided by Elif Eroglu (University of Sydney),
+-                                                                            Andrea Hillreiner (University of Regensburg), Bo-Huei Huang (University of Sydney), Carmen Jochem
+-                                                                            (University of Regensburg), Jairo H. Migueles (University of Granada), Chelsea Stone (University of Calgary)
+-                                                                            and Léonie Uijtdewilligen (Amsterdam UMC).
+-                                                                            Summaries of evidence and GRADE tables were prepared by Carrie Patnode and Michelle Henninger
+-                                                                            (The Kaiser Foundation Hospitals, Center for Health Research, Portland, Oregon, USA).
+-                                                                            Additional reviews of evidence were conducted by N Fairhall, J Oliveira, M Pinheiro, and C Sherrington
+-                                                                            (Institute for Musculoskeletal Health, School of Public Health, The University of Sydney, Sydney, Australia)
+-                                                                            and A Bauman (Prevention Research Collaboration, School of Public Health, The University of Sydney,
+-                                                                            Sydney, Australia; and WHO Collaborating Centre for Physical Activity, Nutrition and Obesity); S Mabweazara,
+-                                                                            M-J Laguette, K Larmuth, F Odunitan-Wayas (Research Centre for Health through Physical Activity, Lifestyle
+-                                                                            and Sports Medicine, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa),
+-                                                                            L Leach, S Onagbiye (Department of Sport, Recreation and Exercise Science, Faculty of Health Sciences,
+-                                                                            University of the Western Cape, Cape Town, South Africa), M Mthethwa (Chronic Disease Initiative for
+-                                                                            Africa, University of Cape Town, Cape Town, South Africa), P Smith (The Desmond Tutu HIV Centre,
+-                                                                            Institute for Infectious Disease and Molecular Medicine, Faculty of Health Sciences, University of Cape Town,
+-                                                                            Cape Town, South Africa) and F Mashili (Department of Physiology, Muhimbili University of Allied Sciences,
+-                                                                            Dar Es Salaam, United Republic of Tanzania); B Cillekens, M Lang, W van Mechelen, E Verhagen, M Huysmans,
+-                                                                            A van der Beek, P Coenen (Department of Public and Occupational Health at Amsterdam University
+-                                                                            Medical Centre, Amsterdam, Netherlands).
+-                                                                            The Public Health Agency of Canada and the Government of Norway provided financial support,
+-                                                                            without which this work could not have been completed.

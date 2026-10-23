@@ -1,0 +1,80 @@
+# Vitamin D in Health and Disease (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5728-9
+- 页数: 134
+- 全文: `text/mdpi/Vitamin_D_in_Health_and_Disease_2025.txt`
+- 标签: 微量营养素
+
+## 目录 (Contents)
+
+- Giuseppe Murdaca and Sebastiano Gangemi
+- Vitamin D in Health and Disease
+- Reprinted from: Biomedicines 2023, 11, 10, https://doi.org/10.3390/biomedicines11010010   . . .   1
+- Giuseppe Murdaca, Francesca Paladin and Sebastiano Gangemi
+- Role of Vitamin D in the Clinical Course of Nasal Polyposis
+- Reprinted from: Biomedicines 2021, 9, 855, https://doi.org/10.3390/biomedicines9080855 . . . .    5
+- Mahmoud M. A. Abulmeaty, Deema A. Almutawa, Nedim Selimovic, May Almuammar,
+- Abdulaziz A. Al-Khureif, Mohamed I. Hashem, et al.
+- Impact of Vitamin D Supplementation on Bone Mineral Density and All-Cause Mortality in
+- Heart Transplant Patients
+- Reprinted from: Biomedicines 2021, 9, 1450, https://doi.org/10.3390/biomedicines9101450 . . . 18
+- Martina Oriano, Stefano Aliberti, Franca Rosa Guerini, Cristina Agliardi, Carlotta Di Francesco,
+- Alice Gelmini, et al.
+- The Isoform GC1f of the Vitamin D Binding Protein Is Associated with Bronchiectasis Severity
+- Reprinted from: Biomedicines 2021, 9, 1573, https://doi.org/10.3390/biomedicines9111573 . . . 32
+- Muhammad Afzal, Imran Kazmi, Fahad A. Al-Abbasi, Sultan Alshehri, Mohammed M. Ghoneim,
+- Syed Sarim Imam, et al.
+- Current Overview on Therapeutic Potential of Vitamin D in Inﬂammatory Lung Diseases
+- Reprinted from: Biomedicines 2021, 9, 1843, https://doi.org/10.3390/biomedicines9121843 . . . 42
+- Roberta Scrimieri, Alessandra Cazzaniga, Sara Castiglioni and Jeanette A. M. Maier
+- Vitamin D Prevents High Glucose-Induced Lipid Droplets Accumulation in Cultured Endothelial
+- Cells: The Role of Thioredoxin Interacting Protein
+- Reprinted from: Biomedicines 2021, 9, 1874, https://doi.org/10.3390/biomedicines9121874 . . . 62
+- Parul Singh, Arun Rawat, Marwa Saadaoui, Duaa Elhag, Sara Tomei, Mohammed Elanbari, et
+- al.
+- Tipping the Balance: Vitamin D Inadequacy in Children Impacts the Major Gut Bacterial Phyla
+- Reprinted from: Biomedicines 2022, 10, 278, https://doi.org/10.3390/biomedicines10020278 . . . 74
+- Mirko Marino, Samuele Venturi, Cristian Del Bo’, Peter Møller, Patrizia Riso and Marisa
+- Porrini
+- Vitamin D Counteracts Lipid Accumulation, Augments Free Fatty Acid-Induced ABCA1 and
+- CPT-1A Expression While Reducing CD36 and C/EBPβ Protein Levels in Monocyte-Derived
+- Macrophages
+- Reprinted from: Biomedicines 2022, 10, 775, https://doi.org/10.3390/biomedicines10040775 . . . 95
+- Maria Barsan, Anca Monica Brata, Abdulrahman Ismaiel, Dinu Iuliu Dumitrascu, Andrei-Vlad
+- Badulescu, Traian Adrian Duse, et al.
+- The Pathogenesis of Cardiac Arrhythmias in Vitamin D Deﬁciency
+- Reprinted from: Biomedicines 2022, 10, 1239, https://doi.org/10.3390/biomedicines10061239 . . 111
+-                                                 v
+-             biomedicines
+- Editorial
+- Vitamin D in Health and Disease
+- Giuseppe Murdaca 1,2, * and Sebastiano Gangemi 3
+-                   1   Department of Internal Medicine, University of Genova, 16132 Genova, Italy
+-                   2   Department of Internal Medicine, IRCCS Ospedale Policlinico San Martino, 16132 Genova, Italy
+-                   3   Department of Clinical and Experimental Medicine, School and Operative Unit of Allergy and Clinical
+-                       Immunology, University of Messina, 98125 Messina, Italy
+-                  *    Correspondence: giuseppe.murdaca@unige.it; Tel.: +39-0103537924
+-                        Vitamin D (VD) is a fat-soluble hormone that plays a fundamental role not only in
+-                  calcium homeostasis and bone metabolism, but also has anti-inﬂammatory and antioxidant
+-                  properties, acting on both innate and adaptive immunity. Therefore, it is now scientiﬁcally
+-                  considered an immunomodulating agent. It has been shown that VD and microbiomes act
+-                  in concert and direct the etiopathogenesis and evolution of many allergic diseases. Among
+-                  the many activities that are in current times attributed to VD, it is necessary to remember
+-                  the antiproliferative, antiangiogenic and prodifferentiation activity that, undoubtedly, at-
+-                  tributes to VD itself, playing a role in cancer carcinogenesis that has not yet been completely
+-                  gutted. However, it would appear that some of its carcinogenic effects may be attributed to
+-                  binding to its receptor (VDR) and the subsequent modulation of tumor miRNA expression.
+-                  In this Editorial, I would like to brieﬂy summarize the main concepts described in the
+-                  eight papers published in the Special Issue “Vitamin D in Health and Disease”. The ﬁrst
+-                  impression that came from reading the titles of the articles is that VD is implicated in the
+-                  pathogenesis of both chronic respiratory and cardiovascular diseases. It goes without say-
+-                  ing that it is likely that VD acts in the development and clinical evolution of many chronic
+-                  immune-mediated diseases, including allergic ones. The authors of the various papers
+-                  underlined the association between low serum levels of VD that favor release, and Th2 cells
+-                  of proinﬂammatory cytokines, including IL-4, IL-5 and IL-13, which might guide the inﬂam-
+-                  matory state at the base of many chronic diseases. The role of these cytokines in chronic
+-                  rhinosinusitis (CRS), which is characterized by a diffuse inﬂammation of the mucosa, whose
+-                  etiopathogenesis is not yet fully understood, has now been widely demonstrated [1]. It
+-                  should be remembered that CRS is classiﬁed into two subtypes, depending on the presence
+-                  or absence of nasal polyposis (CRSwNP and CRSsNP, respectively). Notably, IL-4, IL-5 and

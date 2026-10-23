@@ -1,0 +1,68 @@
+# Precision fermentation (2025, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/cd4448en/cd4448en.pdf
+- 页数: 68
+- 全文: `text/fao/Precision_Fermentation_2025.txt`
+- PDF: `fao/Precision_Fermentation_2025.pdf`
+- 标签: 新兴技术, 发酵食品, 精密发酵
+
+## 目录 (Contents)
+
+- Acknowledgements
+- v
+- Abbreviations
+- vi
+- Executive summary
+- vii
+- 1. Introduction
+- 1.1
+- Background
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- Overview
+- Nomenclature issues
+- Production process
+- Regulatory frameworks
+- 1.2 Scope
+- 2. Methodologies
+- 1
+- 1
+- 1
+- 1
+- 2
+- 2
+- 3
+- 4
+- 2.1 Systematic literature reviews
+- 4
+- 2.2 Consultations with regulators
+- 4
+- 3. Nomenclature issues
+- 3.1 Precision fermentation definitions
+- 5
+- 5
+- 3.2 Synonyms for precision fermentation and related terminologies
+- 15
+- 3.3 Use of precision fermentation terminologies by the media
+- 16
+- 3.4 Discussion
+- 17
+- 4. Production processes
+- 18
+- 4.1 Overview
+- 18
+- 4.2 Precision fermentation products and applications
+- 19
+- 19
+- 19
+- 20
+- 4.2.1 Microbial production hosts in precision fermentation for food products
+- 4.2.2 Precision fermentation products and food applications
+- 4.2.3 Precision fermentation production processes
+- 4.3 Case studies for precision fermentation production processes
+- Case 1: Animal-specific protein: Bovine milk whey protein beta-lactoglobulin
+- Case 2: Specialty ingredient: Human-identical milk oligosaccharide
+- Case 3: Flavour compound: Soy leghemoglobin

@@ -1,0 +1,80 @@
+# Prevalence and Risk Factors of Obesity and Hypertension (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2944-6
+- 页数: 158
+- 全文: `text/mdpi/Prevalence_and_Risk_Factors_of_Obesity_and_Hypertension_2025.txt`
+- 标签: 肥胖/体重管理, 代谢与心血管
+
+## 目录 (Contents)
+
+- Anna Bartosiewicz, Justyna Wyszyńska, Edyta Łuszczki, Anna Lewandowska, Małgorzata
+- Zatorska-Zoła, Piotr Sulikowski and Piotr Matłosz
+- Impact of Consumption of Speciﬁc Food Groups on Metabolic and Cardiovascular Disorders
+- among Nurses: Framingham’s Multifactorial Predictive Model
+- Reprinted from: J. Clin. Med. 2024, 13, 5568, https://doi.org/10.3390/jcm13185568 . . . . . . . .   1
+- Irena A. Dykiert, Krzysztof Kraik, Lidia Jurczenko, Paweł Gać, Rafał Pore˛ba and Małgorzata
+- Pore˛ba
+- The Effect of Obesity on Repolarization and Other ECG Parameters
+- Reprinted from: J. Clin. Med. 2024, 13, 3587, https://doi.org/10.3390/jcm13123587 . . . . . . . . 15
+- Muhammad Asif, Haﬁz Ahmad Iqrash Qureshi, Saba Mazhar Seyal, Muhammad Aslam,
+- Muhammad Tauseef Sultan, Maysaa Elmahi Abd Elwahab, et al.
+- Assessing Disparities about Overweight and Obesity in Pakistani Youth Using Local and
+- International Standards for Body Mass Index
+- Reprinted from: J. Clin. Med. 2024, 13, 2944, https://doi.org/10.3390/jcm13102944 . . . . . . . . 33
+- Eduardo Meaney, Enrique Pérez-Robles, Miguel Ortiz-Flores, Guillermo Perez-Ishiwara,
+- Alejandra Meaney, Levy Munguı́a, et al.
+- Overweight, Obesity, and Age Are the Main Determinants of Cardiovascular Risk Aggregation
+- in the Current Mexican Population: The FRIMEX III Study
+- Reprinted from: J. Clin. Med. 2024, 13, 2248, https://doi.org/10.3390/jcm13082248 . . . . . . . . 42
+- Małgorzata Biernikiewicz, Małgorzata Sobieszczańska, Ewa Szuster, AnnaPawlikowska-
+- Gorzelańczyk, Anna Janocha, Krystyna Rożek-Piechura, et al.
+- Erectile Dysfunction as an Obesity-Related Condition in Elderly Men with Coronary Artery
+- Disease
+- Reprinted from: J. Clin. Med. 2024, 13, 2087, https://doi.org/10.3390/jcm13072087 . . . . . . . . 56
+- Katarzyna Helon, Małgorzata Wisłowska, Krzysztof Kanecki, Paweł Goryński, Aneta
+- Nitsch-Osuch and Krzysztof Bonek
+- Time Trend Analysis of Comorbidities in Ankylosing Spondylitis: A Population-Based Study
+- from 53,142 Hospitalizations in Poland
+- Reprinted from: J. Clin. Med. 2024, 13, 602, https://doi.org/10.3390/jcm13020602 . . . . . . . . . 67
+- Blanca Estela Rı́os-González, Ana Mı́riam Saldaña-Cruz, Sergio Gabriel Gallardo-Moya and
+- Aniel Jessica Leticia Brambila-Tapia
+- Sex Differences in the Relationship between Personal, Psychological and Biochemical Factors
+- with Blood Pressure in a Healthy Adult Mexican Population: A Cross-Sectional Study
+- Reprinted from: J. Clin. Med. 2024, 13, 378, https://doi.org/10.3390/jcm13020378 . . . . . . . . . 80
+- Irina Mihaela Abdulan, Veronica Feller, Andra Oancea, Alexandra Mas, taleru, Anisia Iuliana
+- Alexa, Robert Negru, et al.
+- Evolution of Cardiovascular Risk Factors in Post-COVID Patients
+- Reprinted from: J. Clin. Med. 2023, 12, 6538, https://doi.org/10.3390/jcm12206538 . . . . . . . . 102
+- Maciej Kochman, Marta Brzuszek and Mirosław Jabłoński
+- Changes in Metabolic Health and Sedentary Behavior in Obese Children and Adolescents
+- Reprinted from: J. Clin. Med. 2023, 12, 5456, https://doi.org/10.3390/jcm12175456 . . . . . . . . 114
+-                                                   v
+- Barbara Siewert, Agata Kozajda, Marta Jaskulak and Katarzyna Zorena
+- Examining the Link between Air Quality (PM, SO2 , NO2 , PAHs) and Childhood Obesity: A
+- Systematic Review
+- Reprinted from: J. Clin. Med. 2024, 13, 5605, https://doi.org/10.3390/jcm13185605 . . . . . . . . 126
+-                                                  vi
+-              Journal of
+-              Clinical Medicine
+- Article
+- Impact of Consumption of Speciﬁc Food Groups on Metabolic
+- and Cardiovascular Disorders among Nurses: Framingham’s
+- Multifactorial Predictive Model
+- Anna Bartosiewicz 1, *, Justyna Wyszyńska 1 , Edyta Łuszczki 1 , Anna Lewandowska 2 , Małgorzata Zatorska-Zoła 3 ,
+- Piotr Sulikowski 4 and Piotr Matłosz 5
+-                                          1   Institute of Health Sciences, Medical College of Rzeszow University, 35-959 Rzeszow, Poland;
+-                                              jwyszynska@ur.edu.pl (J.W.); eluszczki@ur.edu.pl (E.Ł.)
+-                                          2   Faculty of Healthcare, State Academy of Applied Sciences in Jaroslaw, 37-500 Jaroslaw, Poland;
+-                                              am.lewandowska@poczta.fm
+-                                          3   Independent, Public Healthcare Complex, John Paul II Municipal Hospital, 35-241 Rzeszow, Poland;
+-                                              mzola1@poczta.onet.pl
+-                                          4   Faculty of Computer Science and Information Technology, West Pomeranian University of Technology,
+-                                              71-210 Szczecin, Poland; piotr.sulikowski@zut.edu.pl
+-                                          5   Institute of Physical Culture Science, Medical College of Rzeszow University, 35-959 Rzeszow, Poland;
+-                                              pmatlosz@ur.edu.pl
+-                                          *   Correspondence: abartosiewicz@ur.edu.pl
+-                                          Abstract: Objective: This study aimed to analyze the relationship between the consumption of
+-                                          selected food products and the risk of prevalence of selected metabolic and cardiovascular disorders
+-                                          among nurses. Methodology: This cross-sectional study was conducted among 405 nurses. To
+-                                          achieve the study objective, body composition analysis (Tanita MC-980), blood pressure measurement

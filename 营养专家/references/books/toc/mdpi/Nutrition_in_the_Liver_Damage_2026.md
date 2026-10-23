@@ -1,0 +1,80 @@
+# Nutrition in the Liver Damage (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-9066-8
+- 页数: 194
+- 全文: `text/mdpi/Nutrition_in_the_Liver_Damage_2026.txt`
+- 标签: 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Piotr Zabielski, Monika Imierska, Kamila Roszczyc-Owsiejczuk, Mariusz Kuźmicki,
+- Paweł Rogalski, Jarosław Daniluk and Agnieszka U. Błachnio-Zabielska
+- The Role of Acyl-CoA Synthetase 1 in Bioactive Lipid Accumulation and the Development of
+- Hepatic Insulin Resistance
+- Reprinted from: Nutrients 2024, 16, 1003, https://doi.org/10.3390/nu16071003 . . . . . . . . . .                  1
+- Juan Yang, Chan Tian, Maojie Liu, Haiyan Guo, Fei Lin, Yang Ding, et al.
+- Genetic Risk, BMI Status, BMI Change Patterns, and the Risk of Steatotic Liver Disease and
+- Liver Enzyme Elevation in Chinese Adults
+- Reprinted from: Nutrients 2024, 16, 4212, https://doi.org/10.3390/nu16234212 . . . . . . . . . . 16
+- Eleonora Dileo, Francesca Saba, Mirko Parasiliti-Caprino, Chiara Rosso
+- and Elisabetta Bugianesi
+- Impact of Sexual Dimorphism on Therapy Response in Patients with Metabolic
+- Dysfunction-Associated Steatotic Liver Disease: From Conventional and Nutritional
+- Approaches to Emerging Therapies
+- Reprinted from: Nutrients 2025, 17, 477, https://doi.org/10.3390/nu17030477 . . . . . . . . . . . 29
+- Monika Maćków, Tomasz Dziubyna, Tatiana Jamer, Dmytro Slivinskyi, Tomasz Pytrus,
+- Katarzyna Neubauer, et al.
+- The Role of Dietary Ingredients and Herbs in the Prevention of Non-Communicable Chronic
+- Liver Disease
+- Reprinted from: Nutrients 2024, 16, 3505, https://doi.org/10.3390/nu16203505 . . . . . . . . . . 45
+- Rossella Tatoli, Caterina Bonﬁglio, Francesco Cuccaro, Angelo Campanella, Sergio Coletta,
+- Pasqua Letizia Pesole, et al.
+- Effects of Egg Consumption on Subjects with SLD or Hypertension: A MICOL Study
+- Reprinted from: Nutrients 2024, 16, 430, https://doi.org/10.3390/nu16030430 . . . . . . . . . . . 66
+- Ewelina Ksiażek, Zuzanna Goluch and Marta Bochniak
+- Vaccinium spp. Berries in the Prevention and Treatment of Non-Alcoholic Fatty Liver Disease:
+- A Comprehensive Update of Preclinical and Clinical Research
+- Reprinted from: Nutrients 2024, 16, 2940, https://doi.org/10.3390/nu16172940 . . . . . . . . . . 76
+- Ioannis Katsaros, Maria Sotiropoulou, Michail Vailas, Emmanouil Ioannis Kapetanakis,
+- Georgia Valsami, Alexandra Tsaroucha and Dimitrios Schizas
+- Quercetin’s Potential in MASLD: Investigating the Role of Autophagy and Key Molecular
+- Pathways in Liver Steatosis and Inﬂammation
+- Reprinted from: Nutrients 2024, 16, 3789, https://doi.org/10.3390/nu16223789 . . . . . . . . . . 110
+- Anna Winiarska-Mieczan, Karolina Jachimowicz-Rogowska, Małgorzata Kwiecień,
+- Marta Borsuk-Stanulewicz, Agnieszka Tomczyk-Warunek,
+- Ewa Stamirowska-Krzaczek, et al.
+- Regular Consumption of Green Tea as an Element of Diet Therapy in Drug-Induced Liver Injury
+- (DILI)
+- Reprinted from: Nutrients 2024, 16, 2837, https://doi.org/10.3390/nu16172837 . . . . . . . . . . 118
+-                                                          v
+- Edyta Barbara Balejko, Anna Bogacka, Jarosław Lichota and Jan Pawlus
+- Effects of Bioactive Dietary Components on Changes in Lipid and Liver Parameters in Women
+- after Bariatric Surgery and Procedures
+- Reprinted from: Nutrients 2024, 16, 1379, https://doi.org/10.3390/nu16091379 . . . . . . . . . . 138
+- Zuzanna Goluch, Aldona Wierzbicka-Rucińska and Ewelina Ksiażek
+- Nutrition in Gilbert’s Syndrome—A Systematic Review of Clinical Trials According to the
+- PRISMA Statement
+- Reprinted from: Nutrients 2024, 16, 2247, https://doi.org/10.3390/nu16142247 . . . . . . . . . . 149
+-                                                  vi
+- About the Editors
+- Aldona Wierzbicka-Rucinska
+-     Aldona Wierzbicka-Rucinska is a clinical laboratory diagnostician and researcher afﬁliated with
+- the Children’s Memorial Health Institute in Warsaw, Poland. Her scientiﬁc work focuses on pediatric
+- hepatology, laboratory medicine, and translational biomarker research, with particular emphasis
+- on molecular mechanisms of liver injury, microRNA biology, bile acid metabolism, oxidative
+- stress, ﬁbrosis, and inﬂammation in children. She combines expertise in laboratory diagnostics,
+- molecular biology, and clinical hepatology, integrating biochemical, molecular, histopathological,
+- and clinical data to identify and validate biomarkers of liver diseases.        Her research aims to
+- improve understanding of disease mechanisms and support the development of precision medicine
+- approaches in pediatric hepatology. Dr Wierzbicka-Rucińska is the author or co-author of more
+- than 125 peer-reviewed scientiﬁc publications and several book chapters, with an H-index of
+- approximately 27. She has participated in numerous national and international research projects,
+- including European collaborative programs focused on pediatric nutrition, metabolism, biomarker
+- discovery, and translational medicine.
+- Zuzanna Goluch
+-     Zuzanna Goluch specializes in agricultural sciences, the discipline of food and nutrition
+- technology. She works as an associate professor in the Department of Food Technology and Nutrition,
+- Faculty of Production Engineering, Wroclaw University of Economics and Business. She conducts

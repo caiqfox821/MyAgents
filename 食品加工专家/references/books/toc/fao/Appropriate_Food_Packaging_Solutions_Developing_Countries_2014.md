@@ -1,0 +1,80 @@
+# Appropriate food packaging solutions for developing countries (2014, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/i3684e/i3684e.pdf
+- 页数: 38
+- 全文: `text/fao/Appropriate_Food_Packaging_Solutions_Developing_Countries_2014.txt`
+- PDF: `fao/Appropriate_Food_Packaging_Solutions_Developing_Countries_2014.pdf`
+- 标签: 包装, 发展中国家
+
+## 目录 (Contents)
+
+- Preface
+- iv
+- Executive summary
+- v
+- 1. Introduction
+- 1
+- 2. The global packaging industry
+- 3
+- 3. Food packaging in developing countries – status and trends
+- 5
+- 2.1
+- 2.2
+- 2.3
+- 2.4
+- 3.1
+- 3.2
+- 3.3
+- 3.4
+- 3.5
+- 3.6
+- 3.7
+- Industry composition
+- Supply side - by nature of end product
+- Supply side - by form and type of packaging material
+- Demand side - by end user product or industry
+- Volumes of trade
+- Meeting the needs of commodity chains
+- Market access and integration into sustainable value chains
+- Packaging technology drivers and trends
+- Regional dimensions of growth
+- The state of regional development
+- Investment opportunities in developing countries
+- 3
+- 3
+- 4
+- 4
+- 5
+- 5
+- 5
+- 6
+- 6
+- 8
+- 8
+- 4. Food packaging solutions in developing countries
+- 11
+- 5. Concluding statements
+- 23
+- References
+- 25
+- 4.1
+- 4.2
+- 4.3
+- 4.4
+- 4.5
+- 4.6
+- 4.7
+- 4.8
+- 4.9
+- 4.10
+- Addressing food losses in the value chains
+- Trade policy and legislation
+- Trade with industrialized regions
+- Product and technology development
+- Upgrading packaging technology
+- Competitiveness of small and medium enterprises (SMEs)
+- Pre-packing and contract packing
+- Recycling of packaging material
+- Packaging machinery
+- Creativity, innovations and initiatives

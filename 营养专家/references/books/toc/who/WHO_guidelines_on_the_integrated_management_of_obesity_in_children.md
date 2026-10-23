@@ -1,0 +1,60 @@
+# WHO guidelines on the integrated management of obesity in children (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/386828
+- 页数: 148
+- 全文: `text/who/WHO_guidelines_on_the_integrated_management_of_obesity_in_children.txt`
+- 标签: 婴幼儿/儿童, 肥胖
+
+## 目录 (Sections)
+
+- 2       WHO guideline on the integrated management of obesity in children
+- 4       WHO guideline on the integrated management of obesity in children
+- 6       WHO guideline on the integrated management of obesity in children
+- 8      WHO guideline on the integrated management of obesity in children
+- 10      WHO guideline on the integrated management of obesity in children
+- 12      WHO guideline on the integrated management of obesity in children
+- 14       WHO guideline on the integrated management of obesity in children
+- 16      WHO guideline on the integrated management of obesity in children
+- 18      WHO guideline on the integrated management of obesity in children
+- 20      WHO guideline on the integrated management of obesity in children
+- 22       WHO guideline on the integrated management of obesity in children
+- 24      WHO guideline on the integrated management of obesity in children
+- 26      WHO guideline on the integrated management of obesity in children
+- 28      WHO guideline on the integrated management of obesity in children
+- 30       WHO guideline on the integrated management of obesity in children
+- 32      WHO guideline on the integrated management of obesity in children
+- 34      WHO guideline on the integrated management of obesity in children
+- 36      WHO guideline on the integrated management of obesity in children
+- 38       WHO guideline on the integrated management of obesity in children
+- 40      WHO guideline on the integrated management of obesity in children
+- 42      WHO guideline on the integrated management of obesity in children
+- 44      WHO guideline on the integrated management of obesity in children
+- 46      WHO guideline on the integrated management of obesity in children
+- 48       WHO guideline on the integrated management of obesity in children
+- 2024 Jan 1;153(1):
+- 50       WHO guideline on the integrated management of obesity in children
+- 3.0 IGO.
+- 2025 Jul;16(7):100452. Epub 2025 May 24 (https://doi.org/10.1016/j.advnut.2025.100452).
+- 2024 Feb 3 (https://doi.org/10.1016/j.advnut.2024.100186).
+- 52       WHO guideline on the integrated management of obesity in children
+- 2016 Jun;48(6):1197-222 (https://doi.org/10.1249/MSS.0000000000000901).
+- 54       WHO guideline on the integrated management of obesity in children
+- 56       WHO guideline on the integrated management of obesity in children
+- 2026 May 13;5(5):CD015986 (https://doi.org/10.1002/14651858.CD015986).
+- 2025 Feb 6;392(6):555-565 (https://doi.org/10.1056/NEJMoa2407379).
+- 2021 Sep;236:137-147.e13. Epub 2021 May 11 (https://doi.org/10.1016/j.jpeds.2021.05.009).
+- 58       WHO guideline on the integrated management of obesity in children
+- 60   WHO guideline on the integrated management of obesity in children
+- 62     WHO guideline on the integrated management of obesity in children
+- 64     WHO guideline on the integrated management of obesity in children
+- 66     WHO guideline on the integrated management of obesity in children
+- 68           WHO guideline on the integrated management of obesity in children
+- 70             WHO guideline on the integrated management of obesity in children
+- 72            WHO guideline on the integrated management of obesity in children
+- 74        WHO guideline on the integrated management of obesity in children
+- 76      WHO guideline on the integrated management of obesity in children
+- 78       WHO guideline on the integrated management of obesity in children
+- 80              WHO guideline on the integrated management of obesity in children
+- 82       WHO guideline on the integrated management of obesity in children
+- 84        WHO guideline on the integrated management of obesity in children

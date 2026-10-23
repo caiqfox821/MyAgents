@@ -1,0 +1,79 @@
+# Dietary Bioactive Compounds (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3418-1
+- 页数: 240
+- 全文: `text/mdpi/Dietary_Bioactive_Compounds_2025.txt`
+- 标签: 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Doretta Cuffaro, Maria Digiacomo and Marco Macchia
+- Dietary Bioactive Compounds: Implications for Oxidative Stress and Inﬂammation
+- Reprinted from: Nutrients 2023, 15, 4966, https://doi.org/10.3390/nu15234966 . . . . . . . . . .                 1
+- Joanna Harasym, Katarzyna Dziendzikowska, Łukasz Kopiasz, Jacek Wilczak,
+- Rafał Sapierzyński and Joanna Gromadzka-Ostrowska
+- Consumption of Feed Supplemented with Oat Beta-Glucan as a Chemopreventive Agent
+- against Colon Cancerogenesis in Rats
+- Reprinted from: Nutrients 2024, 16, 1125, https://doi.org/10.3390/nu16081125 . . . . . . . . . .                 9
+- Doretta Cuffaro, Andrea Bertolini, Simone Bertini, Claudio Ricci, Maria Grazia Cascone,
+- Serena Danti, et al.
+- Olive Mill Wastewater as Source of Polyphenols with Nutraceutical Properties
+- Reprinted from: Nutrients 2023, 15, 3746, https://doi.org/10.3390/nu15173746 . . . . . . . . . . 29
+- Stefano Piazza, Giulia Martinelli, Marco Fumagalli, Carola Pozzoli, Nicole Maranta,
+- Flavio Giavarini, et al.
+- Ellagitannins from Castanea sativa Mill.        Leaf Extracts Impair H. pylori Viability and
+- Infection-Induced Inﬂammation in Human Gastric Epithelial Cells
+- Reprinted from: Nutrients 2023, 15, 1504, https://doi.org/10.3390/nu15061504 . . . . . . . . . . 42
+- Doretta Cuffaro, Simone Bertini, Marco Macchia and Maria Digiacomo
+- Enhanced Nutraceutical Properties of Extra Virgin Olive Oil Extract by Olive Leaf Enrichment
+- Reprinted from: Nutrients 2023, 15, 1073, https://doi.org/10.3390/nu15051073 . . . . . . . . . . 62
+- Yuehan Wang, Xutao Zhang, Chunxiu Zhou, Haroon Khan, Manqin Fu and Wai San Cheang
+- Citri Reticulatae Pericarpium (Chenpi) Protects against Endothelial Dysfunction and Vascular
+- Inﬂammation in Diabetic Rats
+- Reprinted from: Nutrients 2022, 14, 5221, https://doi.org/10.3390/nu14245221 . . . . . . . . . . 74
+- Yu-Chen Liu, Chun-Chao Chang, Hirofumi Matsui and Jane C.-J. Chao
+- C-Phycocyanin and Lycium barbarum Polysaccharides Protect against Aspirin-Induced
+- Inﬂammation and Apoptosis in Gastric RGM-1 Cells
+- Reprinted from: Nutrients 2022, 14, 5113, https://doi.org/10.3390/nu14235113 . . . . . . . . . . 85
+- Ana R. Nunes, José D. Flores-Félix, Ana C. Gonçalves, Amı́lcar Falcão, Gilberto Alves and
+- Luı́s R. Silva
+- Anti-Inﬂammatory and Antimicrobial Activities of Portuguese Prunus avium L. (Sweet Cherry)
+- By-Products Extracts
+- Reprinted from: Nutrients 2022, 14, 4576, https://doi.org/10.3390/nu14214576 . . . . . . . . . . 96
+- Yunji Bae, Taeyoung Kim, Nojune Park, Sangho Choi, Dongkeun Yi, Silvia Soto, et al.
+- Ameliorative Effects of Daphnopsis costaricensis Extract against Oxazolone-Induced Atopic
+- Dermatitis-like Lesions in BALB/c Mice
+- Reprinted from: Nutrients 2022, 14, 4521, https://doi.org/10.3390/nu14214521 . . . . . . . . . . 110
+- Magdalena Paczkowska-Walendowska, Andrzej Miklaszewski and Judyta Cielecka-Piontek
+- Is It Possible to Improve the Bioavailability of Resveratrol and Polydatin Derived from
+- Polygoni cuspidati Radix as a Result of Preparing Electrospun Nanoﬁbers Based on
+- Polyvinylpyrrolidone/Cyclodextrin?
+- Reprinted from: Nutrients 2022, 14, 3897, https://doi.org/10.3390/nu14193897 . . . . . . . . . . 120
+-                                                         v
+- Hui-Chen Lo, Yu-Hsin Chen and Wen-Tzu Wu
+- Ethanol Extracts of Rice Bran and Whole Grain Adlay Seeds Mitigate Colonic Inﬂammation and
+- Damage in Mice with Colitis
+- Reprinted from: Nutrients 2022, 14, 3877, https://doi.org/10.3390/nu14183877 . . . . . . . . . . 136
+- Zhen Luo, Qingying Gao, Yuanfei Li, Yifei Bai, Jing Zhang, Weina Xu, et al.
+- Flammulina velutipes Mycorrhizae Attenuate High Fat Diet-Induced Lipid Disorder, Oxidative
+- Stress and Inﬂammation in the Liver and Perirenal Adipose Tissue of Mice
+- Reprinted from: Nutrients 2022, 14, 3830, https://doi.org/10.3390/nu14183830 . . . . . . . . . . 149
+- Maria Belen Gutierrez-Barrutia, Sonia Cozzano, Patricia Arcia and
+- Maria Dolores del Castillo
+- In Vitro Digestibility and Bioaccessibility of Nutrients and Non-Nutrients Composing Extruded
+- Brewers’ Spent Grain
+- Reprinted from: Nutrients 2022, 14, 3480, https://doi.org/10.3390/nu14173480 . . . . . . . . . . 166
+- Ruohong Chen, Yingyi Lian, Shuai Wen, Qiuhua Li, Lingli Sun, Xingfei Lai, et al.
+- Shibi Tea (Adinandra nitida) and Camellianin A Alleviate CCl4 -Induced Liver Injury in C57BL-6J
+- Mice by Attenuation of Oxidative Stress, Inﬂammation, and Apoptosis
+- Reprinted from: Nutrients 2022, 14, 3037, https://doi.org/10.3390/nu14153037 . . . . . . . . . . 191
+- Anna Merecz-Sadowska, Przemysław Sitarek, Tomasz Kowalczyk, Karolina Zajdel,
+- Mariusz Je˛cek, Paweł Nowak, et al.
+- Food Anthocyanins: Malvidin and Its Glycosides as Promising Antioxidant and
+- Anti-Inﬂammatory Agents with Potential Health Beneﬁts
+- Reprinted from: Nutrients 2023, 15, 3016, https://doi.org/10.3390/nu15133016 . . . . . . . . . . 204
+-                                                  vi
+- Preface
+-     The following reprint of the Special Issue (SI) “Dietary Bioactive Compounds: Implications

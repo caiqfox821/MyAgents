@@ -1,0 +1,81 @@
+# Sustainable Rice Straw Management (2019, Springer (OA))
+
+- 许可: CC BY
+- 来源: https://doi.org/10.1007/978-3-030-32373-8
+- 页数: 199
+- 全文: `text/rice/Sustainable_Rice_Straw_Management_2019.txt`
+- PDF: `rice/Sustainable_Rice_Straw_Management_2019.pdf`
+- 标签: 水稻, 秸秆, 循环利用
+
+## 目录 (Contents)
+
+- 1	Rice Straw Overview: Availability, Properties,
+-     and Management Practices ��������������������������������������������������������������������    1
+-     Nguyen Van Hung, Monet Concepcion Maguyon-Detras,
+-     Maria Victoria Migo, Reianne Quilloy, Carlito Balingbing,
+-     Pauline Chivenge, and Martin Gummert
+- 2	Mechanized Collection and Densification of Rice Straw����������������������   15
+-     Carlito Balingbing, Nguyen Van Hung, Nguyen Thanh Nghi,
+-     Nguyen Van Hieu, Ampy Paulo Roxas, Caesar Joventino Tado,
+-     Elmer Bautista, and Martin Gummert
+- 3	Rice Straw-Based Composting����������������������������������������������������������������   33
+-     Nguyen Thanh Nghi, Ryan R. Romasanta, Nguyen Van Hieu,
+-     Le Quang Vinh, Nguyen Xuan Du, Nguyen Vo Chau Ngan,
+-     Pauline Chivenge, and Nguyen Van Hung
+- 4	Thermochemical Conversion of Rice Straw������������������������������������������   43
+-     Monet Concepcion Maguyon-Detras, Maria Victoria P. Migo,
+-     Nguyen Van Hung, and Martin Gummert
+- 5	Anaerobic Digestion of Rice Straw for Biogas Production������������������   65
+-     Nguyen Vo Chau Ngan, Francis Mervin S. Chan, Tran Sy Nam,
+-     Huynh Van Thao, Monet Concepcion Maguyon-Detras,
+-     Dinh Vuong Hung, Do Minh Cuong, and Nguyen Van Hung
+- 6	Rice-Straw Mushroom Production��������������������������������������������������������   93
+-     Le Vinh Thuc, Rizal G. Corales, Julius T. Sajor,
+-     Ngo Thi Thanh Truc, Phan Hieu Hien, Remelyn E. Ramos,
+-     Elmer Bautista, Caesar Joventino M. Tado, Virgina Ompad,
+-     Dang Thanh Son, and Nguyen Van Hung
+-                                                                                                     ix
+- x                                                                                               Contents
+- 7	Rice Straw-Based Fodder for Ruminants���������������������������������������������� 111
+-     Daniel Aquino, Arnel Del Barrio, Nguyen Xuan Trach,
+-     Nguyen Thanh Hai, Duong Nguyen Khang, Nguyen Tat Toan,
+-     and Nguyen Van Hung
+- 8	Rice Straw Incorporation Influences Nutrient Cycling
+-     and Soil Organic Matter�������������������������������������������������������������������������� 131
+-     Pauline Chivenge, Francis Rubianes, Duong Van Chin,
+-     Tran Van Thach, Vu Tien Khang, Ryan R. Romasanta,
+-     Nguyen Van Hung, and Mai Van Trinh
+- 9	Rice Straw Management Effects on Greenhouse
+-     Gas Emissions and Mitigation Options�������������������������������������������������� 145
+-     Justin Allen, Kristine S. Pascual, Ryan R. Romasanta, Mai Van
+-     Trinh, Tran Van Thach, Nguyen Van Hung, Bjoern Ole Sander,
+-     and Pauline Chivenge
+- 10	Life Cycle Assessment Applied in Rice Production
+-      and Residue Management ���������������������������������������������������������������������� 161
+-      Nguyen Van Hung, Maria Victoria Migo, Reianne Quilloy,
+-      Pauline Chivenge, and Martin Gummert
+- 11	Rice Straw Value Chains and Case Study on Straw
+-      Mushroom in Vietnam’s Mekong River Delta�������������������������������������� 175
+-      Matty Demont, Thi Thanh Truc Ngo, Nguyen Van Hung,
+-      Giang Phuong Duong, Toàn Minh Dương, Hinh The Nguyen,
+-      Ninh Thai Hoang, Marie Claire Custodio, Reianne Quilloy,
+-      and Martin Gummert
+- Contributors
+- Justin Allen International Rice Research Institute (IRRI), Los Baños, Laguna,
+- Philippines
+- Daniel Aquino Philippine Carabao Center, Central Luzon State University
+- (CLSU), Muñoz, Philippines
+- Carlito Balingbing International Rice Research Institute (IRRI), Los Baños,
+- Laguna, Philippines
+- Elmer Bautista Philippine Rice Research Institute (PhilRice), Los Baños,
+- Philippines
+- Francis Mervin S. Chan University of the Philippines Los Baños, Los Baños,
+- Philippines
+- Pauline Chivenge International Rice Research Institute (IRRI), Los Baños,
+- Laguna, Philippines
+- Rizal G. Corales Philippine Rice Research Institute (PhilRice), Los Baños,
+- Philippines
+- Do Minh Cuong Hue University, Hue, Vietnam
+- Marie Claire Custodio International Rice Research Institute (IRRI), Los Baños,
+- Laguna, Philippines
+- Arnel Del Barrio Philippine Carabao Center, National Headquarters, Muñoz,

@@ -1,0 +1,80 @@
+# Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age: web annex : evidence profiles (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/311663
+- 页数: 78
+- 全文: `text/who/Guidelines_on_physical_activity_sedentary_behaviour_and_sleep_for_children_under_5_years_o_d6bcc2.txt`
+- 标签: 婴幼儿/儿童, 身体活动
+
+## 目录 (Contents)
+
+- Introduction
+-                     1
+- 1.1 Physical Activity
+-                             2
+- 1.2 Sedentary Behaviour						27
+- 1.3 Sleep								42
+- 1.4 Integrated								55
+- References								62
+-                                                         reviews for randomised controlled trials and cohort        specific recommendations. The EtD framework is a
+- Introduction                                            studies for critical indicators only, for the Australian   systematic, structured and transparent approach to
+- The Guideline Development Group (GDG) decided           guidelines through to March 2017, using the same           decision making. The framework employs explicit
+- on the scope of the guideline and PICO (Population,     search criteria and methods. This resulted in the          criteria for generating guideline recommendations
+- Intervention, Comparison, Outcome) questions at         addition of one study on physical activity, three on       in light of research evidence, certainty of evidence,
+- their first meeting. They requested that the            sedentary behaviour, three on sleep and none on            and where required, expert opinion and topical
+- available systematic reviews be updated to reflect      integrated behaviours (5). The GDG reviewed the            knowledge from the perspective of the target
+- recent data and explore sources of data in all six      existing systematic reviews and requested that             audience.
+- WHO official languages.                                 these be updated to include high quality studies
+-                                                                                                                    1. Carson V, Lee EY, Hewitt L, Jennings C, Hunter S, Kuzik N, et
+- The systematic reviews conducted up to April 2016       published since the Australian update and those               al. Systematic review of the relationships between physical
+- for the Canadian 24-Hour Movement Guidelines for        identified in all official WHO languages to reflect           activity and health indicators in the early years (0-4 years).
+- the Early Years were led by Valerie Carson (1),         the final PICO questions.                                     BMC Public Health. 2017;17(Suppl 5):854.
+- Veronica Poitras (2), Jean-Philippe Chaput (3) and                                                                 2. Poitras VJ, Gray CE, Janssen X, Aubert S, Carson V, Faulkner
+-                                                         Additional literature searches, using the same                G, et al. Systematic review of the relationships between
+- Nicholas Kuzik (4) under the overall leadership of Dr   search terms and methods as the original                      sedentary behaviour and health indicators in the early
+- Mark Tremblay. The search strategies were               systematic reviews were conducted and summaries               years (0-4 years). BMC Public Health. 2017;17(Suppl 5):868.
+- developed and peer-reviewed by experts in               of the evidence and GRADE tables were updated in           3. Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken
+- systematic reviews. The following databases were        December 2017(6).                                             CS, et al. Systematic review of the relationships between
+- search in April 216: MEDLINE, SPORTDiscus,                                                                            sleep duration and health indicators in the early years (0-4
+- EMBASE, PsycINFO, CENTRAL to identify studies           For physical activity, fifteen additional studies were        years). BMC Public Health. 2017;17(Suppl 5):855.
+- that were peer-reviewed, written in English or          identified, of which only six were of experimental         4. Kuzik N, Poitras VJ, Tremblay MS, Lee EY, Hunter S, Carson
+- French and met the systematic review criteria           or longitudinal design and were extracted. For                V. Systematic review of the relationships between
+- (apparently healthy children aged under 5 years of      sedentary behaviour, an additional 15 studies were            combinations of movement behaviours and health
+- age, objectively or subjectively measured physical      identified, of which only four were longitudinal              indicators in the early years (0-4 years). BMC Public Health.
+-                                                         studies (no experimental studies) that were                   2017;17(Suppl 5):849.
+- activity/sedentary time/screen time/sleep duration
+- reporting critical outcomes of adiposity, motor         extracted. For sleep an additional 11 studies were         5. Okely AD, Ghersi D, Hesketh KD, Santos R, Loughran SP,
+-                                                         identified, of which only five were of longitudinal           Cliff DP, et al. A collaborative approach to
+- development, psychosocial health, cognitive
+-                                                                                                                       adopting/adapting guidelines - The Australian 24-Hour
+- development, growth, cardiometabolic health and         study design and were extracted. For integrated
+-                                                                                                                       Movement Guidelines for the early years (Birth to 5 years):
+- fitness and additional outcomes of bone/skeletal        physical activity, sedentary and sleep (movement)             an integration of physical activity, sedentary behavior, and
+- health and risk of injuries). These systematic          behaviours, an additional 4 studies were identified,          sleep. BMC Public Health. 2017;17(Suppl 5):869.
+- reviews were registered with the International          of which three were of experimental or longitudinal        6. Organization WH. Summary report of the update of
+- Prospective Register of Ongoing Systematic              design and were extracted.                                    systematic reviews of the evidence to inform the WHO
+- Reviews and used the GRADE framework to                                                                               guidelines on physical activity, sedentary behaviour and
+-                                                         The GDG employed the GRADE Evidence to                        sleep in children under 5 years of age. Geneva: World
+- determine the quality of evidence. Dr Anthony
+-                                                         Decisions (EtD) framework for generating question             Health Organization; 2018.
+- Okely oversaw the updating of these systematic
+-                                                                                    1
+- EVIDENCE PROFILES
+- 1.1 Physical Activity
+- PICO: In children under 5 years of age what dose (i.e., durations, frequencies, patterns, types, and intensities) of physical activity, as measured by objective and subjective
+- methods, is associated with favourable health indicators?
+- (black font is from original GRADE Tables of Carson et al., 2017 – red font is updates from Australian Guidelines - blue font are additions/edits based on recent WHO updates)
+- Table 1.1.1 The relationship between physical activity and adiposity.
+- No. of      design          Quality Assessment                                                                  No. of
+- studies                     Risk of       inconsistency       Indirectness      imprecision         other       participants      Absolute effect                                     Quality
+-                             bias
+- Mean baseline age ranged from 41 weeks to 59.6 months; where mean age was not reported, baseline age ranged from 2 weeks to <6 years. Data were collected by randomized control
+- trial (n=1), clustered randomized control trial (n=3), non-randomized trial (n=2), longitudinal (n=9), case-control (n=3), cross-sectional (n=40) study designs with up to 4-year follow-up.
+- Adiposity was assessed by BMI (objectively measured), weight-for-height z-score (objectively measured), BMI z-score (objectively measured; Center for Disease Control, World Health
+- Organization, other country-specific reference data), weight/height3 (objectively measured), weight percentiles (objectively measured), relative weights (objectively measured; country-
+- specific reference data), non-overweight and overweight (objectively measured, proxy-reported; Center for Disease Control ≥ 85th percentile, International Obesity Task Force, other
+- country-specific reference data), non-obese and obese (objectively measured; BMI>18, BMI percentile ≥95, World Health Organization, Center for Disease Control, Kaup index), normal
+- weight, overweight, obese (objectively measured; ≥85th and ≥95thpercentiles, International Obesity Task Force), waist circumference (objectively measured), percentiles of waist
+- circumference (objectively measured), hip circumference (objectively measured), waist to hip ratio (objectively measured), waist circumference z-score (Netherlands reference data), waist
+- circumference-for- age z-score (objectively measured), sum of skinfolds (objectively measured), triceps skinfold thickness (objectively measured), body fat % (bioelectrical impedance,
+- dual-energy X-ray absorptiometry), fat mass index (dual energy x ray absorptiometry, air- displacement plethysmography), fat free mass index (dual energy x ray absorptiometry, air-

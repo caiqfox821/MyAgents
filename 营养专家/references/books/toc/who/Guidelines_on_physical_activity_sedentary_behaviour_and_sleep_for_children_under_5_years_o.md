@@ -1,0 +1,80 @@
+# Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/311664
+- 页数: 36
+- 全文: `text/who/Guidelines_on_physical_activity_sedentary_behaviour_and_sleep_for_children_under_5_years_o.txt`
+- 标签: 婴幼儿/儿童, 身体活动
+
+## 目录 (Contents)
+
+- Glossary of terms								 iv
+- Acknowledgements								 vi
+- Executive summary								vii
+- Introduction
+-                      1
+-   Background
+-                      1
+-   Rationale
+-                     2
+-   Scope and purpose of guidelines
+-                                        3
+- Recommendations
+-                        6
+-   Physical activity
+-                            6
+-   Sedentary time
+-                         8
+-   Sleep time									10
+-   Integrated recommendations							11
+-   Research gaps								13
+-   Dissemination, implementation and evaluation				                13
+- Management of guideline development process				                   14
+-   Contributors to guideline development					14
+-   Evidence to recommendations						15
+-   Peer review									16
+-   Evaluation									16
+-   Updating									16
+- References									17
+- Annex: Guideline Development Group, external peer reviewers and
+- WHO staff involved in the development of these guidelines			      21
+- Web Annex: Evidence profiles (WHO/NMH/PND/19.2;
+- https://apps.who.int/iris/handle/10665/311663 )
+-                                                                        Contents   iii
+-                                                                                                        GLOSSARY OF TERMS
+-                                                                                                        Term                       Abbreviation      Definition
+-                                                                                                        Adiposity                                    Excessive fat accumulation in the body (overweight, obesity), as measured by BMI, BMI-for-age,
+-                                                                                                                                                     BMI z-score, skinfold thickness, body fat mass.
+- WHO guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age
+-                                                                                                        Body composition                             The proportion of fat and fat-free mass in the body. This can be measured as percentage body fat.
+-                                                                                                                                                     Body mass index (see below) and waist circumference are proxies for body composition and in most
+-                                                                                                                                                     situations, are good indicators of health risk associated with excess adiposity.
+-                                                                                                        Body mass index                  BMI         Weight (kg) / height (m)2
+-                                                                                                                                     BMI-for-age     BMI adjusted for age, standardized for children.
+-                                                                                                                                    or BMI z-score   BMI standard deviation scores are measures of relative weight adjusted for child age and sex.
+-                                                                                                                                                     Given a child’s age, sex, BMI, and an appropriate reference standard, a BMI z-score (or its equivalent
+-                                                                                                                                                     BMI-for-age percentile) can be determined.
+-                                                                                                        Cardiometabolic health                       The interplay of blood pressure, blood lipids, glucose and insulin on health.
+-                                                                                                        Cognitive development                        The process of learning, memory, attention, concentration and language development.
+-                                                                                                        Disability                                   Term for impairments, activity limitations and participation restrictions.
+-                                                                                                        Emotional regulation                         An individual’s ability to manage and respond to emotional experiences such as stress, anxiety,
+-                                                                                                                                                     mood, temperament, hyperactivity/impulsivity.
+-                                                                                                        Energetic play                               Active play that is equivalent to moderate-to-vigorous physical activity, when children get out
+-                                                                                                                                                     of breath and feel warm. This may take many forms and may involve other children, caregivers,
+-                                                                                                                                                     objects or not.
+-                                                                                                        Exercise                                     Physical activity that is planned, structured, generally repetitive and has purpose.
+-                                                                                                        Fitness                                      A measure of the body's ability to function efficiently and effectively in work and leisure activities
+-                                                                                                                                                     and includes, for example, physical fitness and cardiorespiratory fitness.
+-                                                                                                        Floor-based play                             Supervised play for infants, where children move on the floor and develop motor skills.
+-                                                                                                        Infant                                       Child aged less than one year, for the purposes of studies aged 0–11.9 months.
+-                                                                                                        Interactive activities                       Activities with a parent or caregiver that do not involve screens as a mode of entertainment.
+-                                                                                                                                                     These can include reading, singing, storytelling, colouring, block building, cutting out, puzzles
+-                                                                                                                                                     and games.
+-                                                                                                        Interactive play                             See “Play”.
+-                                                                                                                                                     Interactive play is play with a parent or caregiver where the child and adult/older child interact and
+-                                                                                                                                                     engage in play for both cognitive and motor learning.
+-                                                                                                        Light-intensity physical         LPA         LPA is equivalent to 1.5–4 METs in children, i.e., activities with energy cost 1.5 to 4.0 times the
+-                                                                                                        activity                                     energy expenditure at rest for that child.
+-                                                                                                                                                     For young children, this can include slow walking, bathing, or other incidental activities that do not
+-                                                                                                                                                     result in the child getting hot or short of breath.
+-                                                                                                        Metabolic equivalent            MET          The metabolic equivalent of task, or simply metabolic equivalent, is a physiological measure

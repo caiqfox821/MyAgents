@@ -1,0 +1,74 @@
+# Feature Papers in Drug Toxicity (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0441-2
+- 页数: 180
+- 全文: `text/mdpi/Feature_Papers_in_Drug_Toxicity_2024.txt`
+- 标签: risk, tox
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Beatriz Yamada Costa, Luana Gasparini Santos, Priscila Marianno, Mariana Rae, Marina
+- Gomes de Almeida, Malcon Carneiro de Brito, et al.
+- Carbetocin Inhibits Behavioral Sensitization to Ethanol in Male and Female Mice, Independent
+- of Corticosterone Levels
+- Reprinted from: Toxics 2023, 11, 893, doi:10.3390/toxics11110893 . . . . . . . . . . . . . . . . . . .            1
+- Woonyen Wong and Youssef Sari
+- Effects of Chronic Hydrocodone Exposure and Ceftriaxone on the Expression of Astrocytic
+- Glutamate Transporters in Mesocorticolimbic Brain Regions of C57/BL Mice
+- Reprinted from: Toxics 2023, 11, 870, doi:10.3390/toxics11100870 . . . . . . . . . . . . . . . . . . . 17
+- Shaimaa ElShebiney, Rania Elgohary, Marwa El-Shamarka, Noha Mowaad and Osama A.
+- Abulseoud
+- Natural Polyphenols—Resveratrol, Quercetin, Magnolol, and β-Catechin—Block Certain
+- Aspects of Heroin Addiction and Modulate Striatal IL-6 and TNF-α
+- Reprinted from: Toxics 2023, 11, 379, doi:10.3390/toxics11040379 . . . . . . . . . . . . . . . . . . . 31
+- Jawaher Alrashdi, Gadah Albasher, Mohammed M. Alanazi, Wedad Saeed Al-Qahtani,
+- Abdulkareem A. Alanezi and Fawaz Alasmari
+- Effects of Rosmarinus ofﬁcinalis L. Extract on Neurobehavioral and Neurobiological Changes in
+- Male Rats with Pentylenetetrazol-Induced Epilepsy
+- Reprinted from: Toxics 2023, 11, 826, doi:10.3390/toxics11100826 . . . . . . . . . . . . . . . . . . . 48
+- Amira M. El-Moslemany, Mai Hussein Abd-Elfatah, Nawal A. Tahoon, Rasha M. Bahnasy,
+- Badriyah S. Alotaibi, Heba I. Ghamry and Mustafa Shukry
+- Mechanistic Assessment of Anise Seeds and Clove Buds against the Neurotoxicity Caused by
+- Metronidazole in Rats: Possible Role of Antioxidants, Neurotransmitters, and Cytokines
+- Reprinted from: Toxics 2023, 11, 724, doi:10.3390/toxics11090724 . . . . . . . . . . . . . . . . . . . 65
+- Salwa A. Elgendy, Mohamed Mohamed Soliman, Heba I. Ghamry, Mustafa Shukry, Lina
+- Abdelhady Mohammed, Hend Elsayed Nasr, et al.
+- Exploration of Tilmicosin Cardiotoxicity in Rats and the Protecting Role of the Rhodiola rosea
+- Extract: Potential Roles of Cytokines, Antioxidant, Apoptotic, and Anti-Fibrotic Pathways
+- Reprinted from: Toxics 2023, 11, 857, doi:10.3390/toxics11100857 . . . . . . . . . . . . . . . . . . . 80
+- Alaa M. Hammad, Baraa Shawaqfeh, Suhair Hikmat, Tariq Al-Qirim, Lama Hamadneh,
+- Sameer Al-Kouz, et al.
+- The Role of Vitamin E in Protecting against Oxidative Stress, Inﬂammation, and the Neurotoxic
+- Effects of Acute Paracetamol in Pregnant Female Rats
+- Reprinted from: Toxics 2023, 11, 368, doi:10.3390/toxics11040368 . . . . . . . . . . . . . . . . . . . 102
+- Amira Elfarnawany and Faramarz Dehghani
+- Time- and Concentration-Dependent Adverse Effects of Paclitaxel on Non-Neuronal Cells in
+- Rat Primary Dorsal Root Ganglia
+- Reprinted from: Toxics 2023, 11, 581, doi:10.3390/toxics11070581 . . . . . . . . . . . . . . . . . . . 117
+-                                                          v
+- Mervat A. AbdRabou, Barakat M. Alrashdi, Hadeel K. Alruwaili, Reda H. Elmazoudy,
+- Maha A. Alwaili, Sarah I. Othman, et al.
+- Exploration of Maternal and Fetal Toxicity Risks for Metronidazole-Related Teratogenicity and
+- Hepatotoxicity through an Assessment in Albino Rats
+- Reprinted from: Toxics 2023, 11, 303, doi:10.3390/toxics11040303 . . . . . . . . . . . . . . . . . . . 137
+- Tingting Mai, Youyou Zhang and Shuquan Zhao
+- Xylazine Poisoning in Clinical and Forensic Practice: Analysis Method, Characteristics,
+- Mechanism and Future Challenges
+- Reprinted from: Toxics 2023, 11, 1012, doi:10.3390/toxics11121012 . . . . . . . . . . . . . . . . . . 155
+-                                                     vi
+- About the Editor
+- Youssef Sari
+-      Dr. Youssef Sari is a Professor of Pharmacology at the University of Toledo, College of Pharmacy
+- and Pharmaceutical Sciences, Department of Pharmacology and Experimental Therapeutics. Dr.
+- Sari’s research has contributed signiﬁcantly to the ﬁeld of drugs of abuse, including alcohol, nicotine,
+- cocaine, opioids, and methamphetamine. He has over 122 publications in good- to high-quality,
+- peer-reviewed research journals and over 8 published book chapters. Based on his outstanding
+- achievement in his ﬁeld, he is now listed as Top #1 Expert Worldwide in the area of Excitatory
+- Amino Acid Transporter 2 in the brain by Expertscape Inc. He has received several awards and
+- honors in recognition of his excellent contributions to the scientiﬁc literature in the ﬁeld of drugs of
+- abuse. Among these awards are the Sigma Xi Young Investigator Award, the President’s Research
+- and Scholarship Award, Shining Star Award, and the Outstanding Faculty Research and Scholarship
+- Award. Dr. Sari’s research programs have been funded for several years by prestigious awards from

@@ -1,0 +1,75 @@
+# Production of high-value products from by-products of aquatic food processing (2024, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/cd3041en/cd3041en.pdf
+- 页数: 48
+- 全文: `text/fao/High_Value_Products_By_Products_Aquatic_Food_2024.txt`
+- PDF: `fao/High_Value_Products_By_Products_Aquatic_Food_2024.pdf`
+- 标签: 水产加工, 副产物, 高值化
+
+## 目录 (Contents)
+
+- Preparation of this document
+- Abstract
+- Abbreviations
+- iii
+- iv
+- vii
+- 1. Introduction
+- 1
+- 2. Production and utilization of high-value products from the by-products
+- of aquatic food processing
+- 2.1		Collagen
+- 3
+- 3
+- 			2.1.1
+- Product description
+- 2.2		 Gelatine
+- 2.3		Peptides
+- 			2.3.1
+- 			2.3.2
+- 			 2.3.3
+- 			 2.3.4
+- Product description
+- Raw material
+- How to make peptides from the by-products of aquatic food processing
+- Utilization
+- 2.4
+- Chitin and chitosan
+- 2.4.1
+- 2.4.2
+- 2.4.3
+- 			2.4.4
+- Product description
+- Raw material
+- How to make chitin and chitosan from the by-products of fish processing
+- Utilization
+- 2.5		Chondroitin sulphate
+- 			2.5.1
+- 			2.5.2
+- 			 2.5.3
+- 			 2.5.4
+- Product description
+- Raw material
+- How to make chondroitin sulphate from the by-products of fish processing
+- Utilization
+- 2.6
+- Others
+- 2.6.1
+- 2.6.2
+- 3
+- 6
+- 9
+- 9
+- 9
+- 9
+- 11
+- 12
+- 12
+- 13
+- 13
+- 14
+- 16
+- 16
+- 16
+- 17

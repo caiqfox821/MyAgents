@@ -1,0 +1,79 @@
+# Abiotic Stress in Plants (2020, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/10363
+- 页数: 496
+- 全文: `text/crops/Abiotic_Stress_in_Plants_2020.txt`
+- PDF: `crops/Abiotic_Stress_in_Plants_2020.pdf`
+- 标签: 逆境胁迫, 抗旱, 抗盐
+
+## 目录 (Contents)
+
+- Preface                                                                      XV
+- Chapter 1                                                                      1
+- A Review on Kentucky Bluegrass Responses and Tolerance to Drought Stress
+- by Jian Cui, Saud Shah, Shah Fahad and Yajun Chen
+- Chapter 2                                                                     13
+- Management of Abiotic Stress in Forage Crops
+- by Amanpreet Singh and Harmandeep Singh Chahal
+- Chapter 3                                                                    29
+- Responses of Neotropical Savannah Plant Species to Abiotic Stresses:
+- A Structural and Functional Overview
+- by Silvana Aparecida Barbosa de Castro and Vinícius Coelho Kuster
+- Chapter 4                                                                    59
+- Influence of Water Stress on Growth, Chlorophyll Contents and Solute
+- Accumulation in Three Accessions of Vicia faba L. from Tunisian Arid
+- Region by Hanen Enneb, Leila Ben Yahya, Mohamed Ilyas, Datta Asaram
+- Dhale, Mohamed Bagues and Kamel Nagaz
+- Chapter 5                                                                     73
+- Abiotic Stress Responses in Plants: Current Knowledge and Future Prospects
+- by Deeksha Marothia, Navdeep Kaur and Pratap Kumar Pati
+- Chapter 6                                                                    91
+- Molecular Abiotic Stress Tolerans Strategies: From Genetic Engineering
+- to Genome Editing Era
+- by Sinan Meriç, Alp Ayan and Çimen Atak
+- Chapter 7                                                                    127
+- Elevated CO2 Concentration Improves Heat-Tolerant Ability in Crops
+- by Ayman EL Sabagh, Akbar Hossain, Mohammad Sohidul Islam,
+- Muhammad Aamir Iqbal, Ali Raza, Çetin Karademir, Emine Karademir,
+- Abdul Rehman, Md Atikur Rahman, Rajesh Kumar Singhal, Analía Llanes,
+- Muhammad Ali Raza, Muhammad Mubeen, Wajid Nasim,
+- Celaleddin Barutçular, Ram Swaroop Meena and Hirofumi Saneoka
+- Chapter 8                                                                     145
+- Ecological and Economic Potential of Major Halophytes and Salt Tolerant
+- Vegetation in India
+- by T.V. Vineeth, Shrvan Kumar, Monika Shukla, Anil Chinchmalatpure
+- and Parbodh Chander Sharma
+- Chapter 9                                                                     177
+- Protagonist of Mineral Nutrients in Drought Stress Tolerance of Field Crops
+- by Malik Ghulam Asghar and Anam Bashir
+- Chapter 10                                                                    199
+- An Insight into the Responses of Early-Maturing Brassica napus to Different
+- Low-Temperature Stresses
+- by Xin He
+- Chapter 11                                                                    211
+- Effects of Salinity on Seed Germination and Early Seedling Stage
+- by Cüneyt Uçarlı
+- Chapter 12                                                                    233
+- Abiotic Stress Tolerance in Crop Plants: Role of Phytohormones
+- by Haifa Abdulaziz S. Alhaithloul, Abdelghafar M. Abu-Elsaoud
+- and Mona H. Soliman
+- Chapter 13                                                                    257
+- Morphophysiological Traits, Biochemical Characteristic and Productivity
+- of Wheat under Water and Nitrogen-Colimitation: Pathways to Improve
+- Water and N Uptake
+- by Nawab Ali and Mohammad Akmal
+- Chapter 14                                                                    285
+- Adapting Cereal Grain Crops to Drought Stress: 2020 and Beyond
+- by Tinashe Zenda, Songtao Liu and Huijun Duan
+- Chapter 15                                                                    315
+- Abiotic Stress-Induced Molecular and Physiological Changes and Adaptive
+- Mechanisms in Plants
+- by Sivaji Mathivanan
+- Chapter 16                                                                    337
+- HSPs under Abiotic Stresses
+- by Noor ul Haq and Samina N. Shakeel
+- Chapter 17                                                                    353
+- Plant Growth and Morphophysiological Modifications in Perennial Ryegrass
+- under Environmental Stress
+- by Fuchun Xie, Rahul Datta and Dong Qin

@@ -1,0 +1,69 @@
+# Enzyme Inhibitors and Activators (2017, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/5540
+- 页数: 270
+- 全文: `text/intechopen/Enzyme_Inhibitors_and_Activators_2017.txt`
+- PDF: `intechopen/Enzyme_Inhibitors_and_Activators_2017.pdf`
+- 标签: 酶工程, 生物催化
+
+## 目录 (Contents)
+
+-                  Preface XI
+-      Section 1   Enzyme Inhibition 1
+-      Chapter 1   Peptidases and the Renin-Angiotensin System: The Alternative
+-                  Angiotensin-(1-7) Cascade 3
+-                  Nildris Cruz-Diaz, Bryan A. Wilson and Mark C. Chappell
+-      Chapter 2   Programmed Cell Death-Related Proteases in Plants 25
+-                  Gustavo Lemos Rocha, Jorge Hernandez Fernandez, Antônia Elenir
+-                  Amâncio Oliveira and Kátia Valevski Sales Fernandes
+-      Chapter 3   Effect of High-Pressure Technologies on Enzymes Applied in
+-                  Food Processing 49
+-                  Bruno Ricardo de Castro Leite Júnior, Alline Artigiani Lima Tribst
+-                  and Marcelo Cristianini
+-      Chapter 4   Kinetic Modelling of Enzyme Catalyzed Biotransformation
+-                  Involving Activations and Inhibitions 73
+-                  Ganapati D. Yadav and Deepali B. Magadum
+-      Chapter 5   Telomerase Inhibitors and Activators:
+-                  Pharmaceutical Importance 125
+-                  Ayse Gul Mutlu
+-      Chapter 6   Effect of Metal Ions, Chemical Agents and Organic Compounds
+-                  on Lignocellulolytic Enzymes Activities 139
+-                  Josiani de Cassia Pereira, Ellen Cristine Giese, Marcia Maria de Souza
+-                  Moretti, Ana Carolina dos Santos Gomes, Olavo Micali Perrone,
+-                  Maurício Boscolo, Roberto da Silva, Eleni Gomes and Daniela
+-                  Alonso Bocchini Martins
+- X   Contents
+-                 Chapter 7   Natural Products as a Potential Enzyme Inhibitors from
+-                             Medicinal Plants 165
+-                             Abdur Rauf and Noor Jehan
+-                 Section 2   Enzyme Activation 179
+-                 Chapter 8   Microbial Glycosidases for Nondigestible Oligosaccharides
+-                             Production 181
+-                             Thais Bezerra, Rubens Monti, Egon B. Hansen and Jonas Contiero
+-                 Chapter 9   Inhibitors and Activators of SOD, GSH‐Px, and CAT 207
+-                             Xianyong Ma, Dun Deng and Weidong Chen
+-                Chapter 10   Enzyme Dynamic in Plant Nutrition Uptake and Plant
+-                             Nutrition 225
+-                             Metin Turan, Emrah Nikerel, Kerem Kaya, Nurgul Kitir, Adem Gunes,
+-                             Negar Ebrahim Pour Mokhtari, Şefik Tüfenkçi, M. Rüştü Karaman
+-                             and K. Mesut ÇİMRİN
+-                Chapter 11   Enzyme Inhibitors and Activators 243
+-                             Olga D. Lopina
+- Preface
+- Enzymes are biological catalysts that can catalyze specific reactions with 100% efficiency.
+- The substances that affect the activity of enzymes are called moderators. If a moderator re‐
+- duces the activity of the enzyme and stops it completely, the inhibitor is called the activator
+- if it increases the activity of the enzyme. Types of inhibition are divided into two main
+- groups: reversible inhibition and irreversible inhibition. Reversible inhibition is itself classi‐
+- fied as competitive, uncompetitive, and noncompetitive.
+- Many molecules are enzyme inhibitors or activators, so their discovery and improvement are
+- an active area of research in biochemistry, pharmacology, toxicology, molecular biology, etc.
+- Medicinal enzyme inhibitors or activators are often judged by their specificity and their poten‐
+- cy. In the last few decades, years of discovery of specific enzyme inhibitors or activators have
+- received great attention due to their potential to be used in pharmacological applications.
+- This book titled Enzyme Inhibitors and Activators contains a selection of chapters focused on
+- the research area of enzyme inhibitors or activators, enzyme-catalyzed biotransformation,
+- usage of microbial enzymes, enzymes associated with programmed cell death, natural prod‐
+- ucts as potential enzyme inhibitors, protease inhibitors from plants in insect pest manage‐
+- ment, peptidases, and renin-angiotensin system. The book provides an overview on basic

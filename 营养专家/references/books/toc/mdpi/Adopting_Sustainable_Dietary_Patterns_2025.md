@@ -1,0 +1,74 @@
+# Adopting Sustainable Dietary Patterns (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3544-7
+- 页数: 214
+- 全文: `text/mdpi/Adopting_Sustainable_Dietary_Patterns_2025.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Christopher P. F. Marinangeli
+- Understanding Consumers to Enhance Demand for Sustainable Diets: Comment on “Adopting
+- Sustainable Dietary Patterns: Effects of Food Labeling, Food Choices, and Eating Behaviors”
+- Reprinted from: Nutrients 2025, 17, 70, https://doi.org/10.3390/nu17010070 . . . . . . . . . . . .                1
+- Emma C. Lewis, Yutong Xie, Samantha M. Sundermeir, Lisa Poirier, Stacey Williamson,
+- Sarah Lee, et al.
+- Factors and Perceptions Associated with Post-Pandemic Food Sourcing and Dietary Patterns
+- among Urban Corner Store Customers in Baltimore, Maryland
+- Reprinted from: Nutrients 2024, 16, 2196, https://doi.org/10.3390/nu16142196 . . . . . . . . . .                  8
+- Alina Ioana Forray, Mădălina Adina Coman, Răzvan Mircea Chereches,
+- and Cristina Maria Borzan
+- Exploring the Impact of Sociodemographic Characteristics and Health Literacy on Adherence
+- to Dietary Recommendations and Food Literacy
+- Reprinted from: Nutrients 2023, 15, 2853, https://doi.org/10.3390/nu15132853 . . . . . . . . . . 24
+- Lingling Zhang, Huajing Chang, Yating Chen, Wenqian Ruan, Longhua Cai,
+- Fang Song, et al.
+- Socio-Demographic Factors Associated with Rural Residents’ Dietary Diversity and Dietary
+- Pattern: A Cross-Sectional Study in Pingnan, China
+- Reprinted from: Nutrients 2023, 15, 2955, https://doi.org/10.3390/nu15132955 . . . . . . . . . . 41
+- Patricia F. C. Acosta, Olivia A. Landon, Zachary J. Ribau, Jess Haines, David W. L. Ma,
+- Alison M. Duncan, et al.
+- Plant-Based Dietary Indices in Relation to Nutrient and Food Group Intakes in Preschool-Aged
+- Children
+- Reprinted from: Nutrients 2023, 15, 4617, https://doi.org/10.3390/nu15214617 . . . . . . . . . . 58
+- Victor L. Fulgoni III, Sanjiv Agarwal, Christopher P. F. Marinangeli and Kevin Miller
+- Impact of Plant Protein Intakes on Nutrient Adequacy in the US
+- Reprinted from: Nutrients 2024, 16, 1158, https://doi.org/10.3390/nu16081158 . . . . . . . . . . 71
+- Ryota Wakayama, Adam Drewnowski, Tomohito Horimoto, Yoshie Saito, Tao Yu,
+- Takao Suzuki, et al.
+- Development and Validation of the Meiji Nutritional Proﬁling System (Meiji NPS) to Address
+- Dietary Needs of Adults and Older Adults in Japan
+- Reprinted from: Nutrients 2024, 16, 936, https://doi.org/10.3390/nu16070936 . . . . . . . . . . . 86
+- Carmen Levis, Carolina Mejı́a Toro, Sofı́a Rincón Gallardo Patiño,
+- Victor Eduardo Villalobos-Daniel, Carla Spinillo and Fabio da Silva Gomes
+- Building Capacity and Advancing Regulatory Measures to Improve Food Environments in the
+- Region of the Americas
+- Reprinted from: Nutrients 2024, 16, 1202, https://doi.org/10.3390/nu16081202 . . . . . . . . . . 104
+-                                                          v
+- Helen Onyeaka, Ovinuchi Ejiohuo, Oluseyi Rotimi Taiwo, Nnabueze Darlington Nnaji,
+- Omowale A. Odeyemi, Keru Duan, et al.
+- The Intersection of Food Security and Mental Health in the Pursuit of Sustainable Development
+- Goals
+- Reprinted from: Nutrients 2024, 16, 2036, https://doi.org/10.3390/nu16132036 . . . . . . . . . . 124
+- Yahan Yang, Sylvain Charlebois and Janet Music
+- Front-of-Package-Label-Style Health Logos on Menus—Do Canadian Consumers Really Care
+- about Menu Health Logos?
+- Reprinted from: Nutrients 2024, 16, 545, https://doi.org/10.3390/nu16040545 . . . . . . . . . . . 140
+- Fumi Hayashi and Yukari Takemi
+- Differences in the Values and Related Factors of Eating a Balanced Meal among the Younger
+- Generation in Japan
+- Reprinted from: Nutrients 2024, 16, 1855, https://doi.org/10.3390/nu16121855 . . . . . . . . . . 151
+- Roger Albornoz, Elizabeth Emperatriz Garcı́a-Salirrosas, Dany Yudet Millones-Liza,
+- Miluska Villar-Guevara and Gladys Toyohama-Pocco
+- Using the Theory of Perceived Value to Determine the Willingness to Consume Foods from a
+- Healthy Brand: The Role of Health Consciousness
+- Reprinted from: Nutrients 2024, 16, 1995, https://doi.org/10.3390/nu16131995 . . . . . . . . . . 165
+- Katherine Consavage Stanley, Valisa E. Hedrick, Elena Serrano, Adrienne Holz and
+- Vivica I. Kraak
+- US Adults’ Perceptions, Beliefs, and Behaviors towards Plant-Rich Dietary Patterns and
+- Practices: International Food Information Council Food and Health Survey Insights, 2012–2022
+- Reprinted from: Nutrients 2023, 15, 4990, https://doi.org/10.3390/nu15234990 . . . . . . . . . . 182
+- Patricia F. C. Acosta, Olivia A. Landon, Zachary J. Ribau, Jess Haines, David W. L. Ma,

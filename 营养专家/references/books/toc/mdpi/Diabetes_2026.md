@@ -1,0 +1,80 @@
+# Diabetes (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8070-6
+- 页数: 254
+- 全文: `text/mdpi/Diabetes_2026.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Qiushi Luo, Xiaozhu Ma, Shuai Mei, Qidamugai Wuyun, Li Zhou, Ziyang Cai, et al.
+- Identifying High-Risk Atrial Fibrillation in Diabetes: Evidence from Nomogram and Plasma
+- Metabolomics Analysis
+- Reprinted from: Biomedicines 2025, 13, 1557, https://doi.org/10.3390/biomedicines13071557 . .                 1
+- Tomislav Kurevija, Ema Schönberger, Matea Matić Ličanin, Ines Bilić-Ćurčić, Ljiljana
+- Trtica-Majnarić and Silvija Canecki-Varžić
+- Prescribing Antidiabetic Medications Among GPs in Croatia—A Real-Life Cross-Sectional
+- Study
+- Reprinted from: Biomedicines 2025, 13, 1491, https://doi.org/10.3390/biomedicines13061491 . . 22
+- Yue Lin, Fanzhen Lv, Yulong Huang, Gang Chen, Shichai Hong, Xiang Hong, et al.
+- Real-World Efﬁcacy of Minimally Invasive Revascularization in Diabetic Foot Ischemia: Impact
+- of Device Selection and Lesion-Speciﬁc Factors
+- Reprinted from: Biomedicines 2025, 13, 1384, https://doi.org/10.3390/biomedicines13061384 . . 46
+- Branimir Plavša, Najda Rudman, Flemming Pociot and Olga Gornik
+- Altered IgG N-Glycosylation at Onset of Type 1 Diabetes in Children Is Predominantly Driven
+- by Changes in the Fab N-Glycans
+- Reprinted from: Biomedicines 2025, 13, 1206, https://doi.org/10.3390/biomedicines13051206 . . 57
+- Adiel Ortega-Ayala, Carla González de la Cruz, Pedro Dorado, Fernanda Rodrigues-Soares,
+- Fernando Castillo-Nájera, Adrián LLerena and Juan Molina-Guarneros
+- Molecular Ancestry Across Allelic Variants of SLC22A1, SLC22A2, SLC22A3, ABCB1, CYP2C8,
+- CYP2C9, and CYP2C19 in Mexican-Mestizo DMT2 Patients
+- Reprinted from: Biomedicines 2025, 13, 1156, https://doi.org/10.3390/biomedicines13051156 . . 70
+- Jakub Piersa, Wiktoria Bajek, Aleksandra Pilśniak, Agnieszka Jarosińska, Marta
+- Pietrukaniec and Michał Holecki
+- Nutrition Indicators in Type 2 Diabetes Mellitus—Retrospective Study
+- Reprinted from: Biomedicines 2025, 13, 1137, https://doi.org/10.3390/biomedicines13051137 . . 93
+- Oana Vîrgolici, Daniela Lixandru, Andrada Mihai, Diana Simona S, tefan, Cristian Guja,
+- Horia Vîrgolici and Bogdana Virgolici
+- Prediction of Metabolic Parameters of Diabetic Patients Depending on Body Weight Variation
+- Using Machine Learning Techniques
+- Reprinted from: Biomedicines 2025, 13, 1116, https://doi.org/10.3390/biomedicines13051116 . . 103
+- Eraj Abbas, Asher Fawwad, Iftikhar Ahmed Siddiqui, Muhammad Sohail Afzal,
+- Muhammad Ansar, Muhammad Arif Nadeem Saqib and Syed M. Shahid
+- Risk Factors for the Development of Early Onset Diabetes in the Population of Sindh Province,
+- Pakistan
+- Reprinted from: Biomedicines 2025, 13, 1107, https://doi.org/10.3390/biomedicines13051107 . . 117
+- Giovanni Sartore, Eugenio Ragazzi, Francesco Pegoraro, Mario German Pagno, Annunziata
+- Lapolla and Francesco Piarulli
+- Artiﬁcial Intelligence Algorithm to Screen for Diabetic Neuropathy: A Pilot Study
+- Reprinted from: Biomedicines 2025, 13, 1075, https://doi.org/10.3390/biomedicines13051075 . . 127
+-                                                        v
+- Eman A. Toraih, Awwad Alenezy, Mohammad H. Hussein, Shahmeer Hashmat, Saitej
+- Mummadi, Nawaf Farhan Alrawili, et al.
+- The Risk of Vestibular Disorders with Semaglutide and Tirzepatide: Findings from a Large
+- Real-World Cohort
+- Reprinted from: Biomedicines 2025, 13, 1049, https://doi.org/10.3390/biomedicines13051049 . . 139
+- Iulian Tătaru, Ioannis Gardikiotis, Oana-Maria Dragostin, Luminita Confederat, Cerasela
+- Gîrd, Alexandra-Simona Zamﬁr, et al.
+- Multilevel Assessment of Glycemic, Hormonal, and Oxidative Parameters in an Experimental
+- Diabetic Female Rat Model
+- Reprinted from: Biomedicines 2025, 13, 922, https://doi.org/10.3390/biomedicines13040922 . . . 157
+- Smiljka Kovacevic, Maja Jesic, Vera Zdravkovic, Stefan Djordjevic, Jelena Miolski, Vladimir
+- Gasic, et al.
+- Association Between Hypertension, Dipping Status, and ACE and AGTR1 Gene Polymorphisms
+- in Adolescents with Type 1 Diabetes
+- Reprinted from: Biomedicines 2025, 13, 615, https://doi.org/10.3390/biomedicines13030615 . . . 185
+- Jiamian Geng, Sijia Ma, Hui Tang and Chun Zhang
+- Pathogenesis and Therapeutic Perspectives of Tubular Injury in Diabetic Kidney Disease:
+- An Update
+- Reprinted from: Biomedicines 2025, 13, 1424, https://doi.org/10.3390/biomedicines13061424 . . 196
+- Si Han, Tom Lelieveldt, Miriam Sturkenboom, Geert Jan Biessels and Fariba Ahmadizar
+- Evaluating the Causal Association Between Type 2 Diabetes and Alzheimer’s Disease:
+- A Two-Sample Mendelian Randomization Study
+- Reprinted from: Biomedicines 2025, 13, 1095, https://doi.org/10.3390/biomedicines13051095 . . 226
+-                                                 vi
+- About the Editor
+- Tomislav Bulum
+-      Tomislav Bulum is employed at the Vuk Vrhovac University Clinic for Diabetes, University
+- Hospital Merkur, Croatia’s Referral Center for Diabetes, where he currently serves as a Specialist

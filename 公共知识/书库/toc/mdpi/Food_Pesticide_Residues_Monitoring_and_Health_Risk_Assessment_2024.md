@@ -1,0 +1,79 @@
+# Food Pesticide Residues Monitoring and Health Risk Assessment (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0384-2
+- 页数: 162
+- 全文: `text/mdpi/Food_Pesticide_Residues_Monitoring_and_Health_Risk_Assessment_2024.txt`
+- 标签: 风险评估, 农药残留, 农残分析
+
+## 目录 (Contents)
+
+- Yuwei Hua and Guangyang Liu
+- Food Pesticide Residues Monitoring and Health Risk Assessment
+- Reprinted from: Foods 2024, 13, 474, doi:10.3390/foods13030474 . . . . . . . . . . . . . . . . . . .    1
+- Yaohai Zhang, Zhixia Li, Bining Jiao, Qiyang Zhao, Chengqiu Wang, Yongliang Cui, et al.
+- Determination, Quality, and Health Assessment of Pesticide Residues in Kumquat in China
+- Reprinted from: Foods 2023, 12, 3423, doi:10.3390/foods12183423 . . . . . . . . . . . . . . . . . . .   6
+- Qi Wang, Xiaohui Li, Hongping Wang, Simeng Li, Chen Zhang, Xueying Chen, et al.
+- Spatial Distribution and Migration Characteristic of Forchlorfenuron in Oriental Melon Fruit by
+- Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry Imaging
+- Reprinted from: Foods 2023, 12, 2858, doi:10.3390/foods12152858 . . . . . . . . . . . . . . . . . . . 24
+- Ying Ying, Xueyan Cui, Hui Li, Lingyi Pan, Ting Luo, Zhen Cao and Jing Wang
+- Development of Magnetic Lateral Flow and Direct Competitive Immunoassays for
+- Sensitive and Speciﬁc Detection of Halosulfuron-Methyl Using a Novel Hapten and
+- Monoclonal Antibody
+- Reprinted from: Foods 2023, 12, 2764, doi:10.3390/foods12142764 . . . . . . . . . . . . . . . . . . . 35
+- Li Wang, Mengyue Li, Bo Li, Min Wang, Hua Zhao and Fengnian Zhao
+- Electrochemical Sensor Based on Laser-Induced Graphene for Carbendazim Detection in Water
+- Reprinted from: Foods 2023, 12, 2277, doi:10.3390/foods12122277 . . . . . . . . . . . . . . . . . . . 49
+- Kai Cui, Shuai Guan, Jingyun Liang, Liping Fang, Ruiyan Ding, Jian Wang, et al.
+- Dissipation, Metabolism, Accumulation, Processing and Risk Assessment of Fluopyram and
+- Triﬂoxystrobin in Cucumbers and Cowpeas from Cultivation to Consumption
+- Reprinted from: Foods 2023, 12, 2082, doi:10.3390/foods12102082 . . . . . . . . . . . . . . . . . . . 60
+- Zhiqian Ding, Meirou Lin, Xuelin Song, Hua Wu and Junsong Xiao
+- Quantitative Modeling of the Degradation of Pesticide Residues in Wheat Flour Supply Chain
+- Reprinted from: Foods 2023, 12, 788, doi:10.3390/foods12040788 . . . . . . . . . . . . . . . . . . . 75
+- Ramesh Kumar Saini, Yongho Shin, Rakdo Ko, Jinchan Kim, Kwanghun Lee, Dai An, et al.
+- Dissipation Kinetics and Risk Assessment of Spirodiclofen and Tebufenpyrad in Aster scaber
+- Thunb
+- Reprinted from: Foods 2023, 12, 242, doi:10.3390/foods12020242 . . . . . . . . . . . . . . . . . . . 89
+- Xiaodong Huang, Huifang Liu, Xiaomin Xu, Ge Chen, Lingyun Li, Yanguo Zhang, et al.
+- Magnetic Composite Based on Carbon Nanotubes and Deep Eutectic Solvents: Preparation and
+- Its Application for the Determination of Pyrethroids in Tea Drinks
+- Reprinted from: Foods 2023, 12, 8, doi:10.3390/foods12010008 . . . . . . . . . . . . . . . . . . . . . 100
+- Hongwei Zhu, Minjie Li, Cuilin Cheng, Ying Han, Shiyao Fu, Ruiling Li, et al.
+- Recent Advances in and Applications of Electrochemical Sensors Based on Covalent Organic
+- Frameworks for Food Safety Analysis
+- Reprinted from: Foods 2023, 12, 4274, doi:10.3390/foods12234274 . . . . . . . . . . . . . . . . . . . 112
+- Jae-Han Shim, Jong-Bang Eun, Ahmed A. Zaky, Ahmed S. Hussein, Ahmet Hacimüftüoğlu
+- and A. M. Abd El-Aty
+- A Comprehensive Review of Pesticide Residues in Peppers
+- Reprinted from: Foods 2023, 12, 970, doi:10.3390/foods12050970 . . . . . . . . . . . . . . . . . . . 131
+-                                                     v
+-              foods
+- Editorial
+- Food Pesticide Residues Monitoring and Health Risk
+- Assessment
+- Yuwei Hua and Guangyang Liu *
+-                                          Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, State Key Laboratory of Vegetable
+-                                          Biological Breeding, Key Laboratory of Vegetables Quality and Safety Control, Laboratory of Quality & Safety
+-                                          Risk Assessment for Vegetable Products (Beijing), Ministry of Agriculture and Rural Affairs of China,
+-                                          Beijing 100081, China; 18434762011@163.com
+-                                          * Correspondence: liuguangyang@caas.cn; Tel.: +86-010-82109532
+-                                                This Special Issue presents a share of the work published in the journal Foods on
+-                                          pesticide residue monitoring and risk assessment in food. The topics presented herein
+-                                          included the pre-treatment of pesticide residues in food, detection methods for pesticide
+-                                          residues, and the risk assessment of pesticide residues [1,2]. These works targeting these
+-                                          themes are summarized below.
+-                                                In order to accurately detect the levels of various kinds of pesticides across different
+-                                          food types, effective extraction, clean-up, and enrichment of the samples are imperative.
+-                                          Currently, the commonly used pretreatment techniques for pesticide residues include
+-                                          solid-phase extraction (SPE), solid-phase microextraction (SPME), magnetic solid-phase
+-                                          extraction (MSPE), matrix dispersive solid-phase extraction (MDSE), QuEChERS, gel per-
+-                                          meation chromatography, molecularly imprinted solid-phase extraction (MISPE), and
+-                                          microwave-assisted extraction (MEA) [3,4]. Donghui Xu et al. (contribution 1), from the
+-                                          Institute of Vegetable and Flower Research of the Chinese Academy of Agricultural Sciences
+-                                          (CAAS), constructed a nanocomposite for magnetic solid-phase extraction of pyrethroids
+-                                          in tea beverages. Magnetic MWCNTs-ZIF-8 was functionalized by tetrabutylammonium
+-                                          chloride-dodecanol (DES5) to obtain a novel magnetic nanocomposite adsorbent, which
+-                                          can be used for solid-phase extraction of six pyrethroids in tea. The characterization results

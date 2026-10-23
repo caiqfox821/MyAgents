@@ -1,0 +1,80 @@
+# QTL Mapping of Seed Quality Traits in Crops (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10575
+- 页数: 210
+- 全文: `text/mdpi/QTL_Mapping_of_Seed_Quality_Traits_in_Crops_2025.txt`
+- 标签: QTL, 种子品质
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Moulay Abdelmajid Kassem
+- QTL Mapping of Seed Quality Traits in Crops
+- Reprinted from: Plants 2025, 14, 482, https://doi.org/10.3390/plants14030482 . . . . . . . . . . .                1
+- Hye Rang Park, Jeong Hyun Seo, Beom Kyu Kang, Jun Hoi Kim, Su Vin Heo and Man Soo
+- Choi et al.
+- QTLs and Candidate Genes for Seed Protein Content in Two Recombinant Inbred Line
+- Populations of Soybean
+- Reprinted from: Plants 2023, 12, 3589, https://doi.org/10.3390/plants12203589 . . . . . . . . . .                 4
+- Dounya Knizia, Nacer Bellaloui, Jiazheng Yuan, Naoufal Lakhssasi, Erdem Anil and Tri
+- Vuong et al.
+- Quantitative Trait Loci and Candidate Genes That Control Seed Sugars Contents in the Soybean
+- ‘Forrest’ by ‘Williams 82’ Recombinant Inbred Line Population
+- Reprinted from: Plants 2023, 12, 3498, https://doi.org/10.3390/plants12193498 . . . . . . . . . . 19
+- Parisa Bolouri, Kamil Haliloğlu, Seyyed Abolghasem Mohammadi, Aras Türkoğlu, Emre
+- İlhan and Gniewko Niedbała et al.
+- Identification of Novel QTLs Associated with Frost Tolerance in Winter Wheat (Triticum
+- aestivum L.)
+- Reprinted from: Plants 2023, 12, 1641, https://doi.org/10.3390/plants12081641 . . . . . . . . . . 39
+- Mian Abdur Rehman Arif, Pasquale Tripodi, Muhammad Qandeel Waheed, Irfan Afzal,
+- Sibylle Pistrick and Gudrun Schütze et al.
+- Genetic Analyses of Seed Longevity in Capsicum annuum L. in Cold Storage Conditions
+- Reprinted from: Plants 2023, 12, 1321, https://doi.org/10.3390/plants12061321 . . . . . . . . . . 50
+- Mian Abdur Rehman Arif, Evgenii G. Komyshev, Mikhail A. Genaev, Vasily S. Koval,
+- Nikolay A. Shmakov and Andreas Börner et al.
+- QTL Analysis for Bread Wheat Seed Size, Shape and Color Characteristics Estimated by Digital
+- Image Processing
+- Reprinted from: Plants 2022, 11, 2105, https://doi.org/10.3390/plants11162105 . . . . . . . . . . 66
+- Dounya Knizia, Jiazheng Yuan, Naoufal Lakhssassi, Abdelhalim El Baze, Mallory Cullen
+- and Tri Vuong et al.
+- QTL and Candidate Genes for Seed Tocopherol Content in ‘Forrest’ by ‘Williams 82’
+- Recombinant Inbred Line (RIL) Population of Soybean
+- Reprinted from: Plants 2022, 11, 1258, https://doi.org/10.3390/plants11091258 . . . . . . . . . . 87
+- Erwin Tandayu, Priyakshee Borpatragohain, Ramil Mauleon and Tobias Kretzschmar
+- Genome-Wide Association Reveals Trait Loci for Seed Glucosinolate Accumulation in Indian
+- Mustard (Brassica juncea L.)
+- Reprinted from: Plants 2022, 11, 364, https://doi.org/10.3390/plants11030364 . . . . . . . . . . . 105
+- Francisco A. Mendes, Susana T. Leitão, Verónica Correia, Elsa Mecha, Diego Rubiales and
+- Maria Rosário Bronze et al.
+- Portuguese Common Bean Natural Variation Helps to Clarify the Genetic Architecture of the
+- Legume’s Nutritional Composition and Protein Quality
+- Reprinted from: Plants 2021, 11, 26, https://doi.org/10.3390/plants11010026 . . . . . . . . . . . 123
+-                                                          v
+- Anne V. Brown, David Grant and Rex T. Nelson
+- Using Crop Databases to Explore Phenotypes: From QTL to Candidate Genes
+- Reprinted from: Plants 2021, 10, 2494, https://doi.org/10.3390/plants10112494 . . . . . . . . . . 143
+- Dounya Knizia, Jiazheng Yuan, Nacer Bellaloui, Tri Vuong, Mariola Usovsky and Qijian
+- Song et al.
+- The Soybean High Density ‘Forrest’ by ‘Williams 82’ SNP-Based Genetic Linkage Map Identifies
+- QTL and Candidate Genes for Seed Isoflavone Content
+- Reprinted from: Plants 2021, 10, 2029, https://doi.org/10.3390/plants10102029 . . . . . . . . . . 153
+- Dongyun Lv, Chuanliang Zhang, Rui Yv, Jianxin Yao, Jianhui Wu and Xiaopeng Song et al.
+- Utilization of a Wheat50K SNP Microarray-Derived High-Density Genetic Map for QTL
+- Mapping of Plant Height and Grain Traits in Wheat
+- Reprinted from: Plants 2021, 10, 1167, https://doi.org/10.3390/plants10061167 . . . . . . . . . . 176
+-                                                  vi
+- About the Editor
+- Abdelmajid Kassem
+-     Dr. My Abdelmajid Kassem is a distinguished plant biologist, bioinformatics researcher, and
+- data scientist with over 25 years of experience in academia. He is currently a Professor at the
+- Department of Biological and Forensic Sciences, Fayetteville State University. His research focuses
+- on quantitative trait loci (QTL) mapping, genomic selection, and the integration of bioinformatics
+- and machine learning in plant genetics.
+-     Dr. Kassem has published extensively in peer-reviewed journals, with over 70+ scientific articles,
+- book chapters, and a book covering plant genomics, biotechnology, and computational biology.
+- He has successfully supervised and mentored numerous undergraduate and graduate students,
+- fostering their careers in plant science and bioinformatics. His expertise extends to high-throughput
+- genomic data analysis, functional genomics, and metabolomics, particularly in crop improvement
+- and breeding programs.

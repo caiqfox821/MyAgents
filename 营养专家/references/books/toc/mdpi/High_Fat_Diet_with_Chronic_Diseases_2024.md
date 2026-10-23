@@ -1,0 +1,79 @@
+# High Fat Diet with Chronic Diseases (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1266-0
+- 页数: 248
+- 全文: `text/mdpi/High_Fat_Diet_with_Chronic_Diseases_2024.txt`
+- 标签: 膳食模式/摄入, 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Xiaoyu Wang, Rui Song, Maëlys Clinchamps and Frédéric Dutheil
+- New Insights into High-Fat Diet with Chronic Diseases
+- Reprinted from: Nutrients 2023, 15, 4031, doi:10.3390/nu15184031 . . . . . . . . . . . . . . . . . .           1
+- Rui Song, Mengxiao Hu, Xiyu Qin, Lili Qiu, Pengjie Wang, Xiaoxu Zhang, et al.
+- The Roles of Lipid Metabolism in the Pathogenesis of Chronic Diseases in the Elderly
+- Reprinted from: Nutrients 2023, 15, 3433, doi:10.3390/nu15153433 . . . . . . . . . . . . . . . . . .           5
+- Yue Qi and Xiaofei Wang
+- The Role of Gut Microbiota in High-Fat-Diet-Induced Diabetes: Lessons from Animal Models
+- and Humans
+- Reprinted from: Nutrients 2023, 15, 922, doi:10.3390/nu15040922 . . . . . . . . . . . . . . . . . . . 22
+- So-Won Heo, Kyung-Sook Chung, Young-Seo Yoon, Soo-Yeon Kim, Hye-Shin Ahn,
+- Yu-Kyong Shin, et al.
+- Standardized Ethanol Extract of Cassia mimosoides var. nomame Makino Ameliorates Obesity via
+- Regulation of Adipogenesis and Lipogenesis in 3T3-L1 Cells and High-Fat Diet-Induced Obese
+- Mice
+- Reprinted from: Nutrients 2023, 15, 613, doi:10.3390/nu15030613 . . . . . . . . . . . . . . . . . . . 42
+- Chu-Lin Chou, Ching-Hao Li and Te-Chao Fang
+- Beneﬁts of Valsartan and Amlodipine in Lipolysis through PU.1 Inhibition in Fructose-Induced
+- Adiposity
+- Reprinted from: Nutrients 2022, 14, 3759, doi:10.3390/nu14183759 . . . . . . . . . . . . . . . . . . 61
+- Rosamaria Lugarà, Simone Renner, Eckhard Wolf, Annette Liesegang, Rupert Bruckmaier
+- and Katrin Giller
+- Crossbred Sows Fed a Western Diet during Pre-Gestation, Gestation, Lactation, and
+- Post-Lactation Periods Develop Signs of Lean Metabolic Syndrome That Are Partially
+- Attenuated by Spirulina Supplementation
+- Reprinted from: Nutrients 2022, 14, 3574, doi:10.3390/nu14173574 . . . . . . . . . . . . . . . . . . 74
+- Elena Nebot, Rosario Martínez, Garyfallia Kapravelou, Cristina Sánchez, Juan Llopis,
+- Pilar Aranda, et al.
+- Combination of Caloric Restriction and a Mixed Training Protocol as an Effective Strategy
+- to Counteract the Deleterious Effects in Trabecular Bone Microarchitecture Caused by a
+- Diet-Induced Obesity in Sprague Dawley Rats
+- Reprinted from: Nutrients 2022, 14, 3672, doi:10.3390/nu14183672 . . . . . . . . . . . . . . . . . . 97
+- Yong Liu, Jia Zhao, Yizhou Zhou, Ruiyu Yang, Beichen Han, Yufei Zhao, et al.
+- High-Calorie Food-Cues Impair Conﬂict Control: EEG Evidence from a Food-Related Stroop
+- Task
+- Reprinted from: Nutrients 2022, 14, 4593, doi:10.3390/nu14214593 . . . . . . . . . . . . . . . . . . 115
+- Chenyuan Wang, Shusen Li, Erna Sun, Ran Xiao, Ran Wang, Yimei Ren, et al.
+- Effects of Fermented Milk Containing Biﬁdobacterium animalis Subsp. lactis MN-Gup (MN-Gup)
+- and MN-Gup-Based Synbiotics on Obesity Induced by High Fat Diet in Rats
+- Reprinted from: Nutrients 2022, 14, 2631, doi:10.3390/nu14132631 . . . . . . . . . . . . . . . . . . 125
+-                                                        v
+- Hu Zhang, Ji-Ling Liang, Qiu-Yue Wu, Jin-Xiu Li, Ya Liu, Liang-Wen Wu, et al.
+- Swimming Suppresses Cognitive Decline of HFD-Induced Obese Mice through Reversing
+- Hippocampal Inﬂammation, Insulin Resistance, and BDNF Level
+- Reprinted from: Nutrients 2022, 14, 2432, doi:10.3390/nu14122432 . . . . . . . . . . . . . . . . . . 140
+- Yong Wang, Wentao Qi, Xiaoxuan Guo, Ge Song, Shaojie Pang, Wei Fang, et al.
+- Effects of Oats, Tartary Buckwheat, and Foxtail Millet Supplementation on Lipid Metabolism,
+- Oxido-Inﬂammatory Responses, Gut Microbiota, and Colonic SCFA Composition in High-Fat
+- Diet Fed Rats
+- Reprinted from: Nutrients 2022, 14, 2760, doi:10.3390/nu14132760 . . . . . . . . . . . . . . . . . . 154
+- Yue Zhao, Qing-Yu Wang, Lv-Tao Zeng, Jing-Jing Wang, Zhen Liu, Guo-Qing Fan, et al.
+- Long-Term High-Fat High-Fructose Diet Induces Type 2 Diabetes in Rats through Oxidative
+- Stress
+- Reprinted from: Nutrients 2022, 14, 2181, doi:10.3390/nu14112181 . . . . . . . . . . . . . . . . . . 172
+- Yun-Yi Zou, Zhang-Lin Chen, Chen-Chen Sun, Dong Yang, Zuo-Qiong Zhou, Qin Xiao, et al.
+- A High-Fat Diet Induces Muscle Mitochondrial Dysfunction and Impairs Swimming Capacity
+- in Zebraﬁsh: A New Model of Sarcopenic Obesity
+- Reprinted from: Nutrients 2022, 14, 1975, doi:10.3390/nu14091975 . . . . . . . . . . . . . . . . . . 193
+- Yanxiong Huo, Guoping Zhao, Jinwang Li, Ran Wang, Fazheng Ren, Yixuan Li, et al.
+- Biﬁdobacterium animalis subsp. lactis A6 Enhances Fatty Acid β-Oxidation of Adipose Tissue to
+- Ameliorate the Development of Obesity in Mice
+- Reprinted from: Nutrients 2022, 14, 598, doi:10.3390/nu14030598 . . . . . . . . . . . . . . . . . . . 204
+- Manoja K. Brahma, Peng Xiao, Madalina Popa, Javier Negueruela, Valerie Vandenbempt,
+- Stéphane Demine, et al.
+- Nova1 or Bim Deﬁciency in Pancreatic β-Cells Does Not Alter Multiple Low-Dose
+- Streptozotocin-Induced Diabetes and Diet-Induced Obesity in Mice
+- Reprinted from: Nutrients 2022, 14, 3866, doi:10.3390/nu14183866 . . . . . . . . . . . . . . . . . . 222
+-                                                    vi

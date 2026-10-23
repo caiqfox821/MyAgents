@@ -1,0 +1,81 @@
+# Cereals and Cereal-Based Foods (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5696-1
+- 页数: 214
+- 全文: `text/mdpi/Cereals_and_CerealBased_Foods_2025.txt`
+- PDF: `mdpi/Cereals_and_CerealBased_Foods_2025.pdf`
+- 标签: 谷物, 谷物食品, 加工
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Grazia Maria Borrelli and Donatella Bianca Maria Ficco
+- Cereals and Cereal-Based Foods: Nutritional, Phytochemical Characterization and Processing
+- Technologies
+- Reprinted from: Foods 2025, 14, 1234, https://doi.org/10.3390/foods14071234 . . . . . . . . . . .
+- 1
+- Laura Gazza, Valeria Menga, Federica Taddei, Francesca Nocente, Elena Galassi,
+- Chiara Natale, et al.
+- Nutritional Traits, Pasting Properties and Antioxidant Proﬁle of Selected Genotypes of Sorghum,
+- Oat and Maize Eligible for Gluten-Free Products
+- Reprinted from: Foods 2024, 13, 990, https://doi.org/10.3390/foods13070990 . . . . . . . . . . .
+- 9
+- Paola Pontieri, Jacopo Troisi, Matteo Calcagnile, Fadi Aramouni, Michael Tilley,
+- Dmitriy Smolensky, et al.
+- Nutritional Composition, Fatty Acid Content, and Mineral Content of Nine Sorghum (Sorghum
+- bicolor) Inbred Varieties
+- Reprinted from: Foods 2024, 13, 3634, https://doi.org/10.3390/foods13223634 . . . . . . . . . . . 24
+- Cagla Kayisoglu, Ebrar Altikardes, Nihal Guzel and Secil Uzel
+- Germination: A Powerful Way to Improve the Nutritional, Functional, and Molecular Properties
+- of White- and Red-Colored Sorghum Grains
+- Reprinted from: Foods 2024, 13, 662, https://doi.org/10.3390/foods13050662 . . . . . . . . . . . 39
+- Fernanda G. Castro-Campos, Edgar A. Esquivel-Fajardo, Eduardo Morales-Sánchez, Mario E.
+- Rodríguez-García, Oscar Yael Barron-Garcia, Cristian Felipe Ramirez-Gutierrez, et al.
+- Resistant Starch Type 5 Formation by High Amylopectin Starch–Lipid Interaction
+- Reprinted from: Foods 2024, 13, 3888, https://doi.org/10.3390/foods13233888 . . . . . . . . . . . 56
+- Vesna Dragičević, Milena Simić, Vesna Kandić Raftery, Jelena Vukadinović, Margarita
+- Dodevska, Sanja Ðurović and Milan Brankov
+- Screening of Nutritionally Important Components in Standard and Ancient Cereals
+- Reprinted from: Foods 2024, 13, 4116, https://doi.org/10.3390/foods13244116 . . . . . . . . . . . 78
+- Andrés Gustavo Teobaldi, Esteban Josué Carrillo Parra, Gabriela Noel Barrera and Pablo
+- Daniel Ribotta
+- The Properties of Damaged Starch Granules: The Relationship Between Granule Structure and
+- Water–Starch Polymer Interactions
+- Reprinted from: Foods 2025, 14, 21, https://doi.org/10.3390/foods14010021 . . . . . . . . . . . . 99
+- Wisse Hermans, Justine Busschaert, Yamina De Bondt, Niels A. Langenaeken
+- and Christophe M. Courtin
+- The Wheat Starchy Endosperm Protein Gradient as a Function of Cultivar and N-fertilization Is
+- Reﬂected in Mill Stream Protein Content and Composition
+- Reprinted from: Foods 2023, 12, 4192, https://doi.org/10.3390/foods12234192 . . . . . . . . . . . 117
+- Atsuko Takahashi and Keiko Fujii
+- Mechanical and Thermal Properties and Moisture Sorption of Puffed Cereals Made from Brown
+- Rice, Barley, Adlay, and Amaranth
+- Reprinted from: Foods 2024, 14, 189, https://doi.org/10.3390/foods14020189 . . . . . . . . . . . 134
+- v
+- Antonio Troccoli, Donatella Bianca Maria Ficco, Cristiano Platani, Maria Grazia D’Egidio and
+- Grazia Maria Borrelli
+- Prediction of Pasta Colour Considering Traits Involved in Colour Expression of Durum Wheat
+- Semolina
+- Reprinted from: Foods 2025, 14, 392, https://doi.org/10.3390/foods14030392 . . . . . . . . . . . 148
+- Yudit Aimee Aviles-Rivera, José Benigno Valdez-Torres, Juan Pedro Campos-Sauceda,
+- José Basilio Heredia, Jeny Hinojosa-Gómez and María Dolores Muy-Rangel
+- Designing of an Oat-Mango Molded Snack with Feasible Nutritional and Nutraceutical
+- Properties
+- Reprinted from: Foods 2024, 13, 3402, https://doi.org/10.3390/foods13213402 . . . . . . . . . . . 167
+- Wengong Huang, Baohai Liu, Dongmei Shi, Aihua Cheng, Guofeng Chen, Feng Liu, et al.
+- Research Progress on the Quality, Extraction Technology, Food Application, and Physiological
+- Function of Rice Bran Oil
+- Reprinted from: Foods 2024, 13, 3262, https://doi.org/10.3390/foods13203262 . . . . . . . . . . . 179
+- vi
+- About the Editors
+- Donatella Bianca Maria Ficco
+- Donatella Bianca Maria Ficco, senior researcher in the Council for Agricultural Research and
+- Economics, Research Centre for Cereal and Industrial Crops in Foggia. Degree in Food Science and
+- Technologies and PhD in “Food Science and Pediatric Nutrition”. Scholarship for a 4800-hour training
+- for “experienced specialists in Plant Breeding / Biotechnology in support of the National Durum
+- Wheat Industry (project AGROGEN-Laboratory of Genomics for characters of agronomic importance
+- in durum wheat: identiﬁcation of useful genes, functional analysis, marker-assisted selection and
+- the development of the national seed industry)” in 2010. Scholarship for a High Formation of 1600

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "orchestrator",
+  "skills": {
+    "paths": [".opencode/skills"]
+  },
+  "references": {
+    "公共知识": {
+      "path": "公共知识",
+      "description": "全局公共知识（所有领域专家共用，只读）：政策法规与规划、标准规范、技术指南、案例库、知识图谱。各专家私有知识库见各自 references/。"
+    }
+  }
+}

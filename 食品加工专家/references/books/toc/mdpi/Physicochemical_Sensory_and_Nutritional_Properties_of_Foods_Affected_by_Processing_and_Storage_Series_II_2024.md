@@ -1,0 +1,81 @@
+# Physicochemical Sensory and Nutritional Properties of Foods Affected by Processing and Storage Series II (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 230
+- 全文: `text/mdpi/Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II_2024.txt`
+- PDF: `mdpi/Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II_2024.pdf`
+- 标签: 加工贮藏, 感官, 营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Sidonia Martı́nez and Javier Carballo
+- Physicochemical, Sensory, and Nutritional Properties of Foods Affected by Processing and
+- Storage Series II
+- Reprinted from: Foods 2024, 13, 156, doi:10.3390/foods13010156 . . . . . . . . . . . . . . . . . . .
+- 1
+- Bahareh Daei, Sodeif Azadmard-Damirchi, Afshin Javadi and Mohammadali Torbati
+- Effects of Mild Thermal Processing and Storage Conditions on the Quality Attributes and Shelf
+- Life of Trufﬂes (Terfezia claveryi)
+- Reprinted from: Foods 2023, 12, 2212, doi:10.3390/foods12112212 . . . . . . . . . . . . . . . . . . .
+- 7
+- Lucı́a Gómez-Limia, Javier Carballo, Miriam Rodrı́guez-González and Sidonia Martı́nez
+- Impact of the Filling Medium on the Colour and Sensory Characteristics of Canned European
+- Eels (Anguilla anguilla L.)
+- Reprinted from: Foods 2022, 11, 1115, doi:10.3390/foods11081115 . . . . . . . . . . . . . . . . . . . 18
+- Yinghong Qu, Jingyu Wang, Zhidong Liu, Xichang Wang and Huimin Zhou
+- Effect of Storage Temperature and Time on Biogenic Amines in Canned Seafood
+- Reprinted from: Foods 2022, 11, 2743, doi:10.3390/foods11182743 . . . . . . . . . . . . . . . . . . . 33
+- Carlota Delso, Alejandro Berzosa, Jorge Sanz, Ignacio Álvarez and Javier Raso
+- Microbial Decontamination of Red Wine by Pulsed Electric Fields (PEF) after Alcoholic and
+- Malolactic Fermentation: Effect on Saccharomyces cerevisiae, Oenococcus oeni, and Oenological
+- Parameters during Storage
+- Reprinted from: Foods 2023, 12, 278, doi:10.3390/foods12020278 . . . . . . . . . . . . . . . . . . . 45
+- M. Isabel Cambero, Gonzalo Doroteo Garcı́a de Fernando, M. Dolores Romero de Ávila,
+- Vı́ctor Remiro, Luis Capelo and José Segura
+- Freeze-Dried Cooked Chickpeas: Considering a Suitable Alternative to Prepare Tasty
+- Reconstituted Dishes
+- Reprinted from: Foods 2023, 12, 2339, doi:10.3390/foods12122339 . . . . . . . . . . . . . . . . . . . 60
+- Mahshad Maghoumi, Maria Luisa Amodio, Danial Fatchurrahman, Luis Cisneros-Zevallos
+- and Giancarlo Colelli
+- Pomegranate Husk Scald Browning during Storage: A Review on Factors Involved, Their
+- Modes of Action, and Its Association to Postharvest Treatments
+- Reprinted from: Foods 2022, 11, 3365, doi:10.3390/foods11213365 . . . . . . . . . . . . . . . . . . . 84
+- Marı́a L. Flores-López, Jorge M. Vieira, Cristina M. R. Rocha, José M. Lagarón,
+- Miguel A. Cerqueira, Diana Jasso de Rodrı́guez and António A. Vicente
+- Postharvest Quality Improvement of Tomato (Solanum lycopersicum L.) Fruit Using a
+- Nanomultilayer Coating Containing Aloe vera
+- Reprinted from: Foods 2024, 13, 83, doi:10.3390/foods13010083 . . . . . . . . . . . . . . . . . . . . 100
+- Jinfeng Wang, Hanwen Zhang, Jing Xie, Wenhui Yu and Yuyao Sun
+- Effects of Frozen Storage Temperature on Water-Holding Capacity and Physicochemical
+- Properties of Muscles in Different Parts of Blueﬁn Tuna
+- Reprinted from: Foods 2022, 11, 2315, doi:10.3390/foods11152315 . . . . . . . . . . . . . . . . . . . 116
+- v
+- Kannapot Kaewsorn, Pisut Maichoon, Pimpen Pornchaloempong, Warawut Krusong,
+- Panmanas Sirisomboon, Munehiro Tanaka and Takayuki Kojima
+- Evaluation of Precision and Sensitivity of Back Extrusion Test for Measuring Textural Qualities
+- of Cooked Germinated Brown Rice in Production Process
+- Reprinted from: Foods 2023, 12, 3090, doi:10.3390/foods12163090 . . . . . . . . . . . . . . . . . . . 129
+- Xuejiao Xu, Shuhui Ye, Xiaobo Zuo and Sheng Fang
+- Impact of Guar Gum and Locust Bean Gum Addition on the Pasting, Rheological Properties,
+- and Freeze–Thaw Stability of Rice Starch Gel
+- Reprinted from: Foods 2022, 11, 2508, doi:10.3390/foods11162508 . . . . . . . . . . . . . . . . . . . 144
+- Paula Fuentes Choya, Patricia Combarros-Fuertes, Daniel Abarquero Camino,
+- Erica Renes Bañuelos, Bernardo Prieto Gutiérrez, Marı́a Eugenia Tornadijo Rodrı́guez and
+- José Marı́a Fresno Baro
+- Study of the Technological Properties of Pedrosillano Chickpea Aquafaba and Its Application in
+- the Production of Egg-Free Baked Meringues
+- Reprinted from: Foods 2023, 12, 902, doi:10.3390/foods12040902 . . . . . . . . . . . . . . . . . . . 158
+- Dasha Mihaylova, Aneta Popova, Zhivka Goranova and Pavlina Doykina
+- Development of Healthy Vegan Bonbons Enriched with Lyophilized Peach Powder
+- Reprinted from: Foods 2022, 11, 1580, doi:10.3390/foods11111580 . . . . . . . . . . . . . . . . . . . 173
+- Ana A. Vilas-Boas, Ricardo Goméz-Garcı́a, Manuela Machado, Catarina Nunes,
+- Sónia Ribeiro, João Nunes, et al.
+- Lavandula pedunculata Polyphenol-Rich Extracts Obtained by Conventional, MAE and UAE
+- Methods: Exploring the Bioactive Potential and Safety for Use a Medicine Plant as Food and
+- Nutraceutical Ingredient
+- Reprinted from: Foods 2023, 12, 4462, doi:10.3390/foods12244462 . . . . . . . . . . . . . . . . . . . 185
+- vi

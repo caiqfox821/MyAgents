@@ -1,0 +1,70 @@
+# The Principles and Practice of Brewing (Sykes) (1907, Archive.org)
+
+- 许可: Public Domain
+- 来源: https://archive.org/details/principlespracti00syke
+- 页数: 616
+- 全文: `text/public_domain/The_Principles_and_Practice_of_Brewing_1907.txt`
+- PDF: `public_domain/The_Principles_and_Practice_of_Brewing_1907.pdf`
+- 标签: 传统酿造, 历史经典
+
+## 目录 (Contents)
+
+- INTRODUCTION
+-                                                       PART          I
+-                                                  CHAPTER                I
+-    PHYSICAL PRINCIPLES INVOLVED IN THE PROCESS OF BREWING
+-                                                           PAGE                                                 PAGE
+- Heat
+-  Definition   ....
+-               ....
+-                                                              3
+-                                                              3
+-                                                                    SpecificHeat
+-                                                                    Latent Heat      ....
+-                                                                                     ....
+-                                                                                                                   9
+-                                                                                                                  12
+-  Conduction
+-  Convection   ....
+-               ....
+-                                                              3
+-                                                              4
+-                                                                    Evaporation
+-                                                                  Density and Specific Gravity      .
+-                                                                                                            •
+-                                                                                                            .
+-                                                                                                                  13
+-                                                                                                                  14
+-  Radiation
+-  Expansion    ....                                           5
+-                                                              5
+-                                                                    Density
+-                                                                    Specific Gravity
+-                                                                                     ....
+-                                                                                                            .
+-                                                                                                            •
+-                                                                                                                  14
+-                                                                                                                  15
+-  Heat Unit    ....
+-  The Thermometer   .                                         6
+-                                                              9
+-                                                                    Hydrometers
+-                                                                    Saccharometers
+-                                                                                                            •
+-                                                                                                            .
+-                                                                                                                  17
+-                                                                                                                  21
+-                                                  CHAPTER                II
+-        CHEMISTRY, WITH SPECIAL REFERENCE TO THE MATERIALS
+-                                                 USED IN BREWING
+- The Elements
+-                ...                                          23   Solution Factor     ....
+-                                                                                      ....                        56
+- Valency
+- Molecules
+-             ......
+- Combining Proportions
+-             ......
+-                                                             23
+-                                                             24
+-                                                             26

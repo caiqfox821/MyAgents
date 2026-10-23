@@ -1,0 +1,80 @@
+# State-of-the-Art Environmental Chemicals Exposomics and Metabolomics (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2131-0
+- 页数: 208
+- 全文: `text/mdpi/State_of_the_Art_Environmental_Chemicals_Exposomics_and_Metabolomics_2024.txt`
+- 标签: 环境与生态毒理, 代谢组学
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Minjian Chen
+- Environmental Chemical Exposomics and Metabolomics in Toxicology: The Latest Updates
+- Reprinted from: Toxics 2024, 12, 647, doi:10.3390/toxics12090647 . . . . . . . . . . . . . . . . . . .        1
+- Xiao Ning, Yongli Ye, Jian Ji, Yanchun Hui, Jingyun Li and Po Chen et al.
+- Restricted-Access Media Column Switching Online Solid-Phase Extraction UHPLC–MS/MS for
+- the Determination of Seven Type B Trichothecenes in Whole-Grain Preprocessed Foods and
+- Human Exposure Risk Assessment
+- Reprinted from: Toxics 2024, 12, 336, doi:10.3390/toxics12050336 . . . . . . . . . . . . . . . . . . .        5
+- Xiao Ning, Lulu Wang, Jia-Sheng Wang, Jian Ji, Shaoming Jin and Jiadi Sun et al.
+- High-Coverage UHPLC-MS/MS Analysis of 67 Mycotoxins in Plasma for Male Infertility
+- Exposure Studies
+- Reprinted from: Toxics 2024, 12, 395, doi:10.3390/toxics12060395 . . . . . . . . . . . . . . . . . . . 24
+- Chengzhi Liu, Shuang Chen, Jiangliang Chu, Yifan Yang, Beilei Yuan and Huazhong Zhang
+- Multi-Omics Analysis Reveals the Toxicity of Polyvinyl Chloride Microplastics toward BEAS-2B
+- Cells
+- Reprinted from: Toxics 2024, 12, 399, doi:10.3390/toxics12060399 . . . . . . . . . . . . . . . . . . . 43
+- Jun Yao, Pengfei Zhou, Xin Zhang, Beilei Yuan, Yong Pan and Juncheng Jiang
+- The Cytotoxicity of Tungsten Ions Derived from Nanoparticles Correlates with Pulmonary
+- Toxicity
+- Reprinted from: Toxics 2023, 11, 528, doi:10.3390/toxics11060528 . . . . . . . . . . . . . . . . . . . 57
+- Junyi Lv, Qing He, Zixiang Yan, Yuan Xie, Yao Wu and Anqi Li et al.
+- Inhibitory Impact of Prenatal Exposure to Nano-Polystyrene Particles on the MAP2K6/p38
+- MAPK Axis Inducing Embryonic Developmental Abnormalities in Mice
+- Reprinted from: Toxics 2024, 12, 370, doi:10.3390/toxics12050370 . . . . . . . . . . . . . . . . . . . 67
+- Haixin Li, Dandan Miao, Haiting Hu, Pingping Xue, Kun Zhou and Zhilei Mao
+- Titanium Dioxide Nanoparticles Induce Maternal Preeclampsia-like Syndrome and Adverse
+- Birth Outcomes via Disrupting Placental Function in SD Rats
+- Reprinted from: Toxics 2024, 12, 367, doi:10.3390/toxics12050367 . . . . . . . . . . . . . . . . . . . 81
+- Zhaofeng Liang, Shikun Fang, Yue Zhang, Xinyi Zhang, Yumeng Xu and Hui Qian et al.
+- Cigarette Smoke-Induced Gastric Cancer Cell Exosomes Affected the Fate of Surrounding
+- Normal Cells via the Circ0000670/Wnt/β-Catenin Axis
+- Reprinted from: Toxics 2023, 11, 465, doi:10.3390/toxics11050465 . . . . . . . . . . . . . . . . . . . 96
+- Bo Xu, Wei Gao, Ting Xu, Cuiping Liu, Dan Wu and Wei Tang
+- A UPLC Q-Exactive Orbitrap Mass Spectrometry-Based Metabolomic Study of Serum and
+- Tumor Tissue in Patients with Papillary Thyroid Cancer
+- Reprinted from: Toxics 2022, 11, 44, doi:10.3390/toxics11010044 . . . . . . . . . . . . . . . . . . . 111
+- Kun Zhou, Miaomiao Tang, Wei Zhang, Yanling Chen, Yusheng Guan and Rui Huang et al.
+- Exposure to Molybdate Results in Metabolic Disorder: An Integrated Study of the Urine
+- Elementome and Serum Metabolome in Mice
+- Reprinted from: Toxics 2024, 12, 288, doi:10.3390/toxics12040288 . . . . . . . . . . . . . . . . . . . 122
+-                                                        v
+- Huazhong Zhang, Jinsong Zhang, Jinquan Li, Zhengsheng Mao, Jian Qian and Cheng Zong
+- et al.
+- Multi-Omics Analyses Reveal the Mechanisms of Early Stage Kidney Toxicity by Diquat
+- Reprinted from: Toxics 2023, 11, 184, doi:10.3390/toxics11020184 . . . . . . . . . . . . . . . . . . . 137
+- Jianjun Liu, Wenyu Kong, Yuchen Liu, Qiyao Ma, Qi Shao and Liwen Zeng et al.
+- Stage-Related Neurotoxicity of BPA in the Development of Zebrafish Embryos
+- Reprinted from: Toxics 2023, 11, 177, doi:10.3390/toxics11020177 . . . . . . . . . . . . . . . . . . . 149
+- Binxiong Wu, Yuntian Xu, Miaomiao Tang, Yingtong Jiang, Ting Zhang and Lei Huang et al.
+- A Metabolome and Microbiome Analysis of Acute Myeloid Leukemia: Insights into the
+- Carnosine–Histidine Metabolic Pathway
+- Reprinted from: Toxics 2023, 12, 14, doi:10.3390/toxics12010014 . . . . . . . . . . . . . . . . . . . 166
+- Xinwei Xu, Lan Zhang, Yuyun He, Cong Qi and Fang Li
+- Progress in Research on the Role of the Thioredoxin System in Chemical Nerve Injury
+- Reprinted from: Toxics 2024, 12, 510, doi:10.3390/toxics12070510 . . . . . . . . . . . . . . . . . . . 182
+-                                                     vi
+- About the Editor
+- Minjian Chen
+-     Dr. Minjian Chen is a professor and doctoral supervisor at the Department of Occupational
+- Medicine and Environmental Health at the School of Public Health, Nanjing Medical University. He
+- is a member of the State Key Laboratory of Reproductive Medicine and Offspring Health of China
+- and the Key Laboratory of Modern Toxicology of the Ministry of Education of China. He focuses
+- on environmental exposomics, metabolomics, and reproductive and developmental health. He has
+- taken the integration of exposomes and metabolomes as the key to discovering new reproductive
+- and developmental toxicants and underlying mechanisms and established an efficient integrated
+- analysis method of environmental chemical exposomes and metabolomes for the reproductive and
+- developmental toxicological study; carried out extensive risk assessment based on the population
+- study with a large sample size; screened out a series of reproductive and developmental toxicants;
+- revealed the molecular mechanisms underlying reproductive and developmental toxicities; and

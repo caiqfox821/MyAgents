@@ -1,0 +1,78 @@
+# Vegetable Genetics and Genomics (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11671
+- 页数: 272
+- 全文: `text/mdpi/Vegetable_Genetics_and_Genomics_2025.txt`
+- 标签: 蔬菜, 嫁接育苗
+
+## 目录 (Contents)
+
+- Xi-Xiang Li and Yun-Song Lai
+- The Development and Application of Vegetable Genomics Increase the Efﬁciency of Exploring
+- New Gene Resources for Vegetables
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 6906, https://doi.org/10.3390/ijms25136906 . . . . . .   1
+- Guixin Yan, Meili Zhang, Wenjie Guan, Fugui Zhang, Wenjun Dai, Lili Yuan, et al.
+- Genome-Wide Identiﬁcation and Functional Characterization of Stress Related Glyoxalase
+- Genes in Brassica napus L.
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 2130, https://doi.org/10.3390/ijms24032130 . . . . . .   5
+- Maria C. Camarero, Beatriz Briegas, Jorge Corbacho, Juana Labrador, Mercedes Gallardo and
+- Maria C. Gomez-Jimenez
+- Characterization of Transcriptome Dynamics during Early Fruit Development in Olive (Olea
+- europaea L.)
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 961, https://doi.org/10.3390/ijms24020961 . . . . . . . 27
+- Chen Luo, Jinqiang Yan, Changxia He, Wenrui Liu, Dasen Xie and Biao Jiang
+- Genome-Wide Identiﬁcation of the SAUR Gene Family in Wax Gourd (Benincasa hispida) and
+- Functional Characterization of BhSAUR60 during Fruit Development
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 14021, https://doi.org/10.3390/ijms232214021 . . . . . 62
+- Eliana Valencia-Lozano, Lisset Herrera-Isidrón, Jorge Abraham Flores-López, Osiel Salvador
+- Recoder-Meléndez, Aarón Barraza and José Luis Cabrera-Ponce
+- Solanum tuberosum Microtuber Development under Darkness Unveiled through RNAseq
+- Transcriptomic Analysis
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 13835, https://doi.org/10.3390/ijms232213835 . . . . . 80
+- Xiaohui Zhou, Songyu Liu, Yan Yang, Jun Liu and Yong Zhuang
+- Integrated Metabolome and Transcriptome Analysis Reveals a Regulatory Network of Fruit
+- Peel Pigmentation in Eggplant (Solanum melongena L.)
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 13475, https://doi.org/10.3390/ijms232113475 . . . . . 109
+- Maria Guadalupe Villa-Rivera, Octavio Martı́nez and Neftalı́ Ochoa-Alejo
+- Putative Transcription Factor Genes Associated with Regulation of Carotenoid Biosynthesis in
+- Chili Pepper Fruits Revealed by RNA-Seq Coexpression Analysis
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 11774, https://doi.org/10.3390/ijms231911774 . . . . . 129
+- Yi Liu, Zhishuo Zhang, Ke Fang, Qingyun Shan, Lun He, Xiongze Dai, et al.
+- Genome-Wide Analysis of the MYB-Related Transcription Factor Family in Pepper and
+- Functional Studies of CaMYB37 Involvement in Capsaicin Biosynthesis
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 11667, https://doi.org/10.3390/ijms231911667 . . . . . 147
+- Dongrang Liu, Shaoyun Dong, Han Miao, Xiaoping Liu, Caixia Li, Jianan Han, et al.
+- A Large-Scale Genomic Association Analysis Identiﬁes the Candidate Genes Regulating Salt
+- Tolerance in Cucumber (Cucumis sativus L.) Seedlings
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 8260, https://doi.org/10.3390/ijms23158260 . . . . . . 163
+- Zhixing Nie, Yunpeng Song, Hong Wang, Jianying Chen, Qingliang Niu and Weimin Zhu
+- Fine Mapping and Gene Analysis of restorer-of -fertility Gene CaRfHZ in Pepper (Capsicum
+- annuum L.)
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 7633, https://doi.org/10.3390/ijms23147633 . . . . . . 179
+-                                                   v
+- Shi-Wei Xia, Lin-Feng Hang, Siyad Ali, Xiao-Yu Xu, Yan-Jun Liu, Qian-Qian Yan, et al.
+- Biosynthesis and Metabolism of Garlic Odor Compounds in Cultivated Chinese Chives (Allium
+- tuberosum) and Wild Chinese Chives (Allium hookeri)
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 7013, https://doi.org/10.3390/ijms23137013 . . . . . . 193
+- Xi’ou Xiao, Wenqiu Lin, Enyou Feng, Caiyu Wu and Xiongchang Ou
+- Genome-Wide Identiﬁcation of Binding Sites for SmTCP7a Transcription Factors of Eggplant
+- during Bacterial Wilt Resistance by ChIP-Seq
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 6844, https://doi.org/10.3390/ijms23126844 . . . . . . 209
+- Xiaoman Li, Peng Wang, Jinglei Wang, Haiping Wang, Tongjin Liu, Xiaohui Zhang, et al.
+- A Comparative Transcriptome and Metabolome Combined Analysis Reveals the Key Genes and
+- Their Regulatory Model Responsible for Glucoraphasatin Accumulation in Radish
+- Fleshy Taproots
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 2953, https://doi.org/10.3390/ijms23062953 . . . . . . 220
+- Wenjing Ren, Jinchao Si, Li Chen, Zhiyuan Fang, Mu Zhuang, Honghao Lv, et al.
+- Mechanism and Utilization of Ogura Cytoplasmic Male Sterility in Cruciferae Crops
+- Reprinted from: Int. J. Mol. Sci. 2022, 23, 9099, https://doi.org/10.3390/ijms23169099 . . . . . . 237
+-                                                   vi
+-             International Journal of
+-             Molecular Sciences
+- Editorial
+- The Development and Application of Vegetable Genomics
+- Increase the Efﬁciency of Exploring New Gene Resources
+- for Vegetables
+- Xi-Xiang Li 1, * and Yun-Song Lai 2, *
+-                   1   State Key Laboratory of Vegetable Biobreeding, Institute of Vegetables and Flowers, Chinese Academy of

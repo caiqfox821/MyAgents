@@ -1,0 +1,78 @@
+# Guideline: updates on the management of severe acute malnutrition in infants and children (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/95584
+- 页数: 123
+- 全文: `text/who/Guideline_updates_on_the_management_of_severe_acute_malnutrition_in_infants_and_children.txt`
+- 标签: 婴幼儿/儿童, 营养不良
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                               v
+-    Financial support                                                                           v
+- Abbreviations                                                                                 vi
+- Executive summary                                                                              1
+-    Purpose of the guideline                                                                    1
+-    Guideline development methodology                                                           1
+-    Available evidence                                                                          2
+-    Recommendations                                                                             2
+-    Research priorities                                                                         8
+- Scope and purpose                                                                              9
+- Background                                                                                    10
+- Recommendations                                                                               14
+-   1. Admission and discharge criteria for children who are 6–59 months of age with
+- 		 severe acute malnutrition                                                                  14
+-    2. Where to manage children with severe acute malnutrition who have oedema                 23
+-  3. Use of antibiotics in the management of children with severe acute malnutrition in
+- 		outpatient care                                                                             26
+-    4. Vitamin A supplementation in the treatment of children with severe acute malnutrition   31
+-   5. Therapeutic feeding approaches in the management of severe acute malnutrition in
+- 		 children who are 6–59 months of age                                                        36
+-    6. Fluid management of children with severe acute malnutrition                             46
+-    7. Management of HIV-infected children with severe acute malnutrition                      55
+-  8. Identifying and managing infants who are less than 6 months of age with severe
+- 		acute malnutrition                                                                          60
+- Dissemination, adaptation and implementation                                                  67
+-    Dissemination                                                                              67
+-    Adaptation and implementation                                                              67
+- Guideline development process                                                                 68
+-    Formulation of recommendations, including future research priorities                       69
+-    Advisory groups                                                                            69
+-                                                                                                    iii
+-  GUIDELINE: UPDATES ON THE MANAGEMENT OF SEVERE ACUTE MALNUTRITION IN INFANTS AND CHILDREN
+-                  Scope of the guideline, evidence appraisal and decision-making                           70
+-                  Management of conflicts of interest                                                      70
+-               Plans for updating the guideline                                                           72
+-               References                                                                                 73
+-               Annexes
+-               Annex 1. GRADE summary of findings tables                                                  83
+-               Annex 2. Members of the WHO Steering Committee for Nutrition Guidelines Development        88
+-               Annex 3. Members of the Nutrition Guidance Advisory Group – Subgroup on Nutrition in the
+-                        Life Course and Undernutrition, external resource people, WHO Secretariat and
+-                        WHO Regional Offices                                                              89
+-                        A. Members of the Nutrition Guidance Advisory Group – Subgroup on Nutrition in
+-                        the Life Course and Undernutrition 2010–2012                                      89
+-                        B. External resource people                                                       89
+-                        C. WHO Secretariat                                                                90
+-               Annex 4. External experts and stakeholders                                                 92
+-               Annex 5. Summary of considerations for determining the strength of the recommendations     93
+-               Annex 6. Questions on the management of severe acute malnutrition in population,
+-                        intervention, control, outcomes (PICO) format                                     99
+-               Annex 7. Research priorities                                                               111
+-    iv
+- Acknowledgements
+- This guideline was coordinated by Zita Weise Prinzo, Department of Nutrition for Health and
+- Development, and by Dr Nigel Rollins, Department of Maternal, Newborn, Child and Adolescent
+- Health, with technical input from Dr Luz Maria De-Regil, Chantal Gegout, Dr José Martines, Dr
+- Juan Pablo Peña-Rosas and Dr Lisa Rogers. Thanks are due to the Guidelines Review Committee
+- Secretariat for their support throughout the process. Thanks are also due to Lisa Haintz-Carbonin
+- from the World Health Organization (WHO) Office of the Legal Counsel for her support in the
+- management of conflicts of interest procedures.
+- WHO gratefully acknowledges the technical input of the members of the Nutrition Guidance
+- Advisory Group (also referred to as NUGAG) and the external resource people, in particular Dr
+- Tahmeed Ahmed, Dr Beatrice Amadi, Dr Paluku Bahwere, Dr André Briend, Hedwig Deconinck,
+- Professor Michael Golden, Professor Alan Jackson, Dr Marzia Lazzerini and Dr Mark Manary. WHO
+- is also grateful to the external experts and stakeholders, especially Professor Ann Ashworth and
+- Dr Tom Heikens, for their technical advice in peer reviewing the guideline. Special thanks to Juana
+- Willumsen for taking notes during the guideline development meetings and for her contribution in
+- drafting the guideline, including reviewing of GRADE tables.

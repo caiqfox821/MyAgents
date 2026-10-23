@@ -1,0 +1,80 @@
+# Food Supplements and Functional Foods Assessment for Health and Nutrition (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1882-2
+- 页数: 182
+- 全文: `text/mdpi/Food_Supplements_and_Functional_Foods_Assessment_for_Health_and_Nutrition_2024.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Brigitta Plasek, Zoltán Lakner and Ágoston Temesi
+- I Believe It Is Healthy—Impact of Extrinsic Product Attributes in Demonstrating Healthiness of
+- Functional Food Products
+- Reprinted from: Nutrients 2021, 13, 3518, https://doi.org/10.3390/nu13103518 . . . . . . . . . .                  1
+- Marie-Josèphe Amiot, Christian Latgé, Laurence Plumey and Sylvie Raynal
+- Intake Estimation of Phytochemicals in a French Well-Balanced Diet
+- Reprinted from: Nutrients 2021, 13, 3628, https://doi.org/10.3390/nu13103628 . . . . . . . . . . 17
+- Elżbieta Studzińska-Sroka, Agnieszka Galanty, Anna Gościniak, Mateusz Wieczorek,
+- Magdalena Kłaput, Marlena Dudek-Makuch, et al.
+- Herbal Infusions as a Valuable Functional Food
+- Reprinted from: Nutrients 2021, 13, 4051, https://doi.org/10.3390/nu13114051 . . . . . . . . . . 29
+- Jieping Yang, Venu Lagishetty, Patrick Kurnia, Susanne M. Henning, Aaron I. Ahdoot and
+- Jonathan P. Jacobs
+- Microbial and Chemical Proﬁles of Commercial Kombucha Products
+- Reprinted from: Nutrients 2022, 14, 670, https://doi.org/10.3390/nu14030670 . . . . . . . . . . . 45
+- Monika Turska, Piotr Paluszkiewicz, Waldemar A. Turski and Jolanta Parada-Turska
+- A Review of the Health Beneﬁts of Food Enriched with Kynurenic Acid
+- Reprinted from: Nutrients 2022, 14, 4182, https://doi.org/10.3390/nu14194182 . . . . . . . . . . 61
+- Ricardo López-Rodrı́guez, Laura Domı́nguez, Virginia Fernández-Ruiz and Montaña Cámara
+- Extracts Rich in Nutrients as Novel Food Ingredients to Be Used in Food Supplements: A
+- Proposal Classiﬁcation
+- Reprinted from: Nutrients 2022, 14, 3194, https://doi.org/10.3390/nu14153194 . . . . . . . . . . 84
+- Maja Bensa, Irena Vovk and Vesna Glavnik
+- Resveratrol Food Supplement Products and the Challenges of Accurate Label Information to
+- Ensure Food Safety for Consumers
+- Reprinted from: Nutrients 2023, 15, 474, https://doi.org/10.3390/nu15020474 . . . . . . . . . . . 103
+- Anna Puścion-Jakubik, Natalia Bartosiewicz and Katarzyna Socha
+- Is the Magnesium Content in Food Supplements Consistent with the Manufacturers’
+- Declarations?
+- Reprinted from: Nutrients 2021, 13, 3416, https://doi.org/10.3390/nu13103416 . . . . . . . . . . 125
+- Laura Domı́nguez, Virginia Fernández-Ruiz and Montaña Cámara
+- Micronutrients in Food Supplements for Pregnant Women: European Health Claims
+- Assessment
+- Reprinted from: Nutrients 2023, 15, 4592, https://doi.org/10.3390/nu15214592 . . . . . . . . . . 135
+- Marta Czarnowska-Kujawska, Joanna Klepacka, Olga Zielińska and Marı́a de Lourdes
+- Samaniego-Vaesken
+- Characteristics of Dietary Supplements with Folic Acid Available on the Polish Market
+- Reprinted from: Nutrients 2022, 14, 3500, https://doi.org/10.3390/nu14173500 . . . . . . . . . . 148
+-                                                          v
+- Laura Domı́nguez, Virginia Fernández-Ruiz, Patricia Morales, Marı́a-Cortes Sánchez-Mata
+- and Montaña Cámara
+- Assessment of Health Claims Related to Folic Acid in Food Supplements for Pregnant Women
+- According to the European Regulation
+- Reprinted from: Nutrients 2021, 13, 937, https://doi.org/10.3390/nu13030937 . . . . . . . . . . . 159
+-                                                  vi
+- About the Editors
+- Laura Domı́nguez Dı́az
+-     Dr. Laura Domı́nguez Dı́az is an Assistant Professor in the Food Science and Nutrition
+- Department of the Faculty of Pharmacy at the Complutense University of Madrid. She is a member
+- of the UCM Research Group ALIMNOVA - Novel Foods. Scientiﬁc, Technological and Social aspects
+- (Ref.: 951505). In 2016, she received her bachelor’s degree in pharmaceutical studies and was
+- awarded the “Fundación Rafael Folch” Award. Then, she completed her master’s degree in food
+- safety with Honorable Mention (2017) and her PhD in pharmacy (2022), being granted the First
+- Extraordinary Doctorate Award by Complutense University of Madrid. Her research is focused on
+- the analysis of foods of plant origin, functional foods, and food supplements (nutrients, bioactive
+- compounds), as well as their legal implications in terms of labeling, nutritional and health claims,
+- and food safety.
+- Montaña Cámara
+-     Dr. Montaña Cámara is Head Professor in the Food Science and Nutrition Department of the
+- Faculty of Pharmacy at the Complutense University of Madrid. She is the research lead of the
+- UCM Research Group ALIMNOVA - Novel Foods. Scientiﬁc, Technological and Social aspects (Ref.:
+- 951505), and the Corresponding Academic of the Royal National Academy of Pharmacy. She is the
+- Co-director of the UCM master’s in food safety and Co-chair of the study group on Functional Foods,
+- Bioactives and Human Health at the Royal Complutense College of Harvard. She is also a member
+- of the EFSA Experts NDA Panel (Nutrition, Novel Foods ¬ Allergens). She has received awards such
+- as the Royal Academy of Pharmacy Research (1989), Antama Foundation Scientiﬁc Communication
+- (2014), Bernard Bierch Award – Melcoptor Award (2018), UCM Technology and Knowledge Transfer,
+- Area of Biomedical and Health Sciences (2020) and FIAB Award, Health Sciences (2021).

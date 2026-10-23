@@ -1,0 +1,71 @@
+# Implementation of Digital Technologies on Beverage Fermentation (2022, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-0365-3656-9
+- 页数: 222
+- 全文: `text/mdpi/Digital_Technologies_on_Beverage_Fermentation_2022.txt`
+- PDF: `mdpi/Digital_Technologies_on_Beverage_Fermentation_2022.pdf`
+- 标签: 工业发酵, 过程控制, 饮料
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Claudia Gonzalez Viejo and Sigfredo Fuentes
+- Editorial: Special Issue “Implementation of Digital Technologies on Beverage Fermentation”
+- Reprinted from: Fermentation 2022, 8, 127, doi:10.3390/fermentation8030127 . . . . . . . . . . . .             1
+- Claudia Gonzalez Viejo and Sigfredo Fuentes
+- Low-Cost Methods to Assess Beer Quality Using Artificial Intelligence Involving Robotics,
+- an Electronic Nose, and Machine Learning
+- Reprinted from: Fermentation 2020, 6, 104, doi:10.3390/fermentation6040104 . . . . . . . . . . . .             5
+- Claudia Gonzalez Viejo, Sigfredo Fuentes and Carmen Hernandez-Brenes
+- Smart Detection of Faults in Beers Using Near-Infrared Spectroscopy, a Low-Cost Electronic
+- Nose and Artificial Intelligence
+- Reprinted from: Fermentation 2021, 7, 117, doi:10.3390/fermentation7030117 . . . . . . . . . . . . 19
+- Vasiliki Summerson, Claudia Gonzalez Viejo, Damir D. Torrico, Alexis Pang and Sigfredo
+- Fuentes
+- Digital Smoke Taint Detection in Pinot Grigio Wines Using an E-Nose and Machine Learning
+- Algorithms Following Treatment with Activated Carbon and a Cleaving Enzyme
+- Reprinted from: Fermentation 2021, 7, 119, doi:10.3390/fermentation7030119 . . . . . . . . . . . . 37
+- Alexander Bowler, Josep Escrig, Michael Pound and Nicholas Watson
+- Predicting Alcohol Concentration during Beer Fermentation Using Ultrasonic Measurements
+- and Machine Learning
+- Reprinted from: Fermentation 2021, 7, 34, doi:10.3390/fermentation7010034 . . . . . . . . . . . . . 51
+- Emmanuel Karlo Nyarko, Hrvoje Glavaš, Kristina Habschied and Krešimir Mastanjević
+- Determination of Foam Stability in Lager Beers Using Digital Image Analysis of Images
+- Obtained Using RGB and 3D Cameras
+- Reprinted from: Fermentation 2021, 7, 46, doi:10.3390/fermentation7020046 . . . . . . . . . . . . 65
+- Mario Guadalupe-Daqui, Mandi Chen, Katherine A. Thompson-Witrick and Andrew J.
+- MacIntosh
+- Yeast Morphology Assessment through Automated Image Analysis during Fermentation
+- Reprinted from: Fermentation 2021, 7, 44, doi:10.3390/fermentation7020044 . . . . . . . . . . . . . 79
+- Osbert Chou, Akhtar Ali, Vigasini Subbiah, Colin J. Barrow, Frank R. Dunshea and Hafiz A.
+- R. Suleria
+- LC-ESI-QTOF-MS/MS Characterisation of Phenolics in Herbal Tea Infusion and Their
+- Antioxidant Potential
+- Reprinted from: Fermentation 2021, 7, 73, doi:10.3390/fermentation7020073 . . . . . . . . . . . . . 95
+- Aina Mir-Cerdà, Anaı̈s Izquierdo-Llopart, Javier Saurina and Sonia Sentellas
+- Oenological Processes and Product Qualities in the Elaboration of Sparkling Wines Determine
+- the Biogenic Amine Content
+- Reprinted from: Fermentation 2021, 7, 144, doi:10.3390/fermentation7030144 . . . . . . . . . . . . 119
+-                                                        v
+- Hazel Alderson, Chang Liu, Annu Mehta, Hinal Suresh Gala, Natalia Rutendo Mazive,
+- Yuzheng Chen, Yuwei Zhang, Shichang Wang and Luca Serventi
+- Sensory Profile of Kombucha Brewed with New Zealand Ingredients by Focus Group and Word
+- Clouds
+- Reprinted from: Fermentation 2021, 7, 100, doi:10.3390/fermentation7030100 . . . . . . . . . . . . 133
+- Yanyu Dong, Chetan Sharma, Annu Mehta and Damir D. Torrico
+- Application of Augmented Reality in the Sensory Evaluation of Yogurts
+- Reprinted from: Fermentation 2021, 7, 147, doi:10.3390/fermentation7030147 . . . . . . . . . . . . 147
+- Nicholas van Holst Pellekaan, Michelle E. Walker, Tommaso L. Watson and Vladimir Jiranek
+- ‘TeeBot’: A High Throughput Robotic Fermentation and Sampling System
+- Reprinted from: Fermentation 2021, 7, 205, doi:10.3390/fermentation7040205 . . . . . . . . . . . . 167
+- Satyajeet Bhonsale, Wannes Mores and Jan Van Impe
+- Dynamic Optimisation of Beer Fermentation under Parametric Uncertainty
+- Reprinted from: Fermentation 2021, 7, 285, doi:10.3390/fermentation7040285 . . . . . . . . . . . . 179
+- Eddy Plasquy, Marı́a del Carmen Florido Fernández, Rafael Rubén Sola-Guirado, José Marı́a
+- Garcı́a Martos and Juan Francisco Garcı́a Martı́n
+- Effect of Temperature and Time on Oxygen Consumption by Olive Fruit: Empirical Study and
+- Simulation in a Non-Ventilated Container
+- Reprinted from: Fermentation 2021, 7, 200, doi:10.3390/fermentation7040200 . . . . . . . . . . . . 197
+-                                                   vi
+- About the Editors

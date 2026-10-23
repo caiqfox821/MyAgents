@@ -1,0 +1,81 @@
+# Agribusiness Handbook: Milk / Dairy Products (2009, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/al179e/al179e.pdf
+- 页数: 49
+- 全文: `text/fao/Agribusiness_Handbook_Milk_Dairy_Products_2009.txt`
+- PDF: `fao/Agribusiness_Handbook_Milk_Dairy_Products_2009.pdf`
+- 标签: 乳品加工, 产业手册
+
+## 目录 (Contents)
+
+- INTRODUCTION
+- 5
+- 1. MILK PRODUCTION
+- 1.1 Type and composition
+- 1.2 Animal numbers and yields
+- 1.3 Volume of milk production
+- 1.4 Regulatory regimes
+- 1.5 Milk quality
+- 1.6 Milk collection
+- 1.7 Milk prices
+- 1.8 Costs and margins of milk production
+- 7
+- 7
+- 7
+- 9
+- 9
+- 10
+- 11
+- 13
+- 14
+- 2. MILK PROCESSING
+- 2.1 General
+- 2.2 Major manufacturing companies
+- 2.3 Scale of production and size of plants
+- 2.4 Milk processing costs
+- 2.5 Dairy product prices
+- 17
+- 17
+- 20
+- 21
+- 22
+- 23
+- 3.THE WORLD DAIRY MARKET
+- 3.1 Production of dairy products
+- 3.2 Consumption of dairy products
+- 3.3 Trade in dairy products
+- 25
+- 25
+- 27
+- 28
+- 4. THE WESTERN BALKAN COUNTRIES (WBDs) AND THE EARLY
+- TRANSITION COUNTRIES (ETCs)
+- 31
+- 4.1 Milk production and processing in the WBCs
+- 31
+- 4.2 Milk production and processing in the ETCs
+- 34
+- 4.3 Consumption and trade in the WBCs
+- 40
+- 4.4 Consumption and trade in the ETCs
+- 43
+- 4.5 Key priorities
+- 46
+- 3
+- INTRODUCTION
+- Lactating mammals produce milk to feed their young. Throughout history,
+- humans have come to recognize in milk a product with uses and benefits
+- far beyond this simple biological fact. Milk is a liquid containing nutrients in
+- suspension. Its exact composition varies from species to species, but for the
+- main part these nutrients may be classified as fat, protein and other solids.
+- Consumers have come to value these nutrients in their diets. Farmers have
+- been encouraged to engage in commercial dairy farming to produce raw milk
+- to satisfy consumer demand, and dairy processors have enabled raw milk
+- to be transformed into a wide variety of products to stimulate this demand.
+- Technology has enabled the use of raw milk and its constituents in many
+- individual products and as components in many foods and food preparations.
+- A major global industry has evolved from humble beginnings. Governments
+- have come to recognize the value of the dairy industry in providing a basis
+- for agricultural and industrial development, and have employed policies
+- accordingly. Not bad for such a simple product!

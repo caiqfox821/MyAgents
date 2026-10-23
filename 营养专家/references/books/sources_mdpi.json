@@ -1,0 +1,1785 @@
+[
+  {
+    "id": "13290",
+    "url_title": "Advances_in_Gene_Diet_Interactions_and_Human_Health",
+    "file": "Advances_in_Gene_Diet_Interactions_and_Human_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8804-7",
+    "pdf_isbn": "9783725888047",
+    "tags": [
+      "膳食模式/摄入",
+      "基因-膳食"
+    ],
+    "title": "Advances in Gene–Diet Interactions and Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8804-7"
+  },
+  {
+    "id": "13489",
+    "url_title": "Advances_in_Sport_Physiology_Nutrition_and_Metabolism",
+    "file": "Advances_in_Sport_Physiology_Nutrition_and_Metabolism_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-9046-0",
+    "pdf_isbn": "9783725890460",
+    "tags": [
+      "运动/肌少症"
+    ],
+    "title": "Advances in Sport Physiology, Nutrition, and Metabolism",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-9046-0"
+  },
+  {
+    "id": "12553",
+    "url_title": "Aging_Natural_Bioactive_Compounds_Non_communicable_Chronic_Degenerative_Diseases",
+    "file": "Aging_Natural_Bioactive_Compounds_and_Non_communicable_Chronic_Degenerative_Diseases_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7139-1",
+    "pdf_isbn": "9783725871391",
+    "tags": [
+      "老年营养",
+      "补剂/功能成分",
+      "基因-膳食"
+    ],
+    "title": "Aging, Natural Bioactive Compounds and Non-communicable Chronic-Degenerative Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7139-1"
+  },
+  {
+    "id": "12477",
+    "url_title": "Anti_obesity_Anti_aging_Natural_Products",
+    "file": "Anti_obesity_and_Anti_aging_Natural_Products_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6803-2",
+    "pdf_isbn": "9783725868032",
+    "tags": [
+      "肥胖/体重管理",
+      "老年营养",
+      "补剂/功能成分"
+    ],
+    "title": "Anti-obesity and Anti-aging Natural Products",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6803-2"
+  },
+  {
+    "id": "13282",
+    "url_title": "Anticancer_Activities_of_Dietary_Phytochemicals",
+    "file": "Anticancer_Activities_of_Dietary_Phytochemicals_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8806-1",
+    "pdf_isbn": "9783725888061",
+    "tags": [
+      "肿瘤营养",
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Anticancer Activities of Dietary Phytochemicals",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8806-1"
+  },
+  {
+    "id": "12618",
+    "url_title": "Antioxidants_from_Food_and_Food_Wastes_for_Nutraceutical_Pharmaceutical_and_Cosmetic_Fields",
+    "file": "Antioxidants_from_Food_and_Food_Wastes_for_Nutraceutical_Pharmaceutical_and_Cosmetic_Fields_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7453-8",
+    "pdf_isbn": "9783725874538",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Antioxidants from Food and Food Wastes for Nutraceutical, Pharmaceutical and Cosmetic Fields",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7453-8"
+  },
+  {
+    "id": "12159",
+    "url_title": "Bioactive_Compounds_and_Functional_Foods_in_Human_Health",
+    "file": "Bioactive_Compounds_and_Functional_Foods_in_Human_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6407-2",
+    "pdf_isbn": "9783725864072",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Bioactive Compounds and Functional Foods in Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6407-2"
+  },
+  {
+    "id": "12850",
+    "url_title": "Bioactive_Compounds_from_Functional_Foods_2nd_Edition",
+    "file": "Bioactive_Compounds_from_Functional_Foods_2nd_Edition_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7778-2",
+    "pdf_isbn": "9783725877782",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Bioactive Compounds from Functional Foods, 2nd Edition",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7778-2"
+  },
+  {
+    "id": "12293",
+    "url_title": "Calcium_Vitamin_D_and_Aging_in_Humans",
+    "file": "Calcium_Vitamin_D_and_Aging_in_Humans_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6749-3",
+    "pdf_isbn": "9783725867493",
+    "tags": [
+      "微量营养素",
+      "老年营养"
+    ],
+    "title": "Calcium, Vitamin D and Aging in Humans",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6749-3"
+  },
+  {
+    "id": "12785",
+    "url_title": "Cardiovascular_and_Metabolic_Disease",
+    "file": "Cardiovascular_and_Metabolic_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7427-9",
+    "pdf_isbn": "9783725874279",
+    "tags": [
+      "代谢与心血管"
+    ],
+    "title": "Cardiovascular and Metabolic Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7427-9"
+  },
+  {
+    "id": "13403",
+    "url_title": "Chronic_Complications_of_Type_2_Diabetes",
+    "file": "Chronic_Complications_of_Type_2_Diabetes_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8732-3",
+    "pdf_isbn": "9783725887323",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Chronic Complications of Type 2 Diabetes",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8732-3"
+  },
+  {
+    "id": "12274",
+    "url_title": "Connections_Between_Diabetes_Mellitus_Other_Metabolic_and_Endocrine_Dysfunctions_and_Cardiovascular_Pathologies",
+    "file": "Connections_Between_Diabetes_Mellitus_Other_Metabolic_and_Endocrine_Dysfunctions_and_Cardiovascular_Pathologies_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6775-2",
+    "pdf_isbn": "9783725867752",
+    "tags": [
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "Connections Between Diabetes Mellitus, Other Metabolic and Endocrine Dysfunctions and Cardiovascular Pathologies",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6775-2"
+  },
+  {
+    "id": "13136",
+    "url_title": "Diabetes",
+    "file": "Diabetes_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8070-6",
+    "pdf_isbn": "9783725880706",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Diabetes",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8070-6"
+  },
+  {
+    "id": "12162",
+    "url_title": "Diet_Composition_Eating_Habits_and_Their_Impact_on_Metabolic_Diseases",
+    "file": "Diet_Composition_Eating_Habits_and_Their_Impact_on_Metabolic_Diseases_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6128-6",
+    "pdf_isbn": "9783725861286",
+    "tags": [
+      "代谢与心血管",
+      "膳食模式/摄入"
+    ],
+    "title": "Diet Composition, Eating Habits and Their Impact on Metabolic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6128-6"
+  },
+  {
+    "id": "12143",
+    "url_title": "Diet_Nutrition_and_Lifestyle_in_Aging_and_Age_Related_Diseases",
+    "file": "Diet_Nutrition_and_Lifestyle_in_Aging_and_Age_Related_Diseases_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6295-5",
+    "pdf_isbn": "9783725862955",
+    "tags": [
+      "膳食模式/摄入",
+      "老年营养"
+    ],
+    "title": "Diet, Nutrition and Lifestyle in Aging and Age-Related Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6295-5"
+  },
+  {
+    "id": "13255",
+    "url_title": "Dietary_Fatty_Acids_and_Metabolic_Health",
+    "file": "Dietary_Fatty_Acids_and_Metabolic_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8540-4",
+    "pdf_isbn": "9783725885404",
+    "tags": [
+      "代谢与心血管",
+      "膳食模式/摄入"
+    ],
+    "title": "Dietary Fatty Acids and Metabolic Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8540-4"
+  },
+  {
+    "id": "12258",
+    "url_title": "Dietary_Supplements_in_Human_Health_and_Disease",
+    "file": "Dietary_Supplements_in_Human_Health_and_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6695-3",
+    "pdf_isbn": "9783725866953",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Dietary Supplements in Human Health and Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6695-3"
+  },
+  {
+    "id": "12501",
+    "url_title": "Echocardiography_in_Cardiovascular_Disease",
+    "file": "Echocardiography_in_Cardiovascular_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7055-4",
+    "pdf_isbn": "9783725870554",
+    "tags": [
+      "代谢与心血管"
+    ],
+    "title": "Echocardiography in Cardiovascular Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7055-4"
+  },
+  {
+    "id": "12137",
+    "url_title": "Effect_of_Dietary_Antioxidants_in_Chronic_Disease_Prevention",
+    "file": "Effect_of_Dietary_Antioxidants_in_Chronic_Disease_Prevention_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6223-8",
+    "pdf_isbn": "9783725862238",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分",
+      "临床营养"
+    ],
+    "title": "Effect of Dietary Antioxidants in Chronic Disease Prevention",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6223-8"
+  },
+  {
+    "id": "12418",
+    "url_title": "Effects_of_Functional_Foods_and_Dietary_Bioactives_on_Human_Health",
+    "file": "Effects_of_Functional_Foods_and_Dietary_Bioactives_on_Human_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6857-5",
+    "pdf_isbn": "9783725868575",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Effects of Functional Foods and Dietary Bioactives on Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6857-5"
+  },
+  {
+    "id": "13174",
+    "url_title": "Feature_Articles_on_Obesity_and_Weight_Loss_Treatments",
+    "file": "Feature_Articles_on_Obesity_and_Weight_Loss_Treatments_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8430-8",
+    "pdf_isbn": "9783725884308",
+    "tags": [
+      "肥胖/体重管理"
+    ],
+    "title": "Feature Articles on Obesity and Weight Loss Treatments",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8430-8"
+  },
+  {
+    "id": "12669",
+    "url_title": "Fermentation_as_a_Strategy_to_Improve_the_Functional_and_Nutritional_Value_of_Foods",
+    "file": "Fermentation_as_a_Strategy_to_Improve_the_Functional_and_Nutritional_Value_of_Foods_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7505-4",
+    "pdf_isbn": "9783725875054",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Fermentation as a Strategy to Improve the Functional and Nutritional Value of Foods",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7505-4"
+  },
+  {
+    "id": "13427",
+    "url_title": "Hot_Topics_in_Nutrition_and_Obesity",
+    "file": "Hot_Topics_in_Nutrition_and_Obesity_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-9120-7",
+    "pdf_isbn": "9783725891207",
+    "tags": [
+      "肥胖/体重管理"
+    ],
+    "title": "Hot Topics in Nutrition and Obesity",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-9120-7"
+  },
+  {
+    "id": "13161",
+    "url_title": "Insights_on_the_Health_Benefits_and_Functional_Potential_of_Food_Bioactive_Compounds",
+    "file": "Insights_on_the_Health_Benefits_and_Functional_Potential_of_Food_Bioactive_Compounds_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8146-8",
+    "pdf_isbn": "9783725881468",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Insights on the Health Benefits and Functional Potential of Food Bioactive Compounds",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8146-8"
+  },
+  {
+    "id": "13376",
+    "url_title": "Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases",
+    "file": "Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8960-0",
+    "pdf_isbn": "9783725889600",
+    "tags": [
+      "代谢与心血管",
+      "临床营养"
+    ],
+    "title": "Metabolic Features and Nutritional Interventions in Chronic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8960-0"
+  },
+  {
+    "id": "12496",
+    "url_title": "Mineral_Nutrition_on_Human_Health_and_Disease",
+    "file": "Mineral_Nutrition_on_Human_Health_and_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7047-9",
+    "pdf_isbn": "9783725870479",
+    "tags": [
+      "微量营养素"
+    ],
+    "title": "Mineral Nutrition on Human Health and Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7047-9"
+  },
+  {
+    "id": "12484",
+    "url_title": "Natural_Products_in_Diabetes_Mellitus",
+    "file": "Natural_Products_in_Diabetes_Mellitus_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6589-5",
+    "pdf_isbn": "9783725865895",
+    "tags": [
+      "糖尿病",
+      "补剂/功能成分"
+    ],
+    "title": "Natural Products in Diabetes Mellitus",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6589-5"
+  },
+  {
+    "id": "13491",
+    "url_title": "Nutraceuticals_and_Human_Health_and_Disease",
+    "file": "Nutraceuticals_and_Human_Health_and_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8926-6",
+    "pdf_isbn": "9783725889266",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Nutraceuticals and Human Health and Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8926-6"
+  },
+  {
+    "id": "13392",
+    "url_title": "Nutrients_Food_Bioactives_and_Functional_Foods_in_Gastrointestinal_and_Metabolic_Disorders",
+    "file": "Nutrients_Food_Bioactives_and_Functional_Foods_in_Gastrointestinal_and_Metabolic_Disorders_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8772-9",
+    "pdf_isbn": "9783725887729",
+    "tags": [
+      "代谢与心血管",
+      "肠道/菌群",
+      "补剂/功能成分"
+    ],
+    "title": "Nutrients, Food Bioactives, and Functional Foods in Gastrointestinal and Metabolic Disorders",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8772-9"
+  },
+  {
+    "id": "13428",
+    "url_title": "Nutrition_in_the_Liver_Damage",
+    "file": "Nutrition_in_the_Liver_Damage_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-9066-8",
+    "pdf_isbn": "9783725890668",
+    "tags": [
+      "临床营养"
+    ],
+    "title": "Nutrition in the Liver Damage",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-9066-8"
+  },
+  {
+    "id": "12524",
+    "url_title": "Nutrition_Metabolism_and_Obesity",
+    "file": "Nutrition_Metabolism_and_Obesity_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7057-8",
+    "pdf_isbn": "9783725870578",
+    "tags": [
+      "肥胖/体重管理"
+    ],
+    "title": "Nutrition, Metabolism, and Obesity",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7057-8"
+  },
+  {
+    "id": "13220",
+    "url_title": "Nutritional_Challenge_in_Advanced_Chronic_Liver_Disease_and_Complications_Related_to_Portal_Hypertension",
+    "file": "Nutritional_Challenge_in_Advanced_Chronic_Liver_Disease_and_Complications_Related_to_Portal_Hypertension_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8528-2",
+    "pdf_isbn": "9783725885282",
+    "tags": [
+      "代谢与心血管",
+      "临床营养"
+    ],
+    "title": "Nutritional Challenge in Advanced Chronic Liver Disease and Complications Related to Portal Hypertension",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8528-2"
+  },
+  {
+    "id": "13287",
+    "url_title": "Nutritional_Epidemiology_Non_communicable_Diseases",
+    "file": "Nutritional_Epidemiology_of_Non_communicable_Diseases_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6251-1",
+    "pdf_isbn": "9783725862511",
+    "tags": [
+      "公共卫生/行为"
+    ],
+    "title": "Nutritional Epidemiology of Non-communicable Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6251-1"
+  },
+  {
+    "id": "13349",
+    "url_title": "Nutritional_Status_and_Interventions_for_Patients_with_Cancer",
+    "file": "Nutritional_Status_and_Interventions_for_Patients_with_Cancer_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8254-0",
+    "pdf_isbn": "9783725882540",
+    "tags": [
+      "肿瘤营养"
+    ],
+    "title": "Nutritional Status and Interventions for Patients with Cancer",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8254-0"
+  },
+  {
+    "id": "12598",
+    "url_title": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health",
+    "file": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7273-2",
+    "pdf_isbn": "9783725872732",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Nutritional Value of Meat and Meat Products and Their Role in Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7273-2"
+  },
+  {
+    "id": "13433",
+    "url_title": "Nutritional_and_Bioactive_Components_of_Edible_Parts_of_Medicinal_Plants",
+    "file": "Nutritional_and_Bioactive_Components_of_Edible_Parts_of_Medicinal_Plants_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-9086-6",
+    "pdf_isbn": "9783725890866",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Nutritional and Bioactive Components of Edible Parts of Medicinal Plants",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-9086-6"
+  },
+  {
+    "id": "12597",
+    "url_title": "Obesity_and_Cardiovascular_Disease",
+    "file": "Obesity_and_Cardiovascular_Disease_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7155-1",
+    "pdf_isbn": "9783725871551",
+    "tags": [
+      "肥胖/体重管理",
+      "代谢与心血管"
+    ],
+    "title": "Obesity and Cardiovascular Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7155-1"
+  },
+  {
+    "id": "12871",
+    "url_title": "Plant_Extracts_as_Functional_Food_Ingredients",
+    "file": "Plant_Extracts_as_Functional_Food_Ingredients_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7750-8",
+    "pdf_isbn": "9783725877508",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Plant Extracts as Functional Food Ingredients",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7750-8"
+  },
+  {
+    "id": "12872",
+    "url_title": "Plants_Lichens_Fungi_and_Algae_Extracts_and_Derivatives_with_Antimicrobial_Properties_for_Nutrition_and_Health",
+    "file": "Plants_Lichens_Fungi_and_Algae_Extracts_and_Derivatives_with_Antimicrobial_Properties_for_Nutrition_and_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7818-5",
+    "pdf_isbn": "9783725878185",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Plants, Lichens, Fungi, and Algae Extracts and Derivatives with Antimicrobial Properties for Nutrition and Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7818-5"
+  },
+  {
+    "id": "12335",
+    "url_title": "Public_Health_Nutritional_Behavior_and_Nutritional_Status",
+    "file": "Public_Health_Nutritional_Behavior_and_Nutritional_Status_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6409-6",
+    "pdf_isbn": "9783725864096",
+    "tags": [
+      "公共卫生/行为"
+    ],
+    "title": "Public Health, Nutritional Behavior and Nutritional Status",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6409-6"
+  },
+  {
+    "id": "12331",
+    "url_title": "Recent_Advances_in_Hypertension_Hypercholesterolemia_and_Type_2_Diabetes",
+    "file": "Recent_Advances_in_Hypertension_Hypercholesterolemia_and_Type_2_Diabetes_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6767-7",
+    "pdf_isbn": "9783725867677",
+    "tags": [
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "Recent Advances in Hypertension, Hypercholesterolemia and Type 2 Diabetes",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6767-7"
+  },
+  {
+    "id": "12314",
+    "url_title": "Social_Determinants_of_Health_Diet_and_Health_Outcome",
+    "file": "Social_Determinants_of_Health_Diet_and_Health_Outcome_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-5890-3",
+    "pdf_isbn": "9783725858903",
+    "tags": [
+      "膳食模式/摄入",
+      "公共卫生/行为"
+    ],
+    "title": "Social Determinants of Health, Diet, and Health Outcome",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5890-3"
+  },
+  {
+    "id": "13492",
+    "url_title": "The_Diabetes_Diet",
+    "file": "The_Diabetes_Diet_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8936-5",
+    "pdf_isbn": "9783725889365",
+    "tags": [
+      "糖尿病",
+      "膳食模式/摄入"
+    ],
+    "title": "The Diabetes Diet",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8936-5"
+  },
+  {
+    "id": "13278",
+    "url_title": "The_Effect_of_the_Mediterranean_Diet_on_Metabolic_Health",
+    "file": "The_Effect_of_the_Mediterranean_Diet_on_Metabolic_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8484-1",
+    "pdf_isbn": "9783725884841",
+    "tags": [
+      "代谢与心血管",
+      "膳食模式/摄入"
+    ],
+    "title": "The Effect of the Mediterranean Diet on Metabolic Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-8484-1"
+  },
+  {
+    "id": "12502",
+    "url_title": "The_Impact_of_Probiotics_Prebiotics_Functional_Foods_in_Human_Health",
+    "file": "The_Impact_of_Probiotics_Prebiotics_and_Functional_Foods_in_Human_Health_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6098-2",
+    "pdf_isbn": "9783725860982",
+    "tags": [
+      "肠道/菌群",
+      "补剂/功能成分"
+    ],
+    "title": "The Impact of Probiotics/Prebiotics and Functional Foods in Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6098-2"
+  },
+  {
+    "id": "12724",
+    "url_title": "The_Role_of_Foods_and_Nutritional_and_Botanical_Supplements_for_the_Enhancement_of_Human_Health_and_Performance",
+    "file": "The_Role_of_Foods_and_Nutritional_and_Botanical_Supplements_for_the_Enhancement_of_Human_Health_and_Performance_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7455-2",
+    "pdf_isbn": "9783725874552",
+    "tags": [
+      "运动/肌少症",
+      "补剂/功能成分"
+    ],
+    "title": "The Role of Foods and Nutritional and Botanical Supplements for the Enhancement of Human Health and Performance",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-7455-2"
+  },
+  {
+    "id": "12124",
+    "url_title": "Vegetarian_Nutrition_in_Health_Improvement",
+    "file": "Vegetarian_Nutrition_in_Health_Improvement_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6293-1",
+    "pdf_isbn": "9783725862931",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Vegetarian Nutrition in Health Improvement",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6293-1"
+  },
+  {
+    "id": "10836",
+    "url_title": "Adopting_Sustainable_Dietary_Patterns",
+    "file": "Adopting_Sustainable_Dietary_Patterns_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3544-7",
+    "pdf_isbn": "9783725835447",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Adopting Sustainable Dietary Patterns",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3544-7"
+  },
+  {
+    "id": "10785",
+    "url_title": "Advances_in_Clinical_Diabetes_Obesity_and_Metabolic_Diseases",
+    "file": "Advances_in_Clinical_Diabetes_Obesity_and_Metabolic_Diseases_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3829-5",
+    "pdf_isbn": "9783725838295",
+    "tags": [
+      "肥胖/体重管理",
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "Advances in Clinical Diabetes, Obesity, and Metabolic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3829-5"
+  },
+  {
+    "id": "11589",
+    "url_title": "Advances_in_Infant_and_Pediatric_Feeding_and_Nutrition",
+    "file": "Advances_in_Infant_and_Pediatric_Feeding_and_Nutrition_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5090-7",
+    "pdf_isbn": "9783725850907",
+    "tags": [
+      "母婴/儿童"
+    ],
+    "title": "Advances in Infant and Pediatric Feeding and Nutrition",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5090-7"
+  },
+  {
+    "id": "11059",
+    "url_title": "Association_of_Dietary_Intake_with_Chronic_Disease_and_Human_Health",
+    "file": "Association_of_Dietary_Intake_with_Chronic_Disease_and_Human_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3658-1",
+    "pdf_isbn": "9783725836581",
+    "tags": [
+      "膳食模式/摄入",
+      "临床营养"
+    ],
+    "title": "Association of Dietary Intake with Chronic Disease and Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3658-1"
+  },
+  {
+    "id": "11441",
+    "url_title": "Connections_Between_Diabetes_Mellitus_Other_Metabolic_and_Endocrine_Dysfunctions_and_Cardiovascular_Pathologies",
+    "file": "Connections_Between_Diabetes_Mellitus_Other_Metabolic_and_Endocrine_Dysfunctions_and_Cardiovascular_Pathologies_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5096-9",
+    "pdf_isbn": "9783725850969",
+    "tags": [
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "Connections Between Diabetes Mellitus, Other Metabolic and Endocrine Dysfunctions and Cardiovascular Pathologies",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5096-9"
+  },
+  {
+    "id": "11736",
+    "url_title": "Diabetes",
+    "file": "Diabetes_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5558-2",
+    "pdf_isbn": "9783725855582",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Diabetes",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5558-2"
+  },
+  {
+    "id": "11457",
+    "url_title": "Diet_and_Nutrition",
+    "file": "Diet_and_Nutrition_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5058-7",
+    "pdf_isbn": "9783725850587",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Diet and Nutrition",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5058-7"
+  },
+  {
+    "id": "10771",
+    "url_title": "Dietary_Bioactive_Compounds",
+    "file": "Dietary_Bioactive_Compounds_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3418-1",
+    "pdf_isbn": "9783725834181",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Dietary Bioactive Compounds",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3418-1"
+  },
+  {
+    "id": "11148",
+    "url_title": "Dietary_Habit_Gut_Microbiome_and_Human_Health",
+    "file": "Dietary_Habit_Gut_Microbiome_and_Human_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4314-5",
+    "pdf_isbn": "9783725843145",
+    "tags": [
+      "膳食模式/摄入",
+      "肠道/菌群"
+    ],
+    "title": "Dietary Habit, Gut Microbiome and Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4314-5"
+  },
+  {
+    "id": "11361",
+    "url_title": "Dietary_Habits_and_Metabolic_Health",
+    "file": "Dietary_Habits_and_Metabolic_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4918-5",
+    "pdf_isbn": "9783725849185",
+    "tags": [
+      "代谢与心血管",
+      "膳食模式/摄入"
+    ],
+    "title": "Dietary Habits and Metabolic Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4918-5"
+  },
+  {
+    "id": "11438",
+    "url_title": "Dietary_Strategies_for_Prevention_of_Geriatric_Diseases_and_Exploring_the_Mechanism_of_Aging",
+    "file": "Dietary_Strategies_for_Prevention_of_Geriatric_Diseases_and_Exploring_the_Mechanism_of_Aging_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5078-5",
+    "pdf_isbn": "9783725850785",
+    "tags": [
+      "膳食模式/摄入",
+      "老年营养"
+    ],
+    "title": "Dietary Strategies for Prevention of Geriatric Diseases and Exploring the Mechanism of Aging",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5078-5"
+  },
+  {
+    "id": "11323",
+    "url_title": "Effect_of_Nutrition_on_Maternal_Health_Fetal_Development_and_Perinatal_Outcomes",
+    "file": "Effect_of_Nutrition_on_Maternal_Health_Fetal_Development_and_Perinatal_Outcomes_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4730-3",
+    "pdf_isbn": "9783725847303",
+    "tags": [
+      "母婴/儿童"
+    ],
+    "title": "Effect of Nutrition on Maternal Health, Fetal Development and Perinatal Outcomes",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4730-3"
+  },
+  {
+    "id": "11177",
+    "url_title": "Effects_of_Early_Nutrition_on_Premature_Infants",
+    "file": "Effects_of_Early_Nutrition_on_Premature_Infants_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4448-7",
+    "pdf_isbn": "9783725844487",
+    "tags": [
+      "母婴/儿童"
+    ],
+    "title": "Effects of Early Nutrition on Premature Infants",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4448-7"
+  },
+  {
+    "id": "11459",
+    "url_title": "Effects_of_Selenium_and_Other_Micronutrient_Intake_on_Human_Health",
+    "file": "Effects_of_Selenium_and_Other_Micronutrient_Intake_on_Human_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5046-4",
+    "pdf_isbn": "9783725850464",
+    "tags": [
+      "微量营养素"
+    ],
+    "title": "Effects of Selenium and Other Micronutrient Intake on Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5046-4"
+  },
+  {
+    "id": "10922",
+    "url_title": "Featured_Articles_on_Nutrition_and_Obesity_Management_2nd_Edition",
+    "file": "Featured_Articles_on_Nutrition_and_Obesity_Management_2nd_Edition_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3934-6",
+    "pdf_isbn": "9783725839346",
+    "tags": [
+      "肥胖/体重管理"
+    ],
+    "title": "Featured Articles on Nutrition and Obesity Management (2nd Edition)",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3934-6"
+  },
+  {
+    "id": "11894",
+    "url_title": "Food_Chemistry_and_Bioactive_Compounds_in_Relation_to_Health",
+    "file": "Food_Chemistry_and_Bioactive_Compounds_in_Relation_to_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5886-6",
+    "pdf_isbn": "9783725858866",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Food Chemistry and Bioactive Compounds in Relation to Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5886-6"
+  },
+  {
+    "id": "11362",
+    "url_title": "Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases",
+    "file": "Metabolic_Features_and_Nutritional_Interventions_in_Chronic_Diseases_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4920-8",
+    "pdf_isbn": "9783725849208",
+    "tags": [
+      "代谢与心血管",
+      "临床营养"
+    ],
+    "title": "Metabolic Features and Nutritional Interventions in Chronic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4920-8"
+  },
+  {
+    "id": "10935",
+    "url_title": "Molecular_Research_in_Obesity",
+    "file": "Molecular_Research_in_Obesity_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3788-5",
+    "pdf_isbn": "9783725837885",
+    "tags": [
+      "肥胖/体重管理"
+    ],
+    "title": "Molecular Research in Obesity",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3788-5"
+  },
+  {
+    "id": "11863",
+    "url_title": "Molecular_Therapeutics_for_Diabetes_and_Related_Complications",
+    "file": "Molecular_Therapeutics_for_Diabetes_and_Related_Complications_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5880-4",
+    "pdf_isbn": "9783725858804",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Molecular Therapeutics for Diabetes and Related Complications",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5880-4"
+  },
+  {
+    "id": "11349",
+    "url_title": "Morphofunctional_Nutritional_Assessment_in_Clinical_Practice",
+    "file": "Morphofunctional_Nutritional_Assessment_in_Clinical_Practice_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4596-5",
+    "pdf_isbn": "9783725845965",
+    "tags": [
+      "临床营养"
+    ],
+    "title": "Morphofunctional Nutritional Assessment in Clinical Practice",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4596-5"
+  },
+  {
+    "id": "10500",
+    "url_title": "Nutrition_Interventions_for_Healthy_Ageing",
+    "file": "Nutrition_Interventions_for_Healthy_Ageing_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-2716-9",
+    "pdf_isbn": "9783725827169",
+    "tags": [
+      "老年营养"
+    ],
+    "title": "Nutrition Interventions for Healthy Ageing",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2716-9"
+  },
+  {
+    "id": "10984",
+    "url_title": "Nutrition_and_Dietary_Patterns",
+    "file": "Nutrition_and_Dietary_Patterns_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3938-4",
+    "pdf_isbn": "9783725839384",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Nutrition and Dietary Patterns",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3938-4"
+  },
+  {
+    "id": "10803",
+    "url_title": "Nutrition_and_Food_Security_for_All",
+    "file": "Nutrition_and_Food_Security_for_All_A_Step_towards_the_Future_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3831-8",
+    "pdf_isbn": "9783725838318",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Nutrition and Food Security for All: A Step towards the Future",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-3831-8"
+  },
+  {
+    "id": "11312",
+    "url_title": "Nutrition_and_Gene_Interaction",
+    "file": "Nutrition_and_Gene_Interaction_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4704-4",
+    "pdf_isbn": "9783725847044",
+    "tags": [
+      "基因-膳食"
+    ],
+    "title": "Nutrition and Gene Interaction",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4704-4"
+  },
+  {
+    "id": "11688",
+    "url_title": "Nutrition_and_Growth_of_Preterm_Neonates_during_Hospitalization",
+    "file": "Nutrition_and_Growth_of_Preterm_Neonates_during_Hospitalization_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5456-1",
+    "pdf_isbn": "9783725854561",
+    "tags": [
+      "母婴/儿童"
+    ],
+    "title": "Nutrition and Growth of Preterm Neonates during Hospitalization",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5456-1"
+  },
+  {
+    "id": "11354",
+    "url_title": "Nutrition_and_Quality_of_Life_for_Patients_with_Chronic_Disease",
+    "file": "Nutrition_and_Quality_of_Life_for_Patients_with_Chronic_Disease_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4856-0",
+    "pdf_isbn": "9783725848560",
+    "tags": [
+      "公共卫生/行为",
+      "临床营养"
+    ],
+    "title": "Nutrition and Quality of Life for Patients with Chronic Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4856-0"
+  },
+  {
+    "id": "11054",
+    "url_title": "Plants_Lichens_Fungi_and_Algae_Ingredients_for_Nutrition_and_Health",
+    "file": "Plants_Lichens_Fungi_and_Algae_Ingredients_for_Nutrition_and_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4146-2",
+    "pdf_isbn": "9783725841462",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Plants, Lichens, Fungi and Algae Ingredients for Nutrition and Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4146-2"
+  },
+  {
+    "id": "10418",
+    "url_title": "Prevalence_and_Risk_Factors_of_Obesity_and_Hypertension",
+    "file": "Prevalence_and_Risk_Factors_of_Obesity_and_Hypertension_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-2944-6",
+    "pdf_isbn": "9783725829446",
+    "tags": [
+      "肥胖/体重管理",
+      "代谢与心血管"
+    ],
+    "title": "Prevalence and Risk Factors of Obesity and Hypertension",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2944-6"
+  },
+  {
+    "id": "11259",
+    "url_title": "Risk_of_Type_2_Diabetes_Mellitus",
+    "file": "Risk_of_Type_2_Diabetes_Mellitus_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4714-3",
+    "pdf_isbn": "9783725847143",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Risk of Type 2 Diabetes Mellitus",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4714-3"
+  },
+  {
+    "id": "12018",
+    "url_title": "Role_of_Food_Digestion_and_Digestive_System_in_the_Nutritional_Functional_and_Health_Properties_of_Food_Bioactives",
+    "file": "Role_of_Food_Digestion_and_Digestive_System_in_the_Nutritional_Functional_and_Health_Properties_of_Food_Bioactives_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-6036-4",
+    "pdf_isbn": "9783725860364",
+    "tags": [
+      "肠道/菌群",
+      "补剂/功能成分"
+    ],
+    "title": "Role of Food Digestion and Digestive System in the Nutritional, Functional and Health Properties of Food Bioactives",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-6036-4"
+  },
+  {
+    "id": "11117",
+    "url_title": "The_Role_of_Dietary_Bioactive_Compounds_in_Human_Health",
+    "file": "The_Role_of_Dietary_Bioactive_Compounds_in_Human_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4369-5",
+    "pdf_isbn": "9783725843695",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "The Role of Dietary Bioactive Compounds in Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-4369-5"
+  },
+  {
+    "id": "11831",
+    "url_title": "Vitamin_D_in_Health_and_Disease",
+    "file": "Vitamin_D_in_Health_and_Disease_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5728-9",
+    "pdf_isbn": "9783725857289",
+    "tags": [
+      "微量营养素"
+    ],
+    "title": "Vitamin D in Health and Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5728-9"
+  },
+  {
+    "id": "11829",
+    "url_title": "Vitamin_D_in_Health_and_Disease_2nd_Edition",
+    "file": "Vitamin_D_in_Health_and_Disease_2nd_Edition_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5676-3",
+    "pdf_isbn": "9783725856763",
+    "tags": [
+      "微量营养素"
+    ],
+    "title": "Vitamin D in Health and Disease (2nd Edition)",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-5676-3"
+  },
+  {
+    "id": "10200",
+    "url_title": "Anticancer_Activities_of_Dietary_Phytochemicals",
+    "file": "Anticancer_Activities_of_Dietary_Phytochemicals_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2514-1",
+    "pdf_isbn": "9783725825141",
+    "tags": [
+      "肿瘤营养",
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Anticancer Activities of Dietary Phytochemicals",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2514-1"
+  },
+  {
+    "id": "8883",
+    "url_title": "Bioactive_Compounds_from_Functional_Foods",
+    "file": "Bioactive_Compounds_from_Functional_Foods_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0376-7",
+    "pdf_isbn": "9783725803767",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Bioactive Compounds from Functional Foods",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0376-7"
+  },
+  {
+    "id": "9692",
+    "url_title": "Cardiovascular_Risk_Factors_and_Intervention_Strategies_for_the_Prevention_of_Cardiovascular_Disease",
+    "file": "Cardiovascular_Risk_Factors_and_Intervention_Strategies_for_the_Prevention_of_Cardiovascular_Disease_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1790-0",
+    "pdf_isbn": "9783725817900",
+    "tags": [
+      "代谢与心血管"
+    ],
+    "title": "Cardiovascular Risk Factors and Intervention Strategies for the Prevention of Cardiovascular Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1790-0"
+  },
+  {
+    "id": "9573",
+    "url_title": "Cardiovascular_and_Metabolic_Disease_New_Treatment_and_Future_Directions_2.0",
+    "file": "Cardiovascular_and_Metabolic_Disease_New_Treatment_and_Future_Directions_2.0_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1668-2",
+    "pdf_isbn": "9783725816682",
+    "tags": [
+      "代谢与心血管"
+    ],
+    "title": "Cardiovascular and Metabolic Disease: New Treatment and Future Directions 2.0",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1668-2"
+  },
+  {
+    "id": "9005",
+    "url_title": "Clinical_Nutrition_for_Cancer_Patients",
+    "file": "Clinical_Nutrition_for_Cancer_Patients_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0534-1",
+    "pdf_isbn": "9783725805341",
+    "tags": [
+      "肿瘤营养",
+      "临床营养"
+    ],
+    "title": "Clinical Nutrition for Cancer Patients",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0534-1"
+  },
+  {
+    "id": "9747",
+    "url_title": "Current_Challenges_and_Personalized_Treatment_in_Cardiovascular_Disease",
+    "file": "Current_Challenges_and_Personalized_Treatment_in_Cardiovascular_Disease_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1890-7",
+    "pdf_isbn": "9783725818907",
+    "tags": [
+      "代谢与心血管"
+    ],
+    "title": "Current Challenges and Personalized Treatment in Cardiovascular Disease",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1890-7"
+  },
+  {
+    "id": "9205",
+    "url_title": "Diabetes_Hypertension_and_Cardiovascular_Disease_Clinical_Insights_Mechanisms_and_Pharmacotherapies",
+    "file": "Diabetes_Hypertension_and_Cardiovascular_Disease_Clinical_Insights_Mechanisms_and_Pharmacotherapies_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1006-2",
+    "pdf_isbn": "9783725810062",
+    "tags": [
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "Diabetes, Hypertension, and Cardiovascular Disease: Clinical Insights, Mechanisms, and Pharmacotherapies",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1006-2"
+  },
+  {
+    "id": "8849",
+    "url_title": "Dietary_Antioxidants_and_Cosmetics",
+    "file": "Dietary_Antioxidants_and_Cosmetics_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0056-8",
+    "pdf_isbn": "9783725800568",
+    "tags": [
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Dietary Antioxidants and Cosmetics",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0056-8"
+  },
+  {
+    "id": "9974",
+    "url_title": "Dietary_Components_and_Immune_Function",
+    "file": "Dietary_Components_and_Immune_Function_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1860-0",
+    "pdf_isbn": "9783725818600",
+    "tags": [
+      "膳食模式/摄入",
+      "免疫/炎症"
+    ],
+    "title": "Dietary Components and Immune Function",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1860-0"
+  },
+  {
+    "id": "10117",
+    "url_title": "Dietary_Factors_in_Bone_Health",
+    "file": "Dietary_Factors_in_Bone_Health_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2548-6",
+    "pdf_isbn": "9783725825486",
+    "tags": [
+      "膳食模式/摄入",
+      "骨骼营养"
+    ],
+    "title": "Dietary Factors in Bone Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2548-6"
+  },
+  {
+    "id": "9464",
+    "url_title": "Dietary_Interventions_for_Human_General_and_Oral_Health_and_Disease_Reduction",
+    "file": "Dietary_Interventions_for_Human_General_and_Oral_Health_and_Disease_Reduction_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1486-2",
+    "pdf_isbn": "9783725814862",
+    "tags": [
+      "膳食模式/摄入",
+      "基因-膳食"
+    ],
+    "title": "Dietary Interventions for Human General and Oral Health and Disease Reduction",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1486-2"
+  },
+  {
+    "id": "9047",
+    "url_title": "Dietary_Patterns_and_Nutritional_Value_in_Non_communicable_Diseases",
+    "file": "Dietary_Patterns_and_Nutritional_Value_in_Non_communicable_Diseases_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0058-2",
+    "pdf_isbn": "9783725800582",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Dietary Patterns and Nutritional Value in Non-communicable Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0058-2"
+  },
+  {
+    "id": "9371",
+    "url_title": "Dietary_Supplements_in_Cardiovascular_and_Metabolic_Diseases",
+    "file": "Dietary_Supplements_in_Cardiovascular_and_Metabolic_Diseases_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1296-7",
+    "pdf_isbn": "9783725812967",
+    "tags": [
+      "代谢与心血管",
+      "膳食模式/摄入",
+      "补剂/功能成分"
+    ],
+    "title": "Dietary Supplements in Cardiovascular and Metabolic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1296-7"
+  },
+  {
+    "id": "8840",
+    "url_title": "European_Dietary_Surveys_Whats_on_the_Menu",
+    "file": "European_Dietary_Surveys_What_s_on_the_Menu_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0304-0",
+    "pdf_isbn": "9783725803040",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "European Dietary Surveys: What's on the Menu?",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0304-0"
+  },
+  {
+    "id": "9878",
+    "url_title": "Food_Environment_and_Its_Effects_on_Human_Nutrition_and_Health",
+    "file": "Food_Environment_and_Its_Effects_on_Human_Nutrition_and_Health_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2026-9",
+    "pdf_isbn": "9783725820269",
+    "tags": [
+      "微量营养素",
+      "膳食模式/摄入"
+    ],
+    "title": "Food Environment and Its Effects on Human Nutrition and Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2026-9"
+  },
+  {
+    "id": "10286",
+    "url_title": "Food_Supplements_and_Functional_Foods_Assessment_for_Health_and_Nutrition",
+    "file": "Food_Supplements_and_Functional_Foods_Assessment_for_Health_and_Nutrition_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1882-2",
+    "pdf_isbn": "9783725818822",
+    "tags": [
+      "补剂/功能成分"
+    ],
+    "title": "Food Supplements and Functional Foods Assessment for Health and Nutrition",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1882-2"
+  },
+  {
+    "id": "8888",
+    "url_title": "Healthy_Eating_in_Relation_to_National_Dietary_Guidelines",
+    "file": "Healthy_Eating_in_Relation_to_National_Dietary_Guidelines_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-0365-9693-8",
+    "pdf_isbn": "9783036596938",
+    "tags": [
+      "膳食模式/摄入"
+    ],
+    "title": "Healthy Eating in Relation to National Dietary Guidelines",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-0365-9693-8"
+  },
+  {
+    "id": "9910",
+    "url_title": "Healthy_Nutrition_as_the_Key_Reference_in_Special_Diets_Quality_of_Life_and_Sustainability",
+    "file": "Healthy_Nutrition_as_the_Key_Reference_in_Special_Diets_Quality_of_Life_and_Sustainability_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2111-2",
+    "pdf_isbn": "9783725821112",
+    "tags": [
+      "膳食模式/摄入",
+      "公共卫生/行为"
+    ],
+    "title": "Healthy Nutrition as the Key Reference in Special Diets, Quality of Life, and Sustainability",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2111-2"
+  },
+  {
+    "id": "9305",
+    "url_title": "High_Fat_Diet_with_Chronic_Diseases",
+    "file": "High_Fat_Diet_with_Chronic_Diseases_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1266-0",
+    "pdf_isbn": "9783725812660",
+    "tags": [
+      "膳食模式/摄入",
+      "临床营养"
+    ],
+    "title": "High Fat Diet with Chronic Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1266-0"
+  },
+  {
+    "id": "9006",
+    "url_title": "Management_of_Type_2_Diabetes_Current_Insights_and_Future_Directions",
+    "file": "Management_of_Type_2_Diabetes_Current_Insights_and_Future_Directions_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0648-5",
+    "pdf_isbn": "9783725806485",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Management of Type 2 Diabetes: Current Insights and Future Directions",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0648-5"
+  },
+  {
+    "id": "8923",
+    "url_title": "New_Trends_in_Diabetes_Hypertension_and_Cardiovascular_Diseases",
+    "file": "New_Trends_in_Diabetes_Hypertension_and_Cardiovascular_Diseases_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0538-9",
+    "pdf_isbn": "9783725805389",
+    "tags": [
+      "糖尿病",
+      "代谢与心血管"
+    ],
+    "title": "New Trends in Diabetes, Hypertension and Cardiovascular Diseases",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0538-9"
+  },
+  {
+    "id": "8861",
+    "url_title": "Nutrition_and_Exercise_Interventions_on_Skeletal_Muscle_Physiology_Injury_and_Recovery_From_Mechanisms_to_Therapy",
+    "file": "Nutrition_and_Exercise_Interventions_on_Skeletal_Muscle_Physiology_Injury_and_Recovery_From_Mechanisms_to_Therapy_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0366-8",
+    "pdf_isbn": "9783725803668",
+    "tags": [
+      "运动/肌少症"
+    ],
+    "title": "Nutrition and Exercise Interventions on Skeletal Muscle Physiology, Injury and Recovery: From Mechanisms to Therapy",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0366-8"
+  },
+  {
+    "id": "9423",
+    "url_title": "Nutritional_Status_and_Interventions_for_Patients_with_Cancer",
+    "file": "Nutritional_Status_and_Interventions_for_Patients_with_Cancer_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1234-9",
+    "pdf_isbn": "9783725812349",
+    "tags": [
+      "肿瘤营养"
+    ],
+    "title": "Nutritional Status and Interventions for Patients with Cancer",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1234-9"
+  },
+  {
+    "id": "9701",
+    "url_title": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health",
+    "file": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1756-6",
+    "pdf_isbn": "9783725817566",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Nutritional Value of Meat and Meat Products and Their Role in Human Health",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-1756-6"
+  },
+  {
+    "id": "8954",
+    "url_title": "Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II",
+    "file": "Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0234-0",
+    "pdf_isbn": "9783725802340",
+    "tags": [
+      "营养综合"
+    ],
+    "title": "Physicochemical, Sensory and Nutritional Properties of Foods Affected by Processing and Storage Series II",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0234-0"
+  },
+  {
+    "id": "8900",
+    "url_title": "Research_Progress_of_Plant_Compounds_for_Diabetes_and_Its_Complications",
+    "file": "Research_Progress_of_Plant_Compounds_for_Diabetes_and_Its_Complications_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0499-3",
+    "pdf_isbn": "9783725804993",
+    "tags": [
+      "糖尿病"
+    ],
+    "title": "Research Progress of Plant Compounds for Diabetes and Its Complications",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-0499-3"
+  },
+  {
+    "id": "10308",
+    "url_title": "Training_and_Nutrition_for_Performance",
+    "file": "Training_and_Nutrition_for_Performance_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2816-6",
+    "pdf_isbn": "9783725828166",
+    "tags": [
+      "运动/肌少症"
+    ],
+    "title": "Training and Nutrition for Performance",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-7258-2816-6"
+  },
+  {
+    "id": "6424",
+    "url_title": "Physical_Activity_Nutritional_Status_Physical_Fitness",
+    "file": "Physical_Activity_Nutritional_Status_Physical_Fitness_2022",
+    "year": 2022,
+    "doi": "10.3390/books978-3-0365-5864-6",
+    "pdf_isbn": "9783036558646",
+    "tags": [
+      "运动/肌少症"
+    ],
+    "title": "Physical Activity, Nutritional Status, Physical Fitness",
+    "sub": "mdpi",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "source": "https://doi.org/10.3390/books978-3-0365-5864-6"
+  }
+]

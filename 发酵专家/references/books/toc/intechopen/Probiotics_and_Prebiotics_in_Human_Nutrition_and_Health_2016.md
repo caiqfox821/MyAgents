@@ -1,0 +1,68 @@
+# Probiotics and Prebiotics in Human Nutrition and Health (2016, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/5193
+- 页数: 396
+- 全文: `text/intechopen/Probiotics_and_Prebiotics_in_Human_Nutrition_and_Health_2016.txt`
+- PDF: `intechopen/Probiotics_and_Prebiotics_in_Human_Nutrition_and_Health_2016.pdf`
+- 标签: 益生菌, 营养
+
+## 目录 (Contents)
+
+-                  Preface XIII
+-      Chapter 1   Prebiotic and Probiotic Approaches to Improving Food Safety
+-                  on the Farm and Their Implications on Human Health 1
+-                  William B. Smith, Todd R. Callaway, Luis O. Tedeschi, Francis M.
+-                  Rouquette, Trisha Sheridan and Jennifer Adamski
+-      Chapter 2   Probiotics: A Comprehensive Review of Their Classification,
+-                  Mode of Action and Role in Human Nutrition 19
+-                  Amirreza Khalighi, Reza Behdani and Shabnam Kouhestani
+-      Chapter 3   Prebiotics: Metabolism and Symbiotic Synergy with Probiotics
+-                  in Promoting Health 41
+-                  Nditange Shigwedha, Penny Hiwilepo-Van Hal, Li Jia, Liubov Sichel
+-                  and Shuang Zhang
+-      Chapter 4   Lactobacillus reuteri, Infant Allergy Prevention and Childhood
+-                  Immune Maturation 59
+-                  Anna Forsberg
+-      Chapter 5   The Synergistic Contribution of Lactobacillus and Dietary
+-                  Phytophenols in Host Health 83
+-                  Danielle N. Kling, Guillermo E. Marcial, Dana N. Roberson, Graciela
+-                  L. Lorca and Claudio F. Gonzalez
+-      Chapter 6   Pili in Probiotic Bacteria 115
+-                  Vengadesan Krishnan, Priyanka Chaurasia and Abhiruchi Kant
+-      Chapter 7   Biosynthesis of Vitamins by Probiotic Bacteria 135
+-                  Qing Gu and Ping Li
+-                                                                            Contents   X
+-  Chapter 8   Bioactive Compounds of Lactic Acid Bacteria. Case Study:
+-              Evaluation of Antimicrobial Activity of Bacteriocin-producing
+-              Lactobacilli Isolated from Native Ecological Niches
+-              of Ecuador 149
+-              Gabriela N. Tenea and Lucia Yépez
+-  Chapter 9   Fructosyltransferase Sources, Production, and Applications for
+-              Prebiotics Production 169
+-              Mariela R. Michel, Rosa M. Rodríguez-Jasso, Cristóbal N. Aguilar,
+-              Silvia M. Gonzalez-Herrera, Adriana C. Flores- Gallegos and Raúl
+-              Rodríguez-Herrera
+- Chapter 10   Antimicrobial Effect of Probiotics against Common
+-              Pathogens 191
+-              Sabina Fijan
+- Chapter 11   Probiotics in Childhood Celiac Disease 223
+-              Caterina Anania, Francesca Olivero, Eugenia Olivero and Lucia
+-              Pacifico
+- Chapter 12   Probiotics for Prevention and Treatment of Candidiasis and
+-              Other Infectious Diseases: Lactobacillus spp. and Other
+-              Potential Bacterial Species 241
+-              Michelle Peneluppi Silva, Rodnei Dennis Rossoni, Juliana Campos
+-              Junqueira and Antonio Olavo Cardoso Jorge
+- Chapter 13   Phosphorus Nutrition and Health: Utilization of Phytase-
+-              producing Bifidobacteria in Food Industry 263
+-              Long Chen, Fengshou Tian and Zhongke Sun
+- Chapter 14   Probiotic Microorganisms in Dry Fermented Meat
+-              Products 279
+-              Katarzyna Neffe‐Skocińska, Karolina Wójciak and Dorota Zielińska
+- Chapter 15   Pectic Oligosaccharides and Other Emerging Prebiotics 301
+-              Beatriz Míguez, Belén Gómez, Patricia Gullón, Beatriz Gullón and
+-              José Luis Alonso
+- Chapter 16   Yeasts as Potential Source for Prebiotic β-Glucan: Role in
+-              Human Nutrition and Health 331
+-              Pedro De Oliva-Neto, Sidmeire Santos Oliveira, Estevão Zilioli and

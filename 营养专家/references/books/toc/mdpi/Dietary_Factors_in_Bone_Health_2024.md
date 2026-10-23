@@ -1,0 +1,70 @@
+# Dietary Factors in Bone Health (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2548-6
+- 页数: 174
+- 全文: `text/mdpi/Dietary_Factors_in_Bone_Health_2024.txt`
+- 标签: 膳食模式/摄入, 骨骼营养
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Qian Zhang
+- New Insights into Nutrients for Bone Health and Disease
+- Reprinted from: Nutrients 2023, 15, 2648, doi:10.3390/nu15122648 . . . . . . . . . . . . . . . . . .          1
+- Alejandro Martı́nez-Rodrı́guez, Javier Sánchez-Sánchez, Marı́a Martı́nez-Olcina, Manuel
+- Vicente-Martı́nez, Marcelo Peñaranda-Moraga, Nuria Asencio-Mas, et al.
+- Quantitative Diet, Body Composition and Sprint Performance in Female Professional Beach
+- Handball Players
+- Reprinted from: Nutrients 2023, 15, 138, doi:10.3390/nu15010138 . . . . . . . . . . . . . . . . . . .         3
+- Hye Ran Shin, Hyeon Ju Park and Sun Yung Ly
+- Optimal Serum 25(OH)D Level and Vitamin D Intake in Young Korean Women
+- Reprinted from: Nutrients 2022, 14, 4845, doi:10.3390/nu14224845 . . . . . . . . . . . . . . . . . . 21
+- Keita Suzuki, Hiromasa Tsujiguchi, Akinori Hara, Sakae Miyagi, Thao Thi Thu Nguyen,
+- Yasuhiro Kambayashi, et al.
+- Bone Strength of the Calcaneus Is Associated with Dietary Calcium Intake in Older Japanese
+- Men, but Not Women
+- Reprinted from: Nutrients 2022, 14, 5225, doi:10.3390/nu14245225 . . . . . . . . . . . . . . . . . . 35
+- Raffaello Pellegrino, Roberto Paganelli, Stefania Bandinelli, Antonio Cherubini, Cristina
+- Andrés-Lacueva, Angelo Di Iorio, et al.
+- Urinary and Daily Assumption of Polyphenols and Hip-Fracture Risk: Results from the
+- InCHIANTI Study
+- Reprinted from: Nutrients 2022, 14, 4754, doi:10.3390/nu14224754 . . . . . . . . . . . . . . . . . . 45
+- Marta Ziemińska, Dariusz Pawlak, Beata Sieklucka, Katarzyna Chilkiewicz and Krystyna
+- Pawlak
+- Vitamin K-Dependent Carboxylation of Osteocalcin in Bone—Ally or Adversary of Bone
+- Mineral Status in Rats with Experimental Chronic Kidney Disease?
+- Reprinted from: Nutrients 2022, 14, 4082, doi:10.3390/nu14194082 . . . . . . . . . . . . . . . . . . 56
+- Muhamed Lahtif Nor Muhamad, Sophia Ogechi Ekeuku, Sok-Kuan Wong and Kok-Yong
+- Chin
+- A Scoping Review of the Skeletal Effects of Naringenin
+- Reprinted from: Nutrients 2022, 14, 4851, doi:10.3390/nu14224851 . . . . . . . . . . . . . . . . . . 74
+- Karina Robles-Rivera, Anna D. Argoty-Pantoja, Alberto Hidalgo-Bravo, Amado D.
+- Quezada-Sánchez, Guadalupe León-Reyes, Yvonne N. Flores, et al.
+- Uric Acid Levels Are Associated with Bone Mineral Density in Mexican Populations: A
+- Longitudinal Study
+- Reprinted from: Nutrients 2022, 14, 4245, doi:10.3390/nu14204245 . . . . . . . . . . . . . . . . . . 93
+- Zhanpeng Su, Zhixian Zong, Jinxia Deng, Jianping Huang, Guihua Liu, Bo Wei, et al.
+- Lipid Metabolism in Cartilage Development, Degeneration, and Regeneration
+- Reprinted from: Nutrients 2022, 14, 3984, doi:10.3390/nu14193984 . . . . . . . . . . . . . . . . . . 106
+-                                                        v
+- Hyo Geun Choi, So Young Kim, Bong Cheol Kwon, Ho Suk Kang, Hyun Lim, Joo-Hee Kim,
+- et al.
+- Comparison of the Coincidence of Osteoporosis, Fracture, Arthritis Histories, and DEXA
+- T-Score between Monozygotic and Dizygotic Twins: A Cross-Sectional Study Using KoGES
+- HTS Data
+- Reprinted from: Nutrients 2022, 14, 3836, doi:10.3390/nu14183836 . . . . . . . . . . . . . . . . . . 133
+- Huaji Jiang, Xuemei Lin, Wei Liang, Yiqiang Li and Xiao Yu
+- Friedelin Alleviates the Pathogenesis of Collagenase-Induced Tendinopathy in Mice by
+- Promoting the Selective Autophagic Degradation of p65
+- Reprinted from: Nutrients 2022, 14, 1673, doi:10.3390/nu14081673 . . . . . . . . . . . . . . . . . . 144
+-                                                    vi
+- About the Editor
+- Qian Zhang
+-     Qian Zhang is a professor in the Department of Nutrition and Health at China Agricultural
+- University. Dr. Zhang received her Ph.D. at the Institute for Nutritional Science, Chinese Academy
+- of Science in Shanghai, China, and completed postdoctoral training at Johns Hopkins University.
+- Her research is focused on the regulation of osteoporosis by nutritional factors and the development
+- of bone marrow stromal cells. She has authored over 30 original publications, and has served as a
+- reviewer for Bone Research, Nutrients, The Journal of Translational Medicine, and other journals.
+- She is an editorial board member of Bone research and National Science Open.

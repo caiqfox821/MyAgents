@@ -1,0 +1,80 @@
+# Global action plan for the prevention and control of noncommunicable diseases 2013-2020 (2013, World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/94384
+- 页数: 55
+- 全文: `text/who/Global_action_plan_for_the_prevention_and_control_of_noncommunicable_diseases_2013_2020_2013.txt`
+- 标签: 慢病(NCD), 政策/环境
+
+## 目录 (Contents)
+
+- 1. Chronic diseases. 2. Cardiovascular diseases. 3. Neoplasms. 4. Respiratory tract diseases. 5. Diabetes mellitus. 6. Health planning.
+- 7. International cooperation. I. World Health Organization.
+- ISBN 978 92 4 150623 6				                              (NLM classification: WT 500)
+- © World Health Organization 2013                                                                                                           >>   Foreword                    1
+- All rights reserved. Publications of the World Health Organization are available on the WHO web site (www.who.int) or can be               >>   Overview                    3
+- purchased from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel.: +41 22 791 3264;
+- fax: +41 22 791 4857; e-mail: bookorders@who.int).                                                                                         >>   Voluntary Global Targets    5
+- Requests for permission to reproduce or translate WHO publications—whether for sale or for non-commercial distribution—
+- should be addressed to WHO Press through the WHO web site (www.who.int/about/licensing/copyright_form/en/index.html).                      >>   Action Plan                 7
+- The designations employed and the presentation of the material in this publication do not imply the expression of any opinion
+-                                                                                                                                            >>   Objective 1                15
+- whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its
+- authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines
+-                                                                                                                                            >>   Objective 2                21
+- for which there may not yet be full agreement.
+- The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended               >>   Objective 3                29
+- by the World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excep-
+- ted, the names of proprietary products are distinguished by initial capital letters.                                                       >>   Objective 4                39
+- All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publica-
+- tion. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsi-
+-                                                                                                                                            >>   Objective 5                47
+- bility for the interpretation and use of the material lies with the reader. In no event shall the World Health Organization be liable
+- for damages arising from its use.
+-                                                                                                                                            >>   Objective 6                51
+- Photo Credits:
+-   p2: WHO/SEARO/Vismita Gupta-Smith                                                                                                        Annex
+-   p6: WHO/AMRO
+-   p14: UNICEF
+-                                                                                                                                            >>   Appendix 1                 57
+-   p20: WHO/Jan Brouwer
+-   p28: DFID
+-                                                                                                                                            >>   Appendix 2                 61
+-   p38: WHO/SEARO/Vismita Gupta-Smith
+-   p46: World Bank
+-                                                                                                                                            >>   Appendix 3                 65
+-   p50: UNICEF
+-   p56: WHO/SEARO/Vismita Gupta-Smith
+-                                                                                                                                            >>   Appendix 4                 73
+-   p60: WHO/EURO
+-   p64: WHO/Antonio Suarez Weise
+-                                                                                                                                            >>   Appendix 5                 77
+-   p72: WHO/Anna Kari
+-   p76: WHO/Simon Lim
+-   p82 WHO/AMRO                                                                                                                             Other relevant documents
+-   p90 WHO/Christopher Black
+-                                                                                                                                            >>   Document 1                 83
+- Design and layout: MEO design & communication, Rossinière, Switzerland.
+- Printed by the WHO Document Production Services, Geneva, Switzerland.                                                                      >>   Document 2                 91
+-                                                                                                                                                                                 iii
+-            Noncommunicable diseases (NCDs)—mainly cardiovascular diseases, cancers, chronic respiratory diseases
+-            and diabetes—are the world’s biggest killers. More than 36 million people die annually from NCDs (63% of
+-            global deaths), including more than 14 million people who die too young between the ages of 30 and 70.
+-            Low- and middle-income countries already bear 86% of the burden of these premature deaths, resulting in
+- FOREWORD
+-            cumulative economic losses of US$7 trillion over the next 15 years and millions of people trapped in poverty.
+-            Most of these premature deaths from NCDs are largely preventable by enabling health systems to respond
+-            more effectively and equitably to the health-care needs of people with NCDs, and influencing public poli-
+-            cies in sectors outside health that tackle shared risk factors—namely tobacco use, unhealthy diet, physical
+-            inactivity, and the harmful use of alcohol.
+-            NCDs are now well-studied and understood, and this gives all Member States an immediate advantage to
+-            take action. The Moscow Declaration on NCDs, endorsed by Ministers of Health in May 2011, and the UN
+-            Political Declaration on NCDs, endorsed by Heads of State and Government in September 2011, recognized
+-            the vast body of knowledge and experience regarding the preventability of NCDs and immense opportuni-
+-            ties for global action to control them. Therefore, Heads of State and Government committed themselves in
+-            the UN Political Declaration on NCDs to establish and strengthen, by 2013, multisectoral national policies
+-            and plans for the prevention and control of NCDs, and consider the development of national targets and
+-            indicators based on national situations.
+-            To realize these commitments, the World Health Assembly endorsed the WHO Global Action Plan for the
+-            Prevention and Control of NCDs 2013-2020 in May 2013. The Global Action Plan provides Member States,
+-            international partners and WHO with a road map and menu of policy options which, when implemented

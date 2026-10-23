@@ -1,0 +1,81 @@
+# Processing of fresh-cut tropical fruits and vegetables: A technical guide (2010, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/i1909e/i1909e.pdf
+- 页数: 102
+- 全文: `text/fao/Processing_Fresh_Cut_Tropical_Fruits_Vegetables_2010.txt`
+- PDF: `fao/Processing_Fresh_Cut_Tropical_Fruits_Vegetables_2010.pdf`
+- 标签: 鲜切, 果蔬加工
+
+## 目录 (Contents)
+
+- Page
+- Foreword ........................................................................................................................................................
+- iii
+- List of plates and figures .........................................................................................................................
+- viii
+- List of figures ................................................................................................................................................
+- ix
+- Abbreviations and acronyms .................................................................................................................
+- xi
+- Chapter I
+- FRESH-CUT PRODUCTS AND THEIR MARKET TRENDS
+- 1.
+- 2.
+- 3
+- 4.
+- 5.
+- 6.
+- 7.
+- Fresh-cut products ........................................................................................................................
+- Trends in the United States’ fresh-cut market ....................................................................
+- Trends in the European Union’s fresh-cut market ............................................................
+- Fresh-cut trends in Asian countries .......................................................................................
+- Prospects for tropical fresh-cut products in developing countries ...........................
+- Challenges for developing countries ....................................................................................
+- Marketing of tropical fresh-cut products .............................................................................
+- 1
+- 2
+- 2
+- 2
+- 4
+- 5
+- 6
+- Chapter II
+- TROPICAL HORTICULTURAL PRODUCE
+- 1.
+- 2.
+- 3.
+- Overview of tropical fruits .........................................................................................................
+- Overview of tropical vegetables .............................................................................................
+- Overview of edible stems ..........................................................................................................
+- 7
+- 12
+- 13
+- Chapter III
+- FRESH PRODUCE QUALITY AND SAFETY
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- Fresh produce quality ..................................................................................................................
+- Components of fresh produce quality ..................................................................................
+- Evaluation of quality ....................................................................................................................
+- Factors that impact on fresh produce quality ...................................................................
+- Maintaining the quality of fresh produce between harvest and processing ........
+- 15
+- 15
+- 17
+- 19
+- 21
+- Chapter IV
+- FRESH-CUT PROCESSING: PHYSIOLOGICAL
+- AND MICROBIOLOGICAL IMPACTS
+- 1.
+- 2.
+- 3.
+- 4.
+- Physiological effects of fresh-cut processing .....................................................................
+- Biochemical changes brought about by fresh-cut processing ...................................
+- Quality loss due to microbial contamination .....................................................................

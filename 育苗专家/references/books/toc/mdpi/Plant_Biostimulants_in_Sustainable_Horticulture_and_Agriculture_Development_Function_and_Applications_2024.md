@@ -1,0 +1,79 @@
+# Plant Biostimulants in Sustainable Horticulture and Agriculture: Development, Function, and Applications (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10036
+- 页数: 214
+- 全文: `text/mdpi/Plant_Biostimulants_in_Sustainable_Horticulture_and_Agriculture_Development_Function_and_Applications_2024.txt`
+- 标签: 生物刺激素, 壮苗, 育苗
+
+## 目录 (Contents)
+
+- Mohamad Hesam Shahrajabian and Spyridon A. Petropoulos
+- Editorial for the Special Issue on Plant Biostimulants in Sustainable Horticulture and
+- Agriculture: Development, Function, and Applications
+- Reprinted from: Plants 2024, 13, 2342, doi:10.3390/plants13172342 . . . . . . . . . . . . . . . . . .   1
+- Melani G. Lorch, Claudio Valverde and Betina C. Agaras
+- Variability in Maize Seed Bacterization and Survival Correlating with Root Colonization by
+- Pseudomonas Isolates with Plant-Probiotic Traits
+- Reprinted from: Plants 2024, 13, 2130, doi:10.3390/plants13152130 . . . . . . . . . . . . . . . . . .   4
+- Romina del Valle Meneguzzi, Marilina Fernandez, Lorena del Rosario Cappellari, Walter
+- Giordano and Erika Banchio
+- Isolation and Characterization of Plant Growth-Promoting Bacteria from the Rhizosphere of
+- Medicinal and Aromatic Plant Minthostachys verticillata
+- Reprinted from: Plants 2024, 13, 2062, doi:10.3390/plants13152062 . . . . . . . . . . . . . . . . . . 25
+- Dezső Kovács, Katalin Horotán, László Orlóci, Marianna Makádi, István Mosonyi,
+- Magdolna Sütöri-Diószegi and Szilvia Kisvarga
+- Histological and Physiological Study of the Effects of Biostimulants and Plant Growth
+- Stimulants in Viburnum opulus ‘Roseum’
+- Reprinted from: Plants 2024, 13, 1446, doi:10.3390/plants13111446 . . . . . . . . . . . . . . . . . . 42
+- Ozlem Altuntas, Hayriye Yildiz Dasgan, Yelderem Akhoundnejad and Yahya Nas
+- Unlocking the Potential of Pepper Plants under Salt Stress: Mycorrhizal Effects on Physiological
+- Parameters Related to Plant Growth and Gas Exchange across Tolerant and Sensitive Genotypes
+- Reprinted from: Plants 2024, 13, 1380, doi:10.3390/plants13101380 . . . . . . . . . . . . . . . . . . 59
+- Angelo Rossini, Roberto Ruggeri, Nada Mzid, Francesco Rossini and Giuseppe Di Miceli
+- Codium fragile (Suringar) Hariot as Biostimulant Agent to Alleviate Salt Stress in Durum Wheat:
+- Preliminary Results from Germination Trials
+- Reprinted from: Plants 2024, 13, 283, doi:10.3390/plants13020283 . . . . . . . . . . . . . . . . . . 71
+- Elena Ambros, Olga Kotsupiy, Evgeniya Karpova, Ulyana Panova, Alexander Chernonosov,
+- Elena Troﬁmova and Boris Goldenberg
+- A Biostimulant Based on Silicon Chelates Enhances Growth and Modulates Physiological
+- Responses of In-Vitro-Derived Strawberry Plants to In Vivo Conditions
+- Reprinted from: Plants 2023, 12, 4193, doi:10.3390/plants12244193 . . . . . . . . . . . . . . . . . . 85
+- Young-Nam Kim, Jun Hyeok Choi, Song Yeob Kim, Young-Eun Yoon, Hyeonji Choe,
+- Keum-Ah Lee, et al.
+- Biostimulatory Effects of Chlorella fusca CHK0059 on Plant Growth and Fruit Quality of
+- Strawberry
+- Reprinted from: Plants 2023, 12, 4132, doi:10.3390/plants12244132 . . . . . . . . . . . . . . . . . . 104
+- Surapong Khuna, Jaturong Kumla, Sirasit Srinuanpan, Saisamorn Lumyong and Nakarin
+- Suwannarach
+- Multifarious Characterization and Efﬁcacy of Three Phosphate-Solubilizing Aspergillus Species
+- as Biostimulants in Improving Root Induction of Cassava and Sugarcane Stem Cuttings
+- Reprinted from: Plants 2023, 12, 3630, doi:10.3390/plants12203630 . . . . . . . . . . . . . . . . . . 122
+-                                                     v
+- Wenli Sun and Mohamad Hesam Shahrajabian
+- The Application of Arbuscular Mycorrhizal Fungi as Microbial Biostimulant, Sustainable
+- Approaches in Modern Agriculture
+- Reprinted from: Plants 2023, 12, 3101, doi:10.3390/plants12173101 . . . . . . . . . . . . . . . . . . 148
+- Wenli Sun, Mohamad Hesam Shahrajabian, Spyridon A. Petropoulos and Nazanin
+- Shahrajabian
+- Developing Sustainable Agriculture Systems in Medicinal and Aromatic Plant Production by
+- Using Chitosan and Chitin-Based Biostimulants
+- Reprinted from: Plants 2023, 12, 2469, doi:10.3390/plants12132469 . . . . . . . . . . . . . . . . . . 186
+-                                                    vi
+-               plants
+- Editorial
+- Editorial for the Special Issue on Plant Biostimulants in
+- Sustainable Horticulture and Agriculture: Development,
+- Function, and Applications
+- Mohamad Hesam Shahrajabian 1, * and Spyridon A. Petropoulos 2, *
+-                                          1   National Key Laboratory of Agricultural Microbiology, Biotechnology Research Institute, Chinese Academy
+-                                              of Agricultural Sciences, Beijing 100086, China
+-                                          2   Department of Agriculture, Crop Production and Rural Environment, University of Thessaly,
+-                                              38446 Volos, Greece
+-                                          *   Correspondence: hesamshahrajabian@gmail.com (M.H.S.); spetropoulos@uth.gr (S.A.P.);
+-                                              Tel.: +86-19250156090 (M.H.S.)
+-                                               The growing need for food production through sustainable cultivation practices,
+-                                          without reducing crop yield and producer income, is a major objective due to increased
+-                                          environmental pollution and the gradual degradation of cultivated soils [1,2]. Various
+-                                          components with bioactive characteristics can be used as biostimulants to boost plant
+-                                          growth and development under normal and stressful conditions [3,4]. So far, six distinct

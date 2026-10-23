@@ -1,0 +1,80 @@
+# Microwave and Ultrasound-Assisted Extraction for Plant Bioactive Compounds (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8020-1
+- 页数: 160
+- 全文: `text/mdpi/Microwave_and_Ultrasound_Assisted_Extraction_for_Plant_Bioactive_Compounds_2026.txt`
+- 标签: 样品前处理
+
+## 目录 (Contents)
+
+- Raquel Rafael-Saldaña, Roifer Pérez-Vasquez, José Luis Pasquel-Reátegui, Manuel
+- Fernando Coronado-Jorge, Pierre Vidaurre-Rojas, Ángel Cárdenas-Garcı́a, et al.
+- Multi-Response Modeling for Bio-Compound Ultrasound-Assisted Extraction (UAE) from
+- Matico (Piper aduncum L.) and Chacruna (Psychotria viridis Ruiz & Pav.) Leaves Originating
+- in the Peruvian Amazon
+- Reprinted from: Molecules 2025, 30, 4395, https://doi.org/10.3390/molecules30224395 . . . . . .   1
+- Sıla Özlem Şener, Sabita Shaha, Sahar Sadigh Barazandeh, Ömer Şen, Engin Koçak, Tuğba
+- Subaş, et al.
+- Metabolomic Proﬁling, Box–Behnken Design-Based Optimization of Ultrasonic Extraction, and
+- Skin Anti-Aging Potential of the Green Husk of Juglans regia L. as a Sustainable Natural Waste
+- Reprinted from: Molecules 2025, 30, 4191, https://doi.org/10.3390/molecules30214191 . . . . . . 17
+- Maja Repajić, Marija Zorić, Ivan Magnabosca, Sandra Pedisić, Verica Dragović-Uzelac and
+- Ivona Elez Garofulić
+- Bioactive Power of Black Chokeberry Pomace as Affected by Advanced Extraction Techniques
+- and Cryogrinding
+- Reprinted from: Molecules 2025, 30, 3383, https://doi.org/10.3390/molecules30163383 . . . . . . 40
+- Wei-Ting Lian and Chun-Yao Yang
+- Effect of Ultrasonic Frequencies on the Aqueous Extraction of Polyphenols, Chlorogenic Acid,
+- and Quercetin from the Whole Fruit of Pitaya (Hylocereus spp.)
+- Reprinted from: Molecules 2025, 30, 3253, https://doi.org/10.3390/molecules30153253 . . . . . . 63
+- Marta Siol, Iga Piasecka, Diana Mańko-Jurkowska, Agata Górska and Joanna Bryś
+- Optimization and Impact of Ultrasound-Assisted Extraction on Pomegranate Seed Oil Quality:
+- A Comparative Study of Bioactive Potential and Oxidation Parameters
+- Reprinted from: Molecules 2025, 30, 1837, https://doi.org/10.3390/molecules30081837 . . . . . . 76
+- Fengming Xia, Haojiang He, Jize Ma, Yutian Jin, Qing Qiao, Peng Long, et al.
+- Optimization of Ultrasonic-Assisted Extraction of Diene Urushiol from Lacquer Tree Leaves
+- Using Response Surface Methodology
+- Reprinted from: Molecules 2025, 30, 1663, https://doi.org/10.3390/molecules30081663 . . . . . . 98
+- Eun Ji Lee and Kyung Young Yoon
+- Optimization of Deep Eutectic Solvent-Based Ultrasound-Assisted Extraction of Bioactive
+- Compounds from Maca Leaves Using the Taguchi Method
+- Reprinted from: Molecules 2025, 30, 1635, https://doi.org/10.3390/molecules30071635 . . . . . . 111
+- Josipa Dukić, Anet Režek Jambrak, Jurica Jurec, Dalibor Merunka, Srećko Valić, Rafaela
+- Radičić, et al.
+- High-Power Ultrasound and High-Voltage Electrical Discharge-Assisted Extractions of
+- Bioactive Compounds from Sugar Beet (Beta vulgaris L.) Waste: Electron Spin Resonance and
+- Optical Emission Spectroscopy Analysis
+- Reprinted from: Molecules 2025, 30, 796, https://doi.org/10.3390/molecules30040796 . . . . . . 124
+-                                                  v
+- Article
+- Multi-Response Modeling for Bio-Compound
+- Ultrasound-Assisted Extraction (UAE) from Matico (Piper
+- aduncum L.) and Chacruna (Psychotria viridis Ruiz & Pav.)
+- Leaves Originating in the Peruvian Amazon
+- Raquel Rafael-Saldaña 1,† , Roifer Pérez-Vasquez 1,† , José Luis Pasquel-Reátegui 1, *,
+- Manuel Fernando Coronado-Jorge 1 , Pierre Vidaurre-Rojas 2 , Ángel Cárdenas-García 3 ,
+- Keller Sánchez-Dávila 4 and Keneth Reátegui-Del Águila 5
+-                    1   Grupo de Investigación en Ingeniería y Tecnología Agroindustrial, Facultad de Ingeniería Agroindustrial,
+-                        Universidad Nacional de San Martín (UNSM), Tarapoto 22000, Peru; rrafaels@alumno.unsm.edu.pe (R.R.-S.);
+-                        rperezv@alumno.unsm.edu.pe (R.P.-V.); mfcoronado@unsm.edu.pe (M.F.C.-J.)
+-                    2   Grupo de Investigación Gestión ATEC, Facultad de Ciencias Económicas, Universidad Nacional de San
+-                        Martín (UNSM), Tarapoto 22200, Peru; pvidaurre@unsm.edu.pe
+-                    3   Facultad de Ingeniería de Sistemas e Informática, Universidad Nacional de San Martín (UNSM),
+-                        Tarapoto 22201, Peru; acardenasg@unsm.edu.pe
+-                    4   Facultad de Medicina Humana, Universidad Nacional de San Martín (UNSM), Tarapoto 22000, Peru;
+-                        ksanchezd@unsm.edu.pe
+-                    5   Faculty of Engineering and Environmental Sciences, Universidad Nacional Intercultural de la
+-                        Amazonia (UNIA), Pucallpa 22200, Peru; kreateguid@unia.edu.pe
+-                   *    Correspondence: jlpasquelr@unsm.edu.pe; Tel.: +51-949132754
+-                    †   These authors contributed equally to this work.
+-                   Abstract: Medicinal plants play an essential role in the food, pharmaceutical, and cosmetic
+-                   industries due to their ability to prevent and treat diseases. In this study, a three-factor,
+-                   three-level Box–Behnken experimental design (BBD) with response surface methodology
+-                   (RSM) was used to maximize the conditions of ultrasound-assisted extraction (UAE) of
+-                   bioactive compounds from matico and chacruna leaves in terms of total extraction yield
+-                   (TEY), total phenolic content (TPC) and antioxidant activity (AA) using ABTS and DPPH
+-                   assays. The effect of methanol concentration (X1: 25%, 50%, and 75%), time (X2: 3, 6,
+-                   and 9 min), and power (X3: 90, 270, and 450 W) was evaluated as independent variables.
+-                   The experimental results were ﬁtted to second-order polynomial models, and multiple
+-                   regression analysis and analysis of variance were used to determine the suitability of

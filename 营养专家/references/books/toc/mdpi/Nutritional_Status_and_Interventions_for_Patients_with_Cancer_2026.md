@@ -1,0 +1,80 @@
+# Nutritional Status and Interventions for Patients with Cancer (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8254-0
+- 页数: 120
+- 全文: `text/mdpi/Nutritional_Status_and_Interventions_for_Patients_with_Cancer_2026.txt`
+- 标签: 肿瘤营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Raquel Oliveira, Bruno Cabrita, Ângela Cunha, Sónia Silva, João P. M. Lima, Diana Martins
+- and Fernando Mendes
+- The Effect of Nutritional Intervention in Nutritional Risk Screening on Hospitalised Lung
+- Cancer Patients
+- Reprinted from: Nutrients 2025, 17, 6, https://doi.org/10.3390/nu17010006 . . . . . . . . . . . .              1
+- Laura Alicia Altmayer, Marina Lang, Julia Theresa Schleicher, Caroline Stuhlert, Carolin
+- Wörmann, Laura-Sophie Scherer, et al.
+- A Plea for Monitoring Serum Selenium Levels in Breast Cancer Patients: Selenium Deﬁciency
+- Is Rare during the First Year of Therapy, and Selenium Supplementation Is Associated with
+- Elevated Risk of Overdosing
+- Reprinted from: Nutrients 2024, 16, 2134, https://doi.org/10.3390/nu16132134 . . . . . . . . . . 11
+- Agnieszka Surwiłło-Snarska, Aleksandra Kapała and Dorota Szostak-We˛gierek
+- Assessment of the Dietary Intake Changes in Patients with Head and Neck Cancer Treated with
+- Radical Radiotherapy
+- Reprinted from: Nutrients 2024, 16, 2093, https://doi.org/10.3390/nu16132093 . . . . . . . . . . 27
+- Hedyeh Ebrahimi, Dena Battle, Nicholas J. Salgia, Zeynep B. Zengin, Nazli Dizman, Luis
+- Meza, et al.
+- Prevalence of Dietary Modiﬁcation and Supplement Use in Patients with Metastatic Renal Cell
+- Carcinoma Receiving Systemic Therapy
+- Reprinted from: Nutrients 2024, 16, 1630, https://doi.org/10.3390/nu16111630 . . . . . . . . . . 43
+- Karolina Tenderenda, Aleksandra Gierczak, Mariusz Panczyk, Jacek Sobocki and Zuzanna
+- Zaczek
+- Nutritional Status as a Prognostic Factor for Survival in Palliative Care: A Retrospective
+- Observational Analysis of Home Parenteral Nutrition in Cancer Patients with Inoperable
+- Malignant Bowel Obstruction
+- Reprinted from: Nutrients 2024, 16, 1569, https://doi.org/10.3390/nu16111569 . . . . . . . . . . 55
+- Fawzy Akad, Bogdan Filip, Cristina Preda, Florin Zugun-Eloae, Sorin Nicolae Peiu, Nada
+- Akad, et al.
+- Assessing Nutritional Status in Gastric Cancer Patients after Total versus Subtotal Gastrectomy:
+- Cross-Sectional Study
+- Reprinted from: Nutrients 2024, 16, 1485, https://doi.org/10.3390/nu16101485 . . . . . . . . . . 69
+- Carmen Vega, Esteban Barnaﬁ, César Sánchez, Francisco Acevedo, Benjamin Walbaum,
+- Alejandra Parada, et al.
+- Calorie Restriction and Time-Restricted Feeding: Effective Interventions in Overweight or
+- Obese Patients Undergoing Radiotherapy Treatment with Curative Intent for Cancer
+- Reprinted from: Nutrients 2024, 16, 477, https://doi.org/10.3390/nu16040477 . . . . . . . . . . . 81
+- Christiane S. Staxen, Sara E. Andersen, Lars M. Pedersen, Christian B. Poulsen and Jens R.
+- Andersen
+- Nutrition and Lifestyle-Related Factors as Predictors of Muscle Atrophy in Hematological
+- Cancer Patients
+- Reprinted from: Nutrients 2024, 16, 283, https://doi.org/10.3390/nu16020283 . . . . . . . . . . . 97
+-                                                        v
+- About the Editors
+- Nuno Borges
+-     Nuno Borges is a Nutritionist and currently an Associate Professor at the Faculty of Nutrition
+- and Food Sciences, University of Porto, Portugal. He is presently researching the relationships
+- between muscular function, nutritional status, and health outcomes in some diseases. Research
+- interests also include pharmacology and drug–nutrient interactions.
+- Fernando Mendes
+-     Fernando Mendes (FM) is working as a Coordinator Professor at the Biomedical Laboratory
+- Sciences Scientiﬁc-Pedagogical Unit at Polytechnic University of Coimbra and is an effective member
+- of the Health & Technology Research Center (H&TRC). He is also a researcher collaborator at the
+- Center for Innovative Biomedicine and Biotechnology (CIBB) at the University of Coimbra. He
+- ﬁnished his PhD in Medical Sciences in 2016 at the Faculty of Medicine of the University of Coimbra.
+- For the past years, FM has been a member of a multidisciplinary team whose domain includes
+- Oncology and Biophysics. He has published 30 full-text papers, 4 books, and 6 book chapters, more
+- than 20 abstracts in periodic journals, more than 120 abstracts in conference proceedings, and 45
+- communications by invitation. He is a co-author of more than 200 posters in international scientiﬁc
+- meetings. He was a supervisor of more than 60 bachelor’s degree students, 6 master’s theses, and 5
+- research projects in innovation and entrepreneurship, and is currently the supervisor of 2 PhD thesis.
+- FM has 3 patents and more than 10 provisory patents submitted between Portugal and Brazil. In
+- collaboration with Brazil, as an invited researcher, has more than 20 ﬁnanced research projects. In
+- recent years, he has given higher priority to the study of topics related to cancer treatment, namely
+- using radiotherapy and immunotherapy. One of the subtopics that he has been studying aims to
+- better understand the role of the immune system and the immune checkpoint inhibitors in cancer
+- treatment, in prostate, bladder, and penile cancer among other cancers, which may contribute to
+- increasing patients’ life expectancy. He has been a reviewer of several journals, having reviewed
+- more than 160 manuscripts. Has been awarded 10 prizes and distinctions.
+- Diana Martins

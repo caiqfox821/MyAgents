@@ -1,0 +1,71 @@
+# Modern Technologies and Their Influence in Fermentation Quality (2020, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/pdfview/book/2285
+- 页数: 238
+- 全文: `text/mdpi/Modern_Technologies_Fermentation_Quality_2020.txt`
+- PDF: `mdpi/Modern_Technologies_Fermentation_Quality_2020.pdf`
+- 标签: 发酵工艺, 动力学建模
+
+## 目录 (Contents)
+
+- About the Special Issue Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Santiago Benito
+- Modern Technologies and Their Inﬂuence in Fermentation Quality
+- Reprinted from: Fermentation 2020, 6, 13, doi:10.3390/fermentation6010013 . . . . . . . . . . . . .         1
+- Santiago Benito
+- The Management of Compounds that Inﬂuence Human Health in Modern Winemaking from
+- an HACCP Point of View
+- Reprinted from: Fermentation 2019, 5, 33, doi:10.3390/fermentation5020033 . . . . . . . . . . . . .         5
+- Alice Vilela
+- The Importance of Yeasts on Fermentation Quality and Human Health-Promoting
+- Compounds †
+- Reprinted from: Fermentation 2019, 5, 46, doi:10.3390/fermentation5020046 . . . . . . . . . . . . . 25
+- Carmen Berbegal, Mariagiovanna Fragasso, Pasquale Russo, Francesco Bimbo, Francesco
+- Grieco, Giuseppe Spano and Vittorio Capozzi
+- Climate Changes and Food Quality: The Potential of Microbial Activities as Mitigating
+- Strategies in the Wine Sector
+- Reprinted from: Fermentation 2019, 5, 85, doi:10.3390/fermentation5040085 . . . . . . . . . . . . . 37
+- Ángel Benito, Fernando Calderón and Santiago Benito
+- The Inﬂuence of Non-Saccharomyces Species on Wine Fermentation Quality Parameters
+- Reprinted from: Fermentation 2019, 5, 54, doi:10.3390/fermentation5030054 . . . . . . . . . . . . . 53
+- Benjamı́n Kuchen, Yolanda Paola Maturano, Marı́a Victoria Mestre, Mariana Combina,
+- Marı́a Eugenia Toro and Fabio Vazquez
+- Selection of Native Non-Saccharomyces Yeasts with Biocontrol Activity against Spoilage Yeasts
+- in Order to Produce Healthy Regional Wines
+- Reprinted from: Fermentation 2019, 5, 60, doi:10.3390/fermentation5030060 . . . . . . . . . . . . . 71
+- Ophélie Dutraive, Santiago Benito, Stefanie Fritsch, Beata Beisert, Claus-Dieter Patz and
+- Doris Rauhut
+- Effect of Sequential Inoculation with Non-Saccharomyces and Saccharomyces Yeasts on Riesling
+- Wine Chemical Composition
+- Reprinted from: Fermentation 2019, 5, 79, doi:10.3390/fermentation5030079 . . . . . . . . . . . . . 87
+- Heinrich Du Plessis, Maret Du Toit, Hélène Nieuwoudt, Marieta Van der Rijst, Justin Hoff
+- and Neil Jolly
+- Modulation of Wine Flavor using Hanseniaspora uvarum in Combination with Different
+- Saccharomyces cerevisiae, Lactic Acid Bacteria Strains and Malolactic Fermentation Strategies
+- Reprinted from: Fermentation 2019, 5, 64, doi:10.3390/fermentation5030064 . . . . . . . . . . . . . 103
+- Marı́a Victoria Mestre, Yolanda Paola Maturano, Candelaria Gallardo, Mariana Combina,
+- Laura Mercado, Marı́a Eugenia Toro, Francisco Carrau, Fabio Vazquez and Eduardo
+- Dellacassa
+- Impact on Sensory and Aromatic Proﬁle of Low Ethanol Malbec Wines Fermented by Sequential
+- Culture of Hanseniaspora uvarum and Saccharomyces cerevisiae Native Yeasts
+- Reprinted from: Fermentation 2019, 5, 65, doi:10.3390/fermentation5030065 . . . . . . . . . . . . . 119
+-                                                       v
+- Margarita Garcı́a, Braulio Esteve-Zarzoso, Julia Crespo, Juan Mariano Cabellos and Teresa
+- Arroyo
+- Inﬂuence of Native Saccharomyces cerevisiae Strains from D.O. “Vinos de Madrid” in the Volatile
+- Proﬁle of White Wines
+- Reprinted from: Fermentation 2019, 5, 94, doi:10.3390/fermentation5040094 . . . . . . . . . . . . . 133
+- Zeynep Dilan Çelik, Hüseyin Erten and Turgut Cabaroglu
+- The Inﬂuence of Selected Autochthonous Saccharomyces cerevisiae Strains on the
+- Physicochemical and Sensory Properties of Narince Wines
+- Reprinted from: Fermentation 2019, 5, 70, doi:10.3390/fermentation5030070 . . . . . . . . . . . . . 145
+- Barbara Speranza, Daniela Campaniello, Leonardo Petruzzi, Milena Sinigaglia, Maria
+- Rosaria Corbo and Antonio Bevilacqua
+- Preliminary Characterization of Yeasts from Bombino Bianco, a Grape Variety of Apulian
+- Region, and Selection of an Isolate as a Potential Starter
+- Reprinted from: Fermentation 2019, 5, 102, doi:10.3390/fermentation5040102 . . . . . . . . . . . . 159
+- Alejandro Alonso, Miguel de Celis, Javier Ruiz, Javier Vicente, Eva Navascués, Alberto
+- Acedo, Ignacio Belda, Antonio Santos, Marı́a Ángeles Gómez-Flechoso and Domingo
+- Marquina
+- Looking at the Origin: Some Insights into the General and Fermentative Microbiota of Vineyard

@@ -1,0 +1,81 @@
+# Impact of Functional Ingredients on Technological Sensory and Health Properties of Bakery Products (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 170
+- 全文: `text/mdpi/Impact_of_Functional_Ingredients_on_Technological_Sensory_and_Health_Properties_of_Bakery_Products_2026.txt`
+- PDF: `mdpi/Impact_of_Functional_Ingredients_on_Technological_Sensory_and_Health_Properties_of_Bakery_Products_2026.pdf`
+- 标签: 烘焙, 功能配料, 感官
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Roberta Tolve and Barbara Simonato
+- Impact of Functional Ingredients on the Technological, Sensory, and Health Properties of Bakery
+- Products
+- Reprinted from: Foods 2024, 13, 3330, https://doi.org/10.3390/foods13203330 . . . . . . . . . . .
+- 1
+- Wee Yin Koh, Xiao Xian Lim, Thuan Chew Tan, Hasmadi Mamat, Rovina Kobun and
+- Babak Rasti
+- Utilising Spent Tea Leaves Powder as Functional Ingredient to Enhance the Quality of
+- Non-Gluten Shortbread Cookies
+- Reprinted from: Foods 2023, 12, 1557, https://doi.org/10.3390/foods12071557 . . . . . . . . . . .
+- 5
+- Débora Cerdá-Bernad and María José Frutos
+- Saffron Floral By-Products as Novel Sustainable Vegan Ingredients for the Functional and
+- Nutritional Improvement of Traditional Wheat and Spelt Breads
+- Reprinted from: Foods 2023, 12, 2380, https://doi.org/10.3390/foods12122380 . . . . . . . . . . . 26
+- Federico Bianchi, Mariasole Cervini, Gianluca Giuberti and Barbara Simonato
+- The Potential of Wine Lees as a Fat Substitute for Mufﬁn Formulations
+- Reprinted from: Foods 2023, 12, 2584, https://doi.org/10.3390/foods12132584 . . . . . . . . . . . 44
+- Brenda Ozón, Juliana Cotabarren, Florencia R. Geier, M. Paula Kise, Javier García-Pardo,
+- Mónica G. Parisi and W. David Obregón
+- Development of Fortiﬁed Breads Enriched with Plant-Based Bioactive Peptides Derived from the
+- Chia (Salvia hispanica L.) Expeller
+- Reprinted from: Foods 2023, 12, 3382, https://doi.org/10.3390/foods12183382 . . . . . . . . . . . 57
+- Yanbin Guan, Xun Yang, Chuang Pan, Jie Kong, Ruizhe Wu, Xueli Liu, et al.
+- Comprehensive Analyses of Breads Supplemented with Tannic Acids
+- Reprinted from: Foods 2023, 12, 3756, https://doi.org/10.3390/foods12203756 . . . . . . . . . . . 73
+- Takako Koriyama, Mika Saikawa, Yuria Kurosu, Michiyo Kumagai and Takahiro Hosoya
+- Effects of Roasting on the Quality of Moringa oleifera Leaf Powder and Loaf Volume of Moringa
+- oleifera-Supplemented Bread
+- Reprinted from: Foods 2023, 12, 3760, https://doi.org/10.3390/foods12203760 . . . . . . . . . . . 87
+- Nayeon Baek, Yujin Moon, Jeongeon Kim and Meera Kweon
+- Effect of Gluten Composition in Low-Allergy O-Free Wheat Flour on Cookie-Making
+- Performance Compared with Flours with Different Gluten Strengths
+- Reprinted from: Foods 2023, 12, 3843, https://doi.org/10.3390/foods12203843 . . . . . . . . . . . 101
+- Sung-Huo Kim, Yeon-Ji Jo, Sung Ho Lee and Sung-Hoon Park
+- Development of Oleogel-Based Fat Replacer and Its Application in Pan Bread Making
+- Reprinted from: Foods 2024, 13, 1678, https://doi.org/10.3390/foods13111678 . . . . . . . . . . . 114
+- Ritnesh Vishal Prasad, Sushil Dhital, Gary Williamson and Elizabeth Barber
+- Nutrient Composition, Physical Characteristics and Sensory Quality of Spinach-Enriched Wheat
+- Bread
+- Reprinted from: Foods 2024, 13, 2401, https://doi.org/10.3390/foods13152401 . . . . . . . . . . . 125
+- v
+- Ilaria Pasqualoni, Roberta Tolve, Barbara Simonato and Federico Bianchi
+- The Impact of Selected Ingredients on the Predicted Glycemic Index and Technological Properties
+- of Bread
+- Reprinted from: Foods 2024, 13, 2488, https://doi.org/10.3390/foods13162488 . . . . . . . . . . . 146
+- vi
+- About the Editors
+- Barbara Simonato
+- Barbara Simonato is an associate professor of Food Science and Technology at the Department
+- of Biotechnology, University of Verona, Italy. Her research focuses mainly on the recovery and
+- valorization of agro-industrial byproducts for the development of functional food ingredients and
+- products, particularly bakery goods and pasta. Her main research interests include the optimization
+- of food formulations from a nutritional and technological perspective, the study of bioactive
+- compounds and their stability during processing and digestion, the evaluation of starch and protein
+- digestibility, and the assessment of predicted glycemic index. She also has extensive expertise in food
+- processing technologies, analytical characterization of food matrices, and the evaluation of nutritional,
+- technological, and sensory properties of fortiﬁed foods.
+- Roberta Tolve
+- Roberta Tolve is a temporary assistant professor of Food Science and Technology at the
+- Department of Biotechnology, University of Verona, Italy. Her research focuses on food technologies
+- aimed at the development of innovative and functional food products with potential health beneﬁts.
+- Initially centered on microencapsulation techniques for the preservation of bioactive compounds, her
+- research has expanded toward sustainable approaches based on circular economy principles, including
+- the recovery and valorization of food industry byproducts. Her main interests include green extraction
+- processes, microencapsulation of nutraceutical compounds, and the evaluation of technological,
+- nutritional, and sensory properties of fortiﬁed foods. She has expertise in food processing, sensory

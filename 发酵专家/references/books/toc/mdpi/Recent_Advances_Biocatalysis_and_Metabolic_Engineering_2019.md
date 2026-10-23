@@ -1,0 +1,71 @@
+# Recent Advances in Biocatalysis and Metabolic Engineering for Biomanufacturing (2019, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/pdfview/book/1569
+- 页数: 280
+- 全文: `text/mdpi/Recent_Advances_Biocatalysis_and_Metabolic_Engineering_2019.txt`
+- PDF: `mdpi/Recent_Advances_Biocatalysis_and_Metabolic_Engineering_2019.pdf`
+- 标签: 代谢工程, 生物催化, 生物制造
+
+## 目录 (Contents)
+
+- About the Special Issue Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Eun Yeol Lee
+- Recent Advances on Biocatalysis and Metabolic Engineering for Biomanufacturing
+- Reprinted from: Catalysts 2019, 9, 707, doi:10.3390/catal9090707 . . . . . . . . . . . . . . . . . . .      1
+- Prajakatta Mulay, Gayatri Shrikhande and Judit E. Puskas
+- Synthesis of Mono- and Dithiols of Tetraethylene Glycol and Poly(ethylene glycol)s via
+- Enzyme Catalysis
+- Reprinted from: Catalysts 2019, 9, 228, doi:10.3390/catal9030228 . . . . . . . . . . . . . . . . . . .      4
+- Sung-Yeon Joo, Hee-Wang Yoo, Sharad Sarak, Byung-Gee Kim and Hyungdon Yun
+- Enzymatic Synthesis of ω-Hydroxydodecanoic Acid By Employing a Cytochrome P450 from
+- Limnobacter sp. 105 MED
+- Reprinted from: Catalysts 2019, 9, 54, doi:10.3390/catal9010054 . . . . . . . . . . . . . . . . . . . . 16
+- Md Murshidul Ahsan, Mahesh D. Patil, Hyunwoo Jeon, Sihyong Sung, Taeowan Chung and
+- Hyungdon Yun
+- Biosynthesis of Nylon 12 Monomer, ω-Aminododecanoic Acid Using Artiﬁcial Self-Sufﬁcient
+- P450, AlkJ and ω-TA
+- Reprinted from: Catalysts 2018, 8, 400, doi:10.3390/catal8090400 . . . . . . . . . . . . . . . . . . . 26
+- Moritz Senger, Konstantin Laun, Basem Soboh and Sven T. Stripp
+- Infrared Characterization of the Bidirectional Oxygen-Sensitive [NiFe]-Hydrogenase from
+- E. coli
+- Reprinted from: Catalysts 2018, 8, 530, doi:10.3390/catal8110530 . . . . . . . . . . . . . . . . . . . 39
+- Marco Antonio Seiki Kadowaki, Mariana Ortiz de Godoy, Patricia Suemy Kumagai,
+- Antonio José da Costa-Filho, Andrew Mort, Rolf Alexander Prade and Igor Polikarpov
+- Characterization of a New Glyoxal Oxidase from the Thermophilic Fungus
+- Myceliophthora thermophila M77:            Hydrogen Peroxide Production Retained in
+- 5-Hydroxymethylfurfural Oxidation
+- Reprinted from: Catalysts 2018, 8, 476, doi:10.3390/catal8100476 . . . . . . . . . . . . . . . . . . . 53
+- Yeo Reum Park, Hee Seon Yoo, Min Young Song, Dong-Heon Lee and Seung Jae Lee
+- Biocatalytic Oxidations of Substrates through Soluble Methane Monooxygenase from
+- Methylosinus sporium 5
+- Reprinted from: Catalysts 2018, 8, 582, doi:10.3390/catal8120582 . . . . . . . . . . . . . . . . . . . 68
+- Fei-Long Li, Meng-Yao Zhuang, Jia-Jia Shen, Xiao-Man Fan, Hyunsoo Choi, Jung-Kul Lee
+- and Ye-Wang Zhang
+- Speciﬁc Immobilization of Escherichia coli Expressing Recombinant Glycerol Dehydrogenase on
+- Mannose-Functionalized Magnetic Nanoparticles
+- Reprinted from: Catalysts 2019, 9, 7, doi:10.3390/catal9010007 . . . . . . . . . . . . . . . . . . . . 84
+- Anna Dzionek, Jolanta Dzik, Danuta Wojcieszyńska and Urszula Guzik
+- Fluorescein Diacetate Hydrolysis Using the Whole Bioﬁlm as a Sensitive Tool to Evaluate the
+- Physiological State of Immobilized Bacterial Cells
+- Reprinted from: Catalysts 2018, 8, 434, doi:10.3390/catal8100434 . . . . . . . . . . . . . . . . . . . 96
+-                                                       v
+- Sara Arana-Peña, Yuliya Lokha and Roberto Fernández-Lafuente
+- Immobilization of Eversa Lipase on Octyl Agarose Beads and Preliminary Characterization of
+- Stability and Activity Features
+- Reprinted from: Catalysts 2018, 8, 511, doi:10.3390/catal8110511 . . . . . . . . . . . . . . . . . . . 111
+- Murilo Amaral-Fonseca, Willian Kopp, Raquel de Lima Camargo Giordano, Roberto
+- Fernández-Lafuente and Paulo Waldir Tardioli
+- Preparation of Magnetic Cross-Linked Amyloglucosidase Aggregates: Solving Some
+- Activity Problems
+- Reprinted from: Catalysts 2018, 8, 496, doi:10.3390/catal8110496 . . . . . . . . . . . . . . . . . . . 126
+- Meng-Qiu Xu, Shuang-Shuang Wang, Li-Na Li, Jian Gao and Ye-Wang Zhang
+- Combined Cross-Linked Enzyme Aggregates as Biocatalysts
+- Reprinted from: Catalysts 2018, 8, 460, doi:10.3390/catal8100460 . . . . . . . . . . . . . . . . . . . 147
+- Soo-Jung Kim, Seong Keun Kim, Wonjae Seong, Seung-Gyun Woo, Hyewon Lee,
+- Soo-Jin Yeom, Haseong Kim, Dae-Hee Lee and Seung-Goo Lee
+- Enhanced (−)-α-Bisabolol Productivity by Efﬁcient Conversion of Mevalonate in Escherichia coli
+- Reprinted from: Catalysts 2019, 9, 432, doi:10.3390/catal9050432 . . . . . . . . . . . . . . . . . . . 167
+- Ji Hoon Lee, Sanghak Cha, Chae Won Kang, Geon Min Lee, Hyun Gyu Lim and Gyoo Yeol
+- Jung
+- Efﬁcient Conversion of Acetate to 3-Hydroxypropionic Acid by Engineered Escherichia coli

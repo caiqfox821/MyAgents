@@ -1,0 +1,81 @@
+# Conservation Agricultural Practices for Improving Crop Production and Quality (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10710
+- 页数: 270
+- 全文: `text/crops/Conservation_Agricultural_Practices_Improving_Crop_Production_2025.txt`
+- PDF: `crops/Conservation_Agricultural_Practices_Improving_Crop_Production_2025.pdf`
+- 标签: 保护性耕作, 综合栽培, 土壤健康
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Mariola Staniak and Ewa Szpunar-Krok
+- Conservation Agricultural Practices for Improving Crop Production and Quality
+- Reprinted from: Agronomy 2025, 15, 673, https://doi.org/10.3390/agronomy15030673 . . . . . .                   1
+- Gabriel Hopla Akwakwa and Wang Xiaoyan
+- Impact of Rice–Wheat Straw Incorporation and Varying Nitrogen Fertilizer Rates on Soil
+- Physicochemical Properties and Wheat Grain Yield
+- Reprinted from: Agronomy 2023, 13, 2363, https://doi.org/10.3390/agronomy13092363 . . . . .                    6
+- Bushra Ahmed Alhammad, Dhirendra Kumar Roy, Shivani Ranjan, Smruti Ranjan Padhan,
+- Sumit Sow and Dibyajyoti Nath et al.
+- Conservation Tillage and Weed Management Influencing Weed Dynamics, Crop Performance,
+- Soil Properties, and Profitability in a Rice–Wheat–Greengram System in the Eastern
+- Indo-Gangetic Plain
+- Reprinted from: Agronomy 2023, 13, 1953, https://doi.org/10.3390/agronomy13071953 . . . . . 26
+- Nayoung Choi, Miri Choi, Sora Lee, Chaelin Jo, Gamgon Kim and Yonghyun Jeong et al.
+- Effects of Ecotypes and Reduced N Fertilization on Root Growth and Aboveground
+- Development of Ratooning Sorghum ˆ Sudangrass Hybrids
+- Reprinted from: Agronomy 2024, 14, 2073, https://doi.org/10.3390/agronomy14092073 . . . . . 56
+- Michele Andrea De Santis, Luigia Giuzio, Damiana Tozzi, Mario Soccio and Zina Flagella
+- Impact of No Tillage and Low Emission N Fertilization on Durum Wheat Sustainability,
+- Profitability and Quality
+- Reprinted from: Agronomy 2024, 14, 2794, https://doi.org/10.3390/agronomy14122794 . . . . . 71
+- Juan David Dominguez-Bohorquez, Claire Wittling, Bruno Cheviron, Sami Bouarfa, Nicolas
+- Urruty and Jean-Marie Lopez et al.
+- Early-Stage Impacts of Irrigated Conservation Agriculture on Soil Physical Properties and Crop
+- Performance in a French Mediterranean System
+- Reprinted from: Agronomy 2025, 15, 299, https://doi.org/10.3390/agronomy15020299 . . . . . . 88
+- Zhiqiang Dong, Shuo Yang, Si Li, Pengfei Fan, Jianguo Wu and Yuxin Liu et al.
+- Effects of No-Tillage on Field Microclimate and Yield of Winter Wheat
+- Reprinted from: Agronomy 2024, 14, 3075, https://doi.org/10.3390/agronomy14123075 . . . . . 126
+- Mohamed S. Abd El-Aty, Mahmoud I. Abo-Youssef, Fouad A. Sorour, Mahmoud Salem,
+- Mohamed A. Gomma and Omar M. Ibrahim et al.
+- Performance and Stability for Grain Yield and Its Components of Some Rice Cultivars under
+- Various Environments
+- Reprinted from: Agronomy 2024, 14, 2137, https://doi.org/10.3390/agronomy14092137 . . . . . 139
+- Maria Gerakari, Anastasia Kyriakoudi, Dimitris Nokas, Ioannis Mourtzinos, Evangelia G.
+- Chronopoulou and Eleni Tani et al.
+- Evaluation of the Potential Use of Wild Relatives of Tomato (Solanum pennellii) to Improve Yield
+- and Fruit Quality Under Low-Input and High-Salinity Cultivation Conditions
+- Reprinted from: Agronomy 2024, 14, 3042, https://doi.org/10.3390/agronomy14123042 . . . . . 153
+- Christine C. Nieman, Jose G. Franco and Randy L. Raper
+- Inconsistent Yield Response of Forage Sorghum to Tillage and Row Arrangement
+- Reprinted from: Agronomy 2024, 14, 1510, https://doi.org/10.3390/agronomy14071510 . . . . . 176
+-                                                        v
+- Aziz Nurbekov, Muhammadjon Kosimov, Makhmud Shaumarov, Botir Khaitov, Dilrabo
+- Qodirova and Husniddin Mardonov et al.
+- Short Crop Rotation under No-Till Improves Crop Productivity and Soil Quality in Salt Affected
+- Areas
+- Reprinted from: Agronomy 2023, 13, 2974, https://doi.org/10.3390/agronomy13122974 . . . . . 186
+- Pirjo Peltonen-Sainio, Lauri Jauhiainen and Hannu Känkänen
+- Finnish Farmers Feel They Have Succeeded in Adopting Cover Crops but Need Down-to-Earth
+- Support from Research
+- Reprinted from: Agronomy 2023, 13, 2326, https://doi.org/10.3390/agronomy13092326 . . . . . 197
+- Edward Wilczewski, Irena Jug, Ewa Szpunar-Krok, Mariola Staniak and Danijel Jug
+- Shaping Soil Properties and Yield of Cereals Using Cover Crops under Conservation Soil Tillage
+- Reprinted from: Agronomy 2024, 14, 2104, https://doi.org/10.3390/agronomy14092104 . . . . . 213
+- Yaoru Xie, Xiuli Zhang, Ya Gao, Jiaquan Li, Yanqiu Geng and Liying Guo et al.
+- Effects of Different Straw Returning Periods and Nitrogen Fertilizer Combinations on Rice
+- Roots and Yield in Saline–Sodic Soil
+- Reprinted from: Agronomy 2024, 14, 2463, https://doi.org/10.3390/agronomy14112463 . . . . . 240
+-                                               vi
+- About the Editors
+- Mariola Staniak
+-      Prof. Dr. Mariola Staniak has been a researcher at the Institute of Soil Science and Plant
+- Cultivation in Puławy since 2003.       Her research interests include the biological basis of the
+- productivity of various crop species used for the production of food and animal feed.             She is
+- involved in improving agricultural technology, introducing innovations, and adapting treatments
+- to the needs related to climate change. She conducts extensive research on the physiological state of
+- crops depending on abiotic stress factors and agrotechnical treatments. She is a recognized specialist
+- in soybean cultivation in Poland. She is also interested in issues related to the impact of agriculture

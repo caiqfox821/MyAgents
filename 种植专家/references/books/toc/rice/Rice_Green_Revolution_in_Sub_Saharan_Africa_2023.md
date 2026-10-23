@@ -1,0 +1,80 @@
+# Rice Green Revolution in Sub-Saharan Africa (2023, Springer (OA))
+
+- 许可: CC BY
+- 来源: https://doi.org/10.1007/978-981-19-8046-6
+- 页数: 312
+- 全文: `text/rice/Rice_Green_Revolution_in_Sub_Saharan_Africa_2023.txt`
+- PDF: `rice/Rice_Green_Revolution_in_Sub_Saharan_Africa_2023.pdf`
+- 标签: 水稻, 非洲, 发展
+
+## 目录 (Contents)
+
+- Part I    Introduction
+- 1   The Rice Green Revolution in Sub-Saharan Africa: Issues
+-     and Opportunities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         3
+-     Keijiro Otsuka, Yukichi Mano, and Kazushi Takahashi
+- Part II    Training as a Central Development Strategy
+- 2   The Role of Extension in the Green Revolution . . . . . . . . . . . . . . . . . . .                                27
+-     Kazushi Takahashi and Keijiro Otsuka
+- 3   The Case of Cote D’Ivoire: Learning from Experts of Rice
+-     Farming Management and Peer Farmers About Rice
+-     Production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   45
+-     Kazushi Takahashi, Yukichi Mano, and Keijiro Otsuka
+- 4   The Case of Tanzania: Effectiveness of Management Training
+-     on Rice Framing and Farmer-to-Farmer Extension . . . . . . . . . . . . . . .                                       75
+-     Yuko Nakano
+- 5   The Case of Uganda: Long-Term and Spillover Effects of Rice
+-     Production Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          97
+-     Yoko Kijima
+- 6   The Case of Mozambique: The Importance of Management
+-     Training for Rice Farming in Rainfed Areas . . . . . . . . . . . . . . . . . . . . . 111
+-     Kei Kajisa and Trang Thu Vu
+- Part III Complementary Development Strategies
+- 7   Intensification of Rice Farming: The Role of Mechanization
+-     and Irrigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+-     Hiroyuki Takeshima and Yukichi Mano
+-                                                                                                                        vii
+- viii                                                                                                             Contents
+- 8      Mechanization in Cote d’Ivoire: Impacts of Tractorization
+-        on Agricultural Intensification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+-        Yukichi Mano, Kazushi Takahashi, and Keijiro Otsuka
+- 9      Mechanization in Tanzania: Impact of Tractorization
+-        on Intensification and Extensification of Rice Farming . . . . . . . . . . . . 177
+-        Eustadius Francis Magezi, Yuko Nakano, and Takeshi Sakurai
+- 10 Irrigation in Kenya: Economic Viability of Large-Scale
+-    Irrigation Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+-    Masao Kikuchi, Yukichi Mano, Timothy N. Njagi,
+-    Douglas J. Merrey, and Keijiro Otsuka
+- 11 Irrigation Scheme Size and Its Relationship to Investment
+-    Return: The Case of Senegal River Valley . . . . . . . . . . . . . . . . . . . . . . . 223
+-    Takeshi Sakurai
+- 12 Rice Milling in Kenya: An Inquiry into the Process
+-    of Upgrading Rice Milling Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+-    Yukichi Mano, Timothy N. Njagi, and Keijiro Otsuka
+- 13 Toward Quality Upgrading of Rice Production in SSA:
+-    Experimental Evidence from Northern Ghana . . . . . . . . . . . . . . . . . . . 273
+-    Tatsuya Ogura, Joseph A. Awuni, and Takeshi Sakurai
+- Part IV Conclusion
+- 14 Toward a Full-Fledged Rice Green Revolution in Sub-Saharan
+-    Africa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 299
+-    Keijiro Otsuka, Yukichi Mano, and Kazushi Takahashi
+- Editors and Contributors
+- About the Editors
+- Keijiro Otsuka is a professor of development economics at the Graduate School of
+- Economics, Kobe University and a chief senior researcher at the Institute of Devel-
+- oping Economies in Chiba, Japan since 2016. He received a Ph.D. in economics
+- from the University of Chicago in 1979. He majors in Green Revolution, land tenure
+- and land tenancy, natural resource management, poverty reduction, and industrial
+- development in Asia and Sub-Saharan Africa.
+- Yukichi Mano is a professor at Hitotsubashi University, Japan, and is a fellow at
+- Tokyo Center for Economic Research (TCER). He received a Ph.D. in Economics
+- from the University of Chicago in 2007. His scholarly interests include agricul-
+- tural technology adoption, horticulture, and high-value crop production, business,
+- and management training (KAIZEN), human capital investment, migration and
+- remittance, and universal health coverage in Asia and Sub-Saharan Africa.
+- Kazushi Takahashi is a professor at the National Graduate Institute for Policy
+- Studies (GRIPS) and is a director of the Global Governance Program at GRIPS,
+- Japan. He received a Ph.D. in Development Economics from GRIPS. His scholarly
+- interests include agricultural technology adoption, rural poverty dynamics, micro-
+- finance, human capital investment, and aid effectiveness in Asia and Sub-Saharan
+- African countries.

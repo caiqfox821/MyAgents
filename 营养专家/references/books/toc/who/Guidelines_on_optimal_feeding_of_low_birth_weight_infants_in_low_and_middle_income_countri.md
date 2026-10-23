@@ -1,0 +1,73 @@
+# Guidelines on optimal feeding of low birth-weight infants in low- and middle-income countries (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/85670
+- 页数: 60
+- 全文: `text/who/Guidelines_on_optimal_feeding_of_low_birth_weight_infants_in_low_and_middle_income_countri.txt`
+- 标签: 婴幼儿/儿童, 肥胖
+
+## 目录 (Contents)
+
+-                                                            Page
+- Acknowledgements                                             I
+- Abbreviations and glossary                                   II
+- Executive summary                                            1
+- Résumé d’orientation                                         5
+- Introduction                                                 9
+- Scope of the guidelines                                      11
+- Methodology                                                  14
+- Recommendations                                              20
+- Field testing of guidelines                                  50
+- Implementation plan                                          50
+- References                                                   51
+- Annexes
+- 1   Detailed GRADE profiles summarizing evidence
+- 2   Summary of individual research studies which formed the basis of
+-     recommendations
+-                                                                             Feeding of LBW infants
+- ACKNOWLEDGEMENTS
+- Many individuals made significant contributions to the development of these guidelines. Ramesh
+- Agarwal, Zulfiqar Bhutta, Karen Edmond, Sandra Lang, Indira Narayanan, Samuel Newton, Vinod
+- Paul, Muhammad Sohail Salat, María Asunción Silvestre, Nalini Singhal and Anthony Williams served
+- as members of the Guidelines Development Group. WHO staff members involved included: Rajiv
+- Bahl, Carmen Casanovas, Bernadette Daelmans, Ornella Lincetto, Jeevasankar Mari, Jose Martines
+- and Randa Saadeh. Felicity Savage King participated in writing the draft guidelines; Peggy Henderson
+- edited the final draft.
+- I
+-                                                                         Feeding of LBW infants
+- ABBREVIATIONS AND GLOSSARY
+- CI         Confidence interval
+- CLD        Chronic lung disease
+- DARE       Cochrane database of abstracts of reviews of effectiveness
+- dl         Decilitre
+- ELBW       Extremely low birth weight
+- ES         Effect size
+- g          Gram
+- GDG        Guideline development group
+- GRADE      System for grading the quality of evidence and the strength of recommendations
+- HIV        Human immunodeficiency virus
+- IMCI       Integrated management of childhood illness
+- IMPAC      Integrated management of pregnancy and childbirth
+- IQ         Intelligence quotient
+- i.u.       International unit
+- kg         Kilogram
+- l          Litre
+- LBW        Low birth weight
+- mg         Milligram
+- ml         Millilitre
+- MD         Mean difference
+- NEC        Necrotizing enterocolitis
+- OR         Odds ratio
+- Palladai   Cup with a beak
+- PICO       Population, intervention, comparison, outcome
+- RCT        Randomized controlled trial
+- RDA        Recommended daily allowance
+- ROP        Retinopathy of prematurity
+- RR         Relative risk
+- SD         Standard deviation
+- SGA        Small for gestational age
+- TPN        Total parenteral nutrition
+- VLBW       Very low birth weight
+- WHO        World Health Organization
+- WMD        Weighted mean difference
+- II

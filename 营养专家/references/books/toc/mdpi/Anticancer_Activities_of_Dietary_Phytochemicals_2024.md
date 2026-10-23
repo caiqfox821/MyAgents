@@ -1,0 +1,78 @@
+# Anticancer Activities of Dietary Phytochemicals (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2514-1
+- 页数: 328
+- 全文: `text/mdpi/Anticancer_Activities_of_Dietary_Phytochemicals_2024.txt`
+- 标签: 肿瘤营养, 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Sultan Neja, Wan Mohaiza Dashwood, Roderick H. Dashwood and Praveen Rajendran
+- Histone Acyl Code in Precision Oncology: Mechanistic Insights from Dietary and Metabolic
+- Factors
+- Reprinted from: Nutrients 2024, 16, 396, doi:10.3390/nu16030396 . . . . . . . . . . . . . . . . . . .             1
+- Patrick L. McAlpine, Javier Fernández, Claudio J. Villar and Felipe Lombó
+- Organosulfur Compounds in Colorectal Cancer Prevention and Progression
+- Reprinted from: Nutrients 2024, 16, 802, doi:10.3390/nu16060802 . . . . . . . . . . . . . . . . . . . 24
+- Jinhong Guo, Wenjie Yan, Hao Duan, Diandian Wang, Yaxi Zhou, Duo Feng, et al.
+- Therapeutic Effects of Natural Products on Liver Cancer and Their Potential Mechanisms
+- Reprinted from: Nutrients 2024, 16, 1642, doi:10.3390/nu16111642 . . . . . . . . . . . . . . . . . . 53
+- Sukhmandeep Kaur, Patricia Mendonca and Karam F. A. Soliman
+- The Anticancer Effects and Therapeutic Potential of Kaempferol in Triple-Negative Breast
+- Cancer
+- Reprinted from: Nutrients 2024, 16, 2392, doi:10.3390/nu16152392 . . . . . . . . . . . . . . . . . . 89
+- Bhoomika Sharma, Chitra Dhiman, Gulam Mustafa Hasan, Anas Shamsi and Md. Imtiyaz
+- Hassan
+- Pharmacological Features and Therapeutic Implications of Plumbagin in Cancer and Metabolic
+- Disorders: A Narrative Review
+- Reprinted from: Nutrients 2024, 16, 3033, doi:10.3390/nu16173033 . . . . . . . . . . . . . . . . . . 119
+- Ming-Chang Tsai, Ching-Chun Chen, Tsui-Hwa Tseng, Yun-Ching Chang, Yi-Jie Lin, I-Ning
+- Tsai, et al.
+- Hibiscus Anthocyanins Extracts Induce Apoptosis by Activating AMP-Activated Protein
+- Kinase in Human Colorectal Cancer Cells
+- Reprinted from: Nutrients 2023, 15, 3972, doi:10.3390/nu15183972 . . . . . . . . . . . . . . . . . . 151
+- Nouralhuda Alateyah, Mohammed Alsafran, Kamal Usman and Allal Ouhtit
+- Molecular Evidence of Breast Cancer Cell Proliferation Inhibition by a Combination of Selected
+- Qatari Medicinal Plants Crude Extracts
+- Reprinted from: Nutrients 2023, 15, 4276, doi:10.3390/nu15194276 . . . . . . . . . . . . . . . . . . 165
+- Chih-Jung Yao, Chia-Lun Chang, Ming-Hung Hu, Chien-Huang Liao, Gi-Ming Lai,
+- Tzeon-Jye Chiou, et al.
+- Drastic Synergy of Lovastatin and Antrodia camphorata Extract Combination against PC3
+- Androgen-Refractory Prostate Cancer Cells, Accompanied by AXL and Stemness Molecules
+- Inhibition
+- Reprinted from: Nutrients 2023, 15, 4493, doi:10.3390/nu15214493 . . . . . . . . . . . . . . . . . . 177
+- Yun-Jung Na, Hong Kyu Lee and Kyung-Chul Choi
+- Amurensin G Sensitized Cholangiocarcinoma to the Anti-Cancer Effect of Gemcitabine via the
+- Downregulation of Cancer Stem-like Properties
+- Reprinted from: Nutrients 2024, 16, 73, doi:10.3390/nu16010073 . . . . . . . . . . . . . . . . . . . 190
+-                                                          v
+- Álvaro Pérez-Valero, Patricia Magadán-Corpas, Suhui Ye, Juan Serna-Diestro, Sandra
+- Sordon, Ewa Huszcza, et al.
+- Antitumor Effect and Gut Microbiota Modulation by Quercetin, Luteolin, and Xanthohumol in
+- a Rat Model for Colorectal Cancer Prevention
+- Reprinted from: Nutrients 2024, 16, 1161, doi:10.3390/nu16081161 . . . . . . . . . . . . . . . . . . 203
+- Rachael M. Curtis, Heng-Shan Wang, Xuan Luo, Erika B. Dugo, Jacqueline J. Stevens and
+- Paul B. Tchounwou
+- Fractionated Leaf Extracts of Ocimum gratissimum Inhibit the Proliferation and Induce
+- Apoptosis of A549 Lung Adenocarcinoma Cells
+- Reprinted from: Nutrients 2024, 16, 2737, doi:10.3390/nu16162737 . . . . . . . . . . . . . . . . . . 224
+- Wan-Ling Chang, Kai-Chien Yang, Jyun-Yu Peng, Chain-Lang Hong, Pei-Ching Li, Soi Moi
+- Chye, et al.
+- Parecoxib Enhances Resveratrol against Human Colorectal Cancer Cells through Akt and
+- TXNDC5 Inhibition and MAPK Regulation
+- Reprinted from: Nutrients 2024, 16, 3020, doi:10.3390/nu16173020 . . . . . . . . . . . . . . . . . . 235
+- Chih-Hsuan Chang, Hung-Pei Tsai, Ming-Hong Yen and Chien-Ju Lin
+- Methanolic Extract of Cimicifuga foetida Induces G1 Cell Cycle Arrest and Apoptosis and Inhibits
+- Metastasis of Glioma Cells
+- Reprinted from: Nutrients 2024, 16, 3254, doi:10.3390/nu16193254 . . . . . . . . . . . . . . . . . . 252
+- Meiling Liu, Sang-Shin Song and Sunmin Park
+- High Polygenic Risk Scores Positively Associated with Gastric Cancer Risk Interact with Coffee
+- and Polyphenol Intake and Smoking Status in Korean Adults
+- Reprinted from: Nutrients 2024, 16, 3263, doi:10.3390/nu16193263 . . . . . . . . . . . . . . . . . . 275
+- Paulina Nowotarska, Maciej Janeczek and Benita Wiatrak
+- Mushroom against Cancer: Aqueous Extract of Fomitopsis betulina in Fight against Tumors
+- Reprinted from: Nutrients 2024, 16, 3316, doi:10.3390/nu16193316 . . . . . . . . . . . . . . . . . . 296
+-                                                    vi

@@ -1,0 +1,79 @@
+# Nutritional Value of Meat and Meat Products and Their Role in Human Health (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1756-6
+- 页数: 190
+- 全文: `text/mdpi/Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health_2024.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Joanna Stadnik
+- Nutritional Value of Meat and Meat Products and Their Role in Human Health
+- Reprinted from: Nutrients 2024, 16, 1446, doi:10.3390/nu16101446 . . . . . . . . . . . . . . . . . .          1
+- Gavin Connolly and Wayne W. Campbell
+- Poultry Consumption and Human Cardiometabolic Health-Related Outcomes: A Narrative
+- Review
+- Reprinted from: Nutrients 2023, 15, 3550, doi:10.3390/nu15163550 . . . . . . . . . . . . . . . . . .          5
+- Paulina K˛eska, Joanna Stadnik, Aleksandra Łupawka and Agata Michalska
+- Novel α-Glucosidase Inhibitory Peptides Identiﬁed In Silico from Dry-Cured Pork Loins with
+- Probiotics through Peptidomic and Molecular Docking Analysis
+- Reprinted from: Nutrients 2023, 15, 3539, doi:10.3390/nu15163539 . . . . . . . . . . . . . . . . . . 29
+- Andrea Turnes, Paula Pereira, Helena Cid and Ana Valente
+- Meat Consumption and Availability for Its Reduction by Health and Environmental Concerns:
+- A Pilot Study
+- Reprinted from: Nutrients 2023, 15, 3080, doi:10.3390/nu15143080 . . . . . . . . . . . . . . . . . . 46
+- Clara S. Lau, Victor L. Fulgoni III, Mary E. Van Elswyk and Shalene H. McNeill
+- Trends in Beef Intake in the United States: Analysis of the National Health and Nutrition
+- Examination Survey, 2001–2018
+- Reprinted from: Nutrients 2023, 15, 2475, doi:10.3390/nu15112475 . . . . . . . . . . . . . . . . . . 59
+- Sanjiv Agarwal and Victor L. Fulgoni III
+- Association of Pork (All Pork, Fresh Pork and Processed Pork) Consumption with Nutrient
+- Intakes and Adequacy in US Children (Age 2–18 Years) and Adults (Age 19+ Years): NHANES
+- 2011–2018 Analysis
+- Reprinted from: Nutrients 2023, 15, 2293, doi:10.3390/nu15102293 . . . . . . . . . . . . . . . . . . 76
+- Jean-Pierre Chouraqui
+- Risk Assessment of Micronutrients Deﬁciency in Vegetarian or Vegan Children: Not So Obvious
+- Reprinted from: Nutrients 2023, 15, 2129, doi:10.3390/nu15092129 . . . . . . . . . . . . . . . . . . 88
+- Sanjiv Agarwal, Kathryn R. McCullough and Victor L. Fulgoni III
+- Nutritional Effects of Removing a Serving of Meat or Poultry from Healthy Dietary Patterns—A
+- Dietary Modeling Study
+- Reprinted from: Nutrients 2023, 15, 1717, doi:10.3390/nu15071717 . . . . . . . . . . . . . . . . . . 103
+- Kellie E. Mayﬁeld, Julie Plasencia, Morgan Ellithorpe, Raeda K. Anderson and Nicole C.
+- Wright
+- The Consumption of Animal and Plant Foods in Areas of High Prevalence of Stroke and
+- Colorectal Cancer
+- Reprinted from: Nutrients 2023, 15, 993, doi:10.3390/nu15040993 . . . . . . . . . . . . . . . . . . . 117
+- Hikaru Takeuchi and Ryuta Kawashima
+- Nutrients and Dementia: Prospective Study
+- Reprinted from: Nutrients 2023, 15, 842, doi:10.3390/nu15040842 . . . . . . . . . . . . . . . . . . . 128
+-                                                        v
+- Victoria C. Wilk, Michelle K. McGuire and Annie J. Roe
+- Early Life Beef Consumption Patterns Are Related to Cognitive Outcomes at 1–5 Years of Age:
+- An Exploratory Study
+- Reprinted from: Nutrients 2022, 14, 4497, doi:10.3390/nu14214497 . . . . . . . . . . . . . . . . . . 146
+- Alessandro Dal Bosco, Alice Cartoni Mancinelli, Gaetano Vaudo, Massimiliano Cavallo,
+- Cesare Castellini and Simona Mattioli
+- Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition:
+- A Comprehensive Application of the Scientiﬁc Literature and New Proposals
+- Reprinted from: Nutrients 2022, 14, 3110, doi:10.3390/nu14153110 . . . . . . . . . . . . . . . . . . 160
+-                                                    vi
+- About the Editor
+- Joanna Stadnik
+-      Prof.   dr hab.    Joanna Stadnik has been employed at the Faculty of Food Science and
+- Biotechnology, University of Life Sciences in Lublin (ULSL), since 2004. She has worked as a full
+- professor at the Department of Meat Technology and Food Quality since 2019. She also servs as the
+- President of the Polish Food Technologists’ Society. Her scientiﬁc interests focuses mainly on the
+- use of probiotic bacteria in the production of dry cured meats, and in particular on their impact on
+- proteolytic transformations and the formation of biogenic amines in the products. She also conducted
+- research on the peptidegenic potential of muscle proteins in silico and in vitro, in which the potential
+- of proteins (sarcoplasmic and myoﬁbrillar) of dry cured meats as precursors of biologically active
+- peptides under conditions of simulated digestion and absorption in the gastrointestinal tract was
+- determined. She is the author and co-author of more than 150 scientiﬁc publications. She managed
+- the project funded by the National Science Centre (Decarboxylating activity of selected strains of lactic
+- acid bacteria in model systems) and Ministry of Science and Higher Education (Food production and
+- packaging systems ensuring the preservation of its bioactive compounds important in the prevention
+- of lifestyle diseases) under the program Regional Initiative of Excellence. In 2010, she was awarded
+- "IUFoST‘s Young Scientist Presentation Award" granted by The International Union of Food Science
+- and Technology. Polish Academy of Sciences granted her award for a young active researcher (2012).

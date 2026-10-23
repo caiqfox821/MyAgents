@@ -1,0 +1,69 @@
+# Text-book of Meat Hygiene (1939, Archive.org)
+
+- 作者: R. Edelmann
+- 许可: Public Domain
+- 来源: https://archive.org/details/textbookofmeathy00edelrich
+- 页数: 484
+- 全文: `text/public_domain/Text_Book_of_Meat_Hygiene_1939.txt`
+- PDF: `public_domain/Text_Book_of_Meat_Hygiene_1939.pdf`
+- 标签: 肉制品, 卫生, 历史经典
+
+## 目录 (Contents)
+
+- CHAPTER
+- XI.
+- 370
+- FOOD POISONING
+- CHAPTER
+- XII.
+- 380
+- HISTORY OP MEAT HYGIENE
+- CHAPTER
+- XIII.
+- 390
+- ABATTOIRS AND STOCKYARDS
+- CHAPTER
+- XIV.
+- PREPARATION AND CONTROL OF MEAT-FOOD PRODUCTS
+- 401
+- CHAPTER XV.
+- CHEMICAL ANALYSIS OF MEAT-FOOD PRODUCTS
+- 436
+- MEAT HYGIENE.
+- INTRODUCTION.
+- REGULATION
+- of the diet or
+- and strengthening
+- hygiene has for
+- of the health of the
+- purpose the retaining
+- or animal organism, by
+- its
+- human
+- internal resistance, and by preventing any noxious effects.
+- it is necessary, in the first place, to consider the nourishInasmuch as meat constitutes the principal
+- of the organism.
+- increasing
+- its
+- In doing this
+- ment
+- human body, the regulation of the diet of man must
+- meat products. And since there has been considerable
+- attention paid to the latter from a hygienic standpoint, justification is
+- had for the use of the words "meat hygiene," by which is understood
+- that part of the regimen which concerns the procurement of wholesome
+- meat foods for man, their value to public health, as well as the dangers
+- which threaten the consumers of diseased or unsound meats.
+- For the prevention of these dangers there should be, in the first place,
+- an expert supervision of the meat-food products of man. Everything
+- which constitutes such a supervision may be comprised in the term of
+- meat inspection or meat examination. By this should be understood
+- the examination of meat and the products made of the same, relative
+- to their proper origin and desirability as food for man.
+- Inasmuch as these food substances are the products of animals, the
+- foodstuff for the
+- also extend to
+- examination can only be complete when it extends not alone to all parts
+- of the slaughtered animals, but also to the food-producing animals in
+- life.
+- Accordingly it is more correct to speak of the examination as an

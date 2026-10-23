@@ -1,0 +1,80 @@
+# Microbial safety of lipid-based ready-to-use foods for management of moderate acute malnutrition and severe acute malnutrition: second report (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/341244
+- 页数: 102
+- 全文: `text/who/Microbial_safety_of_lipid_based_ready_to_use_foods_for_management_of_moderate_acute_malnut_a25acc.txt`
+- 标签: 营养不良
+
+## 目录 (Contents)
+
+-     Preface                                                             vii
+-     Acknowledgements                                                    viii
+-     Contributors                                                         ix
+-     Declarations of interest                                             xi
+-     Abbreviations and acronyms                                          xii
+-     Executive summary                                                   xiii
+- 1   Background                                                            1
+- 2   Introduction                                                         4
+-     2.1 Definitions of acute malnutrition                                 4
+-     2.2 Management of MAM and SAM                                         5
+-     2.3 Ready-to-use foods for acute malnutrition                         6
+-     2.3.1 Lipid-based RUF ingredients                                     7
+-     2.3.2 Manufacture of RUFs for acute malnutrition                      7
+-     2.4 Relationship between malnutrition and infection                   8
+- 3   Risk assessment for lipid-based RUFs used to manage
+-     MAM and SAM                                                         11
+-     3.1 Hazard identification                                            11
+-     3.2 Hazard characterization                                          17
+-     3.3 Exposure assessment                                             25
+-     3.4 Risk characterization                                           27
+- 4   Managing the risk of salmonellosis from lipid-based RUFs
+-     fed to children 6–59 months of age with MAM and SAM                 31
+-     4.1 Risk-based food safety management                               31
+-     4.1.1   Good hygienic practices                                      31
+-     4.1.2 Raw ingredients                                               32
+-     4.1.3 Intervention technologies                                     32
+-     4.1.4 Re-contamination                                              32
+-     4.2 The role of microbiological testing in food safety management   33
+-     4.2.1 Setting a microbiological criterion                           38
+-     4.2.2 Example approaches to setting a microbiological criterion
+-           for ready-to-use foods                                        39
+-      5   Conclusions                                                             45
+-          5.1 Pathogen(s) of concern                                              45
+-          5.2 Susceptibility of children with SAM relative to children
+-              of the same age without malnutrition                                45
+-          5.3 Assessing the probability of foodborne infection from RUFs          46
+-          5.4 Potential to implement kill steps to further reduce microbial
+-              contamination                                                       47
+-          5.5 Microbiological criteria appropriate to lipid-based RUFs
+-              and how they should be used                                         48
+-      6   Recommendations                                                         49
+-          6.1 Recommendations for manufacturers                                   49
+-          6.2 Recommendations for agencies                                        51
+-          References                                                              53
+-          ANNEXES
+-          Annex 1   Overview of ready-to-use foods for acute malnutrition         68
+-          Annex 2 Analysis of published models for dose-response of
+-                  Salmonella and additional relevant data, including
+-                  derivation of exponential dose-response models from
+-                  Salmonella outbreaks associated with low-moisture foods         74
+-          Annex 3 Re-analysis of Teunis et al. (2010) dataset as a beta-Poisson
+-                  model and comparison with the FAO/WHO (2002)
+-                  Salmonella dose-response model                                  77
+- iv
+- TABLES
+- Table 1     Pathogens identified as causes of serious infections in South
+-             African children with severe acute malnutrition                    12
+- Table 2     Pathogenic micro-organisms considered in the hazard
+-             identification                                                     15
+- Table 3     Examples of the predicted risk of gastrointestinal salmonellosis
+-             for SAM children receiving a full course of RUFs (62 servings)
+-             based on different levels and frequencies of RUF contamination     28
+- Table 4:    Relationship between the number of 100 g servings analysed
+-             and the probability of accepting a contaminated lot                29
+- FIGURES
+- Figure 1.   Community management of acute malnutrition (CMAM)
+-             is the most widely accepted model for managing malnutrition,
+-             and uses triage for management options for acute malnutrition       5
+- Figure 2.   Generalized production flow diagram for lipid-based RUFs            8
+- Figure 3    Examples of relationships between dose and probability of

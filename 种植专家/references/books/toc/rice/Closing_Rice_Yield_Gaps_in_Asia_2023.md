@@ -1,0 +1,81 @@
+# Closing Rice Yield Gaps in Asia (2023, Springer (OA))
+
+- 许可: CC BY
+- 来源: https://doi.org/10.1007/978-3-031-37947-5
+- 页数: 282
+- 全文: `text/rice/Closing_Rice_Yield_Gaps_in_Asia_2023.txt`
+- PDF: `rice/Closing_Rice_Yield_Gaps_in_Asia_2023.pdf`
+- 标签: 水稻, 产量差, 可持续农业
+
+## 目录 (Contents)
+
+- 1 Introduction—How Swiss Foreign Aid for International
+-   Development Benefits Agricultural Development Across Asia . . . . . . .                                             1
+-   Helena Wehmeyer, Grant Robert Singleton, and Melanie Connor
+- 2 Environmental, Social, and Economic Challenges in Lowland
+-   Rice Production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   27
+-   Melanie Connor, Arelene Julia B. Malabayabas,
+-   Annalyn H. de Guia, Helena Wehmeyer, Anny Ruth P. Pame,
+-   Nyo Me Htwe, Xuhua Zhong, Youqiang Fu, Kaiming Liang,
+-   Junfeng Pan, Xiangyu Hu, Yanzhuo Liu, Nuning Argo Subekti,
+-   Hasil Sembiring, Arlyna Budi Pustika, Sudarmaji,
+-   Yanter Hutapea, Budi Raharjo, Setia Sari Girsang,
+-   Syahri, Moral Abadi Girsang, Renny Utami Sumantri,
+-   Setyorini Widyayanti, Grant Robert Singleton, and Le Anh Tuan
+- 3 Faunal Biodiversity in Rice-Dominated Wetlands—An Essential
+-   Component of Sustainable Rice Production . . . . . . . . . . . . . . . . . . . . . . .                            93
+-   Catherine R. Propper, Grant Robert Singleton, Jodi L. Sedlock,
+-   Richard E. Smedley, Oliver B. Frith, Molly E. Shuman-Goodier,
+-   Renee P. Lorica, Alejandro Grajal-Puche, Finbarr G. Horgan,
+-   Colin V. Prescott, and Alexander M. Stuart
+- 4 Innovations, Technologies, and Management Practices
+-   for Sustainable Rice Production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+-   Nguyen-Van-Hung, Martin Gummert, Rica Joy Flor, Akhara Ouk,
+-   Makarakpakphea Keo, Buyung Hadi, Kim Eang Tho,
+-   Rathmuny Then, Saban Choun, Pham Thi Minh Hieu,
+-   Cornelia Sattler, Melanie Connor, Sudarmaji, Nyo Me Htwe,
+-   Joseph M. Sandro, Carlito Balingbing, and Grant Robert Singleton
+- 5 Carbon Footprint Reduction from Closing Rice Yield Gaps . . . . . . . . 149
+-   Nguyen-Van-Hung, Nguyen Thi Ha-An, Grant Robert Singleton,
+-   and Melanie Connor
+-                                                                                                                     xvii
+- xviii                                                                         Contents
+- 6 Partnerships and Approaches Used for Scaling: An Assessment
+-   of the Process for Rice Postharvest Technologies in CORIGAP . . . . . 177
+-   Rica Joy Flor, Reianne Quilloy, Harro Maat, Nguyen-Van-Hung,
+-   Myo Aung Kyaw, and Martin Gummert
+- 7 Incentive Mechanisms, Monitoring and Evaluation,
+-   and Communication of the CORIGAP Project . . . . . . . . . . . . . . . . . . . . 205
+-   Melanie Connor, Arelene Julia B. Malabayabas, Phoebe Ricarte,
+-   Matty Demont, Pham Thi Minh Hieu, Rica Joy Flor,
+-   Donald B. Villanueva, Valerian O. Pede, Annalyn H. de Guia,
+-   and Martin Gummert
+- Editors and Contributors
+- About the Editors
+- Dr. Melanie Connor is a senior scientist at the International Rice Research Insti-
+- tute, specializing in behavioral science and international Development. Her research
+- primarily focuses on decision-making in agriculture and rural development, specif-
+- ically on food system transformation and crop diversification to address climate
+- change challenges, biodiversity loss, the reduction of natural resources, and the triple
+- burden of malnutrition. She has been part of Phases II and III of the CORIGAP project
+- focusing on documenting the outcomes and impacts and harnessing the lessons
+- learned.
+- Engr. Martin Gummert is an agricultural engineer and was a senior scientist leading
+- the Postharvest and Mechanization Cluster of the International Rice Research Insti-
+- tute until 2022. He advocates for better postharvest management to improve the
+- quality of rice and reduce losses caused by spoilage and pests. His time at IRRI
+- centered on extracting more value from rice harvests through improved quality,
+- processing, market systems, and new products. In 2020, he became the project coordi-
+- nator for the Closing Rice Yield Gaps in Asia with Reduced Environmental Footprint
+- Project (CORIGAP), funded by the Swiss Agency for Development and Coopera-
+- tion (SDC). He supported all the knowledge management initiatives and impact
+- documentation until the project closed.
+- Dr. Grant Robert Singleton was a principal scientist at the International Rice
+- Research Institute until 2019, a visiting Professor at the University of Greenwich,
+- UK, and an adjunct professor at Northern Arizona University, USA. He was the coor-
+- dinator of the Irrigated Rice Research Consortium (IRRC) and the Closing Rice Yield
+- Gaps in Asia with Reduced Environmental Footprint (CORIGAP) Project funded by
+- the Swiss Agency for Development and Cooperation (SDC) until his retirement.
+- A world expert in ecologically based rodent management, he is also involved in
+- cross-cutting research in natural resource management.
+-                                                                                      xix

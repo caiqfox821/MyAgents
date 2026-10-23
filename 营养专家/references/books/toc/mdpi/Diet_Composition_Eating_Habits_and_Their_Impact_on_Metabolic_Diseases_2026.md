@@ -1,0 +1,73 @@
+# Diet Composition, Eating Habits and Their Impact on Metabolic Diseases (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6128-6
+- 页数: 226
+- 全文: `text/mdpi/Diet_Composition_Eating_Habits_and_Their_Impact_on_Metabolic_Diseases_2026.txt`
+- 标签: 代谢与心血管, 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Pedro Baptista Pereira, Estefania Torrejón, Inês Ferreira, Ana Soﬁa Carvalho, Akiko Teshima,
+- Inês Sousa-Lima, et al.
+- Proteomic Proﬁling of Plasma- and Gut-Derived Extracellular Vesicles in Obesity
+- Reprinted from: Nutrients 2024, 16, 736, https://doi.org/10.3390/nu16050736 . . . . . . . . . . .                 1
+- Alberto Ángel-Martı́n, Fabrice Vaillant and Natalia Moreno-Castellanos
+- Daily Consumption of Golden Berry (Physalis peruviana) Has Been Shown to Halt the
+- Progression of Insulin Resistance and Obesity in Obese Rats with Metabolic Syndrome
+- Reprinted from: Nutrients 2024, 16, 365, https://doi.org/10.3390/nu16030365 . . . . . . . . . . . 19
+- Gonçalo M. Melo, Adriana M. Capucho, Joana F. Sacramento, José Ponce-de-Leão,
+- Marcos V. Fernandes, Inês F. Almeida, et al.
+- Overnutrition during Pregnancy and Lactation Induces Gender-Dependent Dysmetabolism in
+- the Offspring Accompanied by Heightened Stress and Anxiety
+- Reprinted from: Nutrients 2023, 16, 67, https://doi.org/10.3390/nu16010067 . . . . . . . . . . . . 40
+- Bianca Heller, Florian P. Reiter, Hans Benno Leicht, Cornelia Fiessler, Ina Bergheim,
+- Peter U. Heuschmann, et al.
+- Salt-Intake-Related Behavior Varies between Sexes and Is Strongly Associated with Daily Salt
+- Consumption in Obese Patients at High Risk for MASLD
+- Reprinted from: Nutrients 2023, 15, 3942, https://doi.org/10.3390/nu15183942 . . . . . . . . . . 66
+- Emily B. Hill, Iain R. Konigsberg, Diana Ir, Daniel N. Frank, Purevsuren Jambal,
+- Elizabeth M. Litkowski, et al.
+- The Microbiome, Epigenome, and Diet in Adults with Obesity during Behavioral Weight Loss
+- Reprinted from: Nutrients 2023, 15, 3588, https://doi.org/10.3390/nu15163588 . . . . . . . . . . 82
+- Camelia Munteanu, Mihaela Mihai, Francisc Dulf, Andreea Ona, Leon Muntean,
+- Floricut, a Ranga, et al.
+- Biochemical Changes Induced by the Administration of Cannabis sativa Seeds in Diabetic Wistar
+- Rats
+- Reprinted from: Nutrients 2023, 15, 2944, https://doi.org/10.3390/nu15132944 . . . . . . . . . . 98
+- Amar van Laar, Charlotte Grootaert, Andreja Rajkovic, Tom Desmet, Koen Beerens
+- and John Van Camp
+- Rare Sugar Metabolism and Impact on Insulin Sensitivity along the Gut–Liver–Muscle Axis
+- In Vitro
+- Reprinted from: Nutrients 2023, 15, 1593, https://doi.org/10.3390/nu15071593 . . . . . . . . . . 115
+- Diana Sousa, Mariana Rocha, Andreia Amaro, Marcos Divino Ferreira-Junior,
+- Keilah Valéria Naves Cavalcante, Tamaeh Monteiro-Alfredo, et al.
+- Exposure to Obesogenic Environments during Perinatal Development Modulates Offspring
+- Energy Balance Pathways in Adipose Tissue and Liver of Rodent Models
+- Reprinted from: Nutrients 2023, 15, 1281, https://doi.org/10.3390/nu15051281 . . . . . . . . . . 138
+-                                                          v
+- Marı́a Dolores Salas-González, Aranzazu Aparicio, Viviana Loria-Kohen, Rosa M. Ortega
+- and Ana M. López-Sobaler
+- Association of Healthy Eating Index-2015 and Dietary Approaches to Stop Hypertension
+- Patterns with Insulin Resistance in Schoolchildren
+- Reprinted from: Nutrients 2022, 14, 4232, https://doi.org/10.3390/nu14204232 . . . . . . . . . . 164
+- Xuejiao Lu, Zhihong Fan, Anshu Liu, Rui Liu, Xinling Lou and Jiahui Hu
+- Extended Inter-Meal Interval Negatively Impacted the Glycemic and Insulinemic Responses
+- after Both Lunch and Dinner in Healthy Subjects
+- Reprinted from: Nutrients 2022, 14, 3617, https://doi.org/10.3390/nu14173617 . . . . . . . . . . 179
+- Zivana Puljiz, Marko Kumric, Josip Vrdoljak, Dinko Martinovic, Tina Ticinovic Kurir,
+- Marin Ozren Krnic, et al.
+- Obesity, Gut Microbiota, and Metabolome: From Pathophysiology to Nutritional Interventions
+- Reprinted from: Nutrients 2023, 15, 2236, https://doi.org/10.3390/nu15102236 . . . . . . . . . . 194
+-                                                  vi
+- About the Editors
+- Silvia V. Conde
+-     Silvia V. Conde is a Professor of Pharmacology and Neurosciences and Principal Investigator
+- at NOVA Medical School (NMS), as well as a Distinguished Beatriz Galindo Senior Professor at the
+- Faculty of Medicine of the University of Valladolid in Spain. She obtained her PhD in Pharmacology
+- from NOVA University Lisbon (Portugal) and in Biotechnology from the University of Valladolid
+- (Spain) in 2007. Her main research interests focus on inter-organ communication and brain–body
+- physiology and pathophysiology, particularly the link carotid body–brain–body in the context of
+- metabolic diseases.

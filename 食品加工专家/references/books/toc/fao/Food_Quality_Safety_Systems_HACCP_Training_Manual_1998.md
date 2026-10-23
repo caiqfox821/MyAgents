@@ -1,0 +1,81 @@
+# Food quality and safety systems: A training manual on food hygiene and HACCP (1998, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/w8088e/w8088e.pdf
+- 页数: 178
+- 全文: `text/fao/Food_Quality_Safety_Systems_HACCP_Training_Manual_1998.txt`
+- PDF: `fao/Food_Quality_Safety_Systems_HACCP_Training_Manual_1998.pdf`
+- 标签: HACCP, 食品安全, 卫生
+
+## 目录 (Contents)
+
+- Food Quality and Standards Service Food and Nutrition Division
+- FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS
+- Rome, 1998
+- Editing, design, graphics and desktop publishing:
+- Publishing Management Group, FAO Information Division
+- Reprinted with corrections 1998
+- The designations employed and the presentation of material in this publication do not imply the
+- expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the
+- United Nations concerning the legal status of any country, territory, city or area or of its authorities, or
+- concerning the delimitation of its frontiers or boundaries.
+- M-83
+- ISBN 92-5-104115-6
+- All rights reserved. No part of this publication may be reproduced, stored in a retrieval
+- system, or transmitted in any form or by any means, electronic, mechanical, photocopying or
+- otherwise, without the prior permission of the copyright owner. Applications for such
+- permission, with a statement of the purpose and extent of the reproduction, should be
+- addressed to the Director, Information Division, Food and Agriculture Organization of the
+- United Nations, Viale delle Terme di Caracalla, 00100 Rome, Italy.
+- © FAO 1998
+- This electronic document has been scanned using optical character recognition (OCR)
+- software and careful manual recorrection. Even if the quality of digitalisation is high, the FAO
+- declines all responsibility for any discrepancies that may exist between the present document
+- and its original printed version.
+- 1
+- Table of Contents
+- Foreword
+- Preface
+- Section 1 - PRINCIPLES AND METHODS OF TRAINING
+- Introduction
+- Module 1 - Principles of effective communication - "Getting the message across"
+- Module 2 - Effective oral communication
+- Module 3 - Why train? The trainer's role and responsibility
+- Module 4 - Methods of training - The right method
+- Module 5 - The art of questioning
+- Module 6 - Types of training aids - How to make and use them
+- Module 7 - Planning and delivering a presentation
+- Module 8 - Evaluating training
+- Module 9 - Testing trainee trainers - Individual presentations
+- Module 10 - Organizing and managing a training course
+- Section 2 - RECOMMENDED INTERNATIONAL CODE OF PRACTICE - GENERAL
+- PRINCIPLES OF FOOD HYGIENE
+- Introduction
+- Module 1 - The Codex Alimentarius Commission
+- Module 2 - The Codex General Principles of Food Hygiene
+- Module 3 - Primary production
+- Module 4 - Establishment: design and facilities
+- Module 5 - Control of operation
+- Module 6 - Establishment: maintenance and sanitation
+- Module 7 - Establishment: personal hygiene
+- Module 8 - Transportation
+- Module 9 - Product information and consumer awareness
+- Module 10 - Training
+- Section 3 - THE HAZARD ANALYSIS AND CRITICAL CONTROL POINT (HACCP)
+- SYSTEM
+- Introduction
+- Module 1 - History and background of the HACCP system
+- Module 2 - The Codex guidelines for the application of the HACCP system
+- Module 3 - Assemble the HACCP team - Task 1
+- Module 4 - Describe product and identify intended use - Tasks 2 and 3
+- Module 5 - Construct flow diagram and on-site confirmation of flow diagram - Tasks 4 and 5
+- Module 6 - List all potential hazards associated with each step, conduct a hazard analysis
+- and consider any measures to control identified hazards - Task 6/Principle 1
+- Module 7 - Determine critical control points - Task 7/Principle 2
+- Module 8 - Establish critical limits for each critical control point - Task 8/Principle 3
+- Module 9 - Establish a monitoring system for each critical control point - Task 9/Principle 4
+- Module 10 - Establish corrective actions - Task 10/Principle 5
+- Module 11 - Establish verification procedures - Task 11/Principle 6
+- Module 12 - Establish documentation and record keeping - Task 12/Principle 7
+- 2
+- Annex 1 - Blank HACCP forms

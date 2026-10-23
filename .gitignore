@@ -1,0 +1,34 @@
+# ══════════════════════════════════════════════════════════════
+# MyAgents 版本化基线：只纳入「文本事实来源」，排除大体积派生资料
+# 原则：agent.md / SKILL.md / references/*.md / evals / scripts / 小体积元数据 入 git；
+#       PDF 全文、抽取文本、原始谱库等（约 7 GB）不入库，可用各 references/books/tools/ 脚本重新获取。
+# ══════════════════════════════════════════════════════════════
+
+# ── PDF 全文（书库 / books，约 7 GB）──
+*.pdf
+
+# ── 抽取的全文文本与 JATS XML（*/books/text、书库/text、书库/papers）──
+*.txt
+*.xml
+
+# ── 原始谱库数据 ──
+*.mgf
+
+# ── 构建 / 抓取日志（派生）──
+*.log
+
+# ── 压缩包与下载缓存 ──
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+downloads/
+
+# ── Python 缓存 ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── 系统文件 ──
+.DS_Store
+Thumbs.db

@@ -1,0 +1,71 @@
+# Probiotics and Prebiotics in Pediatrics (2019, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/pdfview/book/1290
+- 页数: 260
+- 全文: `text/mdpi/Probiotics_and_Prebiotics_in_Pediatrics_2019.txt`
+- PDF: `mdpi/Probiotics_and_Prebiotics_in_Pediatrics_2019.pdf`
+- 标签: 益生菌, 营养
+
+## 目录 (Contents)
+
+- About the Special Issue Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Yvan Vandenplas and Francesco Savino
+- Probiotics and Prebiotics in Pediatrics: What Is New?
+- Reprinted from: Nutrients 2019, 11, 431, doi:10.3390/nu11020431 . . . . . . . . . . . . . . . . . . .       1
+- Gianluca Ianiro, Gianenrico Rizzatti, Manuel Plomer, Loris Lopetuso, Franco Scaldaferri,
+- Francesco Franceschi, Giovanni Cammarota and Antonio Gasbarrini
+- Bacillus clausii for the Treatment of Acute Diarrhea in Children: A Systematic Review and
+- Meta-Analysis of Randomized Controlled Trials
+- Reprinted from: Nutrients 2018, 10, 1074, doi:10.3390/nu10081074 . . . . . . . . . . . . . . . . . .        6
+- Yvan Vandenplas, Bernard Berger, Virgilio Paolo Carnielli, Janusz Ksiazyk, Hanna Lagström,
+- Manuel Sanchez Luna, Nathalia Migacheva, Jean-Marc Mosselmans, Jean-Charles Picaud,
+- Mike Possner, Atul Singhal and Martin Wabitsch
+- Human Milk Oligosaccharides: 2 -Fucosyllactose (2 -FL) and Lacto-N-Neotetraose (LNnT)
+- in Infant Formula
+- Reprinted from: Nutrients 2018, 10, 1161, doi:10.3390/nu10091161 . . . . . . . . . . . . . . . . . . 21
+- Maria Maragkoudaki, George Chouliaras, Antonia Moutaﬁ, Athanasios Thomas,
+- Archodoula Orfanakou and Alexandra Papadopoulou
+- Efﬁcacy of an Oral Rehydration Solution Enriched with Lactobacillus reuteri DSM 17938
+- and Zinc in the Management of Acute Diarrhoea in Infants: A Randomized, Double-Blind,
+- Placebo-Controlled Trial
+- Reprinted from: Nutrients 2018, 10, 1189, doi:10.3390/nu10091189 . . . . . . . . . . . . . . . . . . 33
+- Hania Szajewska and Andrea Horvath
+- Lactobacillus rhamnosus GG in the Primary Prevention of Eczema in Children: A Systematic
+- Review and Meta-Analysis
+- Reprinted from: Nutrients 2018, 10, 1319, doi:10.3390/nu10091319 . . . . . . . . . . . . . . . . . . 44
+- Stine Brandt Bering
+- Human Milk Oligosaccharides to Prevent Gut Dysfunction and Necrotizing Enterocolitis in
+- Preterm Neonates
+- Reprinted from: Nutrients 2018, 10, 1461, doi:10.3390/nu10101461 . . . . . . . . . . . . . . . . . . 55
+- Arianna Aceti, Isadora Beghetti, Luca Maggio, Silvia Martini, Giacomo Faldella and Luigi
+- Corvaglia
+- Filling the Gaps: Current Research Directions for a Rational Use of Probiotics in Preterm Infants
+- Reprinted from: Nutrients 2018, 10, 1472, doi:10.3390/nu10101472 . . . . . . . . . . . . . . . . . . 70
+- Marı́a Dı́az, Lucı́a Guadamuro, Irene Espinosa-Martos, Leonardo Mancabelli, Santiago
+- Jiménez, Cristina Molinos-Norniella, David Pérez-Solis, Christian Milani, Juan Miguel
+- Rodrı́guez, Marco Ventura, Carlos Bousoño, Miguel Gueimonde, Abelardo Margolles, Juan
+- José Dı́az and Susana Delgado
+- Microbiota and Derived Parameters in Fecal Samples of Infants with Non-IgE Cow’s Milk
+- Protein Allergy under a Restricted Diet
+- Reprinted from: Nutrients 2018, 10, 1481, doi:10.3390/nu10101481 . . . . . . . . . . . . . . . . . . 80
+-                                                       v
+- Bożena Cukrowska
+- Microbial and Nutritional Programming—The Importance of the Microbiome and Early
+- Exposure to Potential Food Allergens in the Development of Allergies
+- Reprinted from: Nutrients 2018, 10, 1541, doi:10.3390/nu10101541 . . . . . . . . . . . . . . . . . . 91
+- Erik Wejryd, Magalı́ Martı́, Giovanna Marchini, Anna Werme, Baldvin Jonsson, Eva
+- Landberg and Thomas R. Abrahamsson
+- Low Diversity of Human Milk Oligosaccharides is Associated with Necrotising Enterocolitis in
+- Extremely Low Birth Weight Infants
+- Reprinted from: Nutrients 2018, 10, 1556, doi:10.3390/nu10101556 . . . . . . . . . . . . . . . . . . 103
+- Daniela da Silva Souza, Soraia Tahan, Thabata Koester Weber, Humberto Bezerra de
+- Araujo-Filho and Mauro Batista de Morais
+- Randomized, Double-Blind, Placebo-Controlled Parallel Clinical Trial Assessing the Effect of
+- Fructooligosaccharides in Infants with Constipation
+- Reprinted from: Nutrients 2018, 10, 1602, doi:10.3390/nu10111602 . . . . . . . . . . . . . . . . . . 118
+- Chian-Feng Huang, Wei-Chu Chie and I-Jen Wang
+- Efﬁcacy of Lactobacillus Administration in School-Age Children with Asthma: A Randomized,
+- Placebo-Controlled Trial
+- Reprinted from: Nutrients 2018, 10, 1678, doi:10.3390/nu10111678 . . . . . . . . . . . . . . . . . . 129
+- Maria Elisabetta Baldassarre, Valentina Palladino, Anna Amoruso, Serena Pindinelli, Paola

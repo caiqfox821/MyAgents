@@ -1,0 +1,80 @@
+# WHO/FAO EHC 240 (update) Section 9.1.4.2: Enzyme Induction and Toxicological Relevance (2020, WHO/FAO)
+
+- 许可: 开放获取
+- 来源: https://www.who.int/publications/i/item/9789241572408
+- 页数: 27
+- 全文: `text/guides/WHO_EHC240_S9.1.4.2_enzymes_2020.txt`
+- 标签: 毒作用机制/AOP
+
+## 目录 (Contents)
+
+- LIST OF ABBREVIATIONS                                                     9-2
+- LIST OF CONTRIBUTORS                                                      9-3
+- 9.1.4.2 Enzymes                                                           9-4
+-         (a) Introduction                                                  9-4
+-         (b) Potential for enzymes to cause allergic
+-             reactions                                                     9-5
+-         (c) Safety concerns pertaining to enzyme
+-             preparations produced by genetically modified
+-             microorganisms                                                9-7
+-         (d) Toxicological assessments of enzyme
+-             preparations                                                 9-8
+-         (e) Dietary exposure and margin of exposure                     9-10
+-         (f) Classification of enzymes                                   9-11
+-         (g) References                                                  9-14
+-         (h) Appendix: Information required for the safety
+-             assessment of enzyme preparations for use in
+-             foods                                                       9-18
+- This text updates section 9.1.4.2 of Chapter 9, Principles Related to Specific
+- Groups of Substances, of Environmental Health Criteria 240 (EHC 240),
+- which was originally published in 2009. It was developed through an expert
+- meeting of a working group established to consider the evaluation of enzyme
+- preparations used in the manufacture of foods, held in December 2018. The
+- text was available for public comment in December 2019, and the final
+- version was discussed and approved at the eighty-ninth meeting of the Joint
+- FAO/WHO Expert Committee on Food Additives (JECFA), held in June
+- 2020.
+- For abbreviations used in the text, the reader may refer to the list of
+- abbreviations at the front of this section. Definitions of select terms may be
+- found in the glossary in Annex 1 of EHC 240 (http://www.inchem.org/
+- documents/ehc/ehc/ehc240_annex1.pdf).
+- EHC 240: Principles for Risk Assessment of Chemicals in Food
+- List of abbreviations
+- ADI            acceptable daily intake
+- ATCC           American Type Culture Collection
+- BLAST          Basic Local Alignment Search Tool
+- CAS            Chemical Abstracts Service
+- DNA            deoxyribonucleic acid
+- EC/IUBMB       Enzyme Commission/International Union of
+-                Biochemistry and Molecular Biology
+- EHC 240        Environmental Health Criteria 240
+- FAO            Food and Agriculture Organization of the United
+-                Nations
+- FASTA          FAST-All
+- GMP            Good Manufacturing Practice
+- IgE            immunoglobulin E
+- JECFA          Joint FAO/WHO Expert Committee on Food
+-                Additives
+- MOE            margin of exposure
+- NOAEL          no-observed-adverse-effect level
+- rDNA           recombinant deoxyribonucleic acid
+- RNA            ribonucleic acid
+- SCF            Scientific Committee on Food
+- SDS PAGE       sodium dodecyl sulfate–polyacrylamide gel
+-                electrophoresis
+- TOS            total organic solids
+- USA            United States of America
+- WHO            World Health Organization
+- 9-2
+-                     Principles Related to Specific Groups of Substances
+- List of contributors
+- Maria Beatriz de Abreu Gloria, Universidade Federal de Minas Gerais, Brazil
+- Richard Cantrill, Canada
+- Daniel Folmer, Food and Drug Administration, United States of America
+-     (USA)
+- Benoit Gnonlonfin, Economic Community of West African States
+-     (ECOWAS), Nigeria
+- Suzanne Jeurissen, National Institute for Public Health and the Environment
+-     (RIVM), the Netherlands
+- Kristie Laurvick, United States Pharmacopeia, USA
+- Utz Mueller, Australia

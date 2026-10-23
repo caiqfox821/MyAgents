@@ -1,0 +1,71 @@
+# Prebiotics and Probiotics (2018, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-03897-169-6
+- 页数: 488
+- 全文: `text/mdpi/Prebiotics_and_Probiotics_2018.txt`
+- PDF: `mdpi/Prebiotics_and_Probiotics_2018.pdf`
+- 标签: 益生菌, 营养
+
+## 目录 (Contents)
+
+- About the Special Issue Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Preface to ”Prebiotics and Probiotics” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   xi
+- Javier de Andrés, Esther Jiménez, Isabel Chico-Calero, Manuel Fresno, Leónides Fernández
+- and Juan Miguel Rodrı́guez
+- Physiological Translocation of Lactic Acid Bacteria during Pregnancy Contributes to the
+- Composition of the Milk Microbiota in Mice
+- Reprinted from: Nutrients 2018, 10, 14, doi: 10.3390/nu10010014 . . . . . . . . . . . . . . . . . . .        1
+- Eva Maier, Rachel C. Anderson and Nicole C. Roy
+- Live Faecalibacterium prausnitzii Does Not Enhance Epithelial Barrier Integrity in an Apical
+- Anaerobic Co-Culture Model of the Large Intestine
+- Reprinted from: Nutrients 2017, 9, 1349, doi: 10.3390/nu9121349 . . . . . . . . . . . . . . . . . . . 14
+- Pamela Vernocchi, Federica Del Chierico, Andrea Quagliariello, Danilo Ercolini,
+- Vincenzina Lucidi and Lorenza Putignani
+- A Metagenomic and in Silico Functional Prediction of Gut Microbiota Proﬁles May Concur in
+- Discovering New Cystic Fibrosis Patient-Targeted Probiotics
+- Reprinted from: Nutrients 2017, 9, 1342, doi: 10.3390/nu9121342 . . . . . . . . . . . . . . . . . . . 27
+- Toshifumi Osaka, Eri Moriyama, Shunichi Arai, Yasuhiro Date, Junji Yagi, Jun Kikuchi and
+- Satoshi Tsuneda
+- Meta-Analysis of Fecal Microbiota and Metabolites in Experimental Colitic Mice during the
+- Inﬂammatory and Healing Phases
+- Reprinted from: Nutrients 2017, 9, 1329, doi: 10.3390/nu9121329 . . . . . . . . . . . . . . . . . . . 42
+- Hideaki Shima, Shizuka Masuda, Yasuhiro Date, Amiu Shino, Yuuri Tsuboi,
+- Mizuho Kajikawa, Yoshihiro Inoue, Taisei Kanamoto and Jun Kikuchi
+- Exploring the Impact of Food on the Gut Ecosystem Based on the Combination of Machine
+- Learning and Network Visualization
+- Reprinted from: Nutrients 2017, 9, 1307, doi: 10.3390/nu9121307 . . . . . . . . . . . . . . . . . . . 55
+- Shang-Jin Kim, Sang Hoon Park, Hong-Sig Sin, Seung-Hwan Jang, Sang-Wang Lee,
+- Seon-Young Kim, Bora Kwon, Kang-Yeol Yu, Su Young Kim and Dong Kwon Yang
+- Hypocholesterolemic Effects of Probiotic Mixture on Diet-Induced Hypercholesterolemic Rats
+- Reprinted from: Nutrients 2017, 9, 293, doi: 10.3390/nu9030293 . . . . . . . . . . . . . . . . . . . . 65
+- Giancarlo    Ceccarelli,     Jason     M.      Brenchley,    Eugenio      Nelson       Cavallari,
+- Giuseppe Corano Scheri, Mariangela Fratino, Claudia Pinacchio, Ivan Schietroma,
+- Saeid Najaﬁ Fard, Carolina Scagnolari, Ivano Mezzaroma, Vincenzo Vullo and
+- Gabriella d’Ettorre
+- Impact of High-Dose Multi-Strain Probiotic Supplementation on Neurocognitive Performance
+- and Central Nervous System Immune Activation of HIV-1 Infected Individuals
+- Reprinted from: Nutrients 2017, 9, 1269, doi: 10.3390/nu9111269 . . . . . . . . . . . . . . . . . . . 75
+- Wirginia Krzyściak, Dorota Kościelniak, Monika Papież, Palina Vyhouskaya,
+- Katarzyna Zagórska-Świeży, Iwona Kołodziej, Beata Bystrowska and Anna Jurczak
+- Effect of a Lactobacillus Salivarius Probiotic on a Double-Species Streptococcus Mutans and
+- Candida Albicans Caries Bioﬁlm
+- Reprinted from: Nutrients 2017, 9, 1242, doi: 10.3390/nu9111242 . . . . . . . . . . . . . . . . . . . 86
+-                                                       v
+- Tung Pham, Keat (Thomas) Teoh, Brett J. Savary, Ming-Hsuan Chen, Anna McClung and
+- Sun-Ok Lee
+- In Vitro Fermentation Patterns of Rice Bran Components by Human Gut Microbiota
+- Reprinted from: Nutrients 2017, 9, 1237, doi: 10.3390/nu9111237 . . . . . . . . . . . . . . . . . . . 109
+- Enzo Vicari, Michele Salemi, Giuseppe Sidoti, Mariano Malaguarnera and
+- Roberto Castiglione
+- Symptom Severity Following Rifaximin and the Probiotic VSL#3 in Patients with Chronic
+- Pelvic Pain Syndrome (Due to Inﬂammatory Prostatitis) Plus Irritable Bowel Syndrome
+- Reprinted from: Nutrients 2017, 9, 1208, doi: 10.3390/nu9111208 . . . . . . . . . . . . . . . . . . . 124
+- Flavia Indrio, Giuseppe Riezzo, Paola Giordano, Maria Ficarella, Maria Paola Miolla,
+- Silvia Martini, Luigi Corvaglia and Ruggiero Francavilla
+- Effect of a Partially Hydrolysed Whey Infant Formula Supplemented with Starch and
+- Lactobacillus reuteri DSM 17938 on Regurgitation and Gastric Motility
+- Reprinted from: Nutrients 2017, 9, 1181, doi: 10.3390/nu9111181 . . . . . . . . . . . . . . . . . . . 135
+- Flavia Indrio, Giuseppe Riezzo, Silvio Tafuri, Maria Ficarella, Barbara Carlucci,
+- Massimo Bisceglia, Lorenzo Polimeno and Ruggiero Francavilla
+- Probiotic Supplementation in Preterm: Feeding Intolerance and Hospital Cost

@@ -1,0 +1,79 @@
+# Effect of Nutrition on Maternal Health, Fetal Development and Perinatal Outcomes (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4730-3
+- 页数: 168
+- 全文: `text/mdpi/Effect_of_Nutrition_on_Maternal_Health_Fetal_Development_and_Perinatal_Outcomes_2025.txt`
+- 标签: 母婴/儿童
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Aikaterini Apostolopoulou, Antigoni Tranidou, Ioannis Tsakiridis, Emmanuella Magriplis,
+- Themistoklis Dagklis and Michail Chourdakis
+- Effects of Nutrition on Maternal Health, Fetal Development, and Perinatal Outcomes
+- Reprinted from: Nutrients 2024, 16, 375, https://doi.org/10.3390/nu16030375 . . . . . . . . . . .                 1
+- Daniel Hinojosa-Nogueira, Desirée Romero-Molina, Beatriz González-Alzaga, María José
+- Giménez-Asensio, Antonio F. Hernandez, Beatriz Navajas-Porras, et al.
+- Evaluation of Polyphenol Intake in Pregnant Women from South-Eastern Spain and the Effect on
+- Anthropometric Measures at Birth and Gestational Age
+- Reprinted from: Nutrients 2024, 16, 3096, https://doi.org/10.3390/nu16183096 . . . . . . . . . .                  5
+- Lennart A. Lücke, Niels Rochow, Katja Knab, Stefan Schäfer, Jasper L. Zimmermann,
+- Anastasia Meis, et al.
+- Body Composition Analysis of the Clinical Routine Using Air Displacement Plethysmography:
+- Age-Group-Speciﬁc Feasibility Analysis among Preterm Infants
+- Reprinted from: Nutrients 2024, 16, 2694, https://doi.org/10.3390/nu16162694 . . . . . . . . . . 21
+- Gabriela Chico-Barba, Reyna Sámano, Hugo Martínez-Rojano, Rosa María Morales-
+- Hernández, Edgar Barrientos-Galeana, Andrea Luna-Hidalgo, et al.
+- Total Gestational Weight Gain Is Explained by Leptin and Body Fat, Regardless of Pre-Pregnancy
+- Body Mass Index and Other Adipokines, in Mexican Adolescents
+- Reprinted from: Nutrients 2024, 16, 2147, https://doi.org/10.3390/nu16132147 . . . . . . . . . . 32
+- Aderonke A. Akinkugbe, Yueh-Hsiu Mathilda Chiu, Srimathi Kannan, Veerle Bergink and
+- Rosalind J. Wright
+- Prenatal Iodine Intake and Maternal Pregnancy and Postpartum Depressive and Anhedonia
+- Symptoms: Findings from a Multiethnic US Cohort
+- Reprinted from: Nutrients 2024, 16, 1771, https://doi.org/10.3390/nu16111771 . . . . . . . . . . 46
+- Yongye Song, Fan Zhang, Xing Wang, Guotian Lin, Limin He, Zhixiong Lin, et al.
+- A Study of Fluid Intake, Hydration Status, and Body Composition of Pregnant Women
+- in Their Third Trimester, and Relationships with Their Infant’s Birth Weight in China:
+- A Prospective Cohort Study
+- Reprinted from: Nutrients 2024, 16, 972, https://doi.org/10.3390/nu16070972 . . . . . . . . . . . 60
+- Antigoni Tranidou, Ioannis Tsakiridis, Aikaterini Apostolopoulou, Theodoros Xenidis,
+- Nikolaos Pazaras, Apostolos Mamopoulos, et al.
+- Prediction of Gestational Diabetes Mellitus in the First Trimester of Pregnancy Based on Maternal
+- Variables and Pregnancy Biomarkers
+- Reprinted from: Nutrients 2024, 16, 120, https://doi.org/10.3390/nu16010120 . . . . . . . . . . . 74
+- Anna Weronika Szablewska, Jolanta Wierzba, Rita Santos-Rocha and Anna Szumilewicz
+- Can Pre-Pregnancy Body Mass Index and Maternal Exercise Affect Birth and Neonatal
+- Outcomes—A Cross Sectional Study
+- Reprinted from: Nutrients 2023, 15, 4894, https://doi.org/10.3390/nu15234894 . . . . . . . . . . 85
+-                                                          v
+- Alexandra Ursache, Iuliana Elena Bujor, Alexandra Elena Cristofor, Denisa Oana Zelinschi,
+- Dragos Nemescu and Daniela Roxana Matasariu
+- Maternal Body Mass Index Trends and Weight Gain in Singleton Pregnancies at the Time of Fetal
+- Anatomic Survey: Changes in the Last Decade and New Trends in the Modern Era
+- Reprinted from: Nutrients 2023, 15, 4788, https://doi.org/10.3390/nu15224788 . . . . . . . . . . 102
+- Hamam Hadi, Siti Nurunniyah, Joel Gittelsohn, Ratih Devi Alﬁana, Fatimatasari, Emma C.
+- Lewis and Detty Nurdiati
+- Preconception Maternal Mentoring for Improved Fetal Growth among Indonesian Women:
+- Results from a Cluster Randomized Controlled Trial
+- Reprinted from: Nutrients 2023, 15, 4579, https://doi.org/10.3390/nu15214579 . . . . . . . . . . 118
+- Najma A. Moumin, Emily Shepherd, Kai Liu, Maria Makrides, Jacqueline F. Gould, Tim J.
+- Green and Luke E. Grzeskowiak
+- The Effects of Prenatal Iron Supplementation on Offspring Neurodevelopment in Upper Middle-
+- or High-Income Countries: A Systematic Review
+- Reprinted from: Nutrients 2024, 16, 2499, https://doi.org/10.3390/nu16152499 . . . . . . . . . . 129
+- Neda Ebrahimi, Tiffany Turner, Faith Gallant, Abinaa Chandrakumar, Roshni Kohli, Rebecca
+- Lester, et al.
+- Maternal Fiber Intake and Perinatal Depression and Anxiety
+- Reprinted from: Nutrients 2024, 16, 2484, https://doi.org/10.3390/nu16152484 . . . . . . . . . . 140
+-                                                  vi
+- About the Editors
+- Themistoklis I. Dagklis
+-     Themistoklis Dagklis, is an Associate Professor of Obstetrics & Gynecology—Maternal-Fetal
+- Medicine at the Third Department of Obstetrics and Gynecology, “Ippokrateio” Hospital, School of
+- Medicine, Faculty of Health Sciences, Aristotle University of Thessaloniki, Greece. He has received the
+- Fetal Medicine Diploma after completing a two-year fellowship at the Fetal Medicine Foundation,
+- London, UK.
+- Ioannis Tsakiridis

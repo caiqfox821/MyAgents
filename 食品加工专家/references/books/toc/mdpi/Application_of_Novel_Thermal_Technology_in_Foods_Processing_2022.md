@@ -1,0 +1,81 @@
+# Application of Novel Thermal Technology in Foods Processing (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-3003-1
+- 页数: 178
+- 全文: `text/mdpi/Application_of_Novel_Thermal_Technology_in_Foods_Processing_2022.txt`
+- PDF: `mdpi/Application_of_Novel_Thermal_Technology_in_Foods_Processing_2022.pdf`
+- 标签: 热加工, 新型杀菌, 食品加工
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Sze Ying Leong and Indrawati Oey
+- Application of Novel Thermal Technology in Foods Processing
+- Reprinted from: Foods 2022, 11, 125, doi:10.3390/foods11010125 . . . . . . . . . . . . . . . . . . .
+- 1
+- Ebrahim Taghinezhad, Mohammad Kaveh and Antoni Szumny
+- Optimization and Prediction of the Drying and Quality of Turnip Slices by Convective-Infrared
+- Dryer under Various Pretreatments by RSM and ANFIS Methods
+- Reprinted from: Foods 2021, 10, 284, doi:10.3390/foods10020284 . . . . . . . . . . . . . . . . . . .
+- 7
+- Jigang Zhang, Maoye Li, Jianghua Cheng, Jiao Wang, Zhien Ding, Xiaolong Yuan, Sumei
+- Zhou and Xinmin Liu
+- Effects of Moisture, Temperature, and Salt Content on the Dielectric Properties of Pecan Kernels
+- during Microwave and Radio Frequency Drying Processes
+- Reprinted from: Foods 2019, 8, 385, doi:10.3390/foods8090385 . . . . . . . . . . . . . . . . . . . . . 27
+- Aswathi Soni, Jeremy Smith, Richard Archer, Amanda Gardner, Kris Tong and Gale
+- Brightwell
+- Development of Bacterial Spore Pouches as a Tool to Evaluate the Sterilization
+- Efﬁciency—A Case Study with Microwave Sterilization Using Clostridium sporogenes and
+- Geobacillus stearothermophilus
+- Reprinted from: Foods 2020, 9, 1342, doi:10.3390/foods9101342 . . . . . . . . . . . . . . . . . . . . 41
+- Aswathi Soni, Mahmoud Al-Sarayreh, Marlon M. Reis, Jeremy Smith, Kris Tong and Gale
+- Brightwell
+- Identiﬁcation of Cold Spots Using Non-Destructive Hyperspectral Imaging Technology in
+- Model Food Processed by Coaxially Induced Microwave Pasteurization and Sterilization
+- Reprinted from: Foods 2020, 9, 837, doi:10.3390/foods9060837 . . . . . . . . . . . . . . . . . . . . . 61
+- Sung Yong Joe, Jun Hwi So, Seon Ho Hwang, Byoung-Kwan Cho, Wang-Hee Lee, Taiyoung
+- Kang and Seung Hyun Lee
+- Application of Ohmic–Vacuum Combination Heating for the Processing of Senior-Friendly
+- Food (Multiphase Food): Experimental Studies and Numerical Simulation
+- Reprinted from: Foods 2021, 10, 138, doi:10.3390/foods10010138 . . . . . . . . . . . . . . . . . . . 75
+- Zihan Xu, Sze Ying Leong, Mohammed Farid, Patrick Silcock, Phil Bremer and Indrawati
+- Oey
+- Understanding the Frying Process of Plant-Based Foods Pretreated with Pulsed Electric Fields
+- Using Frying Models
+- Reprinted from: Foods 2020, 9, 949, doi:10.3390/foods9070949 . . . . . . . . . . . . . . . . . . . . . 93
+- Gohar Gholamibozanjani, Sze Ying Leong, Indrawati Oey, Phil Bremer, Patrick Silcock and
+- Mohammed Farid
+- Heat and Mass Transfer Modeling to Predict Temperature Distribution during Potato Frying
+- after Pre-Treatment with Pulsed Electric Field
+- Reprinted from: Foods 2021, 10, 1679, doi:10.3390/foods10081679 . . . . . . . . . . . . . . . . . . . 117
+- v
+- Setya Budi Muhammad Abduh, Sze Ying Leong, Chun Zhao, Samantha Baldwin, David J.
+- Burritt, Dominic Agyei and Indrawati Oey
+- Kinetics of Colour Development during Frying of Potato Pre-Treated with Pulsed Electric Fields
+- and Blanching: Effect of Cultivar
+- Reprinted from: Foods 2021, 10, 2307, doi:10.3390/foods10102307 . . . . . . . . . . . . . . . . . . . 135
+- Marcos Andrés Maza, Juan Manuel Martı́nez, Guillermo Cebrián, Ana Cristina
+- Sánchez-Gimeno, Alejandra Camargo, Ignacio Álvarez and Javier Raso
+- Evolution of Polyphenolic Compounds and Sensory Properties of Wines Obtained from
+- Grenache Grapes Treated by Pulsed Electric Fields during Aging in Bottles and in Oak Barrels
+- Reprinted from: Foods 2020, 9, 542, doi:10.3390/foods9050542 . . . . . . . . . . . . . . . . . . . . . 153
+- vi
+- About the Editors
+- Indrawati Oey is the head of the Food Science Department at the University of Otago, New
+- Zealand and the principal investigator at the Riddet Institute. She received her MSc (1996) and PhD
+- (2000) from Katholieke Universiteit Leuven (KULeuven), Belgium. Before joining the University
+- of Otago as a professor of food science in 2009, she worked at the Research Foundation—Flanders
+- (Belgium). Her research expertise is postharvest innovation and novel food processing technologies
+- including advanced heating, high hydrostatic pressure, and pulsed electric ﬁelds that create food
+- products with unique health and sensory characteristics in a sustainable way. She co-ordinated
+- the training and career development for the EU-funded project “Novel processing methods for
+- high-quality and safe foods—NovelQ”. She is a fellow of the International Academic of Food Science
+- and Technology (IAFoST) and the New Zealand Institute of Food Science and Technology (NZIFST).
+- Professor Oey is an executive board member of Ag@Otago and a member of Food Waste Innovation,
+- which measures food waste, develops reduction strategies, applies innovative technology, and works
+- to modify producer and consumer behaviour.
+- Sze Ying Leong is a research fellow at the Department of Food Science of University of Otago,
+- New Zealand. She received her BSc (2011) and PhD (2016) from the University of Otago. Currently,
+- she is also an afﬁliate researcher with the Riddet Institute, a New Zealand Centre of Research

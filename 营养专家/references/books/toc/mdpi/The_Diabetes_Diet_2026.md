@@ -1,0 +1,75 @@
+# The Diabetes Diet (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8936-5
+- 页数: 168
+- 全文: `text/mdpi/The_Diabetes_Diet_2026.txt`
+- 标签: 糖尿病, 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Beata Małgorzata Sperkowska, Agnieszka Chrustek, Anna Gryn-Rynko and
+- Anna Proszowska
+- Dietary Interventions for Adults with Type 1 Diabetes: Clinical Outcomes, Guideline
+- Alignment, and Research Gaps—A Scoping Review
+- Reprinted from: Nutrients 2025, 17, 3349, https://doi.org/10.3390/nu17213349 . . . . . . . . . .               1
+- Joanna Gautney, Christina Aguilar, Julian Chan and David Aguilar
+- Sex-Speciﬁc Dietary Predictors of Blood Glucose Identiﬁed Through Decision Tree Modeling
+- in Adults
+- Reprinted from: Nutrients 2025, 17, 3119, https://doi.org/10.3390/nu17193119 . . . . . . . . . . 32
+- Kyaw Linn Su Khin, Sepideh Yousseﬁ, Qian Yang, Amanda J. Page, Abdolrahman S. Nateri,
+- Sally Eldeghaidy, et al.
+- Emerging Role of Taste Receptors, Entero-Endocrine Cells in Type 2 Diabetes and Metabolic
+- Disorders
+- Reprinted from: Nutrients 2026, 18, 759, https://doi.org/10.3390/nu18050759 . . . . . . . . . . . 44
+- Inchirah Karmous, Hatem Ghouili, Rym Ben Othman, Halil İbrahim Ceylan, Luca Puce,
+- Amira Sayed Khan, et al.
+- Duration of Type 2 Diabetes Mellitus Alters Orosensory Detection of Sweet and Fat: Insights
+- from a Cross-Sectional Study in a North African Population
+- Reprinted from: Nutrients 2026, 18, 432, https://doi.org/10.3390/nu18030432 . . . . . . . . . . . 67
+- Marı́a Pilar Fernández-Figares Vicioso, Pere Riutord Sbert, José Ignacio Ramı́rez-Manent,
+- Ángel Arturo López-González, José Luis del Barrio Fernández and
+- Marı́a Teóﬁla Vicente Herrero
+- Association Between Sociodemographic and Lifestyle Factors and Type 2 Diabetes Risk
+- Scores in a Large Working Population: A Comparative Study Between the Commerce and
+- Industry Sectors
+- Reprinted from: Nutrients 2025, 17, 2420, https://doi.org/10.3390/nu17152420 . . . . . . . . . . 83
+- Maha Almohamad, Ruosha Li, Natalia I. Heredia, Jayna M. Dave, Eric E. Calloway,
+- Anjail Sharrief and Shreela V. Sharma
+- SNAP Participation as a Moderator of Food and Nutrition Security and Combined
+- Cardiometabolic Conditions: A Mixed Regression Approach
+- Reprinted from: Nutrients 2025, 17, 576, https://doi.org/10.3390/nu17030576 . . . . . . . . . . . 98
+- Ludovica Verde, Dawn K. Coletta, Yann C. Klimentidis, Linsday N. Kohler, Lisa Soltani,
+- Oscar D. Parra, et al.
+- Excessive Daytime Sleepiness and Associated Cardiometabolic Factors in Latino Individuals of
+- Mexican Ancestry at High Risk of Type 2 Diabetes: An El Banco Biobank Cross-Sectional Study
+- Reprinted from: Nutrients 2025, 17, 2476, https://doi.org/10.3390/nu17152476 . . . . . . . . . . 111
+- Ryota Wakayama, Michihiro Araki, Mieko Nakamura and Nayu Ikeda
+- The Cost-Effectiveness of Increased Yogurt Intake in Type 2 Diabetes in Japan
+- Reprinted from: Nutrients 2025, 17, 2278, https://doi.org/10.3390/nu17142278 . . . . . . . . . . 125
+-                                                        v
+- Shuaiwang Huang, Zhanglin Chen, Haoming Li, Yunyi Zou, Bihan Wang, Wenjun Zhao,
+- et al.
+- High-Fat Diet-Induced Diabetic Cardiomyopathy in Female Zebraﬁsh: Cardiac Pathology and
+- Functional Decline Mediated by Type 2 Diabetes
+- Reprinted from: Nutrients 2025, 17, 2209, https://doi.org/10.3390/nu17132209 . . . . . . . . . . 139
+-                                                  vi
+- About the Editors
+- Roberta Masella
+-      Roberta Masella was research director at the Centre for Gender-Speciﬁc Medicine until
+- 2024. She studied the role of dietary components in the pathogenesis, prevention, and therapy
+- of non-communicable diseases characterized by nutritional risk factors and associated with
+- inﬂammation and oxidative stress, such as obesity, type 2 diabetes, atherosclerosis, and cancer.
+- The research projects she managed focused on the relationship between adipose tissue dysfunction
+- and the onset of disease, as well as on the effects of dietary components on cellular functions. She
+- collaborated on nutritional intervention studies comparing the effects of diets differing in types
+- of fatty acids on clinical and metabolic parameters. In recent years, she investigated the crosstalk
+- between adipose tissue and immune cells in obese and colon cancer subjects, demonstrating the
+- effects of dietary fatty acids on activation of the inﬂammatory process in human visceral adipose
+- tissue in obesity and colon cancer. Furthermore, she has long-standing experience in the mechanisms
+- of action of dietary polyphenols and their effects on cell functions.
+- Massimo D’Archivio
+-      Massimo D’Archivio is a biologist, working as the head of Gender-Speciﬁc Prevention and
+- Health at the Center for Gender Speciﬁc Medicine at the Italian National Institute of Health (Istituto
+- Superiore di Sanità), Rome, Italy. His main research interests include the role of dietary compounds

@@ -1,0 +1,81 @@
+# Technical Manual: Rice Straw Management towards Circular Economy and Low Emission (2021, CGIAR)
+
+- 许可: Open Access
+- 来源: https://cgspace.cgiar.org/
+- 页数: 78
+- 全文: `text/rice/Rice_Straw_Management_Technical_Manual.txt`
+- PDF: `rice/Rice_Straw_Management_Technical_Manual.pdf`
+- 标签: 水稻, 秸秆, 循环经济
+
+## 目录 (Contents)
+
+- 1. Rationale, purpose, scope, and users of the manual ��������������� 1
+-    1.1. Rationale�������������������������������������������������������������������������������������������������������������1
+-    1.2. Purpose����������������������������������������������������������������������������������������������������������������2
+-    1.3. Scope of use and users of the manual����������������������������������������������������2
+- 2. Some basic concepts ������������������������������������������������������������������������ 3
+- 3.Characteristics of rice straw and current status of rice straw
+- use in the Mekong Delta������������������������������������������������������������������ 4
+-    3.1. Characteristics of rice straw������������������������������������������������������������������ 4
+-         3.1.1. Amount of straw�����������������������������������������������������������������������������������4
+-         3.1.2. Main physicochemical properties of rice straw����������������� 6
+-    3.2. Current status of rice straw use in the Mekong Delta�����������������������8
+- 4. Overview of rice straw management options ������������������������������� 9
+- 5. Technical guidelines on the collection, handling, and use of
+- rice straw������������������������������������������������������������������������������������������14
+-    5.1. Collection of rice straw ������������������������������������������������������������������������������ 15
+-    5.2. Treatment of stubble in the field������������������������������������������������������������ 18
+-    5.3. Use of collected straw��������������������������������������������������������������������������������� 23
+-         5.3.1. Mulching in crop production ������������������������������������������������������ 24
+-         5.3.2. Mushroom cultivation ������������������������������������������������������������������ 29
+-         5.3.3. Fodder for buffaloes and cows���������������������������������������������������� 38
+-         5.3.4. Bio- bedding for livestock������������������������������������������������������������� 40
+-         5.3.5. Production of organic fertilizer and growing medium������ 42
+-         5.3.6. Using straw as an alternative to plastic and urban
+-         agricultural products����������������������������������������������������������������������������������� 47
+- 6. Economic and environmental assessment of straw management ��51
+-    6.1. Cost and profit����������������������������������������������������������������������������������������������� 51
+-    6.2. Use efficiency of nutrient ������������������������������������������������������������������������� 54
+-    6.3. Carbon footprint ������������������������������������������������������������������������������������������ 57
+- 7. References and further reading on related technologies and
+- techniques���������������������������������������������������������������������������������������������64
+-    7.1. References������������������������������������������������������������������������������������������������������� 64
+-    7.2. Some videos on technology and management of rice straw
+-    towards circular economy and low emission��������������������������������������������� 68
+- Acknowledgement�������������������������������������������������������������������������������69
+-                                                                 ii
+-  1. Rationale, purpose, scope, and users of the manual
+- 1.1. Rationale
+- Vietnam is one of the countries most affected by climate change. In
+- 2020, agricultural production accounted for 90 million tons of CO₂
+- equivalent (CO₂-eq) in GHG emissions annually, of which 39.1% came
+- from wet-rice cultivation, 24.8% from livestock, 33.6% from other
+- agricultural cultivation (none-rice), and 2.5% from burning agricultural
+- by-products (Le Hoang Anh, 2021).
+- Vietnam produces about 43 million tons of rice annually, along with
+- about 47 million tons of rice straw. In the Mekong Delta, where
+- there are three rice cropping seasons per year, farmers often burn
+- rice straw in the open field or incorporate it into flooded fields. The
+- main reasons for this practice are the short turnaround time between
+- seasons, the low value of in-field straw, and the high cost of collection
+- and transportation. About 70% of rice straw was burned in the open-
+- fields and incorporated in the soil, only the remaining 30% is collected
+- out of the field for mulching, mushroom cultivation, cow feed, and
+- fertilizer (Le Canh Dung et al., 2021). Open-field burning of straw
+- causes nutrient loss in straw, reducing biodiversity, and polluting the
+- environment while straw incorporation in flooded fields increases
+- emissions of CH₄ and other GHG (Nguyen Van Hung et al., 2019).
+- In order to actively contribute to improving rice straw management
+- to enhance the rice value chain towards increasing income,
+- sustainability, and alignment with the green growth, the Department
+- of Crop Production (DCP) has cooperated with the International
+- Rice Research Institute (IRRI) and domestic experts to develop the
+- “Technical manual: Rice straw management towards circular economy
+- and low emission in the Mekong delta”.
+-                                     1
+- 1.2. Purpose
+- Rice straw management in the direction of a circular economy aims to
+- make the most of the nutrients contained in straw, increase the value
+- of straw, and thereby reduce open-field burning and incorporation
+- of straw in flooded fields. This leads to reducing biodiversity loss,
+- reducing environmental pollution, reducing GHG emissions, and

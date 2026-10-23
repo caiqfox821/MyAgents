@@ -1,0 +1,80 @@
+# Dietary Components and Immune Function (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1860-0
+- 页数: 230
+- 全文: `text/mdpi/Dietary_Components_and_Immune_Function_2024.txt`
+- 标签: 膳食模式/摄入, 免疫/炎症
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Nguyen Tien Dung, Takeshi Susukida, Sisca Ucche, Ka He, So-ichiro Sasaki, Ryuji Hayashi
+- and Yoshihiro Hayakawa
+- Calorie Restriction Impairs Anti-Tumor Immune Responses in an Immunogenic Preclinical
+- Cancer Model
+- Reprinted from: Nutrients 2023, 15, 3638, doi:10.3390/nu15163638 . . . . . . . . . . . . . . . . . .             1
+- Dearbhla Finnegan, Restituto Tocmo and Christine Loscher
+- Targeted Application of Functional Foods as Immune Fitness Boosters in the Defense against
+- Viral Infection
+- Reprinted from: Nutrients 2023, 15, 3371, doi:10.3390/nu15153371 . . . . . . . . . . . . . . . . . . 10
+- Ping Zhang
+- The Role of Diet and Nutrition in Allergic Diseases
+- Reprinted from: Nutrients 2023, 15, 3683, doi:10.3390/nu15173683 . . . . . . . . . . . . . . . . . . 49
+- Yuqian Wang, Lingeng Lu, Changquan Ling, Ping Zhang and Rui Han
+- Potential of Dietary HDAC2i in Breast Cancer Patients Receiving PD-1/PD-L1 Inhibitors
+- Reprinted from: Nutrients 2023, 15, 3984, doi:10.3390/nu15183984 . . . . . . . . . . . . . . . . . . 74
+- Caterina Russo, Giovanni Enrico Lombardo, Giuseppe Bruschetta, Antonio Rapisarda,
+- Alessandro Maugeri and Michele Navarra
+- Bergamot Byproducts: A Sustainable Source to Counteract Inﬂammation
+- Reprinted from: Nutrients 2024, 16, 259, doi:10.3390/nu16020259 . . . . . . . . . . . . . . . . . . . 95
+- EmilieBoucher,CarolinePlazy,AudreyLeGouellec,BertrandToussaintandDalilHannani
+- InulinPrebioticProtectsagainstLethalPseudomonasaeruginosaAcuteInfectionviaγδT
+- CellActivation
+- Reprinted from: Nutrients 2023, 15, 3037, doi:10.3390/nu15133037 . . . . . . . . . . . . . . . . . . 115
+- Yasmine Y. Bouzid, Elizabeth L. Chin, Sarah S. Spearman, Zeynep Alkan,
+- Charles B.StephensenandDanielleG.Lemay
+- NoAssociationsbetweenDairyIntakeandMarkersofGastrointestinalInflammationinHealthy
+- AdultCohort
+- Reprinted from: Nutrients 2023, 15, 3504, doi:10.3390/nu15163504 . . . . . . . . . . . . . . . . . . 126
+- XuefeiLi,ZhengjieLu,YongjianQi,BiaoChenandBinLi
+- The Role of Polyunsaturated Fatty Acids in Osteoarthritis: Insights from a Mendelian
+- RandomizationStudy
+- Reprinted from: Nutrients 2023, 15, 4787, doi:10.3390/nu15224787 . . . . . . . . . . . . . . . . . . 138
+- Chen Wang, Dongfang Sun, Qi Deng, Lijun Sun, Lianhua Hu, Zhijia Fang, et al.
+- Elephantopus scaber L. Polysaccharides Alleviate Heat Stress-Induced Systemic Inﬂammation in
+- Mice via Modulation of Characteristic Gut Microbiota and Metabolites
+- Reprinted from: Nutrients 2024, 16, 262, doi:10.3390/nu16020262 . . . . . . . . . . . . . . . . . . . 153
+- Ruonan Gao, Yilin Ren, Peng Xue, Yingyue Sheng, Qin Yang, Yuanyuan Dai, et al.
+- Protective Effect of the Polyphenol Ligustroside on Colitis Induced with Dextran Sulfate Sodium
+- in Mice
+- Reprinted from: Nutrients 2024, 16, 522, doi:10.3390/nu16040522 . . . . . . . . . . . . . . . . . . . 175
+-                                                         v
+- YumaMatsumoto,MariSuto,IoUmebara,HirofumiMasutomiandKatsuyukiIshihara
+- HydrophobicComponentsinLight-YellowPulpSweetPotato(Ipomoeabatatas(L.)Lam.)Tubers
+- SuppressLPS-InducedInflammatoryResponsesinRAW264.7CellsviaActivationofthe
+- Nrf2Pathway
+- Reprinted from: Nutrients 2024, 16, 563, doi:10.3390/nu16040563 . . . . . . . . . . . . . . . . . . . 188
+- Dearbhla Finnegan, Monica A. Mechoud, Jamie A. FitzGerald, Tom Beresford, Harsh Mathur,
+- Paul D. Cotter and Christine Loscher
+- Novel Fermentates Can Enhance Key Immune Responses Associated with Viral Immunity
+- Reprinted from: Nutrients 2024, 16, 1212, doi:10.3390/nu16081212 . . . . . . . . . . . . . . . . . . 200
+-                                                    vi
+- Preface
+-     The link between nutrition and immune function has been known for a long time. For example,
+- deﬁciencies in protein, zinc, and vitamin A lead to the impairment of immune cells and are correlated
+- with increased risk of infection. In recent years, knowledge of the regulation of immune cells and
+- immune mechanism-related diseases by dietary components has rapidly increased. The immune
+- mechanism-mediated diseases that can be regulated by nutrients have expanded to cancer, autoimmune
+- diseases, and allergies beyond infection. Newer cellular and molecular mechanisms are being
+- elucidated. To reﬂect the newest developments in this ﬁeld, this Special Issue collects 12 papers
+- focused on the roles of nutrition and speciﬁc dietary components in systematic inﬂammation and
+- local inﬂammatory responses in multiple tissues and immune cells. These papers highlight the
+- roles played by dietary components such as dietary ﬁber, polyphenols, and polyunsaturated fatty
+- acids in defense against viral infection, enhancing anti-tumor immune response in breast cancer
+- and reducing inﬂammation in osteoarthritis, colitis, and allergic diseases through the modulation of
+- immune function.
+-     These ﬁndings will help physicians and researchers become aware of the critical roles played by
+- dietary components in the prevention or treatment of a variety of inﬂammatory diseases. The potential
+- of nutrition therapy to maintain proper immune function and health is great and worthy of further
+- investigation.

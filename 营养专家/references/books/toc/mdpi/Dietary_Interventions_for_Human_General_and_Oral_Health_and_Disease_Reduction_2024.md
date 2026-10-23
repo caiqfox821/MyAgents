@@ -1,0 +1,80 @@
+# Dietary Interventions for Human General and Oral Health and Disease Reduction (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1486-2
+- 页数: 178
+- 全文: `text/mdpi/Dietary_Interventions_for_Human_General_and_Oral_Health_and_Disease_Reduction_2024.txt`
+- 标签: 膳食模式/摄入, 基因-膳食
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Maria Antoniadou and Theodoros Varzakas
+- Dietary Interventions for Human General and Oral Health and Disease Reduction
+- Reprinted from: Appl. Sci. 2024, 14, 5095, doi:10.3390/app14125095 . . . . . . . . . . . . . . . . .              1
+- Olga Gortzi, Maria Dimopoulou, Odysseas Androutsos, Anna Vraka, Helen Gousia
+- and Alexandra Bargiota
+- Effectiveness of a Nutrition Education Program for Patients with Type 2 Diabetes Mellitus
+- Reprinted from: Appl. Sci. 2024, 14, 2114, doi:10.3390/app14052114 . . . . . . . . . . . . . . . . .              4
+- Aleksandra Szydłowska, Dorota Zielińska, Barbara Sionek and Danuta Kołożyn-Krajewska
+- The Mulberry Juice Fermented by Lactiplantibacillus plantarum O21: The Functional Ingredient
+- in the Formulations of Fruity Jellies Based on Different Gelling Agents
+- Reprinted from: Appl. Sci. 2023, 13, 12780, doi:10.3390/app132312780 . . . . . . . . . . . . . . . . 20
+- Gordana Markovikj, Vesna Knights and Jasenka Gajdoš Kljusurić
+- Body Weight Loss Efﬁciency in Overweight and Obese Adults in the Ketogenic Reduction Diet
+- Program—Case Study
+- Reprinted from: Appl. Sci. 2023, 13, 10704, doi:10.3390/app131910704 . . . . . . . . . . . . . . . . 38
+- Paraskevi Detopoulou, Panos Papandreou, Lida Papadopoulou and Maria Skouroliakou
+- Implementation of a Nutrition-Oriented Clinical Decision Support System (CDSS) for Weight
+- Loss during the COVID-19 Epidemic in a Hospital Outpatient Clinic: A 3-Month Controlled
+- Intervention Study
+- Reprinted from: Appl. Sci. 2023, 13, 9448, doi:10.3390/app13169448 . . . . . . . . . . . . . . . . . 53
+- Arrigo F. G. Cicero, Federica Fogacci, Antonio Di Micoli, Maddalena Veronesi, Elisa Grandi
+- and Claudio Borghi
+- Hydroxytyrosol-Rich Olive Extract for Plasma Cholesterol Control
+- Reprinted from: Appl. Sci. 2022, 12, 10086, doi:10.3390/app121910086 . . . . . . . . . . . . . . . . 66
+- Federica Fogacci, Antonio Di Micoli, Elisa Grandi, Giulia Fiorini, Claudio Borghi
+- and Arrigo F. G. Cicero
+- Black Garlic and Pomegranate Standardized Extracts for Blood Pressure Improvement: A
+- Non-Randomized Diet-Controlled Study
+- Reprinted from: Appl. Sci. 2022, 12, 9673, doi:10.3390/app12199673 . . . . . . . . . . . . . . . . . 78
+- Pania Karnaki, Konstantinos Katsas, Dimitrios V. Diamantis, Elena Riza,
+- Maya Simona Rosen, Maria Antoniadou, et al.
+- Dental Health, Caries Perception and Sense of Discrimination among Migrants and Refugees
+- in Europe: Results from the Mig-HealthCare Project
+- Reprinted from: Appl. Sci. 2022, 12, 9294, doi:10.3390/app12189294 . . . . . . . . . . . . . . . . . 86
+- Victoria Bell and Tito Horácio Fernandes
+- Mushrooms as Functional Foods for Ménière’s Disease
+- Reprinted from: Appl. Sci. 2023, 13, 12348, doi:10.3390/app132212348 . . . . . . . . . . . . . . . . 101
+- Marios    Peponis,     Maria      Antoniadou,       Eftychia  Pappa,      Christos      Rahiotis
+- and Theodoros Varzakas
+- Vitamin D and Vitamin D Receptor Polymorphisms Relationship to Risk Level of Dental Caries
+- Reprinted from: Appl. Sci. 2023, 13, 6014, doi:10.3390/app13106014 . . . . . . . . . . . . . . . . . 119
+-                                                          v
+- Marios Spanakis, Evridiki Patelarou and Athina Patelarou
+- Drug-Food Interactions with a Focus on Mediterranean Diet
+- Reprinted from: Appl. Sci. 2022, 12, 10207, doi:10.3390/app122010207 . . . . . . . . . . . . . . . . 141
+-                                                    vi
+- About the Editors
+- Theodoros Varzakas
+-     Theodoros Varzakas has served as full professor at the Department of Food Science and
+- Technology, the University of the Peloponnese, Greece, since 2019, specializing in issues of food
+- technology, food processing/engineering, and food quality and safety. Varzakas is the Section Editor
+- of the Food Security and Sustainability Section of Foods (2020 onwards). He was also formerly
+- the Editor-in-Chief for Current Research in Nutrition and Food Science (2015–2019). Varzakas is a
+- reviewer and member of the Editorial Boards of many international journals, such as the International
+- Journal of Food Science and Technology, the Journal of Food Engineering, Waste Management,
+- Critical Reviews in Food Science and Nutrition, the Italian Journal of Food Science, the Journal of
+- Food Processing and Preservation, the Journal of Culinary Science and Technology, the Journal of
+- Agricultural and Food Chemistry, the Journal of Food Quality, Foods, Microorganisms, and Current
+- Research in Food Science. Varzakas has written more than 200 research papers and chapters in
+- books and presented more than 160 papers and posters at national and international conferences.
+- He has written and edited 14 books in Greek, as well as 16 in English on sweeteners, biosensors,
+- food engineering, food processing, all published by CRC. He has participated in many European
+- and national research programs as a coordinator or scientiﬁc member. According to Google Scholar,
+- his h-index is 36 and no. of citations is approx. 5500. According to September 2022 data and
+- October 2023-update for "Updated science-wide author databases of standardized citation indicators"
+- Varzakas Theodoros is in the top 2% of citations worldwide.
+- Maria Antoniadou
+-     Maria Antoniadou is currently an associate professor at the Department of Dentistry, School

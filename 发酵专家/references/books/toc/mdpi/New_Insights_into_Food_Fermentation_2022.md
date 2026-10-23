@@ -1,0 +1,71 @@
+# New Insights into Food Fermentation (2022, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-0365-3919-5
+- 页数: 228
+- 全文: `text/mdpi/New_Insights_into_Food_Fermentation_2022.txt`
+- PDF: `mdpi/New_Insights_into_Food_Fermentation_2022.pdf`
+- 标签: 食品发酵, 菌种
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”New Insights into Food Fermentation” . . . . . . . . . . . . . . . . . . . . . . . . . .          ix
+- Juliano De Dea Lindner and Valentina Bernini
+- New Insights into Food Fermentation
+- Reprinted from: Foods 2022, 11, 283, doi:10.3390/foods11030283 . . . . . . . . . . . . . . . . . . .           1
+- César Ojeda-Linares, Gonzalo D. Álvarez-Rı́os, Carmen Julia Figueredo-Urbina, Luis
+- Alfredo Islas, Patricia Lappe-Oliveras and Gary Paul Nabhan et al.
+- Traditional Fermented Beverages of Mexico: A Biocultural Unseen Foodscape
+- Reprinted from: Foods 2021, 10, 2390, doi:10.3390/foods10102390 . . . . . . . . . . . . . . . . . . .          7
+- Eskindir Getachew Fentie, Shimelis Admassu Emire, Hundessa Dessalegn Demsash,
+- Debebe Worku Dadi and Jae-Ho Shin
+- Cereal- and Fruit-Based Ethiopian Traditional Fermented Alcoholic Beverages
+- Reprinted from: Foods 2020, 9, 1781, doi:10.3390/foods9121781 . . . . . . . . . . . . . . . . . . . . 39
+- Maria Maisto, Giuseppe Annunziata, Elisabetta Schiano, Vincenzo Piccolo, Fortuna
+- Iannuzzo and Rosaria Santangelo et al.
+- Potential Functional Snacks: Date Fruit Bars Supplemented by Different Species of Lactobacillus
+- spp.
+- Reprinted from: Foods 2021, 10, 1760, doi:10.3390/foods10081760 . . . . . . . . . . . . . . . . . . . 55
+- Song-Hee Moon and Hae-Choon Chang
+- Rice Bran Fermentation Using Lactiplantibacillus plantarum EM as a Starter and the Potential of
+- the Fermented Rice Bran as a Functional Food
+- Reprinted from: Foods 2021, 10, 978, doi:10.3390/foods10050978 . . . . . . . . . . . . . . . . . . . 65
+- Yun Yang, Guangqun Lan, Xueyi Tian, Laping He, Cuiqin Li and Xuefeng Zeng et al.
+- Effect of Fermentation Parameters on Natto and Its Thrombolytic Property
+- Reprinted from: Foods 2021, 10, 2547, doi:10.3390/foods10112547 . . . . . . . . . . . . . . . . . . . 79
+- Linjun Jiang, Shuang Xian, Xingyan Liu, Guanghui Shen, Zhiqing Zhang and Xiaoyan Hou
+- et al.
+- Metagenomic Study on Chinese Homemade Paocai: The Effects of Raw Materials and
+- Fermentation Periods on the Microbial Ecology and Volatile Components
+- Reprinted from: Foods 2021, 11, 62, doi:10.3390/foods11010062 . . . . . . . . . . . . . . . . . . . . 97
+- Miriam Zago, Lia Rossetti, Tommaso Bardelli, Domenico Carminati, Nelson Nazzicari and
+- Giorgio Giraffa
+- Bacterial Community of Grana Padano PDO Cheese and Generical Hard Cheeses: DNA
+- Metabarcoding and DNA Metafingerprinting Analysis to Assess Similarities and Differences
+- Reprinted from: Foods 2021, 10, 1826, doi:10.3390/foods10081826 . . . . . . . . . . . . . . . . . . . 113
+- Roberto Degenhardt, Doris Sobral Marques Souza, Leidiane A. Acordi Menezes, Gilberto
+- Vinı́cius de Melo Pereira, David Rodrı́guez-Lázaro and Gislaine Fongaro et al.
+- Detection of Enteric Viruses and Core Microbiome Analysis in Artisanal Colonial Salami-Type
+- Dry-Fermented Sausages from Santa Catarina, Brazil
+- Reprinted from: Foods 2021, 10, 1957, doi:10.3390/foods10081957 . . . . . . . . . . . . . . . . . . . 123
+-                                                        v
+- Federica Barbieri, Giulia Tabanelli, Chiara Montanari, Nicolò Dall’Osso, Vida Šimat and
+- Sonja Smole Možina et al.
+- Mediterranean Spontaneously Fermented Sausages: Spotlight on Microbiological and Quality
+- Features to Exploit Their Bacterial Biodiversity
+- Reprinted from: Foods 2021, 10, 2691, doi:10.3390/foods10112691 . . . . . . . . . . . . . . . . . . . 137
+- Xinxiu Ma, Jingran Bi, Xinyu Li, Gongliang Zhang, Hongshun Hao and Hongman Hou
+- Contribution of Microorganisms to Biogenic Amine Accumulation during Fish Sauce
+- Fermentation and Screening of Novel Starters
+- Reprinted from: Foods 2021, 10, 2572, doi:10.3390/foods10112572 . . . . . . . . . . . . . . . . . . . 157
+- Honghong Yu, Yali Huang, Liliang Lu, Yuhan Liu, Zonggui Tang and Shiling Lu
+- Impact of Thyme Microcapsules on Histamine Production by Proteus bacillus in Xinjiang
+- Smoked Horsemeat Sausage
+- Reprinted from: Foods 2021, 10, 2491, doi:10.3390/foods10102491 . . . . . . . . . . . . . . . . . . . 171
+- Cuicui Jiang, Mengyang Liu, Xu Yan, Ruiqi Bao, Aoxue Liu and Wenqing Wang et al.
+- Lipase Addition Promoted the Growth of Proteus and the Formation of Volatile Compounds in
+- Suanzhayu, a Traditional Fermented Fish Product
+- Reprinted from: Foods 2021, 10, 2529, doi:10.3390/foods10112529 . . . . . . . . . . . . . . . . . . . 185
+- Francesco Martelli, Martina Cirlini, Camilla Lazzi, Erasmo Neviani and Valentina Bernini
+- Solid-State Fermentation of Arthrospira platensis to Implement New Food Products: Evaluation

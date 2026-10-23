@@ -1,0 +1,81 @@
+# Enhancing Shelf Life of Food Products (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 248
+- 全文: `text/mdpi/Enhancing_Shelf_Life_of_Food_Products_2026.txt`
+- PDF: `mdpi/Enhancing_Shelf_Life_of_Food_Products_2026.pdf`
+- 标签: 货架期, 保鲜, 延长保质期
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Alessandro Bianchi and Francesca Venturi
+- Enhancing the Shelf Life of Food Products: Strategies, Challenges, and Innovations
+- Reprinted from: Foods 2025, 14, 4034, https://doi.org/10.3390/foods14234034 . . . . . . . . . .
+- 1
+- Soﬁa Panzani, Francesca Venturi, Alessandro Bianchi, Pierina Dı́az-Guerrero, Ylenia Pieracci,
+- Guido Flamini, et al.
+- Comparative Evaluation of Traditional and Controlled Drying Methods of Chestnuts (Castanea
+- sativa Mill.): Impact on the Chemical Composition, Aromatic, and Sensory Proﬁle of Flour
+- Reprinted from: Foods 2025, 14, 1931, https://doi.org/10.3390/foods14111931 . . . . . . . . . .
+- 9
+- Leticia Franchin Rodrigues, Mayumi Fernanda Aracati, Susana Luporini de Oliveira, Camila
+- Carlino-Costa, Romário Alves Rodrigues, Mateus Roberto Pereira, et al.
+- Dietary Supplementation with Green Alga (Chlorella pyrenoidosa) Enhances the Shelf Life of
+- Refrigerated Nile Tilapia (Oreochromis niloticus) Fillets
+- Reprinted from: Foods 2025, 14, 1642, https://doi.org/10.3390/foods14091642 . . . . . . . . . . 33
+- Aya Tayel, Faten S. Hassanin, Shimaa N. Edris, Ahmed Hamad and Islam I. Sabeq
+- Preservative Potential of Anethum graveolens Essential Oil on Fish Fillet Quality and Shelf Life
+- During Refrigerated Storage
+- Reprinted from: Foods 2025, 14, 1591, https://doi.org/10.3390/foods14091591 . . . . . . . . . . 52
+- Alexandra Mari, Tryfon Kekes, Christos Boukouvalas and Magdalini Krokida
+- Integrating Life Cycle Assessment in Innovative Berry Processing with Edible Coating and
+- Osmotic Dehydration
+- Reprinted from: Foods 2025, 14, 1167, https://doi.org/10.3390/foods14071167 . . . . . . . . . . 83
+- Eﬁmia Dermesonlouoglou, George Seretis, Maria Katsouli, Alexandros Katsimichas, Petros
+- Taoukis and Maria Giannakourou
+- Effect of Pulsed Electric Fields and Osmotic Dehydration on the Quality of Modiﬁed-AtmospherePackaged Fresh-Cut and Fried Potatoes
+- Reprinted from: Foods 2025, 14, 420, https://doi.org/10.3390/foods14030420 . . . . . . . . . . . 100
+- Muhammad Faisal, Asri Gani, Murna Muzaifa, M. Bagas Heriansyah, Hera Desvita, Suraiya
+- Kamaruzzaman, et al.
+- Edible Coating Combining Liquid Smoke from Oil Palm Empty Fruit Bunches and Turmeric
+- Extract to Prolong the Shelf Life of Mackerel
+- Reprinted from: Foods 2025, 14, 139, https://doi.org/10.3390/foods14010139 . . . . . . . . . . . 119
+- Anna Augustyńska-Prejsnar, Miroslava Kačániová, Paweł Hanus, Zoﬁa Sokołowicz and
+- Mirosław Słowiński
+- Microbial and Sensory Quality Changes in Broiler Chicken Breast Meat During Refrigerated
+- Storage
+- Reprinted from: Foods 2024, 13, 4063, https://doi.org/10.3390/foods13244063 . . . . . . . . . . 132
+- Adamaris Garcı́a-Juárez, Alba Mery Garzón-Garcı́a, José Rogelio Ramos-Enrı́quez, José
+- Agustı́n Tapia-Hernández, Saúl Ruiz-Cruz, Dalila Fernanda Canizales-Rodrı́guez, et al.
+- Evaluation of Antioxidant and Antibacterial Activity of Gelatin Nanoparticles with Bitter Orange
+- Peel Extract for Food Applications
+- Reprinted from: Foods 2024, 13, 3838, https://doi.org/10.3390/foods13233838 . . . . . . . . . . 153
+- v
+- Matilde D’Arrigo, Marı́a Jesús Petrón, Jonathan Delgado-Adámez, Jesús Javier Garcı́a-Parra,
+- Marı́a Jesús Martı́n-Mateos and Marı́a Rosario Ramı́rez-Bernabé
+- Dry-Cured Sausages “Salchichón” Manufactured with a Valorized Ingredient from Red Grape
+- Pomace (Var. Tempranillo)
+- Reprinted from: Foods 2024, 13, 3133, https://doi.org/10.3390/foods13193133 . . . . . . . . . . 165
+- Miroslava Kačániová, Stefania Garzoli, Anis Ben Hsouna, Zhaojun Ban, Joel Horacio
+- Elizondo-Luevano, Maciej Ireneusz Kluz, et al.
+- Enhancing Deer Sous Vide Meat Shelf Life and Safety with Eugenia caryophyllus Essential Oil
+- against Salmonella enterica
+- Reprinted from: Foods 2024, 13, 2512, https://doi.org/10.3390/foods13162512 . . . . . . . . . . 185
+- Ahmad Rabbani, Mutamed Ayyash, Crystal D. C. D’Costa, Gang Chen, Yajun Xu and Afaf
+- Kamal-Eldin
+- Effect of Heat Pasteurization and Sterilization on Milk Safety, Composition, Sensory Properties,
+- and Nutritional Quality
+- Reprinted from: Foods 2025, 14, 1342, https://doi.org/10.3390/foods14081342 . . . . . . . . . . 205
+- vi
+- About the Editors
+- Alessandro Bianchi
+- Alessandro Bianchi is a research fellow at the Department of Agriculture, Food, and Environment,
+- University of Pisa, Italy. He holds a Ph.D. in Agricultural, Food, and Environmental Sciences. His
+- research focuses on food technology, enology, and oleotechnology, with a particular emphasis on
+- product quality, shelf-life evaluation, and the valorization of by-products. He has authored over 55
+- indexed scientiﬁc publications and serves as a reviewer for several international journals. His recent
+- work explores the role of phenolic compounds and innovative processing strategies in enhancing the

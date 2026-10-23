@@ -1,0 +1,78 @@
+# Research Progress of Plant Compounds for Diabetes and Its Complications (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0499-3
+- 页数: 182
+- 全文: `text/mdpi/Research_Progress_of_Plant_Compounds_for_Diabetes_and_Its_Complications_2024.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Ni Kadek Santi Maha Dewi, Yan Ramona, Made Ratna Saraswati, Desak Made Wihandani
+- and I Made Agus Gelgel Wirasuta
+- The Potential of the Flavonoid Content of Ipomoea batatas L. as an Alternative Analog GLP-1 for
+- Diabetes Type 2 Treatment—Systematic Review
+- Reprinted from: Metabolites 2023, 14, 29, doi:10.3390/metabo14010029 . . . . . . . . . . . . . . . .              1
+- Mădălina Moldovan, Ana-Maria Păpurică, Mara Muntean, Raluca Maria Bungărdean, Dan
+- Gheban and Bianca Moldovan et al.
+- Effects of Gold Nanoparticles Phytoreduced with Rutin in an Early Rat Model of Diabetic
+- Retinopathy and Cataracts
+- Reprinted from: Metabolites 2023, 13, 955, doi:10.3390/metabo13080955 . . . . . . . . . . . . . . . 24
+- Muhammad Khan, Muhammad Ajmal Shah, Mustafa Kamal, Mohammad Shamsul Ola,
+- Mehboob Ali and Pharkphoom Panichayupakaranant
+- Comparative Antihyperglycemic and Antihyperlipidemic Effects of Lawsone Methyl Ether and
+- Lawsone in Nicotinamide-Streptozotocin-Induced Diabetic Rats
+- Reprinted from: Metabolites 2023, 13, 863, doi:10.3390/metabo13070863 . . . . . . . . . . . . . . . 48
+- Irina-Camelia Chis, Carmen-Maria Micu, Alina Toader, Remus Moldovan, Laura Lele and
+- Simona Clichici et al.
+- The Beneficial Effect of Swimming Training Associated with Quercetin Administration on
+- the Endothelial Nitric Oxide-Dependent Relaxation in the Aorta of Rats with Experimentally
+- Induced Type 1 Diabetes Mellitus
+- Reprinted from: Metabolites 2023, 13, 586, doi:10.3390/metabo13050586 . . . . . . . . . . . . . . . 65
+- Samuel Nzekwe, Adetoun Morakinyo, Monde Ntwasa, Oluwafemi Oguntibeju, Oluboade
+- Oyedapo and Ademola Ayeleso
+- Influence of Flavonoid-Rich Fraction of Monodora tenuifolia Seed Extract on Blood Biochemical
+- Parameters in Streptozotocin-Induced Diabetes Mellitus in Male Wistar Rats
+- Reprinted from: Metabolites 2023, 13, 292, doi:10.3390/metabo13020292 . . . . . . . . . . . . . . . 81
+- Arshad Husain Rahmani, Mohammed A. Alsahli, Amjad Ali Khan and Saleh A. Almatroodi
+- Quercetin, a Plant Flavonol Attenuates Diabetic Complications, Renal Tissue Damage, Renal
+- Oxidative Stress and Inflammation in Streptozotocin-Induced Diabetic Rats
+- Reprinted from: Metabolites 2023, 13, 130, doi:10.3390/metabo13010130 . . . . . . . . . . . . . . . 92
+- Nandakumar Muruganathan, Anand Raj Dhanapal, Venkidasamy Baskar, Pandiyan
+- Muthuramalingam, Dhivya Selvaraj and Husne Aara et al.
+- Recent Updates on Source, Biosynthesis, and Therapeutic Potential of Natural Flavonoid
+- Luteolin: A Review
+- Reprinted from: Metabolites 2022, 12, 1145, doi:10.3390/metabo12111145 . . . . . . . . . . . . . . 108
+- Min-Seong Ha, Jae-Hoon Lee, Woo-Min Jeong, Hyun Ryun Kim and Woo Hyeon Son
+- The Combined Intervention of Aqua Exercise and Burdock Extract Synergistically Improved
+- Arterial Stiffness: A Randomized, Double-Blind, Controlled Trial
+- Reprinted from: Metabolites 2022, 12, 970, doi:10.3390/metabo12100970 . . . . . . . . . . . . . . . 126
+-                                                          v
+- Fatai Oladunni Balogun, Kaylene Naidoo, Jamiu Olaseni Aribisala, Charlene Pillay and
+- Saheed Sabiu
+- Cheminformatics Identification and Validation of Dipeptidyl Peptidase-IV Modulators from
+- Shikimate Pathway-Derived Phenolic Acids towards Interventive Type-2 Diabetes Therapy
+- Reprinted from: Metabolites 2022, 12, 937, doi:10.3390/metabo12100937 . . . . . . . . . . . . . . . 141
+- Muddaser Shah, Saif Khalfan Al-Housni, Faizullah Khan, Saeed Ullah, Jamal Nasser
+- Al-Sabahi and Ajmal Khan et al.
+- First Report on Comparative Essential Oil Profile of Stem and Leaves of Blepharispermum hirtum
+- Oliver and Their Antidiabetic and Anticancer Effects
+- Reprinted from: Metabolites 2022, 12, 907, doi:10.3390/metabo12100907 . . . . . . . . . . . . . . . 158
+-                                                   vi
+- About the Editors
+- Cosmin Mihai Vesa
+-     Cosmin Mihai Vesa is associate professor at the University of Oradea, Faculty of Medicine and
+- Pharmacy. He teaches physiology of the renal, respiratory, and cardiovascular system. He is a medical
+- doctor specialized in diabetes, nutrition and metabolic diseases, and he obtained his PhD diploma in
+- 2019. His research interest include the pathophysiology of diabetes mellitus complications, insulin
+- resistance, metabolic syndrome, obesity, and novel drugs in the treatment of diabetes mellitus. He
+- serves as a guest editor in six MDPI Special Issues and is a reviewer of numerous journals.
+- Dana Zaha
+-     Dana Carmen Zaha is a Professor (full) of Physiology at the Faculty of Medicine and Pharmacy,
+- University of Oradea. She teaches blood, renal, respiratory and cardiac physiology. She is specialized
+- in Laboratory medicine working in the Clinical County Emergency Hospital of Oradea. Currently, she
+- is a PhD supervisor at the Doctoral School of Biomedical Sciences, University of Oradea. Her main
+- research interests include antibiotic resistance, breast cancer, imunohistochemistry, and laboratory
+- analysis in cardio-metabolic diseases.

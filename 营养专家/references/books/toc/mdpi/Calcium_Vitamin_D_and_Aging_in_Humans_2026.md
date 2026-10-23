@@ -1,0 +1,79 @@
+# Calcium, Vitamin D and Aging in Humans (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6749-3
+- 页数: 140
+- 全文: `text/mdpi/Calcium_Vitamin_D_and_Aging_in_Humans_2026.txt`
+- 标签: 微量营养素, 老年营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Ligia J. Dominguez and Stefano Gonnelli
+- Calcium, Vitamin D, and Aging in Humans
+- Reprinted from: Nutrients 2024, 16, 3974, https://doi.org/10.3390/nu16233974 . . . . . . . . . .                  1
+- Nasser M. Al-Daghri, Syed Danish Hussain, Abdullah M. Alnaami, Naji Aljohani
+- and Shaun Sabico
+- Dietary Calcium Intake and Osteoporosis Risk in Arab Adults
+- Reprinted from: Nutrients 2023, 15, 2829, https://doi.org/10.3390/nu15132829 . . . . . . . . . .                  6
+- Maksymilian Adam Lech, Marcin Warpechowski, Aleksandra Wojszel, Justyna Rentﬂejsz,
+- Marta Świ˛etek and Zyta Beata Wojszel
+- Vitamin D Status among Patients Admitted to a Geriatric Ward—Are Recommendations for
+- Preventing Its Deﬁciency Effective Enough?
+- Reprinted from: Nutrients 2024, 16, 193, https://doi.org/10.3390/nu16020193 . . . . . . . . . . . 16
+- Louise Van de Walle, Yvan Vandenplas, Jaan Toelen and Anke Raaijmakers
+- Vitamin D Status in Belgian Children: A Regional Study
+- Reprinted from: Nutrients 2024, 16, 657, https://doi.org/10.3390/nu16050657 . . . . . . . . . . . 30
+- Carmelinda Ruggiero, Laura Tafaro, Luisella Cianferotti, Flavia Tramontana,
+- Ilaria Giovanna Macchione, Carla Caffarelli, et al.
+- Targeting the Hallmarks of Aging with Vitamin D: Starting to Decode the Myth
+- Reprinted from: Nutrients 2024, 16, 906, https://doi.org/10.3390/nu16060906 . . . . . . . . . . . 38
+- Oktawia Borecka, John J. Dutton, Jonathan C. Y. Tang, William D. Fraser, Ann R. Webb
+- and Lesley E. Rhodes
+- Comparative Study of Healthy Older and Younger Adults Shows They Have the Same Skin
+- Concentration of Vitamin D3 Precursor, 7-Dehydrocholesterol, and Similar Response to UVR
+- Reprinted from: Nutrients 2024, 16, 1147, https://doi.org/10.3390/nu16081147 . . . . . . . . . . 64
+- Ligia J. Dominguez, Nicola Veronese, Eliana Marrone, Carla Di Palermo, Candela Iommi,
+- Rosaria Ruggirello, et al.
+- Vitamin D and Risk of Incident Type 2 Diabetes in Older Adults: An Updated Systematic
+- Review and Meta-Analysis
+- Reprinted from: Nutrients 2024, 16, 1561, https://doi.org/10.3390/nu16111561 . . . . . . . . . . 76
+- Marco Occhiuto, Jessica Pepe, Luciano Colangelo, Marco Lucarelli, Antonio Angeloni,
+- Luciano Nieddu, et al.
+- Effect of 2 Years of Monthly Calcifediol Administration in Postmenopausal Women with
+- Vitamin D Insufﬁciency
+- Reprinted from: Nutrients 2024, 16, 1754, https://doi.org/10.3390/nu16111754 . . . . . . . . . . 96
+- Luisella Cianferotti, Giuseppe Bifolco, Carla Caffarelli, Gherardo Mazziotti,
+- Silvia Migliaccio, Nicola Napoli, et al.
+- Nutrition, Vitamin D, and Calcium in Elderly Patients before and after a Hip Fracture and Their
+- Impact on the Musculoskeletal System: A Narrative Review
+- Reprinted from: Nutrients 2024, 16, 1773, https://doi.org/10.3390/nu16111773 . . . . . . . . . . 108
+-                                                          v
+- About the Editors
+- Stefano Gonnelli
+-     Stefano Gonnelli was born in Siena (Italy) and graduated in Medicine and Surgery from the
+- University of Siena in 1978. He obtained specializations in Cardiology, Endocrinology, and Preventive
+- Medicine, and in 1979–1980, he completed his military service as a Medical Ofﬁcer. In 1981, he joined
+- the University of Siena, where he spent his entire academic career, ﬁrst as a Researcher, then as an
+- Associate Professor, and ﬁnally as a Full Professor in Internal Medicine. Director of the Postgraduate
+- School in Emergency and Urgent Medicine at the University of Siena from 2012 to 2019 and of the
+- Postgraduate School of in Internal Medicine from 2019 to 2023; he is currently a faculty member
+- in the Postgraduate Schools in Internal Medicine and Geriatrics. He was President of the Italian
+- Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases from 2017 to 2019. His scientiﬁc
+- activity has mainly focused on vitamin D and metabolic bone diseases, with particular emphasis on
+- instrumental and laboratory diagnostic methods. He has authored over 250 publications in national
+- and international peer-reviewed scientiﬁc journals and has been invited as a speaker at numerous
+- national and international meetings.
+- Ligia J. Dominguez
+-     Ligia J. Dominguez was born in Colombia where she graduated in medicine and completed
+- her residency in Internal Medicine at the "Universidad del Rosario" in Bogota. She then joined the
+- Division of Endocrinology, Metabolism and Hypertension at Wayne State University (Detroit, MI)
+- carrying out basic and clinical research, and completing the specialization in Endocrinology. She
+- moved to Italy in 1996, continuing her clinical and research interests in the ﬁelds of diabetes and its
+- complications, nutrition, and bone and mineral metabolism, in relation to aging. Prof. Dominguez
+- is currently a full professor at the University of Palermo (Italy), where she teaches in the Faculty
+- of Medicine, Nursing, Sports Sciences, and in the Postgraduate School of Geriatrics and Internal
+- Medicine. She has authored over 300 publications in peer-reviewed national and international
+- scientiﬁc journals and has been invited as speaker at national and international meetings.
+-                                                   vii

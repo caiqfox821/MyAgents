@@ -1,0 +1,79 @@
+# Small-scale palm oil processing in Africa (2002, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/y4355e/y4355e.pdf
+- 页数: 59
+- 全文: `text/fao/Small_Scale_Palm_Oil_Processing_Africa_2002.txt`
+- PDF: `fao/Small_Scale_Palm_Oil_Processing_Africa_2002.pdf`
+- 标签: 油脂加工, 小规模加工
+
+## 目录 (Contents)
+
+- FOREWORD
+- iii
+- 1.
+- INTRODUCTION
+- 1
+- 2
+- OIL PALM
+- 2.1. Origin of oil palm
+- 2.1.1 Early trading in palm products
+- 2.2 Palm oil farm systems in Africa
+- 2.2.1 Small-scale farms
+- 2.2.2 Medium-scale farms
+- 2.2.3 Large-scale farms
+- 2.3 Principles of preservation and processing methods
+- 3
+- 3
+- 4
+- 5
+- 5
+- 5
+- 6
+- 6
+- 3.
+- PALM OIL PROCESSING
+- 3. 1 General processing description
+- 3.1.2 Threshing (Removal of fruit from the bunches)
+- 3.1.3 Sterilization of bunches
+- 3.2 Process equipment design and selection criteria
+- 3.2.1 Plant sizing
+- 3.2.2 Process technology/capital investment considerations
+- 7
+- 7
+- 9
+- 10
+- 14
+- 17
+- 19
+- 4.
+- TRADITIONAL TECHNIQUES AND INNOVATIONS IN SMALL-SCALE
+- PALM OIL PROCESSING
+- 4.1 Mechanical extraction
+- 4.2 Direct screw-pressing
+- 4.3 Hydraulic presses
+- 4.4 Combination digester and hydraulic press systems
+- 4.5 Combination mechanical digester and screw-press
+- 21
+- 21
+- 22
+- 23
+- 23
+- 24
+- 5.
+- PALM KERNEL OIL EXTRACTION
+- 5.1. Mechanical extraction
+- 5.2 Solvent extraction
+- 5.3 Traditional method of palm kernel extraction
+- 27
+- 27
+- 29
+- 29
+- 6.
+- ENVIRONMENTAL CONSIDERATIONS
+- 6.1 Treatment of solid waste products
+- 6.2 Treatment of aqueous effluent
+- 30
+- 30
+- 31
+- BIBLIOGRAPHY

@@ -1,0 +1,81 @@
+# A Practical Field Guide to Weeds of Rice in Asia (2010, IRRI)
+
+- 许可: Open Access
+- 来源: https://ageconsearch.umn.edu/record/164472
+- 页数: 121
+- 全文: `text/rice/A_Practical_Field_Guide_to_Weeds_of_Rice_in_Asia_2010.txt`
+- PDF: `rice/A_Practical_Field_Guide_to_Weeds_of_Rice_in_Asia_2010.pdf`
+- 标签: 水稻, 杂草, 图鉴, 植保
+
+## 目录 (Contents)
+
+-      Species by common name in English    5
+-      Foreword                             7
+-      Acknowledgments                      8
+-      Terms and definitions                9
+-      Key to species listings             10
+-      BROADLEAF
+-      Aeschynomene aspera                 12
+-      A. indica                           15
+-      Ageratum conyzoides                 16
+-      Alternanthera sessilis              19
+-      Alternanthera philoxeroides         19
+-      Amaranthus spinosus                 20
+-      Amaranthus viridis                  20
+-      Commelina benghalensis              23
+-      C. diffusa                          24
+-      Eclipta prostrata                   27
+-      Eichhornia crassipes                28
+-      Ipomoea aquatica                    31
+-      Ludwigia adscendens                 32
+-      L. octovalvis                       35
+-      L. hyssopifolia                     35
+-      Marsilea minuta                     36
+-      Mimosa diplotricha                  39
+-      Monochoria vaginalis                40
+-      Pistia stratiotes                   43
+-      Polygonum hydropiper                44
+-      Portulaca oleracea                  47
+-      Sphenoclea zeylanica                48
+-      Trianthema portulacastrum           51
+-                                           3
+-     GRASSES
+-     Cynodon dactylon              52
+-     Dactyloctenium aegyptium      55
+-     Digitaria ciliaris            56
+-     Echinochloa colona            58
+-     E. crus-galli                 61
+-     E. glabrescens                62
+-     Eleusine indica               65
+-     Imperata cylindrica           66
+-     Ischaemum rugosum             69
+-     Leersia hexandra              70
+-     Leptochloa chinensis          73
+-     Oryza sativa                  75
+-     Panicum repens                76
+-     Paspalum distichum            79
+-     P. scrobiculatum              80
+-     Rottboellia cochinchinensis   83
+-     SEDGES
+-     Bolboschoenus maritimus       84
+-     Cyperus difformis             87
+-     C. iria                       88
+-     C. rotundus                   91
+-     Fimbristylis dichotoma        92
+-     F. miliacea                   95
+-     Scirpus juncoides             96
+-     Appendices                     98
+-     Selected references           117
+- 4
+- Species
+- by common name in English
+-        Barnyardgrass                          61
+-        Bermuda grass                          52
+-        Bulrush                                96
+-        Chinese sprangletop, red sprangletop   73
+-        Cogon grass                            66
+-        Crab grass                             56
+-        Creeping water primrose                32
+-        Crowfoot grass                         55
+-        False daisy                            27
+-        Forked fringe-rush                     92

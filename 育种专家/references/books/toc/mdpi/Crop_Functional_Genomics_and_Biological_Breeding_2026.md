@@ -1,0 +1,77 @@
+# Crop Functional Genomics and Biological Breeding (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/12783
+- 页数: 208
+- 全文: `text/mdpi/Crop_Functional_Genomics_and_Biological_Breeding_2026.txt`
+- 标签: 功能基因组, 生物育种
+
+## 目录 (Contents)
+
+- Guangan Hu, Jie Huang, Jiezheng Ying, Jian Zhang and Yifeng Wang
+- Crop Functional Genomics and Biological Breeding—2nd Edition
+- Reprinted from: Plants 2026, 15, 1195, https://doi.org/10.3390/plants15081195 . . . . . . . . . .    1
+- Delong Fan, Jing Ruan, Qinan Xu, Jiezheng Ying, Yifeng Wang, Xiaohong Tong, et al.
+- From Model Plants to Staple Crops: Molecular Mechanisms of Plant Saline–Alkali Tolerance
+- Reprinted from: Plants 2026, 15, 532, https://doi.org/10.3390/plants15040532 . . . . . . . . . . .   8
+- Wanting Shi, Sixin Ye, Yiting Xin, Hongmiao Jin, Meiling Hu, Yueping Zheng, et al.
+- NAC Transcription Factor GmNAC035 Exerts a Positive Regulatory Role in Enhancing Salt
+- Stress Tolerance in Plants
+- Reprinted from: Plants 2025, 14, 1391, https://doi.org/10.3390/plants14091391 . . . . . . . . . . 27
+- Danyun Cao, Yuchen Ping, Yiru Lin, Jinyan Hu, Zimeng Wang, Wei Yuan, et al.
+- Synergistic Response Mechanisms in Rice Seedlings Exposed to Brown Planthopper Infestation
+- and High-Temperature Stress
+- Reprinted from: Plants 2025, 14, 1644, https://doi.org/10.3390/plants14111644 . . . . . . . . . . 45
+- Mengfan Qin, Xiang Liu, Jia Song, Feixue Zhao, Yiji Shi, Yu Xu, et al.
+- Genetic Analyses, BSA-Seq, and Transcriptome Analyses Reveal Candidate Genes Controlling
+- Leaf Plastochron in Rapeseed (Brassica napus L.)
+- Reprinted from: Plants 2025, 14, 1719, https://doi.org/10.3390/plants14111719 . . . . . . . . . . 60
+- Ringki Kuinamei Sanglou, Marie Gorette Kampire, Xia Xu, Jian-Li Wu, Junyi Gong and
+- Xiaobo Zhang
+- Functional Characterization of Rice Spotted-Leaf Mutant HM113 Reveals an Amino Acid
+- Substitution in a Cysteine-Rich Receptor-like Kinase
+- Reprinted from: Plants 2025, 14, 3429, https://doi.org/10.3390/plants14223429 . . . . . . . . . . 77
+- Xuetong Yang, Kai Wang, Feng Guan, Bo Shi, Yuanyuan Xie, Chang Du, et al.
+- The Bitter Gourd Transcription Factor McNAC087 Confers Cold Resistance in Transgenic
+- Arabidopsis
+- Reprinted from: Plants 2025, 14, 3440, https://doi.org/10.3390/plants14223440 . . . . . . . . . . 93
+- Sujie Fan, Haiyuan Chen, Yuhan Huo, Yang Song, Piwu Wang, Zhuo Zhang and
+- Liangyu Jiang
+- Genome-Wide Analysis of the Dof Gene Family in Soybean and Functional Identiﬁcation of
+- GmDof63 in Response to Phytophthora sojae Infection
+- Reprinted from: Plants 2025, 14, 3621, https://doi.org/10.3390/plants14233621 . . . . . . . . . . 112
+- Shuna Zhou, Xinling Yu, Jian Tan, Haixiao Sun, Wei Yang, Liangyu Jiang, et al.
+- Transcriptomics Reveals Cold Tolerance Maize Lines Involved in the Phenylpropanoid and
+- Flavonoid Pathways
+- Reprinted from: Plants 2026, 15, 161, https://doi.org/10.3390/plants15010161 . . . . . . . . . . . 132
+- Limin Wang, Yuzhe Zhang, Xiaoyan Zhou, Xin Xu, Hongxia Zhang, Nan Sun, et al.
+- BnaMYB73, a Brassica napus L. R2R3-MYB Transcription Factor, Enhances Plant Salt and
+- Osmotic Stress Tolerance
+- Reprinted from: Plants 2026, 15, 694, https://doi.org/10.3390/plants15050694 . . . . . . . . . . . 145
+-                                                   v
+- Shengqun Chen, Lianwen Shen, Yajun Zeng, Shijing Feng, Hong Luo and Gang Wang
+- Integrated Metabolomic and Transcriptomic Analyses Reveal the Coumarin Biosynthesis
+- Pathway and Key Regulatory Genes in the Pericarp of Zanthoxylum
+- Reprinted from: Plants 2026, 15, 769, https://doi.org/10.3390/plants15050769 . . . . . . . . . . . 161
+- Haifeng Zhu, Hao Tang, Yang Li, Ning Yang, Qin Wang, Fan Yang, et al.
+- A Genome-Wide Pseudogene Map Reveals the Asymmetric Evolution of the A, B, and D
+- Subgenomes in Common Wheat
+- Reprinted from: Plants 2026, 15, 818, https://doi.org/10.3390/plants15050818 . . . . . . . . . . . 179
+-                                                   vi
+- Editorial
+- Crop Functional Genomics and Biological Breeding—2nd
+- Edition
+- Guangan Hu, Jie Huang, Jiezheng Ying, Jian Zhang and Yifeng Wang *
+-                    State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute,
+-                    Hangzhou 311400, China; 13332564410@163.com (G.H.); huangjie@caas.cn (J.H.); yingjiezheng@caas.cn (J.Y.);
+-                    zhangjian@caas.cn (J.Z.)
+-                    * Correspondence: wangyifeng@caas.cn
+-                    1. Introduction
+-                          Functional genomics serves as a critical link between genotype and phenotype, with
+-                    its core mission being to elucidate gene functions and their regulatory networks at the
+-                    genome-wide level. Unlike traditional reverse genetics, functional genomics leverages
+-                    high-throughput sequencing, bioinformatics, and multi-omics integration to systematically
+-                    reveal the genetic basis of complex agronomic traits, enabling breeders to comprehensively
+-                    understand the mechanisms shaping crop yield, resistance, quality, and other traits from
+-                    a genomic perspective [1]. However, technological means are ultimately tools; the funda-
+-                    mental goal of functional genomics is to serve breeding practices—by mining key genes

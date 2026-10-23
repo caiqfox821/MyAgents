@@ -1,0 +1,80 @@
+# Chronic Complications of Type 2 Diabetes (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8732-3
+- 页数: 224
+- 全文: `text/mdpi/Chronic_Complications_of_Type_2_Diabetes_2026.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- Adriana Ivanescu, Simona Popescu, Laura Gaita, Oana Albai, Adina Braha and
+- Romulus Timar
+- Risk Factors for Cataracts in Patients with Diabetes Mellitus
+- Reprinted from: J. Clin. Med. 2024, 13, 7005, https://doi.org/10.3390/jcm13237005 . . . . . . . .   1
+- Georgios I. Tsironikos, Vasiliki Tsolaki, George E. Zakynthinos, Vasiliki Rammou,
+- Despoina Kyprianidou, Thomas Antonogiannis, et al.
+- Metformin’s Overall Effectiveness and Combined Action with Lifestyle Interventions in
+- Preventing Type-2 Diabetes Mellitus in High-Risk Metformin-Naïve Patients: An Updated
+- Systematic Review and Meta-Analysis of Published RCTs
+- Reprinted from: J. Clin. Med. 2025, 14, 4947, https://doi.org/10.3390/jcm14144947 . . . . . . . . 16
+- Karolina K˛edzierska-Kapuza, Anna Grudniewska, Anna Durma, Robert Małecki,
+- Edward Franek and Małgorzata Szczuko
+- Dietary and Nutritional Strategies to Prevent Uremic Toxin Formation and Slow the Progression
+- of Diabetic Kidney Disease
+- Reprinted from: J. Clin. Med. 2025, 14, 4701, https://doi.org/10.3390/jcm14134701 . . . . . . . . 41
+- Matthias W. Heinzl, Michael Resl, Jörg Kellermair, Clemens Steinwender, Bernhard Mayr,
+- Jana Obereder, et al.
+- Intrahospital Prevalence of Diabetes and Prediabetes in Medical Departments in Upper Austria
+- Reprinted from: J. Clin. Med. 2025, 14, 3668, https://doi.org/10.3390/jcm14113668 . . . . . . . . 56
+- Ali Alenezi
+- Effect of Diabetes Mellitus on Survival and Complication Rates of Tooth-Supported Fixed Dental
+- Prostheses (FDPs): Long-Term Clinical Evaluation
+- Reprinted from: J. Clin. Med. 2025, 14, 5673, https://doi.org/10.3390/jcm14165673 . . . . . . . . 71
+- Mihaela Gheorghiu, Maria-Florina Trandaﬁr, Octavian Savu, Daniela Pasarica and
+- Coralia Bleotu
+- Unexpectedly High and Difﬁcult- to-Explain Regenerative Capacity in an 82-Year-Old Patient
+- with Insulin- Requiring Type 2 Diabetes and End-Stage Renal Disease
+- Reprinted from: J. Clin. Med. 2025, 14, 2556, https://doi.org/10.3390/jcm14082556 . . . . . . . . 82
+- Ilias N. Migdalis, Nikolaos K. Tentolouris, Triantafyllos P. Didangelos, Nikolaos Papanas,
+- Magdalini X. Bristianou, Anastasia N. Mavrogiannaki and on behalf of the PRENEDIG Study
+- A Nationwide Study on the Prevalence of Peripheral Neuropathy in Patients with Type 2 Diabetes
+- Mellitus in Greece—The PRENEDIG Study
+- Reprinted from: J. Clin. Med. 2025, 14, 6723, https://doi.org/10.3390/jcm14196723 . . . . . . . . 110
+- Alexey N. Sumin, Natalia A. Bezdenezhnykh, Ekaterina V. Belik, Yulia A. Dyleva,
+- Andrey V. Bezdenezhnykh, Olga V. Gruzdeva and Olga L. Barbarash
+- Dynamics of Glycemic Status and Glucose Metabolism Markers 12 Months After Coronary
+- Artery Bypass Grafting and Their Relationship with the Annual Prognosis of Patients
+- Reprinted from: J. Clin. Med. 2025, 14, 351, https://doi.org/10.3390/jcm14020351 . . . . . . . . . 124
+- Ferenc Sztanek, Attila Pető, László Imre Tóth, Hajnalka Lőrincz, Ágnes Molnár,
+- Miklós Lukács, et al.
+- Sex Differences in Cardiovascular Risk and Diabetic Polyneuropathy: A Single-Center
+- Retrospective Study in North-Eastern Hungary
+- Reprinted from: J. Clin. Med. 2025, 14, 5780, https://doi.org/10.3390/jcm14165780 . . . . . . . . 141
+-                                                   v
+- Lidia Ladea, Christiana M. D. Dragosloveanu, Ruxandra Coroleuca, Iulian Brezean,
+- Eduard L. Catrina, Dana E. Nedelcu, et al.
+- Risk Factors Associated with Corneal Nerve Fiber Length Reduction in Patients with
+- Type 2 Diabetes
+- Reprinted from: J. Clin. Med. 2025, 14, 8411, https://doi.org/10.3390/jcm14238411 . . . . . . . . 157
+- Anudari Batbold, Narangerel Bayarmagnai, Oyumaa Davaasuren, Dorjzodov Dashdorj,
+- Ankhlan Boldbaatar, Azzaya Sodnomjamts, et al.
+- Predictors of One-Year Renal Function Decline in Type 2 Diabetes: Implications for Metabolic
+- Target Management
+- Reprinted from: J. Clin. Med. 2026, 15, 499, https://doi.org/10.3390/jcm15020499 . . . . . . . . . 172
+- Óscar Martínez-Pérez, Seila Lorenzo-Herrero, Ester Amado-Guirado, Fernando Gómez-Peralta,
+- Jesús Balea-Filgueiras, Joan Barrot, et al.
+- Estimating the Clinical, Quality-of-Life and Economic Impact of Optimized Management of Type
+- 2 Diabetes Patients in Spain
+- Reprinted from: J. Clin. Med. 2026, 15, 1628, https://doi.org/10.3390/jcm15041628 . . . . . . . . 185
+- Lina Mao, Eisha Adnan, Zhuo Chen, Yan Pan, Xiangjun Chen, Tinghua Zan, et al.
+- Association of BMI Change with New-Onset or Progressive Diabetic Kidney Disease in People
+- with Normal-Weight Type 2 Diabetes
+- Reprinted from: J. Clin. Med. 2026, 15, 3125, https://doi.org/10.3390/jcm15083125 . . . . . . . . 203
+-                                                   vi
+- Article
+- Risk Factors for Cataracts in Patients with Diabetes Mellitus
+- Adriana Ivanescu 1,2,3 , Simona Popescu 1,4, *, Laura Gaita 1,4 , Oana Albai 1,4 , Adina Braha 1,4 and Romulus Timar 1,4
+-                   1   Department of Second Internal Medicine Diabetes, Nutrition, Metabolic Diseases, and Systemic
+-                       Rheumatology, “Victor Babes” University of Medicine and Pharmacy, 300041 Timisoara, Romania;
+-                       adriana.ivanescu@umft.ro (A.I.); gaita.laura@umft.ro (L.G.); albai.oana@umft.ro (O.A.);

@@ -1,0 +1,78 @@
+# Healthy Eating in Relation to National Dietary Guidelines (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-9693-8
+- 页数: 260
+- 全文: `text/mdpi/Healthy_Eating_in_Relation_to_National_Dietary_Guidelines_2024.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Carmen Rubio, Montaña Cámara, Rosa Marı́a Giner, Marı́a José González-Muñoz,
+- Esther López-Garcı́a, Francisco J. Morales, et al.
+- Caffeine, D-glucuronolactone and Taurine Content in Energy Drinks: Exposure and
+- Risk Assessment
+- Reprinted from: Nutrients 2022, 14, 5103, doi:10.3390/nu14235103 . . . . . . . . . . . . . . . . . .              1
+- Roberta C. Asher, Tammie Jakstas, Fiona Lavelle, Julia A. Wolfson, Anna Rose,
+- Tamara Bucher, et al.
+- Development of the Cook-EdTM Matrix to Guide Food and Cooking Skill Selection in Culinary
+- Education Programs That Target Diet Quality and Health
+- Reprinted from: Nutrients 2022, 14, 1778, doi:10.3390/nu14091778 . . . . . . . . . . . . . . . . . . 13
+- Nahal Habibi, Shalem Yiner-Lee Leemaqz and Jessica Anne Grieger
+- Modelling the Impact of Reducing Ultra-Processed Foods Based on the NOVA Classiﬁcation in
+- Australian Women of Reproductive Age
+- Reprinted from: Nutrients 2022, 14, 1518, doi:10.3390/nu14071518 . . . . . . . . . . . . . . . . . . 33
+- Camila    Weschenfelder,      Philip      Sapp,     Terrence  Riley,     Kristina      Petersen,
+- Jacqueline Tereza da Silva, Angela Cristine Bersch-Ferreira, et al.
+- Absolute and Relative Agreement between the Current and Modiﬁed Brazilian
+- Cardioprotective Nutritional Program Dietary Index (BALANCE DI) and the American
+- Heart Association Healthy Diet Score (AHA-DS) in Post Myocardial Infarction Patients
+- Reprinted from: Nutrients 2022, 14, 1378, doi:10.3390/nu14071378 . . . . . . . . . . . . . . . . . . 47
+- Dagmara Stangierska, Iwona Kowalczuk, Katarzyna Widera, Dawid Olewnicki
+- and Piotr Latocha
+- Innovation as a Factor Increasing Fruit Consumption: The Case of Poland
+- Reprinted from: Nutrients 2022, 14, 1246, doi:10.3390/nu14061246 . . . . . . . . . . . . . . . . . . 59
+- Masayuki Okuda, Aya Fujiwara and Satoshi Sasaki
+- Adherence to the Japanese Food Guide: The Association between Three Scoring Systems and
+- Cardiometabolic Risks in Japanese Adolescents
+- Reprinted from: Nutrients 2022, 14, 43, doi:10.3390/nu14010043 . . . . . . . . . . . . . . . . . . . 77
+- Rebekah Pullen, Katherine Kent, Matthew J. Sharman, Tracy L. Schumacher
+- and Leanne J. Brown
+- A Comparison of Diet Quality in a Sample of Rural and Urban Australian Adults
+- Reprinted from: Nutrients 2021, 13, 4130, doi:10.3390/nu13114130 . . . . . . . . . . . . . . . . . . 89
+- Nahal Habibi, Katherine M. Livingstone, Suzanne Edwards and Jessica A. Grieger
+- Do Older Women of Reproductive Age Have Better Diet Quality than Younger Women of
+- Reproductive Age?
+- Reprinted from: Nutrients 2021, 13, 3830, doi:10.3390/nu13113830 . . . . . . . . . . . . . . . . . . 103
+- Enrique Ramón-Arbués,        José-Manuel Granada-López,       Blanca Martı́nez-Abadı́a,
+- Emmanuel Echániz-Serrano, Isabel Antón-Solanas and Benjamin Adam Jerue
+- Factors Related to Diet Quality: A Cross-Sectional Study of 1055 University Students
+- Reprinted from: Nutrients 2021, 13, 3512, doi:10.3390/nu13103512 . . . . . . . . . . . . . . . . . . 115
+-                                                          v
+- Montaña Cámara, Rosa Marı́a Giner, Elena González-Fandos, Esther López-Garcı́a,
+- Jordi Mañes, Marı́a P. Portillo, et al.
+- Food-Based Dietary Guidelines around the World: A Comparative Analysis to Update AESAN
+- Scientiﬁc Committee Dietary Recommendations
+- Reprinted from: Nutrients 2021, 13, 3131, doi:10.3390/nu13093131 . . . . . . . . . . . . . . . . . . 131
+- Meron Lewis, Sarah A. McNaughton, Lucie Rychetnik and Amanda J. Lee
+- Cost and Affordability of Healthy, Equitable and Sustainable Diets in Low Socioeconomic
+- Groups in Australia
+- Reprinted from: Nutrients 2021, 13, 2900, doi:10.3390/nu13082900 . . . . . . . . . . . . . . . . . . 145
+- Jennifer N. Baldwin, Lee M. Ashton, Peta M. Forder, Rebecca L. Haslam, Alexis J. Hure,
+- Deborah J. Loxton, et al.
+- Increasing Fruit and Vegetable Variety over Time Is Associated with Lower 15-Year Healthcare
+- Costs: Results from the Australian Longitudinal Study on Women’s Health
+- Reprinted from: Nutrients 2021, 13, 2829, doi:10.3390/nu13082829 . . . . . . . . . . . . . . . . . . 165
+- Mia Eng Tay, Emma Foster, Leo Stevenson and Iain Brownlee
+- The Adherence of Singaporean Students in Different Educational Institutions to National
+- Food-Based Dietary Guidelines
+- Reprinted from: Nutrients 2020, 12, 2995, doi:10.3390/nu12102995 . . . . . . . . . . . . . . . . . . 177
+- Ana Carolina B. Leme, Sophia Hou, Regina Mara Fisberg, Mauro Fisberg and Jess Haines
+- Adherence to Food-Based Dietary Guidelines: A Systemic Review of High-Income and Low-
+- and Middle-Income Countries
+- Reprinted from: Nutrients 2021, 13, 1038, doi:10.3390/nu13031038 . . . . . . . . . . . . . . . . . . 193
+- Laura Alston, Troy Walker and Katherine Kent
+- Characterizing Dietary Intakes in Rural Australian Adults: A Systematic Literature Review
+- Reprinted from: Nutrients 2020, 12, 3515, doi:10.3390/nu12113515 . . . . . . . . . . . . . . . . . . 225

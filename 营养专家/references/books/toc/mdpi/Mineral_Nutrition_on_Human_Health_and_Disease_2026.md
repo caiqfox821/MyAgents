@@ -1,0 +1,80 @@
+# Mineral Nutrition on Human Health and Disease (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7047-9
+- 页数: 172
+- 全文: `text/mdpi/Mineral_Nutrition_on_Human_Health_and_Disease_2026.txt`
+- 标签: 微量营养素
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Salvatore Minisola and James H. Swain
+- Mineral Nutrition and Human Health and Disease
+- Reprinted from: Nutrients 2026, 18, 370, https://doi.org/10.3390/nu18030370 . . . . . . . . . . .              1
+- Salwa Ali Abdullah Albar and Merfat Abdulrahman Almaghrabi
+- Time to Consider Potassium Intake in Saudi: A Cross-Sectional Assessment Using 24 h
+- Urinary Excretion
+- Reprinted from: Nutrients 2025, 17, 3227, https://doi.org/10.3390/nu17203227 . . . . . . . . . .               3
+- Ama-Tawiah Essilﬁe, Alison Smith, Rebecca Watts, Pramila Maniam, Iain L. Lamont,
+- David M. Frazer, et al.
+- Dietary Iron Intake Impacts the Microbial Composition of the Murine Intestinal and
+- Lung Microbiome
+- Reprinted from: Nutrients 2025, 17, 2696, https://doi.org/10.3390/nu17162696 . . . . . . . . . . 17
+- Anissa Melo Souza, Ingrid Wilza Leal Bezerra, Karina Gomes Torres,
+- Gabriela Santana Pereira, Raiane Medeiros Costa and Antonio Gouveia Oliveira
+- Association of Dietary Sodium-to-Potassium Ratio with Nutritional Composition,
+- Micronutrient Intake, and Diet Quality in Brazilian Industrial Workers
+- Reprinted from: Nutrients 2025, 17, 2483, https://doi.org/10.3390/nu17152483 . . . . . . . . . . 34
+- Aleksandra Marzec, Bartosz Fotschki, Dorota Napiórkowska, Joanna Fotschki,
+- Ewelina Cholewińska, Piotr Listos, et al.
+- The Effect of Copper Nanoparticles on Liver Metabolism Depends on the Type of Dietary Fiber
+- Reprinted from: Nutrients 2024, 16, 3645, https://doi.org/10.3390/nu16213645 . . . . . . . . . . 49
+- Jessica Pepe, Luciano Colangelo, Roberta Pilotto, Viviana De Martino, Carla Ferrara,
+- Alfredo Scillitani, et al.
+- Short-Term Effects of Escalating Doses of Cholecalciferol on FGF23 and 24,25(OH)2 Vitamin D
+- Levels: A Preliminary Investigation
+- Reprinted from: Nutrients 2024, 16, 3600, https://doi.org/10.3390/nu16213600 . . . . . . . . . . 63
+- Marta Kozior, Olusoji Aboyeji Demehin, Michelle Mary Ryan, Shane O’Connell
+- and Philip Michael Jakeman
+- The Temporal Change in Ionised Calcium, Parathyroid Hormone and Bone Metabolism
+- Following Ingestion of a Plant-Sourced Marine Mineral + Protein Isolate in Healthy
+- Young Adults
+- Reprinted from: Nutrients 2024, 16, 3110, https://doi.org/10.3390/nu16183110 . . . . . . . . . . 73
+- James H. Swain, Ryan C. Nemeth, Anshul R. Bethi, Caroline J. Jang and Eva L. Zheng
+- Hemoglobin Regeneration Efﬁciency and Relative Iron Bioavailability of Four Elemental Iron
+- Powders in Rats
+- Reprinted from: Nutrients 2024, 16, 2258, https://doi.org/10.3390/nu16142258 . . . . . . . . . . 84
+- Paolo Riccio and Emilio Jirillo
+- Nutrition Facts in the Over-Eighty Population: A Narrative Review
+- Reprinted from: Nutrients 2025, 17, 2740, https://doi.org/10.3390/nu17172740 . . . . . . . . . . 100
+- Mohammed S. Razzaque and Sunil J. Wimalawansa
+- Minerals and Human Health: From Deﬁciency to Toxicity
+- Reprinted from: Nutrients 2025, 17, 454, https://doi.org/10.3390/nu17030454 . . . . . . . . . . . 114
+-                                                        v
+- Anna-Mariia Shulhai, Roberta Rotondo, Maddalena Petraroli, Viviana Patianna,
+- Barbara Predieri, Lorenzo Iughetti, et al.
+- The Role of Nutrition on Thyroid Function
+- Reprinted from: Nutrients 2024, 16, 2496, https://doi.org/10.3390/nu16152496 . . . . . . . . . . 141
+-                                                  vi
+- About the Editors
+- James H. Swain
+-      James H. Swain is Professor and Director of the Dietetics Program in the Department of
+- Nutrition, School of Medicine, at Case Western Reserve University, Cleveland, OH, USA. His
+- professional activities in the U.S. include serving as Past-Chair of the Research Dietetics Practice
+- Group (R-DPG) of the Academy of Nutrition and Dietetics (AND), Past-Chair of the Vitamin
+- and Mineral Research Interest Section (VM-RIS) of the American Society for Nutrition (ASN), a
+- past-member the US Food and Drug Administration’s Center for Food Safety and Applied Nutrition
+- (CFSAN) Advisory Committee, and Past-Chair of the national Accreditation Council for Education
+- in Nutrition and Dietetics (ACEND) Board. He currently also serves as a global council member of
+- the International Society for Trace Element Research in Humans (ISTERH).
+- Salvatore Minisola
+-      Salvatore Minisola is an Honorary Professor of Internal Medicine at “Sapienza” Rome University,
+- with a distinguished career marked by signiﬁcant clinical, academic, and leadership roles. He served
+- as Chief of the Division of Internal Medicine at Policlinico Umberto I from 2011 to 2022 and as Director
+- of Emergency Medicine Residency from 2019 to 2022. His academic contributions include teaching
+- Internal Medicine in the bachelor’s degree program in Medicine and serving as a faculty member
+- for the PhD program “Tecnologie Innovative nelle Malattie dello Scheletro, della Cute e del Distretto
+- Oro-Cranio-Facciale”. His specialized expertise lies in the clinical investigation of metabolic bone
+- diseases, particularly osteoporosis and primary hyperparathyroidism, and disorders of phosphate
+- metabolism, with a keen focus on tumor-induced osteomalacia. Professionally, he has held prominent

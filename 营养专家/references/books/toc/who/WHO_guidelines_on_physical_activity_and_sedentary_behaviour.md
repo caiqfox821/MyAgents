@@ -1,0 +1,80 @@
+# WHO guidelines on physical activity and sedentary behaviour (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/336656
+- 页数: 104
+- 全文: `text/who/WHO_guidelines_on_physical_activity_and_sedentary_behaviour.txt`
+- 标签: 身体活动
+
+## 目录 (Contents)
+
+- Acknowledgements				 iv                            Evidence to recommendations			                    66
+- Abbreviations and acronyms			                 v    Assessment of the certainty of evidence		         66
+- Glossary of terms					 vi                          Benefits and harms		                      		      67
+- Executive summary
+-                      1 Values and preferences				67
+- Background					15                                  Resource implications			                          67
+- Methods        				18                              Equity, acceptability and feasibility		           68
+- Recommendations				24                              Research needs					69
+-    Children and adolescents (aged 5–17 years) 25
+-                                                    Adoption, dissemination, implementation
+-    Physical activity recommendation		 25
+-                                                    and evaluation					70
+-    Sedentary behaviour recommendation		      29
+-                                                    Adoption 					70
+-    Adults (aged 18–64 years)			32
+-                                                    Dissemination 					71
+-    Physical activity recommendation		 32
+-                                                    Communication campaigns 			                       71
+-    Sedentary behaviour recommendation		      38
+-                                                    Implementation of policy and programmes 		        72
+-    Older adults (aged 65 years and older)    43
+-                                                    Surveillance and evaluation 			                   73
+-    Physical activity recommendation		 43
+-                                                    Updating 					73
+-    Sedentary behaviour recommendation		      46
+-    Pregnant and postpartum women		           47
+-                                                    References					75
+-    Physical activity recommendation		 47
+-                                                    Annex 1: Management of guideline
+-    Sedentary behaviour recommendation		      51
+-                                                    development process			                            85
+-    Adults and older adults with chronic
+-                                                    Annex 2: Guideline development group, external
+-    conditions (aged 18 years and older)      52
+-                                                    peer reviewers, and who staff involved in the
+-    Physical activity recommendation		 52           development of these guidelines			88
+-    Sedentary behaviour recommendation		      58    Annex 3: Summary of declaration of interest
+-    Children and adolescents (aged 5–17 years)      and how these were managed			                     92
+-    and adults (aged 18 years and over)
+-    living with disability 			60
+-                                                    Web Annex: Evidence profiles
+-    Physical activity recommendation		 60           https://apps.who.int/iris/bitstream/handle/
+-    Sedentary behaviour recommendation		      64    10665/336657/9789240015111-eng.pdf
+-                                                                                                   Contents   iii
+-                                                               ACKNOWLEDGEMENTS
+-                                                               The World Health Organization (WHO) gratefully acknowledges the contribution to and support
+-                                                               of the following individuals and organizations in the development of these guidelines:
+-                                                               Fiona Bull and Juana Willumsen led the process of developing these guidelines. Valentina Baltag,
+-                                                               Maurice Bucagu, Alex Butchart, Neerja Chowdhary, Regina Guthold, Riitta-Maija Hämäläinen, Andre Ilbawi,
+-                                                               Wasiq Khan, Lindsay Lee, Alana Officer, Leanne Riley and Gojka Roglic were members of the WHO Steering
+-                                                               Group that managed the guideline development process.
+-                                                               The members of the Guideline Development Group (GDG) included Salih Saad Al-Ansari, Stuart Biddle,
+-                                                               Katja Borodulin, Matthew Buman, Greet Cardon (co-chair), Catherine Carty, Jean-Philippe Chaput, Sebastien
+-                                                               Chastin, Paddy Dempsey, Loretta DiPietro, Ulf Ekelund, Joseph Firth, Christine Friedenreich, Leandro Garcia,
+-                                                               Muthoni Gichu, Russ Jago, Peter Katzmarzyk, Estelle V. Lambert, Michael Leitzmann, Karen Milton, Francisco
+-                                                               B. Ortega, Chathuranga Ranasinghe, Emmanuel Stamatakis (co-chair), Anne Tiedemann, Richard Troiano,
+-                                                               Hidde van der Ploeg, Vicky Wari. Roger Chou served as GRADE methodologist. The external review group
+-                                                               included Kingsley Akinroye, Huda Alsiyabi, Alberto Flórez-Pregonero, Shigeru Inoue, Agus Mahendra,
+-                                                               Deborah Salvo and Jasper Schipperijn.
+- WHO guidelines on physical activity and sedentary behaviour
+-                                                               Systematic reviews of evidence prepared for 2018 US Physical Activity Guidelines Advisory Committee
+-                                                               Scientific Report to the Secretary of Health and Human Services were updated thanks to additional literature
+-                                                               searches conducted by Kyle Sprow (National Cancer Institutes, National Institutes of Health, Maryland,
+-                                                               USA). Additional support to review papers identified was provided by Elif Eroglu (University of Sydney),
+-                                                               Andrea Hillreiner (University of Regensburg), Bo-Huei Huang (University of Sydney), Carmen Jochem
+-                                                               (University of Regensburg), Jairo H. Migueles (University of Granada), Chelsea Stone (University of Calgary)
+-                                                               and Léonie Uijtdewilligen (Amsterdam UMC).
+-                                                               Summaries of evidence and GRADE tables were prepared by Carrie Patnode and Michelle Henninger
+-                                                               (The Kaiser Foundation Hospitals, Center for Health Research, Portland, Oregon, USA).
+-                                                               Additional reviews of evidence were conducted by N Fairhall, J Oliveira, M Pinheiro, and C Sherrington

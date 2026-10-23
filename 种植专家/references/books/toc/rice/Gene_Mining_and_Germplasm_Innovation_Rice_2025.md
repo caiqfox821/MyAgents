@@ -1,0 +1,81 @@
+# Gene Mining and Germplasm Innovation for the Important Traits in Rice (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10932
+- 页数: 196
+- 全文: `text/rice/Gene_Mining_and_Germplasm_Innovation_Rice_2025.txt`
+- PDF: `rice/Gene_Mining_and_Germplasm_Innovation_Rice_2025.pdf`
+- 标签: 水稻, 基因挖掘, 种质创新
+
+## 目录 (Contents)
+
+- Yang Yang, Jiarui Zhang, Lijuan Sun, Qin Qin, Shiyan Yang and Jun Wang et al.
+- Physiological and Transcriptome Analysis Provide Insights into the Effects of Low and High
+- Selenium on Methionine and Starch Metabolism in Rice Seedlings
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 1596, https://doi.org/10.3390/ijms26041596 . . . . . .   1
+- Hong Wang, Sidra Charagh, Nannan Dong, Feifei Lu, Yixin Wang and Ruijie Cao et al.
+- Genome-Wide Analysis of Heat Shock Protein Family and Identification of Their Functions in
+- Rice Quality and Yield
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 11931, https://doi.org/10.3390/ijms252211931 . . . . . 22
+- Quanxiang Tian, Tongyuan Yu, Mengyuan Dong, Yue Hu, Xiaoguang Chen and Yuan Xue et
+- al.
+- Identification and Characterization of Shaker Potassium Channel Gene Family and Response to
+- Salt and Chilling Stress in Rice
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 9728, https://doi.org/10.3390/ijms25179728 . . . . . . 42
+- Hongkai Wu, Siyuan Wang and Min Wu
+- The Waxy Gene Has Pleiotropic Effects on Hot Water-Soluble and -Insoluble Amylose Contents
+- in Rice (Oryza sativa) Grains
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 6561, https://doi.org/10.3390/ijms25126561 . . . . . . 61
+- Yunxin Fan, Lu Ma, Xiaoqian Pan, Pujiang Tian, Wei Wang and Kunquan Liu et al.
+- Genome-Wide Association Study Identifies Rice Panicle Blast-Resistant Gene Pb4 Encoding a
+- Wall-Associated Kinase
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 830, https://doi.org/10.3390/ijms25020830 . . . . . . . 75
+- Lei He, Tao Chen, Wenhua Liang, Chunfang Zhao, Ling Zhao and Shu Yao et al.
+- The RING-Type Domain-Containing Protein GNL44 Is Essential for Grain Size and Quality in
+- Rice (Oryza sativa L.)
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 589, https://doi.org/10.3390/ijms25010589 . . . . . . . 90
+- Xue Yang, Zhe Zhang, Lei Wu, Meiying Yang, Siyuan Li and Jie Gao
+- Conserved Residues Lys64 and Glu78 at the Subunit Surface of Tau Glutathione Transferase in
+- Rice Affect Structure and Enzymatic Properties
+- Reprinted from: Int. J. Mol. Sci. 2023, 25, 398, https://doi.org/10.3390/ijms25010398 . . . . . . . 111
+- Fuhang Liu, Dan Ma, Jinyu Yu, Ran Meng, Zhigang Wang and Baolei Zhang et al.
+- Overexpression of an ART1-Interacting Gene OsNAC016 Improves Al Tolerance in Rice
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 17036, https://doi.org/10.3390/ijms242317036 . . . . . 126
+- Jinbin Li, Lin Lu, Chengyun Li, Qun Wang and Zhufeng Shi
+- Insertion of Transposable Elements in AVR-Pib of Magnaporthe oryzae Leading to LOSS of the
+- Avirulent Function
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 15542, https://doi.org/10.3390/ijms242115542 . . . . . 141
+- Yihao Yang, Yi Zhang, Zixing Sun, Ziyan Shen, Youguang Li and Yifan Guo et al.
+- Knocking Out OsAAP11 to Improve Rice Grain Quality Using CRISPR/Cas9 System
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 14360, https://doi.org/10.3390/ijms241814360 . . . . . 158
+- Shasha Peng, Yanchen Liu, Yuchen Xu, Jianhua Zhao, Peng Gao and Qi Liu et al.
+- Genome-Wide Association Study Identifies a Plant-Height—Associated Gene OsPG3 in a
+- Population of Commercial Rice Varieties
+- Reprinted from: Int. J. Mol. Sci. 2023, 24, 11454, https://doi.org/10.3390/ijms241411454 . . . . . 174
+-                                                   v
+- Article
+- Physiological and Transcriptome Analysis Provide Insights into
+- the Effects of Low and High Selenium on Methionine and Starch
+- Metabolism in Rice Seedlings
+- Yang Yang 1,† , Jiarui Zhang 1,† , Lijuan Sun 2 , Qin Qin 2 , Shiyan Yang 2 , Jun Wang 2 , Yafei Sun 2, * and Yong Xue 2, *
+-                                               1   College of Fisheries and Life Science, Shanghai Ocean University, Shanghai 201306, China;
+-                                                   rickyyoung2000@163.com (Y.Y.); 18363019947@163.com (J.Z.)
+-                                               2   ECO—Environment Protection Research Institute, Shanghai Academy of Agricultural Sciences,
+-                                                   Shanghai 201403, China; sunliuliu2012@126.com (L.S.); qinqin19870987@126.com (Q.Q.);
+-                                                   20220703@saas.sh.cn (S.Y.); junwang2018@163.com (J.W.)
+-                                               *   Correspondence: sunyafei@saas.sh.cn (Y.S.); xueyong@saas.sh.cn (Y.X.)
+-                                               †   These authors contributed equally to this work.
+-                                               Abstract: Selenium (Se) is an essential micronutrient for the human body and is closely
+-                                               linked to health. Rice (Oryza sativa L.), as a major staple food globally, is the primary
+-                                               source of Se intake for humans. To better achieve Se biofortification in rice, it is crucial to
+-                                               understand the molecular mechanisms behind rice’s response to different Se concentrations.
+-                                               This study investigates the morphological and transcriptomic responses of rice seedlings
+-                                               to low (1 µM, LSe) and high (10 µM, HSe) Se concentrations compared to a control (CK).
+-                                               Morphological analyses revealed that LSe promoted growth, enhancing shoot and root
+-                                               length and biomass, whereas HSe treatment inhibited these parameters, indicating Se’s dual
+-                                               role in rice growth. Notably, the most significant promotion of rice growth was observed
+-                                               at the Se concentration of 1 µM. The organic Se content and antioxidant enzyme activities
+-                                               (SOD, POD and CAT) in rice seedlings also reached their maximum values simultaneously.
+-                                               Total RNA was extracted for transcriptome sequencing, and differential gene expression
+-                                               analysis was conducted using DESeq2. Transcriptomic sequencing highlighted distinct
+-                                               responses under LSe and HSe conditions. Gene ontology (GO) enrichment analysis re-

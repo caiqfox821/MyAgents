@@ -1,0 +1,80 @@
+# Use of lower-sodium salt substitutes: WHO guideline summary (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/381064
+- 页数: 20
+- 全文: `text/who/Use_of_lower_sodium_salt_substitutes_WHO_guideline_summary.txt`
+- 标签: 钠盐
+
+## 目录 (Contents)
+
+- Guideline summary                                 1
+-      Background                                   1
+-      Objective                                    1
+-      Methods                                      2
+-      The evidence                                 2
+-      Scope of the recommendation                  6
+-      Recommendation and supporting information    7
+-      Translation and implementation              10
+- References		                                     12
+-                                                  iii
+- Note
+- This document is a summary of a WHO guideline, the full version of which is available only in English and can
+- be accessed at https://www.who.int/publications/i/item/9789240105591. This summary document does
+- not contain all of the information found in the full guideline, but what it does contain has been extracted
+- from the full guideline and is therefore identical to the information found in the full guideline. Anywhere
+- in this summary document where “this guideline” or “the guideline” is used in the text, it refers to the full
+- guideline document.
+- Guideline summary
+- Background
+- Globally, each year 8 million deaths are associated with poor diet. Of these, 1.9 million are attributable to
+- high sodium intake (1). Reducing sodium intake is an effective way to reduce noncommunicable diseases
+- (NCDs) such as cardiovascular diseases (CVDs) and chronic kidney disease by lowering blood pressure, as
+- well as to lower risks of other conditions associated with high sodium intakes, such as gastric cancer (2).
+- In 2012, the World Health Organization (WHO) issued guidance on limiting sodium intake to below 2 grams
+- per day (g/day) to reduce blood pressure and risk of CVDs (3). Member States agreed on a global target to
+- reduce mean population sodium intake by 30% by 2025 for the prevention and control of NCDs (4) (the
+- timeline was extended to 2030 by a World Health Assembly decision in 2019) (5). Despite efforts made
+- by Member States, progress has been slow. The mean global sodium intake remains high – estimated to
+- be 4.3 g/day (range 2 to 7 g/day) in 2019 (6, 7), which is more than double the WHO recommendation and
+- demands urgent and accelerated actions.
+- Sodium chloride (NaCl) is the most common form of salt added to foods, both by consumers and in food
+- manufacturing. Lower-sodium salt substitutes (LSSS) are alternatives to regular salt1 both for discretionary
+- use as salt added to foods by the consumer during cooking or when eating and for non-discretionary use
+- as an ingredient present in manufactured foods and foods served at restaurants and other out-of-home
+- settings. LSSS are also used in sodium-containing condiments, such as soy sauce and fish sauce, that
+- are common discretionary sources of dietary sodium in some countries. These alternative salts contain
+- less sodium than regular salt and often include potassium chloride (KCl), with or without other agents,
+- to achieve a flavour similar to regular salt. The replacement of some of the NaCl by KCl may provide
+- advantages, compared with regular salt, in addition to the sodium-lowering effect (9, 10), because WHO
+- recommends increasing potassium intake from food sources to reduce blood pressure and risk of CVDs (11).
+- That recommendation does not include obtaining potassium from supplements in tablet form or LSSS to
+- increase potassium intake. The use of LSSS is increasingly considered by national health authorities and
+- public health organizations as a potential sodium reduction strategy to lower blood pressure and CVD
+- risk (12), and their use is on the rise. However, global guidance on the use of these substitutes is currently
+- lacking. Concerns have been raised about the safety of LSSS that contain potassium, because too high a
+- level of blood potassium (hyperkalaemia) may be harmful, especially to individuals with impaired kidney
+- function. Therefore, it is important to systematically review existing evidence on the health effects of LSSS
+- intake and issue WHO guidance on LSSS use through the current WHO guideline development process.
+- Objective
+- The objective of this guideline is to provide guidance on LSSS use for policy-makers, programme managers,
+- health professionals and other stakeholders in their efforts to reduce sodium intake and reduce the risk of
+- hypertension and related NCDs through a range of policy actions and public health interventions.
+- 1
+-     “Regular salt” or “table salt” in this guideline refers to food-grade salt as defined by the Codex standard 150-1995: Standard
+-     for food grade salt (8). Regular table salt is regular salt that an individual adds to foods during food preparation or when
+-     eating.
+-                                                                                                                                 1
+- Methods
+- This guideline was developed by the WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup
+- on Diet and Health following the WHO guideline development process as outlined in the WHO handbook for
+- guideline development (2nd edition) (13). This process includes a review of systematically gathered evidence
+- by an international, multidisciplinary group of experts; assessment of the certainty of that evidence via
+- the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework 2; and
+- consideration of additional contextual factors3 when making decisions and translating the evidence into
+- recommendations. A group of external experts reviewed the guideline, and feedback was solicited from
+- interested stakeholders during a public consultation.
+- The evidence
+- Evidence from the systematic review of 26 randomized controlled trials (RCTs) (published between 1986
+- and 2021) involving 34 961 adults and 92 children was reviewed (14). No eligible prospective cohort studies
+- were identified. Most RCTs included some people with hypertension, and the largest RCT included only

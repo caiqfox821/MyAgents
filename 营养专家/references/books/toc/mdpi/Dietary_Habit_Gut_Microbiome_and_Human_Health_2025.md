@@ -1,0 +1,78 @@
+# Dietary Habit, Gut Microbiome and Human Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4314-5
+- 页数: 200
+- 全文: `text/mdpi/Dietary_Habit_Gut_Microbiome_and_Human_Health_2025.txt`
+- 标签: 膳食模式/摄入, 肠道/菌群
+
+## 目录 (Contents)
+
+- Xi Wang
+- Unveiling the Gut Microbiota: How Dietary Habits Shape Health Through Microbiome
+- Modulation
+- Reprinted from: Nutrients 2025, 17, 1650, https://doi.org/10.3390/nu17101650 . . . . . . . . . .   1
+- Yonglin Chen, Keer Yang, Mingxin Xu, Yishuo Zhang, Xiquan Weng, Jiaji Luo, et al.
+- Dietary Patterns, Gut Microbiota and Sports Performance in Athletes: A Narrative Review
+- Reprinted from: Nutrients 2024, 16, 1634, https://doi.org/10.3390/nu16111634 . . . . . . . . . .   5
+- Sabrina Donati Zeppa, Marco Gervasi, Alessia Bartolacci, Fabio Ferrini, Antonino Patti,
+- Piero Sestili, et al.
+- Targeting the Gut Microbiota for Prevention and Management of Type 2 Diabetes
+- Reprinted from: Nutrients 2024, 16, 3951, https://doi.org/10.3390/nu16223951 . . . . . . . . . . 28
+- Abbi R. Hernandez, Cory Watson, Quinten P. Federico, Rachel Fletcher, Armen Brotgandel,
+- Thomas W. Buford, et al.
+- Twelve Months of Time-Restricted Feeding Improves Cognition and Alters Microbiome
+- Composition Independent of Macronutrient Composition
+- Reprinted from: Nutrients 2022, 14, 3977, https://doi.org/10.3390/nu14193977 . . . . . . . . . . 59
+- Yifan Wu, Yi Gong, Yu Zhang, Shujin Li, Chaowei Wang, Yuequan Yuan, et al.
+- Comparative Analysis of Gut Microbiota from Rats Induced by Se Deficiency and T-2 Toxin
+- Reprinted from: Nutrients 2023, 15, 5027, https://doi.org/10.3390/nu15245027 . . . . . . . . . . 75
+- Omololu Fagunwa, Kirsty Davies and Jane Bradbury
+- The Human Gut and Dietary Salt: The Bacteroides/Prevotella Ratio as a Potential Marker of
+- Sodium Intake and Beyond
+- Reprinted from: Nutrients 2024, 16, 942, https://doi.org/10.3390/nu16070942 . . . . . . . . . . . 91
+- Cindy Duysburgh, Marlies Govaert, Damien Guillemet and Massimo Marzorati
+- Co-Supplementation of Baobab Fiber and Arabic Gum Synergistically Modulates the In Vitro
+- Human Gut Microbiome Revealing Complementary and Promising Prebiotic Properties
+- Reprinted from: Nutrients 2024, 16, 1570, https://doi.org/10.3390/nu16111570 . . . . . . . . . . 111
+- Minghan Wang, Yonglin Chen, Ang-Xin Song, Xiquan Weng, Yan Meng, Jieru Lin and
+- Yu-Heng Mao
+- The Combination of Exercise and Konjac Glucomannan More Effectively Prevents
+- Antibiotics-Induced Dysbiosis in Mice Compared with Singular Intervention
+- Reprinted from: Nutrients 2024, 16, 2942, https://doi.org/10.3390/nu16172942 . . . . . . . . . . 135
+- Soo-Won Yun, Yoon-Jung Shin, Xiaoyang Ma and Dong-Hyun Kim
+- Lactobacillus plantarum and Bifidobacterium longum Alleviate High-Fat Diet-Induced Obesity and
+- Depression/Cognitive Impairment-like Behavior in Mice by Upregulating AMPK Activation
+- and Downregulating Adipogenesis and Gut Dysbiosis
+- Reprinted from: Nutrients 2024, 16, 3810, https://doi.org/10.3390/nu16223810 . . . . . . . . . . 158
+- Chenyu Zhang, Weiping Teng, Chuyuan Wang and Zhongyan Shan
+- The Gut Microbiota and Its Metabolites and Their Association with the Risk of Autoimmune
+- Thyroid Disease: A Mendelian Randomization Study
+- Reprinted from: Nutrients 2024, 16, 3898, https://doi.org/10.3390/nu16223898 . . . . . . . . . . 176
+-                                                  v
+- Editorial
+- Unveiling the Gut Microbiota: How Dietary Habits Shape
+- Health Through Microbiome Modulation
+- Xi Wang
+-                    Department of Occupational and Environmental Health, School of Public Health, Xi’an Jiaotong University
+-                    Health Science Center, Xi’an 710061, China; wn18andlife@xjtu.edu.cn
+-                          This Editorial provides an overview of the Special Issue “Dietary Habit, Gut Micro-
+-                    biome, and Human Health” which was recently published in Nutrients.
+-                          The intricate relationship between dietary habits and human health, mediated by
+-                    the gut microbiome, has become a focal point of research in recent years [1,2]. As a
+-                    complex and dynamically evolving ecosystem, the gut microbiome plays a critical role
+-                    in host metabolism, immunity, and neurological function [3,4]. Diet acts as a primary
+-                    modulator of gut microbiota composition, which subsequently influences the development
+-                    and progression of various diseases [2]. This Special Issue, “Dietary Habit, Gut Microbiome,
+-                    and Human Health”, compiles a series of cutting-edge articles that explore the interplay
+-                    between diet, the gut microbiome, and human health. The nine included studies cover a
+-                    broad spectrum of topics, ranging from the impact of specific dietary components on the
+-                    gut microbiota to the therapeutic potential of dietary interventions in the prevention and
+-                    management of diseases such as obesity, diabetes, autoimmune thyroid disease, cognitive
+-                    impairments and endemic osteoarthritis. These articles not only provide novel insights into
+-                    the mechanisms underlying diet–microbiome interactions but also underscore the potential
+-                    of targeting the gut microbiome to facilitate disease prevention and treatment, thereby
+-                    offering valuable guidance for future research and clinical practice in this domain.
+-                          Hernandez et al. investigate the effects of time-restricted feeding on cognitive function
+-                    and gut microbiome composition in aging rats. Comparing time-restricted feeding with a
+-                    ketogenic diet and a calorically matched control diet, they demonstrate that time-restricted

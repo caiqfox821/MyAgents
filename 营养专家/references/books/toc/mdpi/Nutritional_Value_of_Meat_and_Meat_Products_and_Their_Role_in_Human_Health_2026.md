@@ -1,0 +1,79 @@
+# Nutritional Value of Meat and Meat Products and Their Role in Human Health (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7273-2
+- 页数: 266
+- 全文: `text/mdpi/Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health_2026.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Joanna Stadnik
+- Nutritional Value of Meat and Meat Products and Their Role in Human Health—2nd Edition
+- Reprinted from: Nutrients 2026, 18, 137, https://doi.org/10.3390/nu18010137 . . . . . . . . . . .             1
+- Jhazmin Quizhpe, Pablo Ayuso, Fani Yepes, Domingo Miranzo, Antonio Avellaneda,
+- Gema Nieto and Gaspar Ros
+- Exploring the Health Effects of New Additive- and Allergen-Free Reformulated Cooked Meat
+- Products: Consumer Survey, Clinical Trial, and Perceived Satiety
+- Reprinted from: Nutrients 2025, 17, 1616, https://doi.org/10.3390/nu17101616 . . . . . . . . . .              6
+- Sharfa Khaleel, Tareq Osaili, Dana N. Abdelrahim, Falak Zeb, Farah Naja, Hadia Radwan,
+- et al.
+- Attachment to Meat and Willingness Towards Cultured Alternatives Among Consumers: A
+- Cross-Sectional Study in the UAE
+- Reprinted from: Nutrients 2025, 17, 28, https://doi.org/10.3390/nu17010028 . . . . . . . . . . . . 31
+- Hannah F. Fuerniss, Cody L. Gifford, Emma G. Mortensen, Keith E. Belk, Terry E. Engle and
+- Dale R. Woerner
+- Nutrient Analysis of Raw United States Beef Offal Items
+- Reprinted from: Nutrients 2024, 16, 3104, https://doi.org/10.3390/nu16183104 . . . . . . . . . . 53
+- Emma G. Mortensen, Hannah F. Fuerniss, Jerrad F. Legako, Leslie D. Thompson and
+- Dale R. Woerner
+- Nutrient Analysis of Raw and Cooked USDA Prime Beef Cuts
+- Reprinted from: Nutrients 2024, 16, 2912, https://doi.org/10.3390/nu16172912 . . . . . . . . . . 75
+- Benjamin Barr and Lauren Gollahon
+- The Modiﬁcation of Dietary Protein with Ammonium Hydroxide Enhancement Improves
+- Longevity and Metabolic Outcomes in a Sex-Dependent Manner
+- Reprinted from: Nutrients 2024, 16, 2787, https://doi.org/10.3390/nu16162787 . . . . . . . . . . 99
+- John W. Wilson, Tyler W. Thompson, Yuren Wei, Jacqueline M. Chaparro, Valerie J. Stull,
+- Mahesh N. Nair and Tiffany L. Weir
+- Comparison of the In Vitro Iron Bioavailability of Tempeh Made with Tenebrio molitor to Beef and
+- Plant-Based Meat Alternatives
+- Reprinted from: Nutrients 2024, 16, 2756, https://doi.org/10.3390/nu16162756 . . . . . . . . . . 120
+- Ruojin Fu, Xuechen Chen, Teresa Seum, Michael Hoffmeister and Hermann Brenner
+- Red and Processed Meat Intake, Polygenic Risk and the Prevalence of Colorectal Neoplasms:
+- Results from a Screening Colonoscopy Population
+- Reprinted from: Nutrients 2024, 16, 2609, https://doi.org/10.3390/nu16162609 . . . . . . . . . . 133
+- Erica R Hill, Yu Wang, Eric M Davis and Wayne W Campbell
+- Healthy Dietary Patterns with and without Meat Improved Cardiometabolic Disease Risk Factors
+- in Adults: A Randomized Crossover Controlled Feeding Trial
+- Reprinted from: Nutrients 2024, 16, 2542, https://doi.org/10.3390/nu16152542 . . . . . . . . . . 145
+- Sanjiv Agarwal and Victor L. Fulgoni III
+- Beef Consumption Is Associated with Higher Intakes and Adequacy of Key Nutrients in Older
+- Adults Age 60+ Years: National Health and Nutrition Examination Survey 2011–2018 Analysis
+- Reprinted from: Nutrients 2024, 16, 1779, https://doi.org/10.3390/nu16111779 . . . . . . . . . . 158
+-                                                        v
+- Rossella Donghia, Rossella Tatoli, Angelo Campanella, Francesco Cuccaro, Caterina Bonﬁglio
+- and Gianluigi Giannelli
+- Adding a Leafy Vegetable Fraction to Diets Decreases the Risk of Red Meat Mortality in MASLD
+- Subjects: Results from the MICOL Cohort
+- Reprinted from: Nutrients 2024, 16, 1207, https://doi.org/10.3390/nu16081207 . . . . . . . . . . 171
+- Sanjiv Agarwal and Victor L. Fulgoni III
+- Contribution of Beef to Key Nutrient Intakes and Nutrient Adequacy in Pregnant and Lactating
+- Women: NHANES 2011–2018 Analysis
+- Reprinted from: Nutrients 2024, 16, 981, https://doi.org/10.3390/nu16070981 . . . . . . . . . . . 183
+- Lucía Rizzolo-Brime, Andreu Farran-Codina, Ricard Bou, Leila Luján-Barroso,
+- Jose Ramón Quirós, Pilar Amiano, et al.
+- Nitrosyl-Heme and Heme Iron Intake from Processed Meats in Subjects from the EPIC-Spain
+- Cohort
+- Reprinted from: Nutrients 2024, 16, 878, https://doi.org/10.3390/nu16060878 . . . . . . . . . . . 193
+- José A. M. Prates
+- The Role of Meat Lipids in Nutrition and Health: Balancing Beneﬁts and Risks
+- Reprinted from: Nutrients 2025, 17, 350, https://doi.org/10.3390/nu17020350 . . . . . . . . . . . 209
+- Agnieszka Latoch, Dariusz Mirosław Stasiak and Patryk Siczek
+- Edible Offal as a Valuable Source of Nutrients in the Diet—A Review
+- Reprinted from: Nutrients 2024, 16, 1609, https://doi.org/10.3390/nu16111609 . . . . . . . . . . 224
+-                                                  vi
+- About the Editor
+- Joanna Stadnik
+-     Joanna Stadnik is a professor at the Department of Animal Food Technology in the Faculty of
+- Food Science and Biotechnology, University of Life Sciences in Lublin, Poland. Her research focuses

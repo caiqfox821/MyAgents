@@ -1,0 +1,80 @@
+# Temporal Resolution, a Key Factor in Environmental Risk Assessment (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1888-4
+- 页数: 274
+- 全文: `text/mdpi/Temporal_Resolution_a_Key_Factor_in_Environmental_Risk_Assessment_2024.txt`
+- 标签: 风险评估, 环境与生态毒理, ms
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Cristian Vasilică Secu, Cristian Constantin Stoleriu, Cristian Dan Lesenciuc and Adrian Ursu
+- Normalized Sand Index for Identiﬁcation of Bare Sand Areas in Temperate Climates Using
+- Landsat Images, Application to the South of Romania
+- Reprinted from: Remote Sens. 2022, 14, 3802, doi:10.3390/rs14153802 . . . . . . . . . . . . . . . .               1
+- Jiao Wu, Zhijun Zhang, Qinjie He and Guorui Ma
+- Spatio-Temporal Analysis of Ecological Vulnerability and Driving Factor Analysis in the
+- Dongjiang River Basin, China, in the Recent 20 Years
+- Reprinted from: Remote Sens. 2021, 13, 4636, doi:10.3390/rs13224636 . . . . . . . . . . . . . . . . 23
+- Cătălin I. Cı̂mpianu, Alin Mihu-Pintilie, Cristian C. Stoleriu, Andrei Urzică and Elena
+- Huţanu
+- Managing Flood Hazard in a Complex Cross-Border Region Using Sentinel-1 SAR and
+- Sentinel-2 Optical Data: A Case Study from Prut River Basin (NE Romania)
+- Reprinted from: Remote Sens. 2021, 13, 4934, doi:10.3390/rs13234934 . . . . . . . . . . . . . . . . 44
+- Manob Das, Arijit Das, Paulo Pereira and Asish Mandal
+- Mapping the Impact of COVID-19 Lockdown on Urban Surface Ecological Status (USES): A
+- Case Study of Kolkata Metropolitan Area (KMA), India
+- Reprinted from: Remote Sens. 2021, 13, 4395, doi:10.3390/rs13214395 . . . . . . . . . . . . . . . . 65
+- Alin Mihu-Pintilie, Casandra Bras, oveanu and Cristian Constantin Stoleriu
+- Using UAV Survey, High-Density LiDAR Data and Automated Relief Analysis for Habitation
+- Practices Characterization during the Late Bronze Age in NE Romania
+- Reprinted from: Remote Sens. 2022, 14, 2466, doi:10.3390/rs14102466 . . . . . . . . . . . . . . . . 85
+- Ilinca-Valentina Stoica, Daniela Zamﬁr and Marina Vı̂rghileanu
+- Evaluating the Territorial Impact of Built-Up Area Expansion in the Surroundings of Bucharest
+- (Romania) through a Multilevel Approach Based on Landsat Satellite Imagery
+- Reprinted from: Remote Sens. 2021, 13, 3969, doi:10.3390/rs13193969 . . . . . . . . . . . . . . . . 105
+- Yan Zhong, Qiao Liu, Liladhar Sapkota, Yunyi Luo, Han Wang, Haijun Liao and Yanhong
+- Wu
+- Rapid Glacier Shrinkage and Glacial Lake Expansion of a China-Nepal Transboundary
+- Catchment in the Central Himalayas, between 1964 and 2020
+- Reprinted from: Remote Sens. 2021, 13, 3614, doi:10.3390/rs13183614 . . . . . . . . . . . . . . . . 130
+- Huilin Yu, Qiannan Ding, Baoping Meng, Yanyan Lv, Chang Liu, Xinyu Zhang, et al.
+- The Relative Contributions of Climate and Grazing on the Dynamics of Grassland NPP and
+- PUE on the Qinghai-Tibet Plateau
+- Reprinted from: Remote Sens. 2021, 13, 3424, doi:10.3390/rs13173424 . . . . . . . . . . . . . . . . 150
+- Zhipeng Sun and Xiaojing Niu
+- Variation Tendency of Coastline under Natural and Anthropogenic Disturbance around the
+- Abandoned Yellow River Delta in 1984–2019
+- Reprinted from: Remote Sens. 2021, 13, 3391, doi:10.3390/rs13173391 . . . . . . . . . . . . . . . . 167
+-                                                          v
+- Chong Liu, Huabing Huang, Fengming Hui, Ziqian Zhang and Xiao Cheng
+- Fine-Resolution Mapping of Pan-Arctic Lake Ice-Off Phenology Based on Dense Sentinel-2 Time
+- Series Data
+- Reprinted from: Remote Sens. 2021, 13, 2742, doi:10.3390/rs13142742 . . . . . . . . . . . . . . . . 186
+- Radu-Vlad Dobri, Lucian Sfı̂că, Vlad-Alexandru Amihăesei, Liviu Apostol and Simona
+- T, ı̂mpu
+- Drought Extent and Severity on Arable Lands in Romania Derived from Normalized Difference
+- Drought Index (2001–2020)
+- Reprinted from: Remote Sens. 2021, 13, 1478, doi:10.3390/rs13081478 . . . . . . . . . . . . . . . . 203
+- Huu Duy Nguyen, Dennis Fox, Dinh Kha Dang, Le Tuan Pham, Quan Vu Viet Du, Thi Ha
+- Thanh Nguyen, et al.
+- Predicting Future Urban Flood Risk Using Land Change and Hydraulic Modeling in a River
+- Watershed in the Central Province of Vietnam
+- Reprinted from: Remote Sens. 2021, 13, 262, doi:10.3390/rs13020262 . . . . . . . . . . . . . . . . . 225
+- Jinxiu Liu, Eduardo Eiji Maeda, Du Wang and Janne Heiskanen
+- Sensitivity of Spectral Indices on Burned Area Detection using Landsat Time Series in Savannas
+- of Southern Burkina Faso
+- Reprinted from: Remote Sens. 2021, 13, 2492, doi:10.3390/rs13132492 . . . . . . . . . . . . . . . . 249
+-                                                    vi
+- About the Editors
+- Adrian Ursu
+-     Adrian Ursu, PhD., is an associate professor in the Department of Geography at the Faculty of
+- Geography and Geology, Alexandru Ioan Cuza University, Iasi, Romania. His scientiﬁc interests are
+- environmental science, remote sensing, GIS, nature conservation, environmental geography, land use
+- change, risk assessment, and heritage. He has participated in international projects such as Corine
+- Land Cover 2000 and Corine Land Cover 2006 for Romania, funded by the European Environment
+- Agency, and other national research projects concerning risk assessment, sustainable development,
+- and land degradation, GIS for Natura 2000 sites and noise pollution modeling in urban areas. He is
+- Editor-in-Chief of the journal Present Environment and Sustainable Development (ESCI -Clarivate),

@@ -1,0 +1,81 @@
+# Sustainable Functional Food Processing (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-5302-3
+- 页数: 456
+- 全文: `text/mdpi/Sustainable_Functional_Food_Processing_2022.txt`
+- PDF: `mdpi/Sustainable_Functional_Food_Processing_2022.pdf`
+- 标签: 功能食品, 加工工艺, 可持续
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Predrag Putnik and Danijela Bursać Kovačević
+- Sustainable Functional Food Processing
+- Reprinted from: Foods 2021, 10, 1438, doi:10.3390/foods10071438
+- ix
+- . . . . . . . . . . . . . . . . . .
+- 1
+- Boris Duralija, Predrag Putnik, Dora Brdar, Anica Bebek Markovinović, Sandra Zavadlav,
+- Mirian Pateiro, Rubén Domı́nguez, José M. Lorenzo and Danijela Bursać Kovačević
+- The Perspective of Croatian Old Apple Cultivars in Extensive Farming for the Production of
+- Functional Foods
+- Reprinted from: Foods 2021, 10, 708, doi:10.3390/foods10040708 . . . . . . . . . . . . . . . . . . .
+- 5
+- Tri Thanh Nguyen, Carmen Rosello, Richard Bélanger and Cristina Ratti
+- Fate of Residual Pesticides in Fruit and Vegetable Waste (FVW) Processing
+- Reprinted from: Foods 2020, 9, 1468, doi:10.3390/foods9101468 . . . . . . . . . . . . . . . . . . . . 35
+- Akama Friday Ogori, Julius Amove, Precious Aduloju, Giacomo Sardo,
+- Charles Odilichukwu R. Okpala, Gioacchino Bono and Małgorzata Korzeniowska
+- Functional and Quality Characteristics of Ginger, Pineapple, and Turmeric Juice Mix as
+- Influenced by Blend Variations
+- Reprinted from: Foods 2021, 10, 525, doi:10.3390/foods10030525 . . . . . . . . . . . . . . . . . . . 73
+- Leidy Indira Hinestroza-Córdoba, Stevens Duarte Serna, Lucı́a Seguı́, Cristina Barrera and
+- Noelia Betoret
+- Characterization of Powdered Lulo (Solanum quitoense) Bagasse as a Functional Food Ingredient
+- Reprinted from: Foods 2020, 9, 723, doi:10.3390/foods9060723 . . . . . . . . . . . . . . . . . . . . 89
+- Yihan Liu, Sanaa Ragaee, Massimo F. Marcone and El-Sayed M. Abdel-Aal
+- Composition of Phenolic Acids and Antioxidant Properties of Selected Pulses Cooked with
+- Different Heating Conditions
+- Reprinted from: Foods 2020, 9, 908, doi:10.3390/foods9070908 . . . . . . . . . . . . . . . . . . . . 105
+- Biancamaria Senizza, Leilei Zhang, Begoña Miras-Moreno, Laura Righetti, Gokhan Zengin,
+- Gunes Ak, Renato Bruni, Luigi Lucini, Maria Isabella Sifola, Christophe El-Nakhel,
+- Giandomenico Corrado and Youssef Rouphael
+- The Strength of the Nutrient Solution Modulates the Functional Proﬁle of Hydroponically
+- Grown Lettuce in a Genotype-Dependent Manner
+- Reprinted from: Foods 2020, 9, 1156, doi:10.3390/foods9091156 . . . . . . . . . . . . . . . . . . . . 123
+- Jarkko Hellström, Daniel Granato and Pirjo H. Mattila
+- Accumulation of Phenolic Acids during Storage over Differently Handled Fresh Carrots
+- Reprinted from: Foods 2020, 9, 1515, doi:10.3390/foods9101515 . . . . . . . . . . . . . . . . . . . . 141
+- Predrag Putnik, Branimir Pavlić, Branislav Šojić, Sandra Zavadlav, Irena Žuntar, Leona Kao,
+- Dora Kitonić and Danijela Bursać Kovačević
+- Innovative Hurdle Technologies for the Preservation of Functional Fruit Juices
+- Reprinted from: Foods 2020, 9, 699, doi:10.3390/foods9060699 . . . . . . . . . . . . . . . . . . . . 155
+- Veronika Barisić, Ivana Flanjak, Mirela Kopjar, Mirta Bensić, Antun Jozinović, Jurislav
+- Babić, Drago Subarić, Borislav Milicević, Kristina Doko, Midhat Jasić and Durdica Ackar
+- Does High Voltage Electrical Discharge Treatment Induce Changes in Tannin and Fiber
+- Properties of Cocoa Shell?
+- Reprinted from: Foods 2020, 9, 810, doi:10.3390/foods9060810 . . . . . . . . . . . . . . . . . . . . 191
+- v
+- Adegoke Olusesan Adetoro, Umezuruike Linus Opara and Olaniyi Amos Fawole
+- Effect of Carrier Agents on the Physicochemical and Technofunctional Properties and
+- Antioxidant Capacity of Freeze-Dried Pomegranate Juice (Punica granatum) Powder
+- Reprinted from: Foods 2020, 9, 1388, doi:10.3390/foods9101388 . . . . . . . . . . . . . . . . . . . . 207
+- Cicerón González-Toxqui, Álvaro González-Ángeles, Roberto López-Avitia and
+- David González-Balvaneda
+- Drying Habanero Pepper (Capsicum chinense) by Modified Freeze Drying Process
+- Reprinted from: Foods 2020, 9, 437, doi:10.3390/foods9040437 . . . . . . . . . . . . . . . . . . . . 227
+- Weipeng Zhang, Chang Chen, Zhongli Pan and Zhian Zheng
+- Vacuum and Infrared-Assisted Hot Air Impingement Drying for Improving the Processing
+- Performance and Quality of Poria cocos (Schw.) Wolf Cubes
+- Reprinted from: Foods 2021, 10, 992, doi:10.3390/foods10050992 . . . . . . . . . . . . . . . . . . . 235
+- Cristina M. González, Rebeca Gil, Gemma Moraga and Alejandra Salvador
+- Natural Drying of Astringent and Non-Astringent Persimmon “Rojo Brillante”. Drying Kinetics
+- and Physico-Chemical Properties
+- Reprinted from: Foods 2021, 10, 647, doi:10.3390/foods10030647 . . . . . . . . . . . . . . . . . . . 253
+- Gabriel-Dănut, Mocanu, Ana Cosmina Chirilă, Aida Mihaela Vasile,
+- Doina Georgeta Andronoiu, Oana-Viorela Nistor, Vasilica Barbu and Nicoleta Stănciuc
+- Tailoring the Functional Potential of Red Beet Purées by Inoculation with Lactic Acid Bacteria
+- and Drying
+- Reprinted from: Foods 2020, 9, 1611, doi:10.3390/foods9111611 . . . . . . . . . . . . . . . . . . . . 265
+- Sandra Zavadlav, Marijana Blažić, Franco Van de Velde, Charito Vignatti, Cecilia Fenoglio,

@@ -1,0 +1,61 @@
+# Home and Farm Food Preservation (1918, Archive.org)
+
+- 作者: William V. Cruess
+- 许可: Public Domain
+- 来源: https://archive.org/details/homefarmfoodpres00crue
+- 页数: 314
+- 全文: `text/public_domain/Home_and_Farm_Food_Preservation_1918.txt`
+- PDF: `public_domain/Home_and_Farm_Food_Preservation_1918.pdf`
+- 标签: 保藏, 果蔬加工, 历史经典
+
+## 目录 (Contents)
+
+- PART
+- THEORY OF FOOD PRESERVATION
+- I.
+- CHAPTER
+- Why
+- I
+- Food Spoils
+- page
+- 1.
+- Molds
+- 2.
+- Yeasts
+- 3.
+- Bacteria
+- 4.
+- Spoiling of Foods
+- by Chemical and Physical Changes ....
+- CHAPTER
+- II
+- Ways of Preventing
+- A.
+- Asepsis
+- 6.
+- Cold Storage
+- 9
+- 9
+- 9
+- 7.
+- Exclusion of Moisture
+- 10
+- 8.
+- Use
+- 10
+- 9.
+- 10.
+- B.
+- Spoiling
+- Temporary Prevention of Spoiling
+- 5.
+- 3
+- 5
+- 6
+- 7
+- of
+- Mild Antiseptics
+- Pasteurization as a
+- Means
+- of
+- Temporary Preservation.

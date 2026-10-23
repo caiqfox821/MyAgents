@@ -1,0 +1,80 @@
+# Quantitative Assessment of Environmental/Human Health Risks (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-5852-3
+- 页数: 178
+- 全文: `text/mdpi/Quantitative_Assessment_of_Environmental_Human_Health_Risks_2022.txt`
+- 标签: risk, 环境与生态毒理, 定量与验证
+
+## 目录 (Contents)
+
+- Riccardo Petrini, Lisa Ghezzi, Simone Arrighi, Lisa Genovesi, Chiara Frassi and Luca
+- Pandolﬁ
+- Trace Elements in Soil and Urban Groundwater in an Area Impacted by Metallurgical Activity:
+- Health Risk Assessment in the Historical Barga Municipality (Tuscany, Italy)
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 13419, doi:10.3390/ijerph192013419 .    1
+- Qianlei Yang, Rui Yan, Yuemei Mo, Haixuan Xia, Hanyi Deng, Xiaojuan Wang, Chunchun
+- Li, Koichi Kato, Hengdong Zhang, Tingxu Jin, Jie Zhang and Yan An
+- The Potential Key Role of the NRF2/NQO1 Pathway in the Health Effects of Arsenic Pollution
+- on SCC
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 8118, doi:10.3390/ijerph19138118 . . . 19
+- Bin Zhang, Ying Yang, Wenjia Xie, Wei He, Jia Xie and Wei Liu
+- Identifying Algicides of Enterobacter hormaechei F2 for Control of the Harmful Alga Microcystis
+- aeruginosa
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 7556, doi:10.3390/ijerph19137556 . . . 35
+- Yan Yang, Mengdi Zhang, Haojia Chen, Zenghua Qi, Chengcheng Liu, Qiang Chen and Tao
+- Long
+- Estimation of Children’s Soil and Dust Ingestion Rates and Health Risk at E-Waste Dismantling
+- Area
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 7332, doi:10.3390/ijerph19127332 . . . 51
+- Yue Lang, Yanan Yu, Hongtao Zou, Jiexu Ye and Shihan Zhang
+- Performance and Mechanisms of Sulﬁdated Nanoscale Zero-Valent Iron Materials for Toxic TCE
+- Removal from the Groundwater
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 6299, doi:10.3390/ijerph19106299 . . . 65
+- Ruonan Wang, Aoyuan Yu, Tianlei Qiu, Yajie Guo, Haoze Gao, Xingbin Sun, Min Gao and
+- Xuming Wang
+- Aerosolization Behaviour of Fungi and Its Potential Health Effects during the Composting of
+- Animal Manure
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 5644, doi:10.3390/ijerph19095644 . . . 77
+- Junzhi Zhang, Xiao He, Huixin Zhang, Yu Liao, Qi Wang, Luwei Li and Jianwei Yu
+- Factors Driving Microbial Community Dynamics and Potential Health Effects of Bacterial
+- Pathogen on Landscape Lakes with Reclaimed Water Replenishment in Beijing, PR China
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 5127, doi:10.3390/ijerph19095127 . . . 93
+- Qingman Li, Jie Liang, Qun Wang, Yuntong Chen, Hongyu Yang, Hong Ling, Zhiwen Luo
+- and Jian Hang
+- Numerical Investigations of Urban Pollutant Dispersion and Building Intake Fraction with
+- Various 3D Building Conﬁgurations and Tree Plantings
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 3524, doi:10.3390/ijerph19063524 . . . 105
+- Xin Kang, Dongpeng Li, Xiaoxiang Zhao, Yanfeng Lv, Xi Chen, Xinshan Song, Xiangyu Liu,
+- Chengrong Chen and Xin Cao
+- Long-Term Exposure to Phenanthrene Induced Gene Expressions and Enzyme Activities of
+- Cyprinus carpio below the Safe Concentration
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 2129, doi:10.3390/ijerph19042129 . . . 139
+- Zhihong Zheng and Xiaohan Duan
+- Mitigating the Health Effects of Aqueous Cr(VI) with Iron-Modiﬁed Biochar
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 1481, doi:10.3390/ijerph19031481 . . . 153
+-                                                    v
+-               International Journal of
+-               Environmental Research
+-               and Public Health
+- Article
+- Trace Elements in Soil and Urban Groundwater in an Area
+- Impacted by Metallurgical Activity: Health Risk Assessment in
+- the Historical Barga Municipality (Tuscany, Italy)
+- Riccardo Petrini, Lisa Ghezzi *, Simone Arrighi, Lisa Genovesi, Chiara Frassi and Luca Pandolﬁ
+-                                           Department of Earth Sciences, University of Pisa, Via S. Maria 53, 56126 Pisa, Italy
+-                                           * Correspondence: lisa.ghezzi@unipi.it; Tel.: +39-050-2215787
+-                                           Abstract: Trace elements were measured in soil and groundwater collected within the Fornaci di
+-                                           Barga urban area (Serchio River Valley, Tuscany, Italy), a territory that integrates natural assets
+-                                           with touristic vocation, impacted by long-lasting metallurgical activity. Epidemiological studies
+-                                           highlighted that the area surrounding the industrial plants is characterized by a persistent excess of
+-                                           diseases, attributed to heavy metal pollution. Soils were taken in school gardens, public parks, sport
+-                                           grounds and roadsides. The results indicate that Cu, Zn and Cd represent the main contaminants in
+-                                           surface soil, likely originated by deposition of airborne particulate matter from metallurgical activity.
+-                                           Risk assessment considering soil ingestion and dermal contact exposure routes revealed that the
+-                                           cadmium Hazard Quotient approaches unity for children, and the cadmium risk-based concentration
+-                                           obtained by combining exposure information with toxicity data is only slightly lower compared
+-                                           with the cadmium maximum concentration actually measured in soil. Groundwater does not show
+- Citation: Petrini, R.; Ghezzi, L.;
+-                                           evidence of trace metal contamination, suggesting that the migration of contaminants from soil to
+- Arrighi, S.; Genovesi, L.; Frassi, C.;    subsurface is a slow process. However, assessment of the possible interconnections between shallow

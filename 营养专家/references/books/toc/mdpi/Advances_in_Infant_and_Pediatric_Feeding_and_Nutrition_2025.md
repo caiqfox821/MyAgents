@@ -1,0 +1,80 @@
+# Advances in Infant and Pediatric Feeding and Nutrition (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5090-7
+- 页数: 266
+- 全文: `text/mdpi/Advances_in_Infant_and_Pediatric_Feeding_and_Nutrition_2025.txt`
+- 标签: 母婴/儿童
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Jann Foster
+- Advances in Infant and Pediatric Feeding and Nutrition
+- Reprinted from: Nutrients 2025, 17, 2378, https://doi.org/10.3390/nu17142378 . . . . . . . . . .                  1
+- Iqra Ashraf, Prince L. Bestman, Abdullah A. Assiri, Ghulam Mustafa Kamal, Jalal Uddin,
+- Jiayou Luo, et al.
+- Status of Inappropriate Complementary Feeding and Its Associated Factors Among Infants of
+- 9–23 Months
+- Reprinted from: Nutrients 2024, 16, 4379, https://doi.org/10.3390/nu16244379 . . . . . . . . . .                  6
+- Debby Guevara, Ascensión Marcos, Fátima Isabel Ruiz, Sonia Gómez-Martı́nez and Susana
+- del Pozo
+- A Descriptive Study of Spanish and Ecuadorian Commercial Infant Cereals: Are They in Line
+- with Current Recommendations?
+- Reprinted from: Nutrients 2024, 16, 1992, https://doi.org/10.3390/nu16131992 . . . . . . . . . . 24
+- Manja Fleddermann, Anette Knoll and Berthold Koletzko
+- Safety and Suitability of Infant Formula Manufactured from Extensively Hydrolyzed
+- Whey Protein Compared to Intact Protein: A Combined Analysis of Two Randomized
+- Controlled Studies
+- Reprinted from: Nutrients 2024, 16, 245, https://doi.org/10.3390/nu16020245 . . . . . . . . . . . 43
+- Ayu Kasamatsu, Hiroshi Tachimoto and Mitsuyoshi Urashima
+- Impact of Maternal Fish Consumption on Serum Docosahexaenoic Acid (DHA) Levels in
+- Breastfed Infants: A Cross-Sectional Study of a Randomized Clinical Trial in Japan
+- Reprinted from: Nutrients 2023, 15, 4338, https://doi.org/10.3390/nu15204338 . . . . . . . . . . 59
+- Marina Liliana González-Torres, Xochitl Garza-Olivares, Gabriela Navarro-Contreras and
+- Lidia Alejandra González-Orozco
+- Validation of the Scale on Parental Feeding Behaviors (ECOPAL) for Caregivers of Mexican
+- Children
+- Reprinted from: Nutrients 2023, 15, 3698, https://doi.org/10.3390/nu15173698 . . . . . . . . . . 76
+- Agnieszka Białek-Dratwa and Oskar Kowalski
+- Prevalence of Feeding Problems in Children and Associated Factors—A Cross-Sectional Study
+- among Polish Children Aged 2–7 Years
+- Reprinted from: Nutrients 2023, 15, 3185, https://doi.org/10.3390/nu15143185 . . . . . . . . . . 95
+- David R. Hill and Rachael H. Buck
+- Infants Fed Breastmilk or 2 -FL Supplemented Formula Have Similar Systemic Levels of
+- Microbiota-Derived Secondary Bile Acids
+- Reprinted from: Nutrients 2023, 15, 2339, https://doi.org/10.3390/nu15102339 . . . . . . . . . . 110
+- Ahmet Alperen Canbolat, Mauro Lombardo, Alicia del Carmen Mondragon, Jose Manuel
+- Miranda López, Mikhael Bechelany and Sercan Karav
+- Bovine Colostrum in Pediatric Nutrition and Health
+- Reprinted from: Nutrients 2024, 16, 4305, https://doi.org/10.3390/nu16244305 . . . . . . . . . . 126
+-                                                          v
+- Anita Froń and Magdalena Orczyk-Pawiłowicz
+- Breastfeeding Beyond Six Months: Evidence of Child Health Beneﬁts
+- Reprinted from: Nutrients 2024, 16, 3891, https://doi.org/10.3390/nu16223891 . . . . . . . . . . 155
+- Yuting Fan, Arden L. McMath and Sharon M. Donovan
+- Review on the Impact of Milk Oligosaccharides on the Brain and Neurocognitive Development
+- in Early Life
+- Reprinted from: Nutrients 2023, 15, 3743, https://doi.org/10.3390/nu15173743 . . . . . . . . . . 181
+- Giannoula Gialeli, Ourania Panagopoulou, Georgios Liosis and Tania Siahanidou
+- Potential Epigenetic Effects of Human Milk on Infants’ Neurodevelopment
+- Reprinted from: Nutrients 2023, 15, 3614, https://doi.org/10.3390/nu15163614 . . . . . . . . . . 218
+- Sheetal Kiran Shrestha, Amit Arora, Narendar Manohar, Kanchana Ekanayake and Jann
+- Foster
+- Association of Breastfeeding and Early Childhood Caries: A Systematic Review and Meta-
+- Analysis
+- Reprinted from: Nutrients 2024, 16, 1355, https://doi.org/10.3390/nu16091355 . . . . . . . . . . 233
+-                                                  vi
+- About the Editor
+- Jann Foster
+-      Jann Foster is a Senior Lecturer at the School of Nursing and Midwifery, Western Sydney
+- University. Jann holds a master’s in health science education and completed her PhD in 2011. She
+- has substantial experience as a researcher, educator, and coordinator of research projects at the local,
+- state, national, and international levels. She undertakes research projects that investigate the practical
+- aspects of neonatal care, and has over 70 peer-reviewed nursing and medical journal publications.
+- Her work in undertaking systematic reviews has also resulted in her providing recommendations
+- critical to safe and effective neonatal and pediatric clinical practice. Her international standing as a
+- researcher has been recognized by Stanford University through Elsevier’s World Top 2% Scientists
+- List 2024, a yearly ranking of the world’s most inﬂuential researchers, including those who have had
+- a signiﬁcant impact in a single year.

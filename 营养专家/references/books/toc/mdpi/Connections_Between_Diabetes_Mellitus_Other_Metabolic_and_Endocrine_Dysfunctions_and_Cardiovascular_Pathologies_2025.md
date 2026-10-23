@@ -1,0 +1,80 @@
+# Connections Between Diabetes Mellitus, Other Metabolic and Endocrine Dysfunctions and Cardiovascular Pathologies (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5096-9
+- 页数: 302
+- 全文: `text/mdpi/Connections_Between_Diabetes_Mellitus_Other_Metabolic_and_Endocrine_Dysfunctions_and_Cardiovascular_Pathologies_2025.txt`
+- 标签: 糖尿病, 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Cristina Tudoran
+- Connections Between Diabetes Mellitus, Other Metabolic and Endocrine Dysfunctions, and
+- Cardiovascular Pathologies
+- Reprinted from: Biomedicines 2025, 13, 1980, https://doi.org/10.3390/biomedicines13081980 . .                     1
+- Silviu Marcel Stanciu, Mariana Jinga, Daniela Miricescu, Constantin Stefani, Remus Iulian
+- Nica, Iulia-Ioana Stanescu-Spinu, et al.
+- mTOR Dysregulation, Insulin Resistance, and Hypertension
+- Reprinted from: Biomedicines 2024, 12, 1802, https://doi.org/10.3390/biomedicines12081802 . .                     7
+- Laura Andreea Ghenciu, Mirabela Dima, Emil Robert Stoicescu, Roxana Iacob, Casiana Boru
+- and Ovidiu Alin Hat, egan
+- Retinal Imaging-Based Oculomics: Artiﬁcial Intelligence as a Tool in the Diagnosis of
+- Cardiovascular and Metabolic Diseases
+- Reprinted from: Biomedicines 2024, 12, 2150, https://doi.org/10.3390/biomedicines12092150 . . 25
+- Petru Baneu, Cristina Văcărescu, Simona-Ruxanda Drăgan, Liviu Cirin, Alexandra-Iulia
+- Lazăr-Höcher, Andreea Cozgarea, et al.
+- The Triglyceride/HDL Ratio as a Surrogate Biomarker for Insulin Resistance
+- Reprinted from: Biomedicines 2024, 12, 1493, https://doi.org/10.3390/biomedicines12071493 . . 46
+- Maria Mogos, Oana Milas, Carmen Socaciu, Andreea Iulia Socaciu, Adrian Vlad, Florica
+- Gadalean, et al.
+- Urinary and Serum Amino Acids May Be Associated with Podocyte, Proximal Tubule, and Renal
+- Endothelial Injury in Early Diabetic Kidney Disease in Type 2 Diabetes Mellitus Patients
+- Reprinted from: Biomedicines 2025, 13, 675, https://doi.org/10.3390/biomedicines13030675 . . . 61
+- Alexandra Ioana Popescu, Andreea Luciana Rata, Sorin Barac, Roxana Popescu, Roxana
+- Ramona Onofrei, Cristian Vlad and Daliborca Vlad
+- Narrative Review of Biological Markers in Chronic Limb-Threatening Ischemia
+- Reprinted from: Biomedicines 2024, 12, 798, https://doi.org/10.3390/biomedicines12040798 . . . 75
+- Adriana Ivanescu, Simona Popescu, Radu Ivanescu, Monica Potra and Romulus Timar
+- Predictors of Diabetic Retinopathy in Type 2 Diabetes: A Cross-Sectional Study
+- Reprinted from: Biomedicines 2024, 12, 1889, https://doi.org/10.3390/biomedicines12081889 . . 91
+- Xiya Li, Xiaoyang Zhou and Ling Gao
+- Diabetes and Heart Failure: A Literature Review, Reﬂection and Outlook
+- Reprinted from: Biomedicines 2024, 12, 1572, https://doi.org/10.3390/biomedicines12071572 . . 105
+- Bogdan-Sorin Tudurachi, Larisa Anghel, Andreea Tudurachi, Radu Andy Sascău,
+- Răzvan-Liviu Zanﬁrescu and Cristian Stătescu
+- Unraveling the Cardiac Matrix: From Diabetes to Heart Failure, Exploring Pathways and
+- Potential Medications
+- Reprinted from: Biomedicines 2024, 12, 1314, https://doi.org/10.3390/biomedicines12061314 . . 125
+- Julia F. Semenova, Anton Yu. Yushin, Anton I. Korbut and Vadim V. Klimontov
+- Glucose Variability in People with Type 1 Diabetes: Associations with Body Weight, Body
+- Composition, and Insulin Sensitivity
+- Reprinted from: Biomedicines 2024, 12, 2006, https://doi.org/10.3390/biomedicines12092006 . . 150
+-                                                          v
+- Andreas Krieg, Sarah Krieg, Andreas Heuser, Ulrich Laverenz, Valentin-Alin Istrate, Matthias
+- Schott and Karel Kostev
+- Exploring the Spectrum of Comorbidities Associated with Primary Aldosteronism: Insights from
+- a Large Real-World Case-Control Study
+- Reprinted from: Biomedicines 2024, 12, 2479, https://doi.org/10.3390/biomedicines12112479 . . 164
+- Muntean Mihai, Săsăran Vladut, Pop Gheorghe Lucian, Muntean Elena Irina, Nyulas Victoria
+- and Mărginean Claudiu
+- Subclinical Hypothyroidism and Gestational Hypertensive Disorders in a Cohort of Romanian
+- Pregnant Women with Gestational Diabetes Mellitus: A Pilot Study
+- Reprinted from: Biomedicines 2024, 12, 2587, https://doi.org/10.3390/biomedicines12112587 . . 176
+- Mircea Iurciuc, Florina Buleu, Stela Iurciuc, Izabella Petre, Daian Popa, Radu Dumitru
+- Moleriu, et al.
+- Effect of Vitamin D Deﬁciency on Arterial Stiffness in Pregnant Women with Preeclampsia and
+- Pregnancy-Induced Hypertension and Implications for Fetal Development
+- Reprinted from: Biomedicines 2024, 12, 1595, https://doi.org/10.3390/biomedicines12071595 . . 191
+- Izabella Petre, Stela Iurciuc, Florina Buleu, Ion Petre, Radu Dumitru Moleriu, Daian Popa, et
+- al.
+- The Impact of Medical Physical Training and a Structured Personalized Exercise Training
+- Program on Hemodynamic Parameters and Arterial Stiffness in Pregnant Women
+- Reprinted from: Biomedicines 2024, 12, 986, https://doi.org/10.3390/biomedicines12050986 . . . 203
+- Aleksander Misiewicz, Krzysztof Badura, Oliwia Matuszewska-Brycht, Jan Krekora and
+- Jarosław Drożdż
+- Iron Deﬁciency as a Factor of Worse Prognosis in Patients with Acute Myocardial Infarction
+- Reprinted from: Biomedicines 2025, 13, 769, https://doi.org/10.3390/biomedicines13040769 . . . 217
+- Andreea Dumitrescu, Gabriela Mut Vitcu, Svetlana Stoica, Septimiu Radu Susa and Emil
+- Robert Stoicescu

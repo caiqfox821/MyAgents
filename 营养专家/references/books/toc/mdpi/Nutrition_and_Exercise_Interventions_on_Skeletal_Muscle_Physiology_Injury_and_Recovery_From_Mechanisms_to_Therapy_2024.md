@@ -1,0 +1,80 @@
+# Nutrition and Exercise Interventions on Skeletal Muscle Physiology, Injury and Recovery: From Mechanisms to Therapy (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0366-8
+- 页数: 180
+- 全文: `text/mdpi/Nutrition_and_Exercise_Interventions_on_Skeletal_Muscle_Physiology_Injury_and_Recovery_From_Mechanisms_to_Therapy_2024.txt`
+- 标签: 运动/肌少症
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Sandro Massao Hirabara, Gabriel Nasri Marzuca-Nassr and
+- Maria Fernanda Cury-Boaventura
+- Nutrition and Exercise Interventions on Skeletal Muscle Physiology, Injury and Recovery: From
+- Mechanisms to Therapy
+- Reprinted from: Nutrients 2024, 16, 293, doi:10.3390/nu16020293 . . . . . . . . . . . . . . . . . . .             1
+- Rashmi Supriya, Maryam Delfan, Ayoub Saeidi, Seyedeh Somayeh Samaie,
+- Maisa Hamed Al Kiyumi, Kurt A. Escobar, et al.
+- Spirulina Supplementation with High-Intensity Interval Training Decreases Adipokines Levels
+- and Cardiovascular Risk Factors in Men with Obesity
+- Reprinted from: Nutrients 2023, 15, 4891, doi:10.3390/nu15234891 . . . . . . . . . . . . . . . . . .              5
+- Rashmi Supriya, Sevda Rahbari Shishvan, Movahed Kefayati, Hossein Abednatanzi,
+- Omid Razi, Reza Bagheri, et al.
+- Astaxanthin Supplementation Augments the Beneﬁts of CrossFit Workouts on Semaphorin 3C
+- and Other Adipokines in Males with Obesity
+- Reprinted from: Nutrients 2023, 15, 4803, doi:10.3390/nu15224803 . . . . . . . . . . . . . . . . . . 21
+- Marianna Rabelo de Carvalho, Ellen Fernandes Duarte, Maria Lua Marques Mendonça,
+- Camila Souza de Morais, Gabriel Elias Ota, Jair José Gaspar-Junior, et al.
+- Effects of Creatine Supplementation on the Myostatin Pathway and Myosin Heavy Chain
+- Isoforms in Different Skeletal Muscles of Resistance-Trained Rats
+- Reprinted from: Nutrients 2023, 15, 2224, doi:10.3390/nu15092224 . . . . . . . . . . . . . . . . . . 36
+- Pavel Kysel, Denisa Haluzíková, Iveta Pleyerová, Kateřina Řezníčková, Ivana Laňková,
+- Zdeňka Lacinová, et al.
+- Different Effects of Cyclical Ketogenic vs. Nutritionally Balanced Reduction Diet on Serum
+- Concentrations of Myokines in Healthy Young Males Undergoing Combined Resistance/
+- Aerobic Training
+- Reprinted from: Nutrients 2023, 15, 1720, doi:10.3390/nu15071720 . . . . . . . . . . . . . . . . . . 54
+- Gustavo Barquilha, Cesar Miguel Momesso Dos Santos, Kim Guimaraes Caçula,
+- Vinícius Coneglian Santos, Tatiana Geraldo Polotow, Cristina Vardaris Vasconcellos, et al.
+- Fish Oil Supplementation Improves the Repeated-Bout Effect and Redox Balance in
+- 20–30-Year-Old Men Submitted to Strength Training
+- Reprinted from: Nutrients 2023, 15, 1708, doi:10.3390/nu15071708 . . . . . . . . . . . . . . . . . . 66
+- Mayalen Valero-Breton, Denisse Valladares-Ide, Cristian Álvarez, Reyna S. Peñailillo and
+- Luis Peñailillo
+- Changes in Blood Markers of Oxidative Stress, Inﬂammation and Cardiometabolic Patients with
+- COPD after Eccentric and Concentric Cycling Training
+- Reprinted from: Nutrients 2023, 15, 908, doi:10.3390/nu15040908 . . . . . . . . . . . . . . . . . . . 85
+- Ana Paula Renno Sierra, Antônio Alves Fontes-Junior, Inês Assis Paz,
+- Cesar Augustus Zocoler de Sousa, Leticia Aparecida da Silva Manoel,
+- Duane Cardoso de Menezes, et al.
+- Chronic Low or High Nutrient Intake and Myokine Levels
+- Reprinted from: Nutrients 2023, 15, 153, doi:10.3390/nu15010153 . . . . . . . . . . . . . . . . . . . 101
+-                                                          v
+- Paula Franceković and Lasse Gliemann
+- Endothelial Glycocalyx Preservation—Impact of Nutrition and Lifestyle
+- Reprinted from: Nutrients 2023, 15, 2573, doi:10.3390/nu15112573 . . . . . . . . . . . . . . . . . . 115
+- Sebastian Jannas-Vela, Alejandra Espinosa, Alejandro A. Candia, Marcelo Flores-Opazo,
+- Luis Peñailillo and Rodrigo Valenzuela
+- The Role of Omega-3 Polyunsaturated Fatty Acids and Their Lipid Mediators on Skeletal
+- Muscle Regeneration: A Narrative Review
+- Reprinted from: Nutrients 2023, 15, 871, doi:10.3390/nu15040871 . . . . . . . . . . . . . . . . . . . 135
+- Iván Cuyul-Vásquez, José Pezo-Navarrete, Cristina Vargas-Arriagada, Cynthia Ortega-Díaz,
+- Walter Sepúlveda-Loyola, Sandro Massao Hirabara, et al.
+- Effectiveness of Whey Protein Supplementation during Resistance Exercise Training on Skeletal
+- Muscle Mass and Strength in Older People with Sarcopenia: A Systematic Review and
+- Meta-Analysis
+- Reprinted from: Nutrients 2023, 15, 3424, doi:10.3390/nu15153424 . . . . . . . . . . . . . . . . . . 150
+-                                                    vi
+- About the Editors
+- Sandro Massao Hirabara
+-      Sandro Massao Hirabara has been a full professor of the Interdisciplinary Post-Graduate
+- Program in Health Sciences, Cruzeiro do Sul University, São Paulo, Brazil, since 2007. He graduated
+- with a degree in Biology from the Federal University of Paraná, Curitiba, Brazil (1996–2000), and
+- completed a Ph.D. in Science (Human Physiology) at the University of São Paulo, São Paulo, Brazil
+- (2001–2005), and a Postdoctorate at the University of Sao Paulo (2005–2007) and the University
+- of Geneva, Geneva, Switzerland (2007). He has also served as a collaborative researcher at the
+- University of São Paulo (2008–2017), a visiting scholar scientist at Yale University (2018–2019), and a
+- visiting researcher at the Butantan Institute (2020–2021). Dr. Hirabara has experience in physiology,
+- with an emphasis on endocrine physiology, metabolism, and exercise physiology. He has expertise

@@ -1,0 +1,77 @@
+# FAO/WHO guidance to governments on the application of HACCP in small/less-developed businesses (2007, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/a0799e/a0799e.pdf
+- 页数: 84
+- 全文: `text/fao/FAO_WHO_HACCP_Small_Businesses_2007.txt`
+- PDF: `fao/FAO_WHO_HACCP_Small_Businesses_2007.pdf`
+- 标签: HACCP, 食品安全, 小规模加工
+
+## 目录 (Contents)
+
+- ACKNOWLEDGMENTS
+- CONTRIBUTORS
+- vii
+- ix
+- Participants in the electronic discussion
+- Participants in the Expert Meeting
+- Peer reviewers
+- Authors of case study summaries
+- Joint FAO/WHO Secretariat
+- xii
+- xiii
+- ACRONYMS
+- FOREWORD
+- 1.
+- INTRODUCTION
+- 1.1
+- 1.2
+- 1.3
+- 2.
+- 1
+- Background
+- FAO/WHO guidance document
+- 1
+- 1
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1
+- 2
+- 2
+- 2
+- 3
+- Objectives
+- Scope
+- Descriptive terms
+- Target audience
+- Document overview
+- The HACCP system
+- 4
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 4
+- 4
+- 6
+- 7
+- 7
+- The food safety burden
+- Codex guidelines on HACCP
+- Role of government and potential benefits
+- Role of food businesses and potential benefits
+- Exploring approaches for HACCP in SLDBs
+- Interdependency between HACCP systems and good
+- hygienic practices
+- THE SMALL BUSINESS SECTOR AND CHALLENGES FACED WORLDWIDE
+- 2.1
+- 2.2
+- 2.3
+- ix
+- ix
+- x

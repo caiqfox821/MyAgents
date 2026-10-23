@@ -1,0 +1,81 @@
+# Recent Advances and Future Trends in Fermented and Functional Foods (2021, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 206
+- 全文: `text/mdpi/Recent_Advances_and_Future_Trends_in_Fermented_and_Functional_Foods_2021.txt`
+- PDF: `mdpi/Recent_Advances_and_Future_Trends_in_Fermented_and_Functional_Foods_2021.pdf`
+- 标签: 发酵食品, 功能食品, 趋势
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Recent Advances and Future Trends in Fermented and Functional Foods” . . . . .
+- ix
+- Jung-Min Park, Bo-Zheng Zhang and Jin-Man Kim
+- Effect of Fermentation Duration on the Quality Changes of Godulbaegi Kimchi
+- Reprinted from: Foods 2022, 11, 1020, doi:10.3390/foods11071020 . . . . . . . . . . . . . . . . . . .
+- 1
+- Eiseul Kim, Ji-Eun Won, Seung-Min Yang, Hyun-Jae Kim and Hae-Yeong Kim
+- Diversity of a Lactic Acid Bacterial Community during Fermentation of Gajami-Sikhae,
+- a Traditional Korean Fermented Fish, as Determined by Matrix-Assisted Laser
+- Desorption/Ionization Time-of-Flight Mass Spectrometry
+- Reprinted from: Foods 2022, 11, 909, doi:10.3390/foods11070909 . . . . . . . . . . . . . . . . . . . 13
+- Hyeon-Ji Lim, Ha-Rim Kim, Su-Ji Jeong, Hee-Jong Yang, Myeong Seon Ryu and Do-Youn
+- Jeong et al.
+- Protective Effects of Fermented Soybeans (Cheonggukjang) on Dextran Sodium Sulfate
+- (DSS)-Induced Colitis in a Mouse Model
+- Reprinted from: Foods 2022, 11, 776, doi:10.3390/foods11060776 . . . . . . . . . . . . . . . . . . . 25
+- Yujeong Choi, Da-Som Kim, Min-Chul Lee, Seulgi Park, Joo-Won Lee and Ae-Son Om
+- Effects of Bacillus Subtilis-Fermented White Sword Bean Extract on Adipogenesis and Lipolysis
+- of 3T3-L1 Adipocytes
+- Reprinted from: Foods 2021, 10, 1423, doi:10.3390/foods10061423 . . . . . . . . . . . . . . . . . . . 41
+- Ekasit Lalitsuradej, Sasithorn Sirilun, Phakkharawat Sittiprapaporn, Bhagavathi Sundaram
+- Sivamaruthi, Komsak Pintha and Payungsak Tantipaiboonwong et al.
+- The Effects of Synbiotics Administration on Stress-Related Parameters in Thai Subjects—A
+- Preliminary Study
+- Reprinted from: Foods 2022, 11, 759, doi:10.3390/foods11050759 . . . . . . . . . . . . . . . . . . . 55
+- Chaiyavat Chaiyasut, Bhagavathi Sundaram Sivamaruthi, Narissara Lailerd, Sasithorn
+- Sirilun, Suchanat Khongtan and Pranom Fukngoen et al.
+- Probiotics Supplementation Improves Intestinal Permeability, Obesity Index and Metabolic
+- Biomarkers in Elderly Thai Subjects: A Randomized Controlled Trial
+- Reprinted from: Foods 2022, 11, 268, doi:10.3390/foods11030268 . . . . . . . . . . . . . . . . . . . 73
+- Chaiyavat Chaiyasut, Bhagavathi Sundaram Sivamaruthi, Periyanaina Kesika, Suchanat
+- Khongtan, Nanticha Khampithum and Subramanian Thangaleela et al.
+- Synbiotic Supplementation Improves Obesity Index and Metabolic Biomarkers in Thai Obese
+- Adults: A Randomized Clinical Trial
+- Reprinted from: Foods 2021, 10, 1580, doi:10.3390/foods10071580 . . . . . . . . . . . . . . . . . . . 85
+- Muhammad Qamar, Saeed Akhtar, Tariq Ismail, Muqeet Wahid, Malik Waseem Abbas and
+- Mohammad S. Mubarak et al.
+- Phytochemical Profile, Biological Properties, and Food Applications of the Medicinal Plant
+- Syzygium cumini
+- Reprinted from: Foods 2022, 11, 378, doi:10.3390/foods11030378 . . . . . . . . . . . . . . . . . . . 99
+- v
+- Sendeku Takele Alemneh, Shimelis Admassu Emire, Mario Jekle, Olivier Paquet-Durand,
+- Almut von Wrochem and Bernd Hitzmann
+- Application of Two-Dimensional Fluorescence Spectroscopy for the On-Line Monitoring of
+- Teff-Based Substrate Fermentation Inoculated with Certain Probiotic Bacteria
+- Reprinted from: Foods 2022, 11, 1171, doi:10.3390/foods11081171 . . . . . . . . . . . . . . . . . . . 121
+- Katarzyna Świader and Anna Florowska
+- The Sensory Quality and the Physical Properties of Functional Green Tea-Infused Yoghurt with
+- Inulin
+- Reprinted from: Foods 2022, 11, 566, doi:10.3390/foods11040566 . . . . . . . . . . . . . . . . . . . 135
+- Patrycja Cichońska, Ewelina Pudło, Adrian Wojtczak and Małgorzata Ziarno
+- Effect of the Addition of Whole and Milled Flaxseed on the Quality Characteristics of Yogurt
+- Reprinted from: Foods 2021, 10, 2140, doi:10.3390/foods10092140 . . . . . . . . . . . . . . . . . . . 153
+- Spiros Paramithiotis, Gitishree Das, Han-Seung Shin and Jayanta Kumar Patra
+- Fate of Bioactive Compounds during Lactic Acid Fermentation of Fruits and Vegetables
+- Reprinted from: Foods 2022, 11, 733, doi:10.3390/foods11050733 . . . . . . . . . . . . . . . . . . . 167
+- vi
+- About the Editors
+- Jayanta Kumar Patra
+- Dr.
+- Jayanta Kumar Patra, M.Sc.
+- Ph.D., PDF, is currently working as Associate Professor
+- at Dongguk University, the Republic of Korea. His current research is focused on nanoparticle
+- synthesis by green technology methods and their potential application in biomedical and agricultural
+- fields. He has about 14 years of teaching and research experience in the field of pharmacology
+- and nano-biotechnology. Dr. Patra has published more than 150 papers in various national and
+- international peer-reviewed journals along with around 32 book chapters in different edited books.
+- Dr. Patra has also authored 16 books on the topic related to nanomaterials, medicinal plants,
+- ethnopharmacology, biotechnology, etc., in various publications. Besides, he is an editorial board

@@ -1,0 +1,79 @@
+# Molecular Research in Rice (2020, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/2941
+- 页数: 380
+- 全文: `text/rice/Molecular_Research_in_Rice_2020.txt`
+- PDF: `rice/Molecular_Research_in_Rice_2020.pdf`
+- 标签: 水稻, 分子育种, 种质
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Kiyosumi Hori and Matthew Shenton
+- Recent Advances in Molecular Research in Rice: Agronomically Important Traits
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 5945, doi:10.3390/ijms21175945 . . . . . . . . . . . . . .          1
+- Hyoseob Seo, Suk-Hwan Kim, Byoung-Doo Lee, Jung-Hyun Lim, Sang-Ji Lee,
+- Gynheung An and Nam-Chon Paek
+- The Rice Basic Helix–Loop–Helix 79 (OsbHLH079) Determines Leaf Angle and Grain Shape
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 2090, doi:10.3390/ijms21062090 . . . . . . . . . . . . . .          5
+- Sadia Gull, Zulqarnain Haider, Houwen Gu, Rana Ahsan Raza Khan, Jun Miao,
+- Tan Wenchen, Saleem Uddin, Irshad Ahmad and Guohua Liang
+- InDel Marker Based Estimation of Multi-Gene Allele Contribution and Genetic Variations for
+- Grain Size and Weight in Rice (Oryza sativa L.)
+- Reprinted from: Int. J. Mol. Sci. 2019, , 4824, doi:10.3390/ijms20194824 . . . . . . . . . . . . . . . 25
+- Limiao Jiang, Rengasamy Ramamoorthy, Srinivasan Ramachandran and Prakash P. Kumar
+- Systems Metabolic Alteration in a Semi-Dwarf Rice Mutant Induced by OsCYP96B4
+- Gene Mutation
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 1924, doi:10.3390/ijms21061924 . . . . . . . . . . . . . . 51
+- Yahui Yu, Mengmeng Zhu, Yue Cui, Yu Liu, Zhenyu Li, Nan Jiang, Zhengjin Xu, Quan Xu
+- and Guomin Sui
+- Genome Sequence and QTL Analyses Using Backcross Recombinant Inbred Lines (BILs) and
+- BILF1 Lines Uncover Multiple Heterosis-related Loci
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 780, doi:10.3390/ijms21030780 . . . . . . . . . . . . . . . 69
+- Xiaoxiang Zhang, Juan Zhou, Niansheng Huang, Lanjing Mo, Minjia Lv, Yingbo Gao,
+- Chen Chen, Shuangyi Yin, Jing Ju, Guichun Dong, Yong Zhou, Zefeng Yang, Aihong Li,
+- Yulong Wang, Jianye Huang and Youli Yao
+- Transcriptomic and Co-Expression Network Proﬁling o f S hoot A pical M eristem Reveal
+- Contrasting Response to Nitrogen Rate between Indica and Japonica Rice Subspecies
+- Reprinted from: Int. J. Mol. Sci. 2019, 20, 5922, doi:10.3390/ijms20235922 . . . . . . . . . . . . . . 79
+- Qingsong Gao, Gang Li, Hui Sun, Ming Xu, Huanhuan Wang, Jianhui Ji, Di Wang,
+- Caiyong Yuan and Xiangxiang Zhao
+- Targeted Mutagenesis of the Rice FW 2.2-Like Gene Family Using the CRISPR/Cas9 System
+- Reveals OsFWL4 as a Regulator of Tiller Number and Plant Yield in Rice
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 809, doi:10.3390/ijms21030809 . . . . . . . . . . . . . . . 105
+- Xiaoru Fan, Jingguang Chen, Yufeng Wu, CheeHow Teo, Guohua Xu and Xiaorong Fan
+- Genetic and Global Epigenetic Modification, Which Determines the Phenotype of
+- Transgenic Rice?
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 1819, doi:10.3390/ijms21051819 . . . . . . . . . . . . . . 121
+- Kyu-Chan Shim, Sun Ha Kim, Yun-A Jeon, Hyun-Sook Lee, Cheryl Adeva, Ju-Won Kang,
+- Hyun-Jung Kim, Thomas H Tai and Sang-Nag Ahn
+- A RING-Type E3 Ubiquitin Ligase, OsGW2, Controls Chlorophyll Content and Dark-Induced
+- Senescence in Rice
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 1704, doi:10.3390/ijms21051704 . . . . . . . . . . . . . . 137
+-                                                         v
+- Qiang Zhang, Lan Shen, Zhongwei Wang, Guanglian Hu, Deyong Ren, Jiang Hu, Li Zhu,
+- Zhenyu Gao, Guangheng Zhang, Longbiao Guo, Dali Zeng and Qian Qian
+- OsCAF1, a CRM Domain Containing Protein, Inﬂuences Chloroplast Development
+- Reprinted from: Int. J. Mol. Sci. 2019, 20, 4386, doi:10.3390/ijms20184386 . . . . . . . . . . . . . . 155
+- Yuqing Zhao, Qiaohong Han, Chunbang Ding, Yan Huang, Jinqiu Liao, Tao Chen,
+- Shiling Feng, Lijun Zhou, Zhongwei Zhang, Yanger Chen, Shu Yuan and Ming Yuan
+- Effect of Low Temperature on Chlorophyll Biosynthesis and Chloroplast Biogenesis of Rice
+- Seedlings during Greening
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 1390, doi:10.3390/ijms21041390 . . . . . . . . . . . . . . 169
+- Yi-Bo Wu, Guan Li, Yu-Jun Zhu, Yi-Chen Cheng, Jin-Yu Yang, Hui-Zhe Chen, Xian-Jun Song
+- and Jie-Zheng Ying
+- Genome-Wide Identification of QTLs for Grain Protein Content Based on
+- Genotyping-by-Resequencing and Verification of qGPC1-1 in Rice
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 408, doi:10.3390/ijms21020408 . . . . . . . . . . . . . . . 191
+- Yasukazu Kanda, Hitoshi Nakagawa, Yoko Nishizawa, Takashi Kamakura and Masaki Mori
+- Broad-Spectrum Disease Resistance Conferred by the Overexpression of Rice RLCK BSR1
+- Results from an Enhanced Immune Response to Multiple MAMPs
+- Reprinted from: Int. J. Mol. Sci. 2019, 20, 5523, doi:10.3390/ijms20225523 . . . . . . . . . . . . . . 205
+- Xinqiong Liu, Haruhiko Inoue, Xianying Tang, Yanping Tan, Xin Xu, Chuntai Wang and
+- Chang-Jie Jiang
+- Rice OsAAA-ATPase1 is Induced during Blast Infection in a Salicylic Acid-Dependent Manner,
+- and Promotes Blast Fungus Resistance
+- Reprinted from: Int. J. Mol. Sci. 2020, 21, 1443, doi:10.3390/ijms21041443 . . . . . . . . . . . . . . 219
+- Tingmin Liang, Wenchao Chi, Likun Huang, Mengyu Qu, Shubiao Zhang, Zi-Qiang Chen,
+- Zai-Jie Chen, Dagang Tian, Yijie Gui, Xiaofeng Chen, Zonghua Wang, Weiqi Tang and

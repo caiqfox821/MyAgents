@@ -1,0 +1,80 @@
+# Monitoring flour fortification to maximize health benefits: a manual for millers, regulators, and programme managers (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/344903
+- 页数: 142
+- 全文: `text/who/Monitoring_flour_fortification_to_maximize_health_benefits_a_manual_for_millers_regulators.txt`
+- 标签: 食品强化
+
+## 目录 (Contents)
+
+- PREFACE                                                                                                         viii
+- ACKNOWLEDGEMENTS                                                                                                  ix
+- FINANCIAL SUPPORT                                                                                                 ix
+- GLOSSARY                                                                                                              x
+- CHAPTER 1                                                                                                             1
+-    INTRODUCTION                                                                                                       1
+-    REFERENCES                                                                                                         4
+- CHAPTER 2                                                                                                             7
+-    MONITORING STEPS FOR FLOUR FORTIFICATION PROGRAMMES                                                                7
+-    Introduction                                                                                                       7
+-    Step 1. Engage stakeholders                                                                                        8
+-    Step 2: Describe the programme                                                                                     9
+-    Step 3. Focus on the monitoring design                                                                        10
+-    Step 4. Gather credible evidence                                                                              15
+-    Step 5. Justify conclusions                                                                                   15
+-    Step 6. Ensure use of results and share lessons learnt                                                        16
+-    CHAPTER 2: ANNEX                                                                                              16
+-    1.1 Description of the wheat flour fortification programme for Fortopia (a fictitious country)                16
+-    REFERENCES                                                                                                    20
+- CHAPTER 3                                                                                                       23
+-    QUALITY MANAGEMENT BY THE INDUSTRY – INTERNAL MONITORING                                                      23
+-    Introduction                                                                                                  23
+-    3.1 Quality management systems                                                                                23
+-    3.2 Quality assurance procedures for fortified flour                                                          24
+-           3.2.1 Premix is provided by an approved supplier and accompanied by a certificate of conformity/
+-                 analysis for each batch procured by the mill                                               24
+-           3.2.2 Quantity of the premix procured is in accordance with the quantity of flour that is regularly
+-                 produced at the mill                                                                             26
+-           3.2.3 Premix appropriately stored and used by expiry date                                              26
+-           3.2.4 Premix feeders are installed, verified as working correctly, and periodically maintained         26
+-           3.2.5 Premix dosed/added in accordance with production rate of fortified flour                         27
+-           3.2.6 Fortified flour packaged, labelled, and stored according to specifications                       27
+-                                                                                                                 iii
+-       3.3 Quality control procedures for fortified flour                                                                  28
+-           3.3.1 Record keeping for single and composite flour samples                                                     28
+-           3.3.2 Fortified flour is regularly confirmed as fortified using a qualitative method for testing
+-                 the marker nutrient                                                                                       28
+-           3.3.3 Checking that average nutrient content and its allowable variation range accord with standards            29
+-       CHAPTER 3: ANNEXES                                                                                                  30
+-       3.1 Quality management systems                                                                                      30
+-       3.2 Internal monitoring: quality assurance and quality control by millers                                           31
+-           3.2.1 Quality assurance/internal monitoring: inspection for flour premix by millers                             31
+-           3.2.2 Quantity of the premix procured is in accordance with the quantity of flour produced
+-                 at the mill                                                                                               32
+-           3.2.3 Quality assurance/internal monitoring: storage and inventory of premix at the mill                        35
+-           3.2.4 Quality assurance/internal monitoring: periodic performance verification for automatic
+-                 feeders by millers                                                                                        35
+-           3.2.5 Preparation of preblend                                                                                   36
+-       3.3 Quality control of flour by the mill                                                                            36
+-           3.3.1 Record keeping for single and composite flour samples                                                     36
+-           3.3.2 Qualitative method for testing the marker nutrient in fortified flour                                     37
+-           3.3.3 Quantitative methods for testing fortified flour samples and recording and reporting
+-                 the results                                                                                               38
+-       REFERENCES                                                                                                          40
+- CHAPTER 4                                                                                                                 43
+-       EXTERNAL, IMPORT, AND COMMERCIAL MONITORING                                                                         43
+-       4.1 External monitoring                                                                                             44
+-           4.1.1 Quality assurance: audit                                                                                  45
+-           4.1.2 Quality control: inspection                                                                               45
+-           4.1.3 External monitoring reporting                                                                             48
+-       4.2 Import monitoring                                                                                               48
+-           4.2.1 Certificate of conformity/analysis for imported fortified flour meets fortification specifications
+-                 according to standards                                                                                    48
+-           4.2.2 Imported fortified flour meets fortification specifications according to standards                        49
+-           4.2.3 Premix is provided by an approved supplier and accompanied by a certificate of conformity/
+-                 analysis                                                                                   50
+-           4.2.4 Import monitoring reporting                                                                               50
+-       4.3 Commercial monitoring                                                                                           50
+-           4.3.1 Fortified flour collected in distribution centres and retail outlets is packaged and labelled
+-                 as specified in standards                                                                                 51

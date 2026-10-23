@@ -1,0 +1,81 @@
+# Advanced Coatings and Films for Food Packing and Storage (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2708-4
+- 页数: 226
+- 全文: `text/mdpi/Advanced_Coatings_and_Films_for_Food_Packing_and_Storage_2024.txt`
+- PDF: `mdpi/Advanced_Coatings_and_Films_for_Food_Packing_and_Storage_2024.pdf`
+- 标签: 包装, 涂膜, 贮藏
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Sabka Pashova
+- Application of Plant Waxes in Edible Coatings
+- Reprinted from: Coatings 2023, 13, 911, https://doi.org/10.3390/coatings13050911 . . . . . . . .
+- 1
+- Marian Gil and Mariusz Rudy
+- Innovations in the Packaging of Meat and Meat Products—A Review
+- Reprinted from: Coatings 2023, 13, 333, https://doi.org/10.3390/coatings13020333 . . . . . . . . 17
+- Xiaoyong Song
+- Effect of Storage Conditions on the Physicochemical Characteristics of Bilayer Edible Films
+- Based on Iron Yam–Pea Starch Blend and Corn Zein
+- Reprinted from: Coatings 2022, 12, 1524, https://doi.org/10.3390/coatings12101524 . . . . . . . 35
+- Mohammed Sabbah, Asmaa Al-Asmar, Duaa Younis, Fuad Al-Rimawi, Michela Famiglietti
+- and Loredana Mariniello
+- Production and Characterization of Active Pectin Films with Olive or Guava Leaf Extract Used
+- as Soluble Sachets for Chicken Stock Powder
+- Reprinted from: Coatings 2023, 13, 1253, https://doi.org/10.3390/coatings13071253 . . . . . . . 48
+- Mayra Z. Treviño-Garza, Ana Karen Saldı́var-Vázquez, Sonia Martha López-Villarreal,
+- Marı́a del Refugio Lara-Banda, Joel Horacio Elizondo-Luevano, Abelardo Chávez-Montes,
+- et al.
+- Production and Preliminary Characterization of Linseed Mucilage-Based Films Loaded with
+- Cardamom (Elettaria cardamomum) and Copaiba (Copaifera ofﬁcinalis)
+- Reprinted from: Coatings 2023, 13, 1574, https://doi.org/10.3390/coatings13091574 . . . . . . . 61
+- Xin Weng, Na Lin, Wenting Huang and Minghua Liu
+- Fluorine-Free Compound Water- and Oil-Repellent: Preparation and Its Application in Molded
+- Pulp
+- Reprinted from: Coatings 2023, 13, 1257, https://doi.org/10.3390/coatings13071257 . . . . . . . 77
+- Alicja Tarnowiecka-Kuca, Roos Peeters, Bram Bamps, Magdalena Stobińska, Paulina
+- Kamola, Artur Wierzchowski, et al.
+- Paper Coatings Based on Polyvinyl Alcohol and Cellulose Nanocrystals Using Various Coating
+- Techniques and Determination of Their Barrier Properties
+- Reprinted from: Coatings 2023, 13, 1975, https://doi.org/10.3390/coatings13111975 . . . . . . . 90
+- Ali Salimian and Uchechukwu Onwukwe
+- Development of a Transparent Thermal Reﬂective Thin Film Coating for Accurate Separation
+- of Food-Grade Plastics in Recycling Process via AI-Based Thermal Image Processing
+- Reprinted from: Coatings 2023, 13, 1332, https://doi.org/10.3390/coatings13081332 . . . . . . . 103
+- Teodora Cvanić, Olja Šovljanski, Senka Popović, Tamara Erceg, Jelena Vulić, Jasna
+- Čanadanović-Brunet, et al.
+- Progress in Fruit and Vegetable Preservation: Plant-Based Nanoemulsion Coatings and Their
+- Evolving Trends
+- Reprinted from: Coatings 2023, 13, 1835, https://doi.org/10.3390/coatings13111835 . . . . . . . 119
+- v
+- Danijela Šuput, Lato Pezo, Biljana Lončar, Senka Popović, Aleksandra Tepić Horecki,
+- Tatjana Daničić, et al.
+- The Inﬂuence of Biopolymer Coating Based on Pumpkin Oil Cake Activated with Mentha
+- piperita Essential Oil on the Quality and Shelf-Life of Grape
+- Reprinted from: Coatings 2023, 13, 299, https://doi.org/10.3390/coatings13020299 . . . . . . . . 148
+- Hong Liu, Xiangfeng Fan, Lin Cao, Xiaomin Wang, Xiaocui Liu, Jie Huang, et al.
+- Antifungal Properties of Ozone Treatment against P. citrinum and R. stolonifera in Fresh-Peeled
+- Garlic
+- Reprinted from: Coatings 2023, 13, 1931, https://doi.org/10.3390/coatings13111931 . . . . . . . 170
+- Xinrui Yang, Shiyuan Fang, Yao Xie, Jun Mei and Jing Xie
+- Preservative Effects of Flaxseed Gum-Sodium Alginate Active Coatings Containing Carvacrol
+- on Quality of Turbot (Scophthalmus maximus) during Cold Storage
+- Reprinted from: Coatings 2024, 14, 338, https://doi.org/10.3390/coatings14030338 . . . . . . . . 201
+- vi
+- About the Editors
+- Jun Mei
+- Jun Mei (1986) graduated from Shanghai Jiaotong University, China, with an M.Sc. in Food
+- technology (2011) and obtained his PhD in Biomedical Engineering (Biotechnology) in 2015. From
+- 2015 to 2017, he worked as a post-doctorate in the postdoctoral research center for horticulture
+- in SJTU. He is currently an associate professor with the Laboratory of Food Cold Chain Logistics
+- and Quality Control at Shanghai Ocean University, China. His research focuses on exploring the
+- mechanism associated with the deterioration of quality in the process of food cold chain preservation,
+- the development of key technologies for food cold chain preservation, and the development of key
+- technologies for aquatic products during keep-live transport. The aim of his research is to understand
+- the main causes of food spoilage during the cold chain preservation process, to develop preservatives
+- from spices and combine physical bacteria-reducing and bacteriostatic techniques to maintain

@@ -1,0 +1,80 @@
+# WHO antenatal care recommendations for a positive pregnancy experience: nutritional interventions update: multiple micronutrient supplements during pregnancy (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/333561
+- 页数: 68
+- 全文: `text/who/WHO_antenatal_care_recommendations_for_a_positive_pregnancy_experience_nutritional_interve.txt`
+- 标签: 微量营养素补充, 母婴
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                             v
+- Acronyms and abbreviations                                                                  vi
+- Executive summary                                                                           vii
+- Introduction                                                                                 1
+- Methods		                                                                                    3
+- Evidence and recommendation on antenatal multiple micronutrient supplements                  7
+- Dissemination and implementation of the recommendation                                      20
+- References		                                                                                23
+- Annex 1.   External experts and WHO staff involved in the preparation of the guideline      27
+- Annex 2.   Summary of declarations of interest from the Guideline Development Group (GDG)
+-            members and how they were managed                                                30
+- Annex 3.   Multiple micronutrient supplements: GRADE tables and forest plots                32
+- Acknowledgements
+- The Departments of Sexual and Reproductive Health and Research (SRH), Nutrition and Food Safety (NFS), and
+- Maternal, Newborn, Child, Adolescent Health and Ageing (MCA) of the World Health Organization (WHO)
+- gratefully acknowledge the contributions that many individuals and organizations have made to the updating of
+- this guideline recommendation.
+- María Barreix, Maurice Bucagu, Olufemi Oladapo, Juan Pablo Peña-Rosas, Lisa Rogers and Özge Tunçalp were
+- the members of the WHO Steering Group that managed the guideline development process. The members of
+- the Guideline Development Group (GDG) included Niveen Abu Rmeileh, Luz Maria De-Regil, Aft Ghérissi, Gill
+- Gyte, Rintaro Mori, James Neilson, Lynnette Neufeld, Lisa Noguchi, Nafissa Osman, Erika Ota, Robert Pattinson,
+- Harshpal Singh Sachdev, Rusidah Selamat, Charlotte Warren and Charles Wyisonge. James Neilson served as
+- chair of the GDG. We thank members of the External Review Group, including Rodolfo Gomez, Tamar Kabakian,
+- Petr Velebil and Yacouba Yaro.
+- We would also like to thank the authors of the updated Cochrane systematic review used for their collaboration,
+- and Leanne Jones, Frances Kellie and Myfanwy Williams who facilitated this collaboration process. Edguardo
+- Abalos, Monica Chamillard and Virginia Dias graded quantitative evidence and Therese Dowswell assisted with
+- evidence synthesis. Soo Downe and Kenny Finlayson performed the qualitative reviews that informed the values,
+- acceptability and feasibility criteria of the evidence-to-decision framework and graded the qualitative evidence
+- for the WHO antenatal care (ANC) guideline (2016), which were also employed for this update. Theresa Lawrie,
+- with members of the WHO Steering Group, synthesized and reviewed the evidence and drafted the evidence-to-
+- decision framework and the final guideline document. We would like to thank Joshua Vogel for his support with
+- the living guidelines process.
+- We acknowledge the various organizations that were represented by observers at the technical consultation,
+- including: Hani Fawzi of the International Federation of Gynecology and Obstetrics (FIGO); Jeffrey Smith of the
+- Bill & Melinda Gates Foundation; Lisa Welcland of the International Confederation of Midwives (ICM); Petra ten
+- Hoope-Bender of the United Nations Population Fund (UNFPA); and Elaine Gray of the United States Agency
+- for International Development (USAID). We appreciate the contributions of WHO Regional Office staff to this
+- update: Nino Berdzuli, Bremen de Mucio, Anoma Jayathilaka, Ramez Khairi, Léopold Ouedraogo and Howard
+- Sobel. Special thanks also to Mandana Arabi, Jennifer Busch-Hallen, Sarah Rowe and Dylan Walters from
+- Nutrition International and their partners Bahman Kashi and Zuzanna Kurzawa from Limestone Analytics for
+- their contribution to the cost-effectiveness information in the multiple micronutrient framework.
+- Funding was provided for this updated recommendation by USAID, and the UNDP/UNFPA/UNICEF/WHO/
+- World Bank Special Programme of Research, Development and Research Training in Human Reproduction.
+- Donors do not fund specific guidelines and do not participate in any decision related to the guideline
+- development process, including the composition of research questions, membership of the guideline groups,
+- conduct and interpretation of systematic reviews, or formulation of recommendations.
+-                                                                                              Acknowledgements      v
+-      Acronyms and abbreviations
+-      ANC             antenatal care
+-      CI              confidence interval
+-      CREP            Centro Rosarino de Estudios Perinatales (Argentina)
+-      DALY            disability-adjusted life year
+-      DECIDE          Developing and Evaluating Communication Strategies to Support Informed Decisions and
+-                      Practice Based on Evidence
+-      DOI             declaration of interest
+-      eLENA           WHO e-Library of Evidence for Nutrition Actions
+-      EPOC            Cochrane Effective Practice and Organization of Care
+-      ERG             External Review Group
+-      EtD             evidence-to-decision
+-      FIGO            International Federation of Gynecology and Obstetrics
+-      GDG             Guideline Development Group
+-      GDP             gross domestic product
+-      GRADE           Grading of Recommendations Assessment, Development and Evaluation
+-      GRADE-CERQual   Confidence in the Evidence from Reviews of Qualitative Research
+-      GSG             Guideline Steering Group
+-      ICM             International Confederation of Midwives
+-      IFA             iron and folic acid
+-      LMIC            low- and middle-income country
+-      MCA             Maternal, Newborn, Child and Adolescent Health and Ageing

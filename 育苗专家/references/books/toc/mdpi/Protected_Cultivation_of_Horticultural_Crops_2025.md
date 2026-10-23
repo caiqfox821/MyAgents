@@ -1,0 +1,75 @@
+# Protected Cultivation of Horticultural Crops (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/10548
+- 页数: 164
+- 全文: `text/mdpi/Protected_Cultivation_of_Horticultural_Crops_2025.txt`
+- 标签: 设施育苗, 环境调控
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Hongjun Yu, Peng Liu, Jingcheng Xu, Tanyu Wang, Tao Lu and Jie Gao et al.
+- The Effects of Different Durations of Night-Time Supplementary Lighting on the Growth, Yield,
+- Quality and Economic Returns of Tomato
+- Reprinted from: Plants 2024, 13, 1516, https://doi.org/10.3390/plants13111516 . . . . . . . . . .              1
+- Soheil Fallah, Sasan Aliniaeifard, Mahboobeh Zare Mehrjerdi, Shima Mirzaei and Nazim S.
+- Gruda
+- Night Interruption with Red and Far-Red Light Optimizes the Phytochemical Composition,
+- Enhances Photosynthetic Efficiency, and Increases Biomass Partitioning in Italian Basil
+- Reprinted from: Plants 2024, 13, 3145, https://doi.org/10.3390/plants13223145 . . . . . . . . . . 15
+- Hyo Jun Bae, Seong-Hoon Kim, Yuseok Jeong, Sungjin Park, Kingsley Ochar and Youngsin
+- Hong et al.
+- Optimal Planting Time for Summer Tomatoes (Lycopersicon esculentum Mill.) Cropping in Korea:
+- Growth, Yield, and Photosynthetic Efficiency in a Semi-Closed Greenhouse
+- Reprinted from: Plants 2024, 13, 2116, https://doi.org/10.3390/plants13152116 . . . . . . . . . . 33
+- Jiawei Cui, Yongxue Zhang, Hongmei Zhang, Haijun Jin, Lizhong He and Hong Wang et al.
+- Low-Potassium Fruits and Vegetables: Research Progress and Prospects
+- Reprinted from: Plants 2024, 13, 1893, https://doi.org/10.3390/plants13141893 . . . . . . . . . . 47
+- Xianjun Chen, Hongwei Han, Yundan Cong, Xuezhen Li, Wenbo Zhang and Jinxia Cui et al.
+- Ascorbic Acid Improves Tomato Salt Tolerance by Regulating Ion Homeostasis and Proline
+- Synthesis
+- Reprinted from: Plants 2024, 13, 1672, https://doi.org/10.3390/plants13121672 . . . . . . . . . . 63
+- Yongdong Qin, Ao Gong, Xigang Liu, Nan Li, Tuo Ji and Jing Li et al.
+- Testing a Simulation Model for the Response of Tomato Fruit Quality Formation to Temperature
+- and Light in Solar Greenhouses
+- Reprinted from: Plants 2024, 13, 1662, https://doi.org/10.3390/plants13121662 . . . . . . . . . . 81
+- Huan Liang, Jiangfeng Liu, Xianfeng Shi, Mihong Ge, Juhong Zhu and Dehuan Wang et al.
+- An Integrated Analysis of Anatomical and Sugar Contents Identifies How Night Temperatures
+- Regulate the Healing Process of Oriental Melon Grafted onto Pumpkin
+- Reprinted from: Plants 2024, 13, 1506, https://doi.org/10.3390/plants13111506 . . . . . . . . . . 97
+- Theodoros Petrakis, Paraskevi Ioannou, Foteini Kitsiou, Angeliki Kavga, George
+- Grammatikopoulos and Nikos Karamanos
+- Growth and Physiological Characteristics of Strawberry Plants Cultivated under
+- Greenhouse-Integrated Semi-Transparent Photovoltaics
+- Reprinted from: Plants 2024, 13, 768, https://doi.org/10.3390/plants13060768 . . . . . . . . . . . 108
+- Liangjie Guo, Xinyi Chen, Shiye Yang, Ruimin Zhou, Shenyan Liu and Yanfei Cao
+- Optimized Design of Irrigation Water-Heating System and Its Effect on Lettuce Cultivation in a
+- Chinese Solar Greenhouse
+- Reprinted from: Plants 2024, 13, 718, https://doi.org/10.3390/plants13050718 . . . . . . . . . . . 122
+-                                                        v
+- Xu Zhang, Jinxin Peng, Xiaodong Hao, Guifang Feng, Yanhui Shen and Guanghui Wang et
+- al.
+- Serratia marcescens LYGN1 Reforms the Rhizosphere Microbial Community and Promotes
+- Cucumber and Pepper Growth in Plug Seedling Cultivation
+- Reprinted from: Plants 2024, 13, 592, https://doi.org/10.3390/plants13050592 . . . . . . . . . . . 137
+-                                                   vi
+- About the Editors
+- Weijie Jiang
+-      He has been engaged in research and extension work on protected horticulture since 1985 and
+- became the PI of the soilless culture research group in IVF/CAAS since 1995. His research areas
+- are related to soilless cultivation for vegetable production under protected cultivation, and he has
+- been appointed as Chairman of the Protected Horticulture Branch, Chinese Society for Horticultural
+- Sciences, since 2013, as well as the Chairman of the Substrates Branch, Chinese Association of
+- Vegetables, since 2018.
+-      He has carried out and successfully completed the FAO/UNDP project entitled Soilless Culture
+- for Vegetable Production and has coordinated several national key projects and MOA (Ministry of
+- Agriculture) projects on protected horticulture. He is the coordinator of the Chinese team of partners
+- in the EU H2020 project (SiEUGreen 774233): Sino-European innovative green and smart cities since
+- 2017; he is also the coordinator of projects in the National Key Research and Development Program
+- of China since 2019. He has been awarded second prizes of the MOA Scien-tech Progress reward in
+- the field of soilless culture in 1996, 2002, 2010, and 2019.
+-      He has published five books and over 100 papers related to protected horticulture and soilless
+- cultivation, either as a first author or corresponding author.
+-      He was invited as a horticultural consultant by the African Development Bank for the Project of
+- Zambian Agricultural Diversification in 2001, by the FAO for the project of green food from green

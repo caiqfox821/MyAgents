@@ -1,0 +1,80 @@
+# Plant Fungal Diseases and Crop Protection (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11024
+- 页数: 240
+- 全文: `text/crops/Plant_Fungal_Diseases_and_Crop_Protection_2025.txt`
+- PDF: `crops/Plant_Fungal_Diseases_and_Crop_Protection_2025.pdf`
+- 标签: 病害, 真菌, 植保
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Ofir Degani
+- Plant Fungal Diseases and Crop Protection
+- Reprinted from: J. Fungi 2025, 11, 274, https://doi.org/10.3390/jof11040274 . . . . . . . . . . . .               1
+- Yigal Cohen
+- Population Structure of Phytophthora infestans in Israel Changes Frequently Due to the Import of
+- Asymptomatic Late Blight-Infected Potato Seed Tubers from Europe
+- Reprinted from: J. Fungi 2024, 10, 549, https://doi.org/10.3390/jof10080549 . . . . . . . . . . . .               4
+- Alexander A. Stakheev, Michael Taliansky, Natalia O. Kalinina and Sergey K. Zavriev
+- RNAi-Based Approaches to Control Mycotoxin Producers: Challenges and Perspectives
+- Reprinted from: J. Fungi 2024, 10, 682, https://doi.org/10.3390/jof10100682 . . . . . . . . . . . . 18
+- Jianping Zhang, Ke Yang, Wei Tang, Yongjie Yang, Xiaoyue Yu, Yongliang Lu and Liuqing Yu
+- Molecular Characterization and Expression Analysis of a Gene Encoding 3-Hydroxy-3-
+- Methylglutaryl-CoA Reductase (HMGR) from Bipolaris eleusines, an Ophiobolin A-Producing
+- Fungus
+- Reprinted from: J. Fungi 2024, 10, 445, https://doi.org/10.3390/jof10070445 . . . . . . . . . . . . 36
+- Shufeng Guo and Shengpei Zhang
+- The Cysteine Protease CfAtg4 Interacts with CfAtg8 to Govern the Growth, Autophagy and
+- Pathogenicity of Colletotrichum fructicola
+- Reprinted from: J. Fungi 2024, 10, 431, https://doi.org/10.3390/jof10060431 . . . . . . . . . . . . 48
+- Luisa Fernanda Izquierdo-Garcı́a, Sandra Lorena Carmona-Gutiérrez, Carlos Andrés
+- Moreno-Velandia, Andrea del Pilar Villarreal-Navarrete, Diana Marcela Burbano-David,
+- Ruth Yesenia Quiroga-Mateus, et al.
+- Microbial-Based Biofungicides Mitigate the Damage Caused by Fusarium oxysporum f. sp. cubense
+- Race 1 and Improve the Physiological Performance in Banana
+- Reprinted from: J. Fungi 2024, 10, 419, https://doi.org/10.3390/jof10060419 . . . . . . . . . . . . 61
+- Haixia Zhu and Yushan He
+- Transcriptome Sequencing and Analysis of Trichoderma polysporum Infection in Avena fatua L.
+- Leaves before and after Infection
+- Reprinted from: J. Fungi 2024, 10, 346, https://doi.org/10.3390/jof10050346 . . . . . . . . . . . . 85
+- Ruixian Yang, Ping Liu, Wenyu Ye, Yuquan Chen, Daowei Wei, Cuicui Qiao, et al.
+- Biological Control of Root Rot of Strawberry by Bacillus amyloliquefaciens Strains CMS5 and
+- CMR12
+- Reprinted from: J. Fungi 2024, 10, 410, https://doi.org/10.3390/jof10060410 . . . . . . . . . . . . 102
+- Ulrike Steiner and Erich-Christian Oerke
+- The Hemibiotrophic Apple Scab Fungus Venturia inaequalis Induces a Biotrophic Interface but
+- Lacks a Necrotrophic Stage
+- Reprinted from: J. Fungi 2024, 10, 831, https://doi.org/10.3390/jof10120831 . . . . . . . . . . . . 121
+-                                                          v
+- Radivoje Jevtić, Vesna Župunski, Dragan Živančev, Emilija Arsov, Sasa Mitrev, Ljupco
+- Mihajlov and Branka Orbović
+- Contrasting Performance of Two Winter Wheat Varieties Susceptible to Leaf Rust under Diverse
+- Pathogen Pressure, Fungicide Application, and Cultivation Practices
+- Reprinted from: J. Fungi 2024, 10, 401, https://doi.org/10.3390/jof10060401 . . . . . . . . . . . . 146
+- Aylwen Cotter, Peter Dracatos, Travis Beddoe and Kim Johnson
+- Isothermal Detection Methods for Fungal Pathogens in Closed Environment Agriculture
+- Reprinted from: J. Fungi 2024, 10, 851, https://doi.org/10.3390/jof10120851 . . . . . . . . . . . . 166
+- Behnoush Hosseini, Maximilian Gerhard Gröbner and Tobias Immanuel Link
+- First Report of Diaporthe goulteri on Soybean in Germany
+- Reprinted from: J. Fungi 2024, 10, 803, https://doi.org/10.3390/jof10110803 . . . . . . . . . . . . 185
+- Qiqi Chen, Yazhen Yuan, Gang Chen, Ning Li, Xinrong Li, Yufei Lan and Hongyan Wang
+- Evaluating Two Fungicides, Prochloraz–Manganese Chloride Complex and Seboctylamine
+- Acetate, to Control Cobweb Disease in White Button Mushroom Caused by Cladobotryum
+- mycophilum
+- Reprinted from: J. Fungi 2024, 10, 676, https://doi.org/10.3390/jof10100676 . . . . . . . . . . . . 193
+- Shurong Wang, Jingyi Wang, Tengyun Wang, Tonglou Li, Lijing Xu, Yanfen Cheng, et al.
+- Integrated Transcriptomics–Proteomics Analysis Reveals the Response Mechanism of Morchella
+- sextelata to Pseudodiploöspora longispora Infection
+- Reprinted from: J. Fungi 2024, 10, 604, https://doi.org/10.3390/jof10090604 . . . . . . . . . . . . 209
+-                                                   vi
+- About the Editor
+- Ofir Degani
+-      Dr. Ofir Degani completed his Ph.D. at the Technion-Israel Institute of Technology (Haifa, Israel),
+- specializing in genetic engineering approaches in phytopathology. He carried out his post-doctoral
+- studies at the Migal-Galilee Research Institute (Israel). Currently, Dr. Degani serves as the research
+- group director of the Phytopathology Laboratory at this institute and a senior staff member at Tel-Hai
+- Academic College (Israel). His research integrates molecular, biochemical, and microbiological tools to
+- advance the understanding and management of fungal diseases in plants. His group focuses on the

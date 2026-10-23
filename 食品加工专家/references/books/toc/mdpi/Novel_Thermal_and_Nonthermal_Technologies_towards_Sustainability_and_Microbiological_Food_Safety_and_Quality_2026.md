@@ -1,0 +1,81 @@
+# Novel Thermal and Nonthermal Technologies towards Sustainability and Microbiological Food Safety and Quality (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 134
+- 全文: `text/mdpi/Novel_Thermal_and_Nonthermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality_2026.txt`
+- PDF: `mdpi/Novel_Thermal_and_Nonthermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality_2026.pdf`
+- 标签: 热加工, 非热加工, 微生物安全, 品质
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Sotirios I. Ekonomou
+- Novel Thermal and Non-Thermal Technologies Towards Sustainability and Microbiological Food
+- Safety and Quality
+- Reprinted from: Appl. Sci. 2025, 15, 11651, https://doi.org/10.3390/app152111651 . . . . . . . .
+- 1
+- Sotirios I. Ekonomou, Adrian Crew, Olena Doran and John P. Hart
+- Development of a Disposable, Amperometric Glycerol Biosensor Based on a Screen-Printed
+- Carbon Electrode, Modiﬁed with the Electrocatalyst Meldolas Blue, Coated with Glycerol
+- Dehydrogenase and NAD+ : Application to the Analysis of Wine Quality
+- Reprinted from: Appl. Sci. 2024, 14, 6118, https://doi.org/10.3390/app14146118 . . . . . . . . .
+- 4
+- Theoﬁlos Frangopoulos, Antonios Koliouskas and Dimitrios Petridis
+- The Effect of Accelerated Storage Temperature Conditions on the Shelf Life of Pasteurized Orange
+- Juice Based on Microbiological, Physicochemical, and Color Attributes
+- Reprinted from: Appl. Sci. 2024, 14, 10870, https://doi.org/10.3390/app142310870 . . . . . . . . 16
+- Theoﬁlos Frangopoulos, Antonios Koliouskas and Dimitrios Petridis
+- Sensory Shelf Life of Pasteurized Orange Juice Stored Under Different Temperature Levels Using
+- Inverse Time Sampling and a Balanced Incomplete Block Design
+- Reprinted from: Appl. Sci. 2025, 15, 1809, https://doi.org/10.3390/app15041809 . . . . . . . . . 29
+- Costas Tsioptsias, Afroditi Panagiotou and Paraskevi Mitlianga
+- Thermal Behavior and Infrared Absorbance Bands of Citric Acid
+- Reprinted from: Appl. Sci. 2024, 14, 8406, https://doi.org/10.3390/app14188406 . . . . . . . . . 44
+- Ewa Gondek, Anna Kamińska-Dwórznicka, Sławomir Kocira, Tomasz Oniszczuk,
+- Michał Bialik and Mateusz Stasiak
+- Convection and Microwave–Convection Drying of Moldavian Dragonhead (Dracocephalum
+- moldavica L.) Leaves
+- Reprinted from: Appl. Sci. 2024, 14, 11496, https://doi.org/10.3390/app142411496 . . . . . . . . 57
+- Dominik Mierzwa and Grzegorz Musielak
+- Microwave and Ultrasound Assisted Rotary Drying of Carrot: Analysis of Process Kinetics and
+- Energy Intensity
+- Reprinted from: Appl. Sci. 2024, 14, 10676, https://doi.org/10.3390/app142210676 . . . . . . . . 70
+- Ehsan Shad, Kaisa Raninen, Svetlana Podergina, Lok In Chan, Kam Pui Tong,
+- Heidi Hälikkä, et al.
+- Impact of High-Pressure Processing on Quality and Safety of High-Oil-Content Pesto Sauce: A
+- Comparative Study with Thermal Processing
+- Reprinted from: Appl. Sci. 2024, 14, 9425, https://doi.org/10.3390/app14209425 . . . . . . . . . 84
+- Joanna Grzelczyk, Horacio Pérez-Sánchez, Miguel Carmena-Bargueño,
+- Ilona Gałazka-Czarnecka,
+- ˛
+- Grażyna Budryn, Dawid Hernik, et al.
+- Characterization of Oxygenated Propenylbenzene Derivatives Binding to MAO-A Using
+- Isothermal Titration Calorimetry and Molecular Modeling
+- Reprinted from: Appl. Sci. 2024, 14, 10856, https://doi.org/10.3390/app142310856 . . . . . . . . 98
+- Grace Russell, Alexander Nenov and John T. Hancock
+- How Hydrogen (H2 ) Can Support Food Security: From Farm to Fork
+- Reprinted from: Appl. Sci. 2024, 14, 2877, https://doi.org/10.3390/app14072877 . . . . . . . . . 110
+- v
+- About the Editors
+- Sotirios Oikonomou
+- Sotirios Oikonomou is a Post-doctoral Researcher in the School of Applied Sciences at the
+- University of the West of England, Bristol, where he works within the Food Science area. His research
+- focuses on food microbiology and safety, with particular emphasis on novel decontamination
+- technologies such as cold atmospheric plasma, the development of electrochemical (bio)sensors for
+- assessing food quality and authenticity, and the design of 3D printed foods. He is also interested in the
+- behaviour of foodborne pathogens and beneﬁcial microorganisms in complex matrices, including
+- agri-food waste. Dr. Oikonomou possesses substantial breadth and depth of specialist knowledge
+- in food microbiology, food safety and quality, food chemistry, electrochemical biosensors, and
+- biotechnology applications. His research aims to develop novel, sustainable, and safe food products.
+- Finally, his editorial roles, including service on the Early Career Editorial panel for the MDPI journal
+- Applied Sciences, demonstrate recognised expertise and communication skills within the research
+- community, with a view to building solid relationships for future large-scale collaborations and
+- expanding his network.
+- Anastasia Kyriakoudi
+- Anastasia Kyriakoudi is a Chemist with a master’s degree in “Food Chemistry and Technology”
+- from the School of Chemistry (AUTH). She holds a PhD in “Plant Extracts Rich in Isoprenoid
+- Compounds of Interest in Food Bioactive Ingredients Industry”. In 2015, she carried out post-doctoral
+- studies at the Italian National Agency for New Technologies, Energy and Sustainable Economic
+- Development, ENEA (Roma, Italy), on geographical traceability issues, and in 2016, she was
+- awarded an IKY–Siemens fellowship in the ﬁeld of “Nanotechnology and Applications” for

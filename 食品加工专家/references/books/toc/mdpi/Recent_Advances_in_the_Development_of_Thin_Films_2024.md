@@ -1,0 +1,81 @@
+# Recent Advances in the Development of Thin Films (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1856-3
+- 页数: 208
+- 全文: `text/mdpi/Recent_Advances_in_the_Development_of_Thin_Films_2024.txt`
+- PDF: `mdpi/Recent_Advances_in_the_Development_of_Thin_Films_2024.pdf`
+- 标签: 薄膜, 包装材料, 涂层
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Zohra Benzarti and Ali Khalfallah
+- Recent Advances in the Development of Thin Films
+- Reprinted from: Coatings 2024, 14, 878, doi:10.3390/coatings14070878 . . . . . . . . . . . . . . . .
+- 1
+- Daniel Cristea, Ioana-Laura Velicu, Luis Cunha, Nuno Barradas, Eduardo Alves and Valentin
+- Craciun
+- Tantalum-Titanium Oxynitride Thin Films Deposited by DC Reactive Magnetron
+- Co-Sputtering: Mechanical, Optical, and Electrical Characterization
+- Reprinted from: Coatings 2022, 12, 36, doi:10.3390/coatings12010036 . . . . . . . . . . . . . . . . .
+- 5
+- Moussa Grafoute, Kouamé Boko Joël-Igor N’Djoré, Carine Petitjean, Jean François Pierson
+- and Christophe Rousselot
+- Inﬂuence of Oxygen Flow Rate on the Properties of FeOX NY Films Obtained by Magnetron
+- Sputtering at High Nitrogen Pressure
+- Reprinted from: Coatings 2022, 12, 1050, doi:10.3390/coatings12081050 . . . . . . . . . . . . . . . 21
+- Olena Okhay, Paula M. Vilarinho and Alexander Tkach
+- Structure, Microstructure, and Dielectric Response of Polycrystalline Sr1-x Znx TiO3 Thin Films
+- Reprinted from: Coatings 2023, 13, 165, doi:10.3390/coatings13010165 . . . . . . . . . . . . . . . . 36
+- Roger Bujaldón, Alba Cuadrado, Dmytro Volyniuk, Juozas V. Grazulevicius,
+- Joaquim Puigdollers and Dolores Velasco
+- Role of the Alkylation Patterning in the Performance of OTFTs: The Case of
+- Thiophene-Functionalized Triindoles
+- Reprinted from: Coatings 2023, 13, 896, doi:10.3390/coatings13050896 . . . . . . . . . . . . . . . . 44
+- Ali Khalfallah and Zohra Benzarti
+- Mechanical Properties and Creep Behavior of Undoped and Mg-Doped GaN Thin Films Grown
+- by Metal–Organic Chemical Vapor Deposition
+- Reprinted from: Coatings 2023, 13, 1111, doi:10.3390/coatings13061111 . . . . . . . . . . . . . . . 57
+- Jiedong Deng, Feng Jiang, Xuming Zha, Tao Zhang, Hongfei Yao, Dongwei Zhu, et al.
+- Impact Resistance of CVD Multi-Coatings with Designed Layers
+- Reprinted from: Coatings 2023, 13, 815, doi:10.3390/coatings13050815 . . . . . . . . . . . . . . . . 71
+- Chaoqun Ma, Donghong Peng, Xuanyao Bai, Shuangqiang Liu and Le Luo
+- A Review of Optical Fiber Sensing Technology Based on Thin Film and Fabry–Perot Cavity
+- Reprinted from: Coatings 2023, 13, 1277, doi:10.3390/coatings13071277 . . . . . . . . . . . . . . . 83
+- Jianxiao Bian, Yingtang Sun, Jinchang Guo, Xin Liu and Yang Liu
+- Enhancing the Performance and Stability of Perovskite Solar Cells via Morpholinium
+- Tetraﬂuoroborate Additive Engineering: Insights and Implications
+- Reprinted from: Coatings 2023, 13, 1528, doi:10.3390/coatings13091528 . . . . . . . . . . . . . . . 111
+- Ali Khalfallah, Amine Khalfallah and Zohra Benzarti
+- Identiﬁcation of Elastoplastic Constitutive Model of GaN Thin Films Using Instrumented
+- Nanoindentation and Machine Learning Technique
+- Reprinted from: Coatings 2024, 14, 683, doi:10.3390/coatings14060683 . . . . . . . . . . . . . . . . 124
+- v
+- Elena Dmitriyeva, Igor Lebedev, Ekaterina Bondar, Anastasia Fedosimova, Abzal Temiraliev,
+- Danatbek Murzalinov, et al.
+- The Inﬂuence of Lyophobicity and Lyophilicity of Film-Forming Systems on the Properties
+- of Tin Oxide Films
+- Reprinted from: Coatings 2023, 13, 1990, doi:10.3390/coatings13121990 . . . . . . . . . . . . . . . 140
+- Tao He, Dexin Wang, Yu Xu and Jing Zhang
+- The Facile Construction of Anatase Titanium Dioxide Single Crystal Sheet-Connected Film with
+- Observable Strong White Photoluminescence
+- Reprinted from: Coatings 2024, 14, 292, doi:10.3390/coatings14030292 . . . . . . . . . . . . . . . . 156
+- Artem Shiryaev, Konstantin Rozanov, Vladimir Kostishin, Dmitry Petrov, Sergey Maklakov,
+- Arthur Dolmatov and Igor Isaev
+- Retrieving the Intrinsic Microwave Permittivity and Permeability of Ni-Zn Ferrites
+- Reprinted from: Coatings 2023, 13, 1599, doi:10.3390/coatings13091599 . . . . . . . . . . . . . . . 164
+- Arezou Khezerlou, Hajar Zolfaghari, Samira Forghani, Reza Abedi-Firoozjah, Mahmood
+- Alizadeh Sani, Babak Negahdari, et al.
+- Combining Non-Thermal Processing Techniques with Edible Coating Materials: An Innovative
+- Approach to Food Preservation
+- Reprinted from: Coatings 2023, 13, 830, doi:10.3390/coatings13050830 . . . . . . . . . . . . . . . . 178
+- vi
+- About the Editors
+- Zohra Benzarti
+- Zohra Benzarti is a Professor (Associate) in the Department of Physics at the University of
+- Sfax, Faculty of Sciences of Sfax (USF-FSS), in Tunisia. She received her PhD degree in the Physics
+- of Materials (Thin Films Semiconductors) from the University of Tunis El-Manar, Tunisia, in 2006.
+- In 2016, she obtained her Habilitation (HDR) in the Physics of Thin Films from the University of
+- Monastir, Tunisia. Prof. Benzarti joined the CICECCO at the University of Aveiro in Portugal in 2022.
+- In 2023, she moved to the Centre of Mechanical Engineering Materials and Processes (CEMMPRE)

@@ -1,0 +1,79 @@
+# Vegetable Genomics and Breeding Research (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/12486
+- 页数: 190
+- 全文: `text/mdpi/Vegetable_Genomics_and_Breeding_Research_2026.txt`
+- 标签: 蔬菜, 育种
+
+## 目录 (Contents)
+
+- Xiao Yang, Feng Yang and Bin Liu
+- Recent Advances in Vegetable Genomics and Breeding Research
+- Reprinted from: Horticulturae 2025, 11, 1520, https://doi.org/10.3390/horticulturae11121520 . .    1
+- Maria Fomicheva, Yuri Kulakov, Ksenia Alyokhina and Elena Domblides
+- Spontaneous and Chemically Induced Genome Doubling and Polyploidization in Vegetable
+- Crops
+- Reprinted from: Horticulturae 2024, 10, 551, https://doi.org/10.3390/horticulturae10060551 . . .   4
+- Hela Chikh-Rouhou, Saurabh Singh, Srija Priyadarsini and Cristina Mallor
+- Onion Male Sterility: Genetics, Genomics and Breeding
+- Reprinted from: Horticulturae 2025, 11, 539, https://doi.org/10.3390/horticulturae11050539 . . . 33
+- Lili Zhao, Ke Wang, Zimo Wang, Shunpeng Chu, Chunhua Chen, Lina Wang and Zhonghai
+- Ren
+- Pan-Genome Analysis of TRM Gene Family and Their Expression Pattern under Abiotic and
+- Biotic Stresses in Cucumber
+- Reprinted from: Horticulturae 2024, 10, 908, https://doi.org/10.3390/horticulturae10090908 . . . 50
+- Qinyu Yang, Tao Huang, Li Zhang, Xiao Yang, Wenqi Zhang, Longzheng Chen, et al.
+- Integrated Phenotypic Physiology and Transcriptome Analysis Revealed the Molecular Genetic
+- Basis of Anthocyanin Accumulation in Purple Pak-Choi
+- Reprinted from: Horticulturae 2024, 10, 1018, https://doi.org/10.3390/horticulturae10101018 . . 66
+- Shuai Yuan, Xiaoping Yong, Yuxin Lu, Yuxin Lei, Weijian Li, Qiuli Shi and Xiuhong Yao
+- The Transcription Factor BrNAC19 Acts as a Positive Regulator of the Heat Stress Response in
+- Chinese Cabbage
+- Reprinted from: Horticulturae 2024, 10, 1236, https://doi.org/10.3390/horticulturae10121236 . . 83
+- Chen Zhang, Xufeng Fang, Jing Zhang, Xinying Wang, Zhao Liu, Shusen Liu, et al.
+- Weighted Gene Co-Expression Network Analysis Identiﬁes Hub Genes Governing Resistance
+- to Fusarium oxysporum f. sp. niveum in Watermelon (Citrullus lanatus)
+- Reprinted from: Horticulturae 2025, 11, 625, https://doi.org/10.3390/horticulturae11060625 . . . 95
+- Hesbon Ochieng Obel, Xiaohui Zhou, Songyu Liu, Yan Yang, Jun Liu and Yong Zhuang
+- Transcriptomic Analysis of Resistant and Susceptible Eggplant Genotypes (Solanum melongena
+- L.) Provides Insights into Phytophthora capsici Infection Defense Mechanisms
+- Reprinted from: Horticulturae 2025, 11, 1026, https://doi.org/10.3390/horticulturae11091026 . . 114
+- Mohammed E. El-Mahrouk, Mossad K. Maamoun, Sobhia Saifan, Yousry A. Bayoumi,
+- Hassan El-Ramady and Neama Abdalla
+- Exploring Polyploidization in Nigella sativa L.: An Applicable Strategy Towards Crop
+- Improvement
+- Reprinted from: Horticulturae 2025, 11, 1122, https://doi.org/10.3390/horticulturae11091122 . . 143
+- Xuan Deng, Wenjian Zhong, Bo Liu, Xinyan Shen, Zhiyong Ren, Yongen Lu, et al.
+- Identiﬁcation of DMP Family Members in Solanaceous Vegetables Potentially Involved in
+- Haploid Induction
+- Reprinted from: Horticulturae 2025, 11, 1329, https://doi.org/10.3390/horticulturae11111329 . . 161
+-                                                  v
+- Editorial
+- Recent Advances in Vegetable Genomics and Breeding Research
+- Xiao Yang 1 , Feng Yang 2, * and Bin Liu 3, *
+-                    1   Institute of Urban Agriculture, Chinese Academy of Agricultural Sciences, Chengdu National Agricultural
+-                        Science and Technology Center, Chengdu 610213, China; yangxiao@caas.cn
+-                    2   Rice and Sorghum Research Institute, Sichuan Academy of Agricultural Sciences, Deyang Branch,
+-                        Deyang 618099, China
+-                    3   Biological Breeding Laboratory, Xinjiang Uygur Autonomous Region Academy of Agricultural Sciences,
+-                        Urumchi 830091, China
+-                    *   Correspondence: yangfeng@scrsri.cn (F.Y.); liu.bin@xaas.ac.cn (B.L.)
+-                          Vegetables are of critical importance to the human diet, providing the essential vita-
+-                    mins, minerals, and dietary ﬁber necessary for sustaining health [1]. In light of the rising
+-                    global population and increasing demand for nutritious vegetables, there is an urgent need
+-                    to enhance vegetable production, quality, and resilience to environmental challenges. Ge-
+-                    nomics and breeding research have emerged as powerful tools in achieving these objectives
+-                    by unraveling the genetic bases of important traits and developing novel technologies and
+-                    applications to breed new vegetable varieties with desirable characteristics.
+-                          This Special Issue, entitled “Vegetable Genomics and Breeding Research”, comprises
+-                    nine insightful and original research and review articles that aspire to shed light on recent
+-                    advances in understanding the genetic mechanisms behind quality and stress resistance
+-                    traits in vegetables and the application of cutting-edge breeding methodologies for veg-
+-                    etable crops.
+-                          A key topic in this collection is the advance of modern vegetable breeding technologies,
+-                    with a focus on ploidy manipulation, haploid technology, and male sterility, as well as
+-                    their applications in vegetable breeding. Fomicheva et al. (2025) thoroughly reviewed
+-                    genome doubling in vegetable crops and its potential use in obtaining doubled haploids,
+-                    which have the potential to be used to produce polyploids and helping to overcome
+-                    interspeciﬁc hybrid sterility and improve agricultural traits [2]. Deng et al. (2025) performed

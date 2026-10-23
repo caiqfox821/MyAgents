@@ -1,0 +1,80 @@
+# Guideline: daily iron supplementation in adult women and adolescent girls (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/204761
+- 页数: 34
+- 全文: `text/who/Guideline_daily_iron_supplementation_in_adult_women_and_adolescent_girls.txt`
+- 标签: 微量营养素补充, 母婴
+
+## 目录 (Contents)
+
+- ACKNOWLEDGEMENTS										VI
+-                 Financial support								VI
+- EXECUTIVE SUMMARY										1
+-                  Purpose of the guideline							1
+-                  Guideline development methodology						1
+-                  Available evidence								1
+-                  Recommendation								2
+-                  Remarks									2
+-                  Research priorities								3
+- SCOPE AND PURPOSE 									4
+- BACKGROUND										4
+- OBJECTIVES											5
+- SUMMARY OF AVAILABLE EVIDENCE									5
+- RECOMMENDATION										6
+- RATIONALE											6
+- REMARKS 										7
+- RESEARCH PRIORITIES										8
+- DISSEMINATION, IMPLEMENTATION AND ETHICAL CONSIDERATIONS						8
+-                      Dissemination								8
+-                      Implementation								9
+-                      Regulatory considerations							9
+-                      Monitoring and evaluation of guideline uptake and adaptation				 9
+- GUIDELINE DEVELOPMENT PROCESS								10
+-                     Advisory groups								10
+-                     Scope of the guideline, evidence appraisal and decision-making				 11
+- MANAGEMENT OF COMPETING INTERESTS								12
+- PLANS FOR UPDATING THE GUIDELINE								13
+- REFERENCES										14
+- ANNEX 1. 		 GRADE summary of findings table							16
+- ANNEX 2. 		 Summary of the considerations of the members of the guideline development group
+- 		          for determining the strength of the recommendation for daily oral iron supplementation
+- 		          in menstruating adult women and adolescent girls           				17
+- ANNEX 3. 		 WHO Steering Committee for Nutrition Guidelines Development				                        18
+- ANNEX 4.    WHO guideline development group							19
+- ANNEX 5. 		External resource experts							22
+- ANNEX 6. 		WHO SECRETARIAT								23
+- ANNEX 7.		PEER-REVIEWERS								24
+- ANNEX 8. 		 Questions in population, intervention, control, outcomes (PICO) format				             25
+- 		Effects and safety of iron supplementation in menstruating adult women and adolescent girls		                             25
+-                                                              WHO Guideline: Daily iron supplementation in adult women and adolescent girls   v
+-      ACKNOWLEDGEMENTS
+-      This guideline was coordinated by the World Health Organization (WHO) Evidence and Programme Guidance
+-      Unit, Department of Nutrition for Health and Development. Dr Pura Rayco-Solon, Dr Lisa Rogers and Dr Juan
+-      Pablo Peña-Rosas oversaw the preparation of this document. WHO acknowledges the technical contributions
+-      of the following individuals (in alphabetical order): Dr Andrea Bosman, Ms Hala Boukerdenna, Dr Carmen
+-      Casanovas, Dr Camila Chaparro, Dr Maria Nieves García-Casal, Dr Viviana Mangiaterra, Ms Zita Weise Prinzo
+-      and Mr Gerardo Zamora. We also thank the peer-reviewers Ms Solange Durao, Dr Tran Khanh Van and Ms
+-      Terrie Wefwafwa.
+-      We would like to express our gratitude to Dr Susan Norris from the WHO Guidelines Review Committee
+-      Secretariat and members of the Guidelines Review Committee for their technical support throughout the
+-      process. Thanks are also due to Ms Alma Alic from the Department of Compliance and Risk Management and
+-      Ethics, for her support in the management of the conflicts of interests procedures. Ms Jennifer Volonnino,
+-      from the Evidence and Programme Guidance Unit, Department of Nutrition for Health and Development,
+-      provided logistic support.
+-      WHO gratefully acknowledges the technical input of the members of the WHO Steering Committee for
+-      Nutrition Guidelines Development and the WHO guidelines development groups, especially the chairs of the
+-      meeting concerning this guideline, Ms Deena Alaasor and Dr Maria Elena del Socorro Jefferds.
+-      Financial support
+-      WHO thanks the Bill & Melinda Gates Foundation for providing financial support for this work. The
+-      Micronutrient Initiative and the International Micronutrient Malnutrition Prevention and Control Program of
+-      the United States Centers for Disease Control and Prevention (CDC) provided financial support to the Evidence
+-      and Programme Guidance Unit, Department of Nutrition for Health and Development, for the commissioning
+-      of systematic reviews of nutrition interventions. Donors do not fund specific guidelines and do not participate
+-      in any decision related to the guideline development process, including the composition of research questions,
+-      membership of the guideline groups, conduct and interpretation of systematic reviews, or formulation of
+-      recommendations.
+- vi    WHO Guideline: Daily iron supplementation in adult women and adolescent girls
+- WHO GUIDELINE1: DAILY IRON SUPPLEMENTATION IN ADULT WOMEN AND ADOLESCENT GIRLS
+- EXECUTIVE SUMMARY
+- Globally, one in three non-pregnant women, corresponding to almost 500 million women, were anaemic in

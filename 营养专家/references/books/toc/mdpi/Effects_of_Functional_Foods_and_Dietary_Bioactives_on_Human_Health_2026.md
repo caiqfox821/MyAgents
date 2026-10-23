@@ -1,0 +1,80 @@
+# Effects of Functional Foods and Dietary Bioactives on Human Health (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6857-5
+- 页数: 188
+- 全文: `text/mdpi/Effects_of_Functional_Foods_and_Dietary_Bioactives_on_Human_Health_2026.txt`
+- 标签: 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Shaobo Zhou, Linhong Yuan and Xiao Hu
+- Effects of Functional Foods and Dietary Bioactives on Human Health
+- Reprinted from: Molecules 2025, 30, 4355, https://doi.org/10.3390/molecules30224355 . . . . . .                   1
+- Eleni Dalaka, Georgios C. Stefos, Ioannis Politis and Georgios Theodorou
+- Immunomodulatory Properties of Sweet Whey-Derived Peptides in THP-1 Macrophages
+- Reprinted from: Molecules 2025, 30, 1261, https://doi.org/10.3390/molecules30061261 . . . . . .                   6
+- Chenyang Ji, Xiaoshan Long, Jingjie Wang, Bo Qi, Yang Cao and Xiao Hu
+- Rheological Behavior, Textural Properties, and Antioxidant Activity of Porphyra yezoensis
+- Polysaccharide
+- Reprinted from: Molecules 2025, 30, 882, https://doi.org/10.3390/molecules30040882 . . . . . . 24
+- Yan Xu, Jianlei Wei, Wang Wang, Zebin Mao, Didi Wang, Tao Zhang and Pengxia Zhang
+- Oleanolic Acid Slows Down Aging Through IGF-1 Affecting the PI3K/AKT/mTOR Signaling
+- Pathway
+- Reprinted from: Molecules 2025, 30, 740, https://doi.org/10.3390/molecules30030740 . . . . . . 42
+- Dan Su, Junyu Zhu, Yuchuan Li, Muxue Qin, Zhendong Lei, Jingtao Zhou, et al.
+- Effect of Drying Temperature on Sensory Quality, Flavor Components, and Bioactivity of
+- Lichuan Black Tea Processed by Echa No. 10
+- Reprinted from: Molecules 2025, 30, 361, https://doi.org/10.3390/molecules30020361 . . . . . . 61
+- Catalina Landeta-Salgado, Javiera Munizaga, María Paz González-Troncoso, Anamaría
+- Daza-Sanchez, Irene Martínez and María Elena Lienqueo
+- In Vitro Bioaccessibility of Edible Seaweed Proteins from the Chilean Coast and Proteins from
+- the Novel Seaweed-Derived Mycoprotein
+- Reprinted from: Molecules 2025, 30, 165, https://doi.org/10.3390/molecules30010165 . . . . . . 77
+- Xiaoyu Feng, Kashif Ameer, Karna Ramachandraiah and Guihun Jiang
+- Extraction Method Effects on Structural Properties and Functional Characteristics of Dietary
+- Fiber Extracted from Ginseng Residue
+- Reprinted from: Molecules 2024, 29, 4875, https://doi.org/10.3390/molecules29204875 . . . . . . 93
+- Wang Wang, Hanting Zhou, Akanksha Sen, Pengxia Zhang, Linhong Yuan and Shaobo Zhou
+- Recent Advances in the Mechanisms and Applications of Astragalus Polysaccharides in Liver
+- Cancer Treatment: An Overview
+- Reprinted from: Molecules 2025, 30, 2792, https://doi.org/10.3390/molecules30132792 . . . . . . 109
+- Carla Gasbarri and Guido Angelini
+- Behind the Therapeutic Effects of Royal Jelly: Recent Advances in the Speciﬁc Properties of
+- 10-Hydroxydecanoic Acid
+- Reprinted from: Molecules 2025, 30, 2694, https://doi.org/10.3390/molecules30132694 . . . . . . 138
+- Natalia Cichon, Rafał Szelenberger, Maksymilian Stela, Marcin Podogrocki, Leslaw Gorniak
+- and Michal Bijak
+- Flavanones as Modulators of Gut Microbiota and Cognitive Function
+- Reprinted from: Molecules 2025, 30, 2203, https://doi.org/10.3390/molecules30102203 . . . . . . 151
+-                                                          v
+- About the Editors
+- Shaobo Zhou
+-     Shaobo Zhou is Associate Professor of Human Nutrition and Health and Programme Leader
+- for Human Nutrition and Health at the University of Greenwich, United Kingdom. He was trained
+- in medicine and completed both his Master and PhD in Nutrition in the National Key Department of
+- Nutrition and Food Hygiene at Harbin Medical University in China. Before joining the University
+- of Greenwich, he held research and academic posts at the National Institute of Nutrition and Food
+- Safety, Chinese Center for Disease Control and Prevention, the University of Manchester, King’s
+- College London, Aberystwyth University, and the University of Bedfordshire. His research focuses
+- on the roles of nutrients and nutraceuticals, including zinc, polysaccharides, vitamins, fatty acids,
+- milk-derived components, Ganoderma lucidum and marine derived bioactives, in the prevention
+- and management of chronic diseases such as diabetes, epilepsy, Alzheimer Disease, bone disorders,
+- sarcopenia and cancer. He has particular expertise in zinc biomarkers, cellular and pathology
+- models, proteomics and metabolomics, and has contributed to major multidisciplinary projects,
+- including a one-million-pound Department of Health funded study on dietary biomarkers. He has
+- supervised numerous postgraduate students, contributed to research assessment exercises in the
+- United Kingdom and serves as an editor and active reviewer for several international journals in
+- nutrition, food science, and biomedical research.
+- Linhong Yuan
+-     Linhong Yuan is a professor at the School of Public Health, Capital Medical University in
+- Beijing, China, where she works within the Beijing Key Laboratory of Environment and Aging and
+- the China British Joint Laboratory of Nutrition Prevention and Control of Chronic Diseases. Her
+- research focuses on the relationships between diet, nutritional status, and chronic disease, with
+- particular emphasis on obesity, type 2 diabetes, cognitive decline in older adults and cardiometabolic
+- health. She has led and contributed to population based and clinical studies on dietary quality,
+- fatty acid proﬁles, fat soluble vitamins and other nutritional biomarkers, and their associations
+- with cognition and metabolic risk in Chinese populations. Her work also extends to nutrition and
+- health literacy, dietary diversity and lifestyle factors in children and older adults. Through this

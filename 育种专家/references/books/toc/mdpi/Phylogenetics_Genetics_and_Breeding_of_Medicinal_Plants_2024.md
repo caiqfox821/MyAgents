@@ -1,0 +1,76 @@
+# Phylogenetics, Genetics, and Breeding of Medicinal Plants (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/8891
+- 页数: 532
+- 全文: `text/mdpi/Phylogenetics_Genetics_and_Breeding_of_Medicinal_Plants_2024.txt`
+- 标签: 药用植物, 遗传育种
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Sei Kinoshita, Kengo Sakurai, Kosuke Hamazaki, Takahiro Tsusaka, Miki Sakurai,
+- Terue Kurosawa, et al.
+- Assessing the Potential for Genome-Assisted Breeding in Red Perilla Using Quantitative Trait
+- Locus Analysis and Genomic Prediction
+- Reprinted from: Genes 2023, 14, 2137, doi:10.3390/genes14122137 . . . . . . . . . . . . . . . . . .             1
+- Hilde Nybom, Chengjiang Ruan and Kimmo Rumpunen
+- The Systematics, Reproductive Biology, Biochemistry, and Breeding of Sea Buckthorn—A
+- Review
+- Reprinted from: Genes 2023, 14, 2120, doi:10.3390/genes14122120 . . . . . . . . . . . . . . . . . . 14
+- Muniba Kousar and Joonho Park
+- Comparative Analysis of the Chloroplast Genome of Sicyos angulatus with Other Seven Species
+- of Cucurbitaceae Family
+- Reprinted from: Genes 2023, 14, 1776, doi:10.3390/genes14091776 . . . . . . . . . . . . . . . . . . 48
+- Pasquale Tripodi
+- Application of High-Resolution Melting and DNA Barcoding for Discrimination and Taxonomy
+- Definition of Rocket Salad (Diplotaxis spp.) Species
+- Reprinted from: Genes 2023, 14, 1594, doi:10.3390/genes14081594 . . . . . . . . . . . . . . . . . . 60
+- Dan Ioan Avasiloaiei, Mariana Calara, Petre Marian Brezeanu, Otilia Cristina Murariu and
+- Creola Brezeanu
+- On the Future Perspectives of Some Medicinal Plants within Lamiaceae Botanic Family
+- Regarding Their Comprehensive Properties and Resistance against Biotic and Abiotic Stresses
+- Reprinted from: Genes 2023, 14, 955, doi:10.3390/genes14050955 . . . . . . . . . . . . . . . . . . . 75
+- Zhihua Wu, Zhen Wang, Yaojian Xie, Guo Liu, Xiuhua Shang and Ni Zhan
+- Transcriptome and Metabolome Profiling Provide Insights into Flavonoid Synthesis in Acanthus
+- ilicifolius Linn
+- Reprinted from: Genes 2023, 14, 752, doi:10.3390/genes14030752 . . . . . . . . . . . . . . . . . . . 99
+- Nur Azreen Saidon, Alina Wagiran, Abdul Fatah A. Samad, Faezah Mohd Salleh,
+- Farhan Mohamed, Jaeyres Jani and Alona C Linatoc
+- DNA Barcoding, Phylogenetic Analysis and Secondary Structure Predictions of Nepenthes
+- ampullaria, Nepenthes gracilis and Nepenthes rafflesiana
+- Reprinted from: Genes 2023, 14, 697, doi:10.3390/genes14030697 . . . . . . . . . . . . . . . . . . . 121
+- Chenju Yang, Ni Zhang, Shaoxiong Wu, Chunyan Jiang, Lian Xie, Feng Yang and
+- Zhengwen Yu
+- A Comparative Analysis of the Chloroplast Genomes of Three Lonicera Medicinal Plants
+- Reprinted from: Genes 2023, 14, 548, doi:10.3390/genes14030548 . . . . . . . . . . . . . . . . . . . 135
+- Matjaž Hladnik, Alenka Baruca Arbeiter and Dunja Bandelj
+- Sequence Characterization of ITS Regions of Immortelle Helichrysum italicum (Roth) G. Don
+- from the East Adriatic Coast
+- Reprinted from: Genes 2023, 14, 480, doi:10.3390/genes14020480 . . . . . . . . . . . . . . . . . . . 150
+-                                                         v
+- Yifeng Ding, Xiaomeng Wang, Dandan Wang, Liwei Jiang, Jing Xie, Tianle Wang, et al.
+- Identification of CmbHLH Transcription Factor Family and Excavation of CmbHLHs Resistant
+- to Necrotrophic Fungus Alternaria in Chrysanthemum
+- Reprinted from: Genes 2023, 14, 275, doi:10.3390/genes14020275 . . . . . . . . . . . . . . . . . . . 162
+- Mai Huong Pham, Thu Hoai Tran, Thi Dung Le, Tung Lam Le, Ha Hoang and Hoang Ha Chu
+- The Complete Chloroplast Genome of An Ophiorrhiza baviensis Drake Species Reveals Its
+- Molecular Structure, Comparative, and Phylogenetic Relationships
+- Reprinted from: Genes 2023, 14, 227, doi:10.3390/genes14010227 . . . . . . . . . . . . . . . . . . . 182
+- Rui Li, Maotao Xiao, Jian Li, Qi Zhao, Mingcheng Wang and Ziwei Zhu
+- Transcriptome Analysis of CYP450 Family Members in Fritillaria cirrhosa D. Don and Profiling
+- of Key CYP450s Related to Isosteroidal Alkaloid Biosynthesis
+- Reprinted from: Genes 2023, 14, 219, doi:10.3390/genes14010219 . . . . . . . . . . . . . . . . . . . 195
+- Shuming Tian, Yuepeng Wan, Dongzhu Jiang, Min Gong, Junyao Lin, Maoqin Xia, et al.
+- Genome-Wide Identification, Characterization, and Expression Analysis of GRAS Gene Family
+- in Ginger (Zingiber officinale Roscoe)
+- Reprinted from: Genes 2023, 14, 96, doi:10.3390/genes14010096 . . . . . . . . . . . . . . . . . . . . 207
+- Syed Faheem Anjum Gillani, Adnan Rasheed, Asim Abbasi, Yasir Majeed, Musawer Abbas,
+- Muhammad Umair Hassan, et al.
+- Comparative Gene Enrichment Analysis for Drought Tolerance in Contrasting Maize Genotype
+- Reprinted from: Genes 2023, 14, 31, doi:10.3390/genes14010031 . . . . . . . . . . . . . . . . . . . . 226
+- Aqleem Abbas, Xiangling Fang, Shehzad Iqbal, Syed Atif Hasan Naqvi, Yasir Mehmood,
+- Muhammad Junaid Rao, et al.
+- Population Genetics and Anastomosis Group’s Geographical Distribution of Rhizoctonia solani
+- Associated with Soybean
+- Reprinted from: Genes 2022, 13, 2417, doi:10.3390/genes13122417 . . . . . . . . . . . . . . . . . . 245

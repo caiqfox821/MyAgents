@@ -1,0 +1,81 @@
+# Effect of Processing and Cooking on Physicochemical Sensory and Functional Properties of Food (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7079-0
+- 页数: 320
+- 全文: `text/mdpi/Effect_of_Processing_and_Cooking_on_Physicochemical_Sensory_and_Functional_Properties_of_Food_2026.txt`
+- PDF: `mdpi/Effect_of_Processing_and_Cooking_on_Physicochemical_Sensory_and_Functional_Properties_of_Food_2026.pdf`
+- 标签: 加工与烹饪, 感官, 功能特性
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Sheng-Dun Lin
+- Effects of Processing and Cooking on Physicochemical, Sensory, and Functional Properties of
+- Food: Second Edition
+- Reprinted from: Foods 2025, 14, 3601, https://doi.org/10.3390/foods14213601 . . . . . . . . . . .
+- 1
+- Adela Abellán, Pablo Gómez, Alba Villegas, Laura Buendía-Moreno and Luis Tejada
+- Inﬂuence of Cutting Dimensions and Cooking Methods on the Nutritional Composition and
+- Sensory Attributes of Zucchini (Cucurbita pepo L.)
+- Reprinted from: Foods 2025, 14, 3213, https://doi.org/10.3390/foods14183213 . . . . . . . . . . . 11
+- Yen-Chieh Lee, Yi-Chan Chiang, Min-Hung Chen and Po-Yuan Chiang
+- Micronization Combined Ultrasound-Assisted Extraction Enhances the Sustainability of
+- Polyphenols from Pineapple and Lemon Peels Utilizing Acidiﬁed Ethanol
+- Reprinted from: Foods 2025, 14, 2872, https://doi.org/10.3390/foods14162872 . . . . . . . . . . . 23
+- Kezban Esen Karaca Çelik, Reyhan Irkin, Sema Çarıkçı, Simge Sipahi, Selinay Yakar,
+- Cem Yaman and Ece Öneş
+- Passion Fruit Seeds as a Functional Ingredient in Snack Bars: A Nutritional and Sustainable
+- Approach
+- Reprinted from: Foods 2025, 14, 1857, https://doi.org/10.3390/foods14111857 . . . . . . . . . . . 46
+- Ismael Montero-Fernández, Víctor Manrique Fernández, Francisco Pérez-Nevado, Selvin
+- Antonio Saravia-Maldonado, Jhunior Abraham Marcía Fuentes and Daniel Martín-Vertedor
+- Enhancing Nutrient Proﬁle and Reducing Acrylamide in California-Style Table Olives with Cassia
+- grandis Fortiﬁcation
+- Reprinted from: Foods 2025, 14, 1426, https://doi.org/10.3390/foods14081426 . . . . . . . . . . . 62
+- Shin-Yu Chen, Qi-Fang Zhang, Hui-Shan Shen and Sheng-Dun Lin
+- Metabolic Syndrome Prevention Potential of Tamarillo: Phytochemical Composition, Antioxidant
+- Activity, and Enzyme Inhibition Before and After Digestion
+- Reprinted from: Foods 2025, 14, 1282, https://doi.org/10.3390/foods14071282 . . . . . . . . . . . 76
+- Meng Li, Shuang Liu, Zhenqiang Wang, Feng Liu, Hongjing Dong, Xuguang Qiao
+- and Xiao Wang
+- Comparing the Drying Characteristics, Phytochemicals, and Antioxidant Characterization of
+- Panax quinquefolium L. Treated by Different Processing Techniques
+- Reprinted from: Foods 2025, 14, 815, https://doi.org/10.3390/foods14050815 . . . . . . . . . . . 102
+- Durim Alija, Remigiusz Ol˛edzki, Daniela Nikolovska Nedelkoska, Ewa Pejcz,
+- Agata Wojciechowicz-Budzisz, Viktorija Stamatovska and Joanna Harasym
+- Cucurbita maxima Plomo Peel as a Valuable Ingredient for Bread-Making
+- Reprinted from: Foods 2025, 14, 597, https://doi.org/10.3390/foods14040597 . . . . . . . . . . . 118
+- Jin-Xiu Xu, Xin Zhang, Bai-Feng Fu, Xin-Yu Qiao, Zhen-Yu Wang, Xian-Bing Xu, et al.
+- Impact of Cooking Processes on Volatile Flavor Compounds and Free Amino Acids in Fish Sauce
+- Reprinted from: Foods 2025, 14, 586, https://doi.org/10.3390/foods14040586 . . . . . . . . . . . 143
+- v
+- Rania Mohamed, Jizhou Xie, Fang Wei, Liyong Luo, Wei Luo and Liang Zeng
+- Effects of Extraction Temperature of Protein from Date Palm Pollen on the Astringency Taste of
+- Tea
+- Reprinted from: Foods 2025, 14, 508, https://doi.org/10.3390/foods14030508 . . . . . . . . . . . 156
+- Youn Young Shim, Peta-Gaye G. Burnett, Clara M. Olivia, Xian-Guo Zou, Sung Jin Lee,
+- Hye-Jin Kim, et al.
+- Oxidative Stability of Novel Peptides (Linusorbs) in Flaxseed Meal-Fortiﬁed Gluten-Free Bread
+- Reprinted from: Foods 2025, 14, 439, https://doi.org/10.3390/foods14030439 . . . . . . . . . . . 172
+- Varuzhan Sarkisyan, Anastasiya Bilyalova, Valentina Vorobyeva, Irina Vorobyeva,
+- Alexey Malinkin, Vladimir Zotov and Alla Kochetkova
+- Optimization of the Meat Flavoring Production Process for Plant-Based Products Using the
+- Taguchi Method
+- Reprinted from: Foods 2025, 14, 116, https://doi.org/10.3390/foods14010116 . . . . . . . . . . . 184
+- Faying Zheng, Fuxin Nie, Ye Qiu, Yage Xing, Qinglian Xu, Jianxiong Chen, et al.
+- Changes in Functional Properties and In Vitro Digestibility of Black Tartary Buckwheat Starch by
+- Autoclaving Combination with Pullulanase Treatment
+- Reprinted from: Foods 2024, 13, 4114, https://doi.org/10.3390/foods13244114 . . . . . . . . . . . 198
+- Anna Draszanowska, Lidia Kurp, Małgorzata Starowicz, Beata Paszczyk,
+- Marta Czarnowska-Kujawska and Magdalena Anna Olszewska
+- Effect of the Addition of Yellow Mealworm (Tenebrio molitor) on the Physicochemical,
+- Antioxidative, and Sensory Properties of Oatmeal Cookies
+- Reprinted from: Foods 2024, 13, 3166, https://doi.org/10.3390/foods13193166 . . . . . . . . . . . 220
+- Piotr Lewko, Agnieszka Wójtowicz and Daniel M. Kamiński
+- The Inﬂuence of Processing Using Conventional and Hybrid Methods on the Composition,
+- Polysaccharide Proﬁles and Selected Properties of Wheat Flour Enriched with Baking Enzymes
+- Reprinted from: Foods 2024, 13, 2957, https://doi.org/10.3390/foods13182957 . . . . . . . . . . . 236
+- Danielle Heaney and Olga I. Padilla-Zakour

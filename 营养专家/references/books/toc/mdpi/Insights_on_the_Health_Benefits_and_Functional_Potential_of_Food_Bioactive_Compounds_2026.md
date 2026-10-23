@@ -1,0 +1,80 @@
+# Insights on the Health Benefits and Functional Potential of Food Bioactive Compounds (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8146-8
+- 页数: 206
+- 全文: `text/mdpi/Insights_on_the_Health_Benefits_and_Functional_Potential_of_Food_Bioactive_Compounds_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Diego Morales
+- Insights on the Health Beneﬁts and Functional Potential of Food Bioactive Compounds
+- Reprinted from: Foods 2025, 14, 1984, https://doi.org/10.3390/foods14111984 . . . . . . . . . . .                 1
+- Na-Ra Han, Hi-Joon Park, Seong-Gyu Ko and Phil-Dong Moon
+- Naringenin, a Food Bioactive Compound, Reduces Oncostatin M Through Blockade of
+- PI3K/Akt/NF-κB Signal Pathway in Neutrophil-like Differentiated HL-60 Cells
+- Reprinted from: Foods 2025, 14, 102, https://doi.org/10.3390/foods14010102 . . . . . . . . . . .                  5
+- Vesna Rastija, Mato Drenjančević, Toni Kujundžić, Luka Zmaić and Maja Karnaš
+- The Antidiabetic Effect of Grape Skin Extracts of Selected Indigenous Croatian White Grapevine
+- Varieties
+- Reprinted from: Foods 2024, 13, 4143, https://doi.org/10.3390/foods13244143 . . . . . . . . . . . 17
+- Iván Jesús Jiménez-Pulido, Ana Belén Martín-Diana, Irene Tomé-Sánchez, Daniel de Luis,
+- Cristina Martínez-Villaluenga and Daniel Rico
+- Boosting Synergistic Antioxidant and Anti-Inﬂammatory Properties Blending Cereal-Based
+- Nutraceuticals Produced Using Sprouting and Hydrolysis Tools
+- Reprinted from: Foods 2024, 13, 1868, https://doi.org/10.3390/foods13121868 . . . . . . . . . . . 30
+- Zehua Liu, Jianshen Liu, Ruoxin Tang, Zhaowan Zhang and Shuangqi Tian
+- Procyanidin B1 and Coumaric Acid from Highland Barley Alleviated High-Fat-Diet-Induced
+- Hyperlipidemia by Regulating PPARα-Mediated Hepatic Lipid Metabolism and Gut
+- Microbiota in Diabetic C57BL/6J Mice
+- Reprinted from: Foods 2024, 13, 1843, https://doi.org/10.3390/foods13121843 . . . . . . . . . . . 53
+- Emma Cantero-Bahillo, Joaquín Navarro del Hierro, María de las Nieves Siles-Sánchez,
+- Laura Jaime, Susana Santoyo and Diana Martin
+- Combination of Fenugreek and Quinoa Husk as Sources of Steroidal and Triterpenoid Saponins:
+- Bioactivity of Their Co-Extracts and Hydrolysates
+- Reprinted from: Foods 2024, 13, 562, https://doi.org/10.3390/foods13040562 . . . . . . . . . . . 71
+- Hui Chu, Weiling Liu, Cong Zhao, Tong Yin, Jia Shi and Wei Zhang
+- Glycated Casein by TGase-Type Exerts Protection Potential against DSS-Induced Colitis via
+- Inhibiting TLR4/NF-κB Signaling Pathways in C57BL/6J Mice
+- Reprinted from: Foods 2023, 12, 3431, https://doi.org/10.3390/foods12183431 . . . . . . . . . . . 87
+- Eva Tejedor-Calvo, Diego Morales, Laura Morillo, Laura Vega, Mercedes Caro, Fhernanda
+- Ribeiro Smiderle, et al.
+- Pressurized Liquid (PLE) Trufﬂe Extracts Have Inhibitory Activity on Key Enzymes Related to
+- Type 2 Diabetes (α-Glucosidase and α-Amylase)
+- Reprinted from: Foods 2023, 12, 2724, https://doi.org/10.3390/foods12142724 . . . . . . . . . . . 101
+- Pamela Gallegos-Alcalá, Mariela Jiménez, Daniel Cervantes-García, Laura Elena Córdova-
+- Dávalos, Irma Gonzalez-Curiel and Eva Salinas
+- Glycomacropeptide Protects against Inﬂammation and Oxidative Stress, and Promotes Wound
+- Healing in an Atopic Dermatitis Model of Human Keratinocytes
+- Reprinted from: Foods 2023, 12, 1932, https://doi.org/10.3390/foods12101932 . . . . . . . . . . . 116
+-                                                          v
+- Li Min, Gang Wang, Xiong Tong, Huaigu Yang, Hao Sun, Zhifei Zhang, et al.
+- Feeding Aquilaria sinensis Leaves Modulates Lipid Metabolism and Improves the Meat Quality
+- of Goats
+- Reprinted from: Foods 2023, 12, 560, https://doi.org/10.3390/foods12030560 . . . . . . . . . . . 134
+- Wamidh H. Talib, Ilia Abed, Daniah Raad, Raghad K. Alomari, Ayah Jamal, Rand Jabbar,
+- et al.
+- Targeting Cancer Hallmarks Using Selected Food Bioactive Compounds: Potentials for
+- Preventive and Therapeutic Strategies
+- Reprinted from: Foods 2024, 13, 2687, https://doi.org/10.3390/foods13172687 . . . . . . . . . . . 148
+- Diego Morales
+- Use of Strawberry Tree (Arbutus unedo) as a Source of Functional Fractions with Biological
+- Activities
+- Reprinted from: Foods 2022, 11, 3838, https://doi.org/10.3390/foods11233838 . . . . . . . . . . . 175
+-                                                  vi
+- About the Editor
+- Diego Morales
+-      Diego Morales (PhD in Food Science, Universidad Autónoma de Madrid) is currently Professor
+- at the Universidad Complutense de Madrid. His research has focused on the development and
+- characterization of novel functional foods, with an early emphasis on the application of green
+- extraction technologies, including supercritical ﬂuids, pressurized liquids, and ultrasound-assisted
+- processes, to obtain bioactive compounds from diverse raw materials such as edible mushrooms and
+- plant and animal by-products. He has carried out research stays at several institutions, including the
+- Federal University of Paraná (UFR), Wageningen University, AZTI-Derio, and the Universitat Rovira
+- I Virgili, complementing his research activity with teaching and science communication initiatives,
+- notably through the creation and management of the ‘ScienceBeach_’ platform. He has authored
+- 44 publications in high-impact journals (h-index = 23) and his current research interests are centred on
+- the functional properties of alternative fermented beverages, particularly kombucha-type products

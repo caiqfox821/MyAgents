@@ -1,0 +1,80 @@
+# Diabetes, Hypertension, and Cardiovascular Disease: Clinical Insights, Mechanisms, and Pharmacotherapies (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1006-2
+- 页数: 162
+- 全文: `text/mdpi/Diabetes_Hypertension_and_Cardiovascular_Disease_Clinical_Insights_Mechanisms_and_Pharmacotherapies_2024.txt`
+- 标签: 糖尿病, 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Ming-Jui Hung
+- Diabetes, Hypertension and Cardiovascular Disease: Clinical Insights, Mechanisms and
+- Pharmacotherapies
+- Reprinted from: Medicina 2024, 60, 566, doi:10.3390/medicina60040566 . . . . . . . . . . . . . . .            1
+- Viviana Aursulesei Onofrei, Alexandr Ceasovschih, Razvan Constantin Anghel, Mihai Roca,
+- Dragos Traian Marius Marcu, Cristina Andreea Adam, et al.
+- Subendocardial Viability Ratio Predictive Value for Cardiovascular Risk in Hypertensive
+- Patients
+- Reprinted from: Medicina 2023, 59, 24, doi:10.3390/medicina59010024 . . . . . . . . . . . . . . .             4
+- Osama Abo Alrob, Sowndramalingam Sankaralingam, Sayer Alazzam, Buthaina Nusairat,
+- Muhammad Qattoum and Mohammad B. Nusair
+- Obesity Paradox among Heart Failure with Reduced Ejection Fraction Patients: A Retrospective
+- Cohort Study
+- Reprinted from: Medicina 2023, 59, 60, doi:10.3390/medicina59010060 . . . . . . . . . . . . . . . 16
+- Ming-Yow Hung and Ming-Jui Hung
+- Relationship between Inﬂammation and Vasospastic Angina
+- Reprinted from: Medicina 2023, 59, 318, doi:10.3390/medicina59020318 . . . . . . . . . . . . . . . 26
+- Ming-Lung Tsai, Shu-I Lin, Yu-Cheng Kao, Hsuan-Ching Lin, Ming-Shyan Lin,
+- Jian-RongPeng,etal.
+- OptimalHeartRateControlImprovesLong-TermPrognosisofDecompensatedHeartFailure
+- withReducedEjectionFraction
+- Reprinted from: Medicina 2023, 59, 348, doi:10.3390/medicina59020348 . . . . . . . . . . . . . . . 38
+- Chin-Chan Lee, Chia-Chun Chen, Cheng-Kai Hsu, Yih-Ting Chen, Chun-Yu Chen,
+- Kai-JieYang,etal.
+- UrinarymicroRNAinDiabeticKidneyDisease:ALiteratureReview
+- Reprinted from: Medicina 2023, 59, 354, doi:10.3390/medicina59020354 . . . . . . . . . . . . . . . 50
+- Ning-I Yang, Li-Tang Kuo, Chin-Chan Lee, Ming-Kuo Ting, I-Wen Wu, Shuo-Wei Chen and
+- Kuang-Hung Hsu
+- Associations of Three-Dimensional Anthropometric Body Surface Scanning Measurements and
+- Coronary Artery Disease
+- Reprinted from: Medicina 2023, 59, 570, doi:10.3390/medicina59030570 . . . . . . . . . . . . . . . 62
+- Jhih-Wei Dai, Chien-Ho Wang, Chan-Lin Chu and Shu-Chen Liao
+- Effectiveness and Safety of Dabigatran Reversal with Idarucizumab in the Taiwanese
+- Population: A Comparison Based on Eligibility for Inclusion in Clinical Trials
+- Reprinted from: Medicina 2023, 59, 881, doi:10.3390/medicina59050881 . . . . . . . . . . . . . . . 76
+- Viviana Onofrei, Adrian Cris, an, Cristina Andreea Adam, Dragos Traian Marius Marcu,
+- Mihai S, tefan Cristian Haba, Laura Carina Tribus, et al.
+- The Role Played by Novel Inﬂammatory Markers in Assessment of Peripheral Artery Disease
+- Reprinted from: Medicina 2023, 59, 1557, doi:10.3390/medicina59091557 . . . . . . . . . . . . . . 89
+-                                                        v
+- Minji Wi, Yumin Kim, Cheol-Hyun Kim, Sangkwan Lee, Gi-Sang Bae, Jungtae Leem and
+- Hongmin Chu
+- Effectiveness and Safety of Fufang Danshen Dripping Pill (Cardiotonic Pill) on Blood Viscosity
+- and Hemorheological Factors for Cardiovascular Event Prevention in Patients with Type 2
+- Diabetes Mellitus: Systematic Review and Meta-Analysis
+- Reprinted from: Medicina 2023, 59, 1730, doi:10.3390/medicina59101730 . . . . . . . . . . . . . . 108
+- Sungjun Joo, Hyonjun Chun, Jisu Lee, Seungmin Seo, Jungmin Lee and Jungtae Leem
+- Hypoglycemic Effect of an Herbal Decoction (Modiﬁed Gangsimtang) in a Patient with Severe
+- Type 2 Diabetes Mellitus Refusing Oral Anti-Diabetic Medication: A Case Report
+- Reprinted from: Medicina 2023, 59, 1919, doi:10.3390/medicina59111919 . . . . . . . . . . . . . . 126
+- En-Hao Hu, Ming-Lung Tsai, Yuan Lin, Tien-Shin Chou and Tien-Hsing Chen
+- A Review and Meta-Analysis of the Safety and Efﬁcacy of Using Glucagon-like Peptide-1
+- Receptor Agonists
+- Reprinted from: Medicina 2024, 60, 357, doi:10.3390/medicina60030357 . . . . . . . . . . . . . . . 139
+-                                                   vi
+- About the Editor
+- Ming-Jui Hung
+-     Dr. Hung received his M.D. degree from Chung Shan Medical University, Taichung in 1990
+- and his Ph.D. degree from the Graduate Institute of Clinical Medical Sciences at the Chang Gung
+- University College of Medicine, Taoyuan in 2010. Between his M.D. and Ph.D. degrees, he completed
+- his residency training in internal medicine at Chang Gung Memorial Hospital in Linkou, Taoyuan
+- and his fellowship training in cardiology at Chang Gung Memorial Hospital in Keelung. He was
+- appointed General Attending Physician and Assistant Professor in 2001 at Chang Gung Memorial
+- Hospital in Keelung and promoted to Professor in 2013. Dr. Hung’s main research and clinical
+- interests are coronary vasospasm and echocardiography. He has published more than 180 papers
+- in prestigious journals with high scientiﬁc impact. Dr. Hung’s research interests are focused on eNOS
+- regulations that govern vascular function, especially in dynamic coronary stenosis. His laboratory
+- attempts to apply basic ﬁndings about the vascular wall to the possible pathophysiologic mechanism
+- in dynamic coronary stenosis. His laboratory studied the interaction between eNOS and caveolin-1

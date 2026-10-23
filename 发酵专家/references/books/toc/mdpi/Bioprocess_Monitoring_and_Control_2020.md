@@ -1,0 +1,71 @@
+# Bioprocess Monitoring and Control (2020, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-03936-933-1
+- 页数: 236
+- 全文: `text/mdpi/Bioprocess_Monitoring_and_Control_2020.txt`
+- PDF: `mdpi/Bioprocess_Monitoring_and_Control_2020.pdf`
+- 标签: 工业发酵, 过程控制, PAT
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Bioprocess Monitoring and Control” . . . . . . . . . . . . . . . . . . . . . . . . . . .         ix
+- Bernd Hitzmann
+- Special Issue: Bioprocess Monitoring and Control
+- Reprinted from: Processes 2020, 8, 854, doi:10.3390/pr8070854 . . . . . . . . . . . . . . . . . . . . .       1
+- Silvia Lisci, Massimiliano Grosso and Stefania Tronci
+- A Geometric Observer-Assisted Approach to Tailor State Estimation in a Bioreactor for
+- Ethanol Production
+- Reprinted from: Processes 2020, 8, 480, doi:10.3390/pr8040480 . . . . . . . . . . . . . . . . . . . .         5
+- Yann Brignoli, Brian Freeland, David Cunningham and Michal Dabros
+- Control of Speciﬁc Growth Rate in Fed-Batch Bioprocesses: Novel Controller Design for
+- Improved Noise Management
+- Reprinted from: Processes 2020, 8, 679, doi:10.3390/pr8060679 . . . . . . . . . . . . . . . . . . . . 19
+- Gaber Attia Abo-Zaid, Nadia Abdel-Mohsen Soliman, Ahmed Salah Abdullah,
+- Ebaa Ebrahim El-Sharouny, Saleh Mohamed Matar and Soraya Abdel-Fattah Sabry
+- Maximization of Siderophores Production from Biocontrol Agents, Pseudomonas aeruginosa F2
+- and Pseudomonas ﬂuorescens JY3 Using Batch and Exponential Fed-Batch Fermentation
+- Reprinted from: Processes 2020, 8, 455, doi:10.3390/pr8040455 . . . . . . . . . . . . . . . . . . . . . 35
+- Jing Zhang, Muhammad Bilal, Shuai Liu, Jiaheng Zhang, Hedong Lu, Hongzhen Luo,
+- Chuping Luo, Hao Shi, Haﬁz M. N. Iqbal and Yuping Zhao
+- Isolation, Identiﬁcation and Antimicrobial Evaluation of Bactericides Secreting Bacillus subtilis
+- Natto as a Biocontrol Agent
+- Reprinted from: Processes 2020, 8, 259, doi:10.3390/pr8030259 . . . . . . . . . . . . . . . . . . . . . 55
+- Hyun-Woo Kim, Seong Hwan Hong and Hyeoksun Choi
+- Effect of Nitrate and Perchlorate on Selenate Reduction in a Sequencing Batch Reactor
+- Reprinted from: Processes 2020, 8, 344, doi:10.3390/pr8030344 . . . . . . . . . . . . . . . . . . . . . 71
+- Mohammad Jafari, Mehdi Golzadeh, Sied Ziaedin Shafaei, Hadi Abdollahi,
+- Mahdi Gharabaghi and Saeed Chehreh Chelgani
+- Effects of Conventional Flotation Frothers on the Population of Mesophilic Microorganisms in
+- Different Cultures
+- Reprinted from: Processes 2019, 7, 653, doi:10.3390/pr7100653 . . . . . . . . . . . . . . . . . . . . . 79
+- Fabian Feidl, Simone Garbellini, Martin F. Luna, Sebastian Vogg, Jonathan Souquet,
+- Hervé Broly, Massimo Morbidelli and Alessandro Butté
+- Combining Mechanistic Modeling and Raman Spectroscopy for Monitoring Antibody
+- Chromatographic Puriﬁcation
+- Reprinted from: Processes 2019, 7, 683, doi:10.3390/pr7100683 . . . . . . . . . . . . . . . . . . . . 97
+- Ali Youssef, Tomas Norton and Daniel Berckmans
+- Bioenvironmental Zonal Controlling of Incubated Avian Embryo Using Localised
+- Infrared Heating
+- Reprinted from: Processes 2019, 7, 651, doi:10.3390/pr7100651 . . . . . . . . . . . . . . . . . . . . . 113
+-                                                        v
+- Ali Youssef, Nicolás Caballero and Jean-Marie Aerts
+- Model-Based Monitoring of Occupant’s Thermal State for Adaptive HVAC
+- Predictive Controlling
+- Reprinted from: Processes 2019, 7, 720, doi:10.3390/pr7100720 . . . . . . . . . . . . . . . . . . . . 129
+- Agata Krywko-Cendrowska, Dawid Szweda and Roza Szweda
+- Well-Deﬁned Conjugated Macromolecules Based on Oligo(Arylene Ethynylene)s in Sensing
+- Reprinted from: Processes 2020, 8, 539, doi:10.3390/pr8050539 . . . . . . . . . . . . . . . . . . . . 145
+- Philipp Noll, Lars Lilge, Rudolf Hausmann and Marius Henkel
+- Modeling and Exploiting Microbial Temperature Response
+- Reprinted from: Processes 2020, 8, 121, doi:10.3390/pr8010121 . . . . . . . . . . . . . . . . . . . . . 177
+- Vytautas Galvanauskas, Rimvydas Simutis, Donatas Levišauskas and Renaldas Urniežius
+- Practical Solutions for Speciﬁc Growth Rate Control Systems in Industrial Bioreactors
+- Reprinted from: Processes 2019, 7, 693, doi:10.3390/pr7100693 . . . . . . . . . . . . . . . . . . . . 207
+-                                                     vi
+- About the Editor
+-     Bernd Hitzmann, Dr. rer. nat., is a professor at the University of Hohenheim. After his studies
+- and doctorate at the University of Hannover, he worked at the California Institute of Technology,
+- Pasadena, USA, and at ABB’s corporate research center, in Heidelberg, Germany. He habilitated at
+- the University of Hannover. Since 2011, he has been Head of the Department of Process Analytics

@@ -1,0 +1,80 @@
+# Nutrition and Gene Interaction (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4704-4
+- 页数: 152
+- 全文: `text/mdpi/Nutrition_and_Gene_Interaction_2025.txt`
+- 标签: 基因-膳食
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Michaela Marie St Germain, Amirreza Mortazavi and Marica Bakovic
+- Advancing Personalized Nutrition Through Genetic Nutritional Insights
+- Reprinted from: Nutrients 2025, 17, 2166, https://doi.org/10.3390/nu17132166 . . . . . . . . . .                  1
+- Connor D. C. Buchanan, Rahbika Ashraf, Lyn M. Hillyer, Wangshu Tu, Jing X. Kang,
+- Sanjeena Subedi, et al.
+- RNA-Seq Analysis of Pubertal Mammary Epithelial Cells Reveals Novel n-3 Polyunsaturated
+- Fatty Acid Transcriptomic Changes in the fat-1 Mouse Model
+- Reprinted from: Nutrients 2024, 16, 3925, https://doi.org/10.3390/nu16223925 . . . . . . . . . .                  4
+- Sylwia Górczyńska-Kosiorz, Mateusz Lejawa, Marcin Goławski, Agnieszka Tomaszewska,
+- Martyna Fronczek, Beata Maksym, et al.
+- The Impact of Haplotypes of the FTO Gene, Lifestyle, and Dietary Patterns on BMI and
+- Metabolic Syndrome in Polish Young Adult Men
+- Reprinted from: Nutrients 2024, 16, 1615, https://doi.org/10.3390/nu16111615 . . . . . . . . . . 16
+- Leticia Garrido-Sanchez, Elisabet Leiva-Badosa, Josep Llop-Talaveron, Xavier Pintó-Sala,
+- Toni Lozano-Andreu, Emili Corbella-Inglés, et al.
+- Blood Phytosterol Concentration and Genetic Variant Associations in a Sample Population
+- Reprinted from: Nutrients 2024, 16, 1067, https://doi.org/10.3390/nu16071067 . . . . . . . . . . 28
+- Marica Franzago, Paola Borrelli, Marta Di Nicola, Liborio Stuppia and Ester Vitacolonna
+- Genetic Variants in CD36 Involved in Fat Taste Perception: Association with Anthropometric
+- and Clinical Parameters in Overweight and Obese Subjects Affected by Type 2 Diabetes or
+- Dysglycemia—A Pilot Study
+- Reprinted from: Nutrients 2023, 15, 4656, https://doi.org/10.3390/nu15214656 . . . . . . . . . . 40
+- Smita S. Ghare, Benjamin T. Charpentier, Dushan T. Ghooray, Jingwen Zhang, Manicka V.
+- Vadhanam, Sreelatha Reddy, et al.
+- Tributyrin Mitigates Ethanol-Induced Lysine Acetylation of Histone-H3 and p65-NFκB
+- Downregulating CCL2 Expression and Consequent Liver Inﬂammation and Injury
+- Reprinted from: Nutrients 2023, 15, 4397, https://doi.org/10.3390/nu15204397 . . . . . . . . . . 53
+- Da Sol Kim and Sunmin Park
+- Interactions between Polygenetic Variants and Lifestyle Factors in Hypothyroidism: A
+- Hospital-Based Cohort Study
+- Reprinted from: Nutrients 2023, 15, 3850, https://doi.org/10.3390/nu15173850 . . . . . . . . . . 70
+- Priyadarshni Patel, Vaithinathan Selvaraju, Jeganathan Ramesh Babu and Thangiah Geetha
+- Association of the DNA Methylation of Obesity-Related Genes with the Dietary Nutrient Intake
+- in Children
+- Reprinted from: Nutrients 2023, 15, 2840, https://doi.org/10.3390/nu15132840 . . . . . . . . . . 87
+- Sunmin Park
+- Height-Related Polygenic Variants Are Associated with Metabolic Syndrome Risk and Interact
+- with Energy Intake and a Rice-Main Diet to Inﬂuence Height in KoGES
+- Reprinted from: Nutrients 2023, 15, 1764, https://doi.org/10.3390/nu15071764 . . . . . . . . . . 102
+-                                                          v
+- Sooyeon Oh, Jooho Lee, Sukyung Chun, Ja-Eun Choi, Mi Na Kim, Young Eun Chon, et al.
+- Interaction between the PNPLA3 Gene and Nutritional Factors on NAFLD Development: The
+- Korean Genome and Epidemiology Study
+- Reprinted from: Nutrients 2023, 15, 152, https://doi.org/10.3390/nu15010152 . . . . . . . . . . . 125
+-                                                  vi
+- About the Editor
+- Marica Bakovic
+-      Marica Bakovic is an internationally recognized researcher in membrane biogenesis, nutrient
+- transport, and natural health product characterization. Her area of expertise includes the genomic and
+- non-genomic regulation of metabolism, with speciﬁc emphasis on phospholipids and methyl-group
+- donors. Her laboratory has established strong molecular links between membrane lipid impairments
+- and energy metabolism and continues to pursue studies on the structure and function of a key
+- regulatory enzyme (Pcyt2) in membrane phospholipid synthesis, a process linked to several chronic
+- metabolic diseases including obesity, hypertriglyceridemia, insulin resistance, and nonalcoholic
+- steatohepatitis (NASH). Recently, her group discovered a new childhood-onset neurodegenerative
+- disease (CONATOC) caused by mutations in choline transporter-like protein 1 (Slc44A1/CTL1). Her
+- research in this area has been critical in establishing the genetic and molecular links between disease
+- progression and choline function in brain metabolism, mitochondria oxidation, and regulation by
+- methylation. In addition to her cutting-edge basic mechanistic research on lipid metabolism, Dr.
+- Bakovic is among the ﬁrst scientists to investigate gene–diet interactions related to personalized
+- nutrition, and to incorporate this novel thought process into undergraduate and graduate curricula in
+- nutritional genomics. Dr. Bakovic’s highly productive and impactful research program has produced
+- over 350 contributions, including 105 articles in referred journals, 13 referred books and book
+- chapters, and 8 patents and trademarks. She has edited several books and journals, including Brain
+- Choline Transport and Function and Functional Foods, Nutraceuticals, and Degenerative Disease Prevention.
+- She has received numerous awards, including the Senior Investigator Award and Simon-Pierre Noel
+- Award from the Canadian Lipid and Lipoprotein Society-Conference and the Research Excellence
+- Award from the Government of Ontario.

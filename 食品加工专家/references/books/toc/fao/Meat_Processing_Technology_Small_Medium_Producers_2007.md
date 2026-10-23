@@ -1,0 +1,81 @@
+# Meat processing technology for small- to medium-scale producers (2007, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/ai407e/ai407e.pdf
+- 页数: 470
+- 全文: `text/fao/Meat_Processing_Technology_Small_Medium_Producers_2007.txt`
+- PDF: `fao/Meat_Processing_Technology_Small_Medium_Producers_2007.pdf`
+- 标签: 肉制品加工, 小规模加工
+
+## 目录 (Contents)
+
+- Chapter
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26
+- 27
+- 28
+- 29
+- Page no.
+- Foreword, Acknowledgement, Authors .................................. ii - iv
+- Introduction ............................................................................. v
+- Meat, fat and other edible carcass parts ...................................... 1
+- Principles of meat processing echnology .................................... 17
+- Selection and grading of raw materials for meat processing ......... 43
+- Non-meat ingredients.............................................................. 59
+- Seasonings used in meat processing ......................................... 83
+- Heat treatment of meat products .............................................. 87
+- Categories of processed meat products ..................................... 97
+- Fresh processed meat products .............................................. 103
+- Raw-fermented sausages....................................................... 115
+- Raw-cooked meat products .................................................... 127
+- Precooked-cooked meat products ........................................... 149
+- Cured meat cuts ................................................................... 171
+- Processed products made of chicken meat ............................... 187
+- Meat products with high levels of extenders and fillers .............. 195
+- Traditional / ethnic meat products .......................................... 213
+- Meat drying.......................................................................... 221
+- Simple meat processing under basic conditions ........................ 243
+- Casings ............................................................................... 249
+- Packaging of fresh and processed meat ................................... 265
+- Canning / sterilization of meat products................................... 277
+- Handling and maintenance of tools and core equipment............. 297
+- Simple test methods for meat products ................................... 315
+- Meat processing hygiene........................................................ 339
+- Cleaning and sanitation in meat plants .................................... 369
+- Annex I recipes for processed meat products ........................... 381
+- Annex II glossary ................................................................. 429
+- Index .................................................................................. 447
+- ii
+- Meat Processing Technology
+- FOREWORD
+- Meat is the most valuable livestock product and for many people serves
+- as their first-choice source of animal protein. Meat is either consumed as
+- a component of kitchen-style food preparations or as processed meat
+- products. Processed meat products, although in some regions still in their
+- infancy, are globally gaining ground in popularity and consumption
+- volume.
+- Meat processing has always been part of FAO’s livestock programmes,

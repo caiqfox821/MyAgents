@@ -1,0 +1,80 @@
+# Flour fortification: reporting accomplishments. Report of a joint WHO/UNICEF/MI intercountry technical review meeting on flour fortification, Cairo, Egypt, 17-19 July 2001 (2001, World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/254956
+- 页数: 68
+- 全文: `text/who/Flour_fortification_reporting_accomplishments._Report_of_a_joint_WHO_UNICEF_MI_intercountr_2001.txt`
+- 标签: 食品强化
+
+## 目录 (Contents)
+
+- 1. Introduction                 ...........................................................................................................1
+- 2. Flour fortification in the Eastern Mediterranean Region ..............................4
+- 3. Major issues and constraints: how close are we to achieving flour
+-    fortification in countries of the Region?..............................................................6
+- 4. Premix, procurement, specifications, funding and local
+-    production issues .......................................................................................................9
+-             4.1   Iron fortification of cereal food staples: the
+-                   Monterrey Workshop recommendations and
+-                   guidelines for iron fortification of cereal food staples......9
+-             4.2 Procurement of premix with the assistance of WHO .....12
+-             4.3 Financing premix ........................................................................13
+-             4.4 Quality assurance of iron premix ..........................................14
+-             4.5 Working groups work on premix issues .............................17
+- 5. Communication issues............................................................................................18
+- 6. Legislation and standards issues ........................................................................20
+-             6.1 Formalization of legislation .....................................................20
+-             6.2 Standards.......................................................................................21
+- 7. Quality assurance and control issues ................................................................23
+- 8. Status of flour fortification programmes in countries of the Region ......26
+-              8.1 Bahrain............................................................................................26
+-              8.2 Egypt ...............................................................................................27
+-              8.3 Islamic Republic of Iran ............................................................30
+-              8.4 Jordan..............................................................................................31
+-              8.5 Lebanon ..........................................................................................32
+-              8.6 Libyan Arab Jamahiriya............................................................33
+-              8.7 Morocco..........................................................................................33
+-              8.8 Oman...............................................................................................34
+-              8.9 Pakistan..........................................................................................35
+-              8.10 Qatar...............................................................................................35
+-              8.11 Saudi Arabia................................................................................36
+-              8.12 Syrian Arab Republic ...............................................................37
+-              8.13 United Arab Emirates...............................................................37
+-              8.14 Republic of Yemen ....................................................................37
+- 9. Conclusions                 .........................................................................................................38
+- 10. Recommendations....................................................................................................39
+- Annexes
+-                1. Programme ...............................................................................................41
+-                2. List of participants..................................................................................43
+-                3. Monterrey workshop summary: evaluating the usefulness
+-                   of elemental iron powders ...................................................................49
+-                4. Review of legislation pertaining to wheat flour fortification ...52
+-                5. Summary report on the WHO/UNICEF/MI Consultation
+-                   on Communication Needs in Flour Fortification .........................54
+-                6. Programme of the WHO/UNICEF/MI Consultation
+-                   on Communication Needs in Flour Fortification .........................57
+-                7. List of participants in the WHO/UNICEF/MI Consultation
+-                   on Communication Needs in Flour Fortification .........................59
+- Flour fortification: reporting accomplishments
+- 1. Introduction
+-      An Intercountry Technical Review Meeting on Flour Fortification:
+- Reporting Accomplishments took place in Cairo, Egypt from 17 to 19 July
+- 2001. The meeting was sponsored by the WHO Regional Office for the
+- Eastern Mediterranean (EMRO) jointly with the Micronutrient Initiative
+- (MI) and United Nations Children’s Fund Middle East and North Africa
+- Regional Office (UNICEF/MENARO) as part of the activities taking place
+- under the implementation of the MI fund. Present at the meeting were
+- country programme officers in flour fortification programmes, or
+- micronutrient programmes, from Bahrain, Egypt, Islamic Republic of Iran,
+- Jordan, Lebanon, Libyan Arab Jamahiriya, Morocco, Oman, Palestine,
+- Qatar, Syrian Arab Republic, United Arab Emirates and Republic of Yemen.
+- The meeting was also attended by representatives from the Health
+- Ministers’ Council for Gulf Cooperation Council States, United States
+- Agency for International Development (USAID), Food and Agricultural
+- Organization for the United Nations (FAO), MI and UNICEF/MENARO.
+-      The objectives of the meeting were to review the progress of the
+- national flour fortification programmes, including the successes and
+- constraints encountered in the introduction of flour fortification, as well as
+- to provide a platform for all involved parties to share experiences and
+- knowledge generated from the flour fortification projects in different
+- countries with diverse social, political, economic and cultural environments,

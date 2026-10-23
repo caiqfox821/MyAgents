@@ -1,0 +1,80 @@
+# Molecular Breeding and Genetics Research in Plants (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11063
+- 页数: 352
+- 全文: `text/mdpi/Molecular_Breeding_and_Genetics_Research_in_Plants_2025.txt`
+- 标签: 分子遗传, 育种
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Shimeles Tilahun
+- Editorial for the Special Issue ‘Molecular Breeding and Genetics Research in Plants’
+- Reprinted from: Curr. Issues Mol. Biol. 2025, 47, 11, https://doi.org/10.3390/cimb47010011 . . .              1
+- Yonghang Tian, Xiyi Chen, Peizhou Xu, Yuping Wang, Xianjun Wu, Kun Wu, et al.
+- Rapid Visual Detection of Elite Erect Panicle Dense and Erect Panicle 1 Allele for Marker-Assisted
+- Improvement in Rice (Oryza sativa L.) Using the Loop-Mediated Isothermal Ampliﬁcation
+- Method
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 32, https://doi.org/10.3390/cimb46010032 . . .              5
+- Huaijun Tang, De Jing, Cheng Liu, Xiaoqing Xie, Lei Zhang, Xunji Chen and Changyu Li
+- Genome-Wide Identiﬁcation and Expression Analyses of the FAR1/FHY3 Gene Family Provide
+- Insight into Inﬂorescence Development in Maize
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 27, https://doi.org/10.3390/cimb46010027 . . . 20
+- Honglang Yan, Kang Wang, Manman Wang, Lulu Feng, Huimin Zhang and Xiaoyun Wei
+- QTL Mapping and Genome-Wide Association Study Reveal Genetic Loci and Candidate Genes
+- Related to Soluble Solids Content in Melon
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 450, https://doi.org/10.3390/cimb45090450 . . 40
+- Cris Francis C. Barbosa, Jayson C. Asunto, Rhosener Bhea L. Koh, Daisy May C. Santos,
+- Dapeng Zhang, Ernelea P. Cao and Leny C. Galvez
+- Genome-Wide SNP and Indel Discovery in Abaca (Musa textilis Née) and among Other Musa
+- spp. for Abaca Genetic Resources Management
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 365, https://doi.org/10.3390/cimb45070365 . . 60
+- Simin Li, Ting Feng, Chenyang Zhang, Fanlin Zhang, Hua Li, Yanjun Chen, et al.
+- Genetic Dissection of Salt Tolerance and Yield Traits of Geng (japonica) Rice by Selective
+- Subspeciﬁc Introgression
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 305, https://doi.org/10.3390/cimb45060305 . . 82
+- Tao Yu, Jianguo Zhang, Jingsheng Cao, Shujun Li, Quan Cai, Xin Li, et al.
+- Identiﬁcation of Multiple Genetic Loci Related to Low-Temperature Tolerance during
+- Germination in Maize (Zea maize L.) through a Genome-Wide Association Study
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 602, https://doi.org/10.3390/cimb45120602 . . 100
+- Jian Song, Liqun Tang, Honghuan Fan, Xiaozheng Xu, Xinlu Peng, Yongtao Cui and Jianjun
+- Wang
+- Enhancing Yield and Improving Grain Quality in Japonica Rice: Targeted EHD1 Editing via
+- CRISPR-Cas9 in Low-Latitude Adaptation
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 233, https://doi.org/10.3390/cimb46040233 . . 122
+- Ziqi Chen, Yang Liu, Qi Wang, Jianbo Fei, Xiangguo Liu, Chuang Zhang and Yuejia Yin
+- miRNA Sequencing Analysis in Maize Roots Treated with Neutral and Alkaline Salts
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 524, https://doi.org/10.3390/cimb46080524             . . 133
+- Wenxin Zhang, Hai Wang, Yuning Guo, Xueying Hao, Yanxi Li, Wenting He, et al.
+- Functional Validation of Different Alternative Splicing Variants of the Chrysanthemum
+- lavandulifolium ClNUM1 Gene in Tobacco
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 314, https://doi.org/10.3390/cimb46060314 . . 149
+-                                                        v
+- Yuqi Guo, Chengrong Zhu and Zengyuan Tian
+- Overexpression of KvCHX Enhances Salt Tolerance in Arabidopsis thaliana Seedlings
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 605, https://doi.org/10.3390/cimb45120605   . . 164
+- Maria Gerakari, Vasiliki Kotsira, Aliki Kapazoglou, Spyros Tastsoglou, Anastasios
+- Katsileros, Demosthenis Chachalis, et al.
+- Transcriptomic Approach for Investigation of Solanum spp. Resistance upon Early-Stage
+- Broomrape Parasitism
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 535, https://doi.org/10.3390/cimb46080535 . . 181
+- Shah Mahmood Hamidi, Shweta Meshram, Aundy Kumar, Archana Singh, Rajbir Yadav and
+- Robin Gogoi
+- Biochemical and Molecular Basis of Chemically Induced Defense Activation in Maize against
+- Banded Leaf and Sheath Blight Disease
+- Reprinted from: Curr. Issues Mol. Biol. 2024, 46, 192, https://doi.org/10.3390/cimb46040192 . . 208
+- Si-Hong Kim, Mewuleddeg Zebro, Dong-Cheol Jang, Jeong-Eun Sim, Han-Kyeol Park,
+- Kyeong-Yeon Kim, et al.
+- Optimization of Plant Growth Regulators for In Vitro Mass Propagation of a Disease-Free ‘Shine
+- Muscat’ Grapevine Cultivar
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 487, https://doi.org/10.3390/cimb45100487 . . 226
+- Danwen Fu, Shaohua Yang, Rui Liu and Feng Gao
+- Yeast One-Hybrid Screening to Identify Transcription Factors for IbMYB1-4 in the
+- Purple-Fleshed Sweet Potato (Ipomoea batatas [L.] Lam.)
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 364, https://doi.org/10.3390/cimb45070364 . . 239
+- Fei Wang, Jinliao Chen, Ruonan Tang, Ruixin Wang, Sagheer Ahmad, Zhongjian Liu and
+- Donghui Peng
+- Research Progress on Anthocyanin-Mediated Regulation of ‘Black’ Phenotypes of Plant Organs
+- Reprinted from: Curr. Issues Mol. Biol. 2023, 45, 458, https://doi.org/10.3390/cimb45090458 . . 250
+- Qingchao Ma, Shuhua Zhong, Tianci Ma, Yajie Yue, Shihui Zou, Shunzhao Sui, et al.

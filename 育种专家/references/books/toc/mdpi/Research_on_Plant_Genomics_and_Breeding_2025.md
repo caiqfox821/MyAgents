@@ -1,0 +1,80 @@
+# Research on Plant Genomics and Breeding (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11896
+- 页数: 390
+- 全文: `text/mdpi/Research_on_Plant_Genomics_and_Breeding_2025.txt`
+- 标签: 
+
+## 目录 (Contents)
+
+- Long Jin, Zhiyong Li and Jian Zhang
+- Research on Plant Genomics and Breeding 2.0
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 6659, https://doi.org/10.3390/ijms25126659 . . . . . .   1
+- Xue Dong, Min Zhao, Jia Li, Fuyi Qiu, Yan Wang, Jiandong Zhao, et al.
+- Characterization and Expression Analysis of the PvTLP Gene Family in the Common Bean
+- (Phaseolus vulgaris) in Response to Salt and Drought Stresses
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 5702, https://doi.org/10.3390/ijms26125702 . . . . . .   5
+- Shuwei Qin, Xinrong Wen, Mengyuan Ma, Jiaxing Wang, Jianhang Zhang,
+- Meihui Huang, et al.
+- Genome-Wide Identiﬁcation of the ARF Gene Family in Safﬂower (Carthamus tinctorius L.) and
+- Their Response Patterns to Exogenous Hormone Treatments
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 3773, https://doi.org/10.3390/ijms26083773 . . . . . . 22
+- Jiangbo Li, Xiaojuan Deng, Man Gao, Tao Lv, Yongsheng Cai, Yanying Qu, et al.
+- Multiomics Studies on the Effects of High-Temperature Stress on Male Sterility in
+- Gossypium barbadense
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 3693, https://doi.org/10.3390/ijms26083693 . . . . . . 43
+- Yancui Wang, Shukai Wang, Dusheng Lu, Ming Chen, Baokun Li, Zhenhong Li, et al.
+- Genome-Wide Association Study and Candidate Gene Mining of Husk Number Trait in Maize
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 3437, https://doi.org/10.3390/ijms26073437 . . . . . . 63
+- Chunli Wang, Juan Li, Qian Zhu, Junjie Li, Cui Zhang, Ruke Hong, et al.
+- Breeding D1-Type Hybrid Japonica Rice in Diverse Upland Rainfed Environments
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 3246, https://doi.org/10.3390/ijms26073246 . . . . . . 76
+- Junchao Liang, Yanxin Deng, Xiaowen Yan, Zhiqi Wang, Pan Zeng, Meiwang Le, et al.
+- Fine Mapping of the QTL qRLP12 That Controls Root Length Under Polyethylene
+- glycol-Induced Drought Stress During the Early Seedling Stage of Sesame
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2886, https://doi.org/10.3390/ijms26072886 . . . . . . 94
+- Hong Ye, Jiaxin Mu, Tong Yang, Qi Shen and Yukun Wang
+- Integrated Transcriptome and Metabolome Analyses Reveal Candidate Genes Associate with
+- Phenolic Compound Biosynthesis in Different Varieties of Perilla frutescens
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2841, https://doi.org/10.3390/ijms26072841 . . . . . . 107
+- Bing Yang, Dingyu Zhang, Zitong Meng, Yijiang Yin, Xiao Yang, Mengqin Cao, et al.
+- NAC047/052/104 Synergistically Regulate the Dark-Induced Leaf Senescence in Non-Heading
+- Chinese Cabbage
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2340, https://doi.org/10.3390/ijms26052340 . . . . . . 125
+- Lingyu Chen, Wennuo Xu, Lingyu Zhang, Qin Chen, Yongsheng Cai, Quanjia Chen
+- and Kai Zheng
+- Functional Study of GbSMXL8-Mediated Strigolactone Signaling Pathway in Regulating Cotton
+- Fiber Elongation and Plant Growth
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2293, https://doi.org/10.3390/ijms26052293 . . . . . . 139
+- Qi Li, Yifang Peng, Tao Zhao, Qijing Dong, Qian Yang, Xiaoyu Liu and Yu Han
+- Phylogeny and Functional Differentiation of the Terpene Synthase Gene Family in Angiosperms
+- with Emphasis on Rosa chinensis
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2113, https://doi.org/10.3390/ijms26052113 . . . . . . 158
+-                                                   v
+- Sanhe Li, Changyan Li, Jianyu Wang, Lei Zhou, Bian Wu, Zaihui Zhou, et al.
+- Transcriptome Analysis and Resistance Identiﬁcation of bar and BPH9 Co-Transformation Rice
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 1762, https://doi.org/10.3390/ijms26041762 . . . . . . 179
+- Xueqiang Su, Manli Zhao, Rong Zhou, Cuimin Xu, Ran Zhang, Ruixue Li and Taichu Wang
+- The Mulberry WRKY Transcription Factor MaWRKYIIc7 Participates in Regulating Plant
+- Drought Stress Tolerance
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 1714, https://doi.org/10.3390/ijms26041714 . . . . . . 193
+- Lingling Zhou, Shuhui Sun, Linlong Zhu, Xian Chen, Ran Xu, Lian Wu and Shuang Gu
+- Genome-Wide Identiﬁcation and Expression Analysis of the Mediator Complex Subunit Gene
+- Family in Cassava
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 1666, https://doi.org/10.3390/ijms26041666 . . . . . . 212
+- Xinyi Bian, Tingkai Wu, Runrun Qiang, Zhi Deng, Fazal Rehman, Qiyu Han, et al.
+- Genome-Wide Identiﬁcation and Expression Proﬁle of Farnesyl Pyrophosphate Synthase (FPS)
+- Gene Family in Euphorbia Hirta L.
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 798, https://doi.org/10.3390/ijms26020798 . . . . . . . 228
+- Xuanye Wu, Xiaojing He, Xiaoling Wang, Puyuan Liu, Shaoheng Ai, Xiumeng Liu, et al.
+- Genome-Wide Identiﬁcation, Phylogenetic Evolution, and Abiotic Stress Response Analyses
+- of the Late Embryogenesis Abundant Gene Family in the Alpine Cold-Tolerant Medicinal
+- Notopterygium Species
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 519, https://doi.org/10.3390/ijms26020519 . . . . . . . 250
+- Ping Wang, Bingbing Liang, Zhengjun Li, Chunyu Wang, Lixia Zhang and Xiaochun Lu
+- Novel Allelic Mutations in Dw3 Gene That Affect the Height of Sorghum Plants
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 12000, https://doi.org/10.3390/ijms252212000 . . . . . 272
+- Haiyan Yang, Zhiwen Wei, Yaqiong Wu, Chunhong Zhang, Lianfei Lyu, Wenlong Wu
+- and Weilin Li
+- Transcriptomic and Metabolomic Proﬁling Reveals the Variations in Carbohydrate Metabolism

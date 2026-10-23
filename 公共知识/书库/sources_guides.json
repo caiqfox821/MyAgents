@@ -1,0 +1,178 @@
+[
+  {
+    "sub": "guides",
+    "file": "Analysis_of_Chemical_Contaminants_in_Food",
+    "title": "Analysis of Chemical Contaminants in Food",
+    "year": 2020,
+    "publisher": "mdpi-res.com",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.3390/books978-3-03936-379-7",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/2484/Analysis_of_Chemical_Contaminants_in_Food.pdf?v1678637151",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "OECD_Position_Paper_Regarding_the_Relationship_between_the_OECD_Princi",
+    "title": "OECD Position Paper Regarding the Relationship between the OECD Principles of GLP and ISO/IEC 17025",
+    "year": 2016,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/62d9f44d-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/02/oecd-position-paper-regarding-the-relationship-between-the-oecd-principles-of-glp-and-iso-iec-17025_b63eb315/62d9f44d-en.pdf",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "OECD_Position_Paper_on_Good_Laboratory_Practice_and_IT_Security",
+    "title": "OECD Position Paper on Good Laboratory Practice and IT Security",
+    "year": 2024,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/910b7bd2-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/12/oecd-position-paper-on-good-laboratory-practice-and-it-security_9772eecf/910b7bd2-en.pdf",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "LC_MS_MS_Method_for_Mycotoxin_Analysis",
+    "title": "LC-MS/MS Method for Mycotoxin Analysis",
+    "year": 2017,
+    "publisher": "mdpi-res.com",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.3390/books978-3-03842-607-3",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/469/LCMSMS_Method_for_Mycotoxin_Analysis.pdf?v1679226958",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Initial_Recommendations_on_Evaluation_of_Data_from_the_Developmental_N",
+    "title": "Initial Recommendations on Evaluation of Data from the Developmental Neurotoxicity (DNT) In-Vitro Testing Battery",
+    "year": 2023,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/91964ef3-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/initial-recommendations-on-evaluation-of-data-from-the-developmental-neurotoxicity-dnt-in-vitro-testing-battery_12adfee3/91964ef3-en.pdf",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Detailed_Review_Paper_on_In_Vitro_Test_Addressing_Immunotoxicity_With",
+    "title": "Detailed Review Paper on In Vitro Test Addressing Immunotoxicity With a Focus on Immunosuppression",
+    "year": 2022,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/667965bc-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/detailed-review-paper-on-in-vitro-test-addressing-immunotoxicity-with-a-focus-on-immunosuppression_2a74a0a9/667965bc-en.pdf",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Occupational_Biomonitoring_Guidance_Document",
+    "title": "Occupational Biomonitoring Guidance Document",
+    "year": 2022,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/11bc2c7a-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/occupational-biomonitoring-guidance-document_53c29118/11bc2c7a-en.pdf",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "New_Frontiers_in_Acrylamide_Study_in_Foods",
+    "title": "New Frontiers in Acrylamide Study in Foods",
+    "year": 2021,
+    "publisher": "mdpi-res.com",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.3390/books978-3-0365-0031-7",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/3324/New_Frontiers_in_Acrylamide_Study_in_Foods.pdf",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Important_Issues_on_Risk_Assessment_of_Manufactured_Nanomaterials",
+    "title": "Important Issues on Risk Assessment of Manufactured Nanomaterials",
+    "year": 2022,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/2f6e7c61-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/important-issues-on-risk-assessment-of-manufactured-nanomaterials_05cb9a3d/2f6e7c61-en.pdf",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Risk_Assessment_of_Nanomaterials_Toxicity",
+    "title": "Risk Assessment of Nanomaterials Toxicity",
+    "year": 2023,
+    "publisher": "mdpi-res.com",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.3390/books978-3-0365-7813-2",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/7586/Risk_Assessment_of_Nanomaterials_Toxicity.pdf?v=1699208180",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ]
+  },
+  {
+    "sub": "guides",
+    "file": "Guidance_Document_for_Histologic_Evaluation_of_Endocrine_and_Reproduct",
+    "title": "Guidance Document for Histologic Evaluation of Endocrine and Reproductive Tests in Rodents",
+    "year": 2009,
+    "publisher": "www.oecd.org",
+    "license": "开放获取（机构库）",
+    "source": "https://doi.org/10.1787/cd68c07d-en",
+    "pdf_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2009/07/guidance-document-for-histologic-evaluation-of-endocrine-and-reproductive-tests-in-rodents_7aca62c3/cd68c07d-en.pdf",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+# Distillation Processes - From Solar and Membrane Distillation (2021, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/10995
+- 页数: 228
+- 全文: `text/intechopen/Distillation_Processes_2021.txt`
+- PDF: `intechopen/Distillation_Processes_2021.pdf`
+- 标签: 下游分离, 膜分离, 蒸馏
+
+## 目录 (Contents)
+
+- Preface                                                                XIII
+- Section 1
+- Desalination by Solar and Membrane Distillation                          1
+- Chapter 1                                                               3
+- Principles and Modes of Distillation in Desalination Process
+- by Abubakar Sadiq Isah, Husna Takaijudin
+- and Balbir Singh Mahinder Singh
+- Chapter 2                                                              23
+- Thermal Desalination Systems: From Traditionality to Modernity
+- and Development
+- by Fadl A. Essa
+- Chapter 3                                                              47
+- Generating Artificial Weather Data Sequences for Solar Distillation
+- Numerical Simulations
+- by Bao The Nguyen
+- Chapter 4                                                               71
+- Desalination by Membrane Distillation
+- by Mustakeem Mustakeem, Sofiane Soukane, Muhammad Saqib Nawaz
+- and Noreddine Ghaffour
+- Chapter 5                                                              101
+- Modeling of Solar-Powered Desalination
+- by Zafar Abbas, Nasir Hayat, Anwar Khan and Muhammad Irfan
+- Chapter 6                                                              115
+- Performance Investigation of the Solar Membrane Distillation Process
+- Using TRNSYS Software
+- by Abdelfatah Marni Sandid, Taieb Nehari, Driss Nehari
+- and Yasser Elhenawy
+- Section 2
+- Reactive Distillation                                                      135
+- Chapter 7                                                                  137
+- Reactive Distillation Applied to Biodiesel Production by Esterification:
+- Simulation Studies
+- by Guilherme Machado, Marcelo Castier, Monique dos Santos,
+- Fábio Nishiyama, Donato Aranda, Lúcio Cardozo-Filho, Vladimir Cabral
+- and Vilmar Steffen
+- Chapter 8                                                                  161
+- Reactive Distillation Modeling Using Artificial Neural Networks
+- by Francisco J. Sanchez-Ruiz
+- Chapter 9                                                                  183
+- Heat Integration of Reactive Divided Wall Distillation Column
+- by Rajeev Kumar Dohare and Parvez Ansari
+- Chapter 10                                                                 195
+- Centralized and Decentralized Control System for Reactive Distillation
+- Diphenyl Carbonate Process
+- by Shirish Prakash Bandsode and Chandra Shekar Besta
+- II
+- XII
+-                                   Preface
+- The distillation process has many applications, the most important of which is
+- purifying water.
+- Water is one of the most significant resources in the world. Freshwater is of par-
+- ticular importance because it is increasingly being polluted, threatening human
+- and animal health. One of the most common and effective techniques to purify and
+- maintain the supply of freshwater is distillation, which separates dissolved solids or
+- excess salt, other minerals, and impurities from seawater. Like distillation, mem-
+- brane distillation uses a hydrophobic membrane between the feed and the con-
+- denser, allowing only solvent vapor to pass through. Thus, it has some advantages
+- over conventional desalination by distillation. In the first section, this book presents

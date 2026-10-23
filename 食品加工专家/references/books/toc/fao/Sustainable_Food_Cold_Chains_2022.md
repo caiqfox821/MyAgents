@@ -1,0 +1,78 @@
+# Sustainable food cold chains: Opportunities, challenges and the way forward (2022, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/cc0923en/cc0923en.pdf
+- 页数: 122
+- 全文: `text/fao/Sustainable_Food_Cold_Chains_2022.txt`
+- PDF: `fao/Sustainable_Food_Cold_Chains_2022.pdf`
+- 标签: 冷链, 贮藏, 可持续
+
+## 目录 (Contents)
+
+- Forewords . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  04
+- Acknowledgements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  06
+- List of Figures, Tables and Boxes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+- SUMMARY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+- 1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+- 2. FOOD COLD CHAINS: A GLOBAL PERSPECTIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+- 2.1 FOOD VALUE CHAIN AND THE KEY ROLE OF THE COLD CHAIN. . . . . . . . . . . . . . . . . . .  18
+- 2.2 FOOD LOSS AND ITS IMPLICATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+- 2.3 CURRENT STATUS AND FUTURE DEMAND FOR FOOD COLD CHAINS . . . . . . . . . . . . .  25
+- 2.4 DRIVERS OF FOOD COLD CHAIN GROWTH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+- 2.5 ENVIRONMENTAL IMPACTS AND THE IMPLICATIONS OF BUSINESS AS USUAL. . . .  30
+- 3. SUSTAINABLE FOOD COLD CHAINS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+- 3.1 WHAT ARE SUSTAINABLE FOOD COLD CHAINS?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  33
+- 3.2 SUSTAINABLE FOOD COLD CHAINS AND THE SDGS. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34
+- 3.3 SUSTAINABLE FOOD COLD CHAINS AND EQUITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  36
+- 4. DESIGNING SUSTAINABLE FOOD COLD CHAINS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+- 4.1 ENERGY AND ENVIRONMENTAL DRIVERS OF SUSTAINABLE FOOD COLD CHAINS. . .  41
+- 4.2 KEY BARRIERS AND SOLUTIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  53
+- 4.3 ADDITIONAL CONSIDERATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  69
+- 4.4 SYSTEM-LEVEL THINKING AND NEEDS-DRIVEN INTEGRATED APPROACHES. . . . . .  72
+- 5. RECOMMENDATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+- References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  84
+- Picture credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  88
+- Annex | Case Studies: Projects. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  89
+- Annex | Case Studies: Technologies/Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+- 9
+- SUSTAINABLE FOOD COLD CHAINS
+- LIST OF FIGURES
+- LIST OF BOXES
+- Fig. 1.
+- Box 1.	Coffee freeze-drying to preserve flavour
+- and aroma....................................................................19
+- A generic food value chain......................................18
+- Fig. 2.	Typical food logistics cold chain steps and
+- stakeholders...............................................................20
+- Fig. 3.
+- Impacts of a pilot cold chain project in India......25
+- Fig. 4.	Average annual growth in cooling sales
+- by sub-sector, 2018-2020.........................................27
+- Fig. 5.
+- Why do sustainable food cold chains matter?.....34
+- Fig. 6.	Multiple benefits of sustainable cold chains
+- and linkages to international climate and
+- development goals....................................................35
+- Fig. 7.	Key drivers and barriers for sustainable
+- food cold chains........................................................40
+- Fig. 8.	Cold Chain Federation survey on barriers
+- to decarbonizing cold chain fleets.........................65
+- Box 2.	What is the difference between precooling
+- and cold storage?.......................................................21
+- Box 3.	Benefits of a cold chain: Kinnow pilot study
+- in India...........................................................................24
+- Box 4.	Delivering “cooling for all”.........................................27
+- Box 5.	The “Cold women in Malaita” project:
+- Solomon Islands.........................................................37
+- Box 6.	Renewable energy-based cold storage chain and
+- women’s participation in the Lors Thmey vegetable
+- delivery system: EmPower project, Cambodia......38
+- Box 7.	Eja-Ice solar-powered freezer: Nigeria...................38
+- Box 8.	The Rome Declaration on the Contribution of the
+- Montreal Protocol to Food Loss Reduction..........42
+- Fig. 9.	Proportion of F-gas certified personnel
+- trained on alternatives..............................................66
+- Box 9.	UNEA-4 Resolution.....................................................43
+- Fig. 10.	Systems approach to sustainable
+- cold chain design.......................................................74
+- Box 10.	New Leaf Dynamic Technologies Private Limited:

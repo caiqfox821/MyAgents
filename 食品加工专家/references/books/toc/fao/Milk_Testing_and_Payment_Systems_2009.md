@@ -1,0 +1,56 @@
+# Milk Testing and Payment Systems (2009, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/i0980e/i0980e.pdf
+- 页数: 89
+- 全文: `text/fao/Milk_Testing_and_Payment_Systems_2009.txt`
+- PDF: `fao/Milk_Testing_and_Payment_Systems_2009.pdf`
+- 标签: 乳品加工, 检测, 质量
+
+## 目录 (Contents)
+
+- Introducing the book
+- iii
+- How to use this book?
+- iv
+- Thank you!
+- vi
+- Recent developments
+- vii
+- Chapter 1. Read this first
+- 1
+- 1.1. Why this book?
+- 1
+- 1.2. Focus of the book
+- 2
+- Chapter 2. Milk sampling
+- 5
+- 2.1. Introduction
+- 5
+- 2.2. Sampling equipment
+- 5
+- 2.3. Sampling procedures
+- 7
+- 2.4. Preservation of samples
+- 9
+- 2.5. Storage and transport of samples
+- 10
+- 2.6. Pre-treatment of samples
+- 10
+- 2.7. Periodic, random and composite sampling
+- 11
+- Chapter 3. Milk testing
+- 13
+- 3.1. Introduction
+- 13
+- 3.2. Measuring quantity
+- 14
+- 3.3. Organoleptic characteristics
+- 15
+- 3.3.1. Introduction
+- 15
+- 3.3.2. Appearance
+- 15
+- 3.3.3. Taste and smell
+- 16
+- 3.4. Compositional characteristics

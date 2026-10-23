@@ -1,0 +1,80 @@
+# Molecular Research in Obesity (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3788-5
+- 页数: 194
+- 全文: `text/mdpi/Molecular_Research_in_Obesity_2025.txt`
+- 标签: 肥胖/体重管理
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Zaida Abad-Jiménez and Teresa Vezza
+- Obesity: A Global Health Challenge Demanding Urgent Action
+- Reprinted from: Biomedicines 2025, 13, 502, https://doi.org/10.3390/biomedicines13020502 . . .                   1
+- Anastasia A. Zabolotneva, Irina M. Kolesnikova, Ilya Yu. Vasiliev, Tatiana V. Grigoryeva,
+- Sergei A. Roumiantsev and Aleksandr V. Shestopalov
+- The Obesogenic Gut Microbiota as a Crucial Factor Deﬁning the Depletion of Predicted Enzyme
+- Abundance for Vitamin B12 Synthesis in the Mouse Intestine
+- Reprinted from: Biomedicines 2024, 12, 1280, https://doi.org/10.3390/biomedicines12061280 . .                    7
+- Natalia Grigorova, Zhenya Ivanova, Valeria Petrova, Ekaterina Vachkova and Georgi Beev
+- Supernatants from Newly Isolated Lacticaseibacillus paracasei P4 Ameliorate Adipocyte
+- Metabolism in Differentiated 3T3-L1 Cells
+- Reprinted from: Biomedicines 2024, 12, 2785, https://doi.org/10.3390/biomedicines12122785 . . 29
+- Gislene B. Lima, Nayra Figueiredo, Fabiana M. Kattah, Emilly S. Oliveira, Maria A. Horst,
+- Ana R. Dâmaso, et al.
+- Serum Fatty Acids and Inﬂammatory Patterns in Severe Obesity: A Preliminary Investigation
+- in Women
+- Reprinted from: Biomedicines 2024, 12, 2248, https://doi.org/10.3390/biomedicines12102248 . . 43
+- Yuki Narimatsu, Masaki Kato, Eiko Iwakoshi-Ukena, Shogo Moriwaki, Ayano Ogasawara,
+- Megumi Furumitsu and Kazuyoshi Ukena
+- Neurosecretory Protein GM–Expressing Neurons Participate in Lipid Storage and Inﬂammation
+- in Newly Developed Cre Driver Male Mice
+- Reprinted from: Biomedicines 2023, 11, 3230, https://doi.org/10.3390/biomedicines11123230 . . 52
+- Manuela Cabiati, Letizia Guiducci, Emioli Randazzo, Valentina Casieri, Giovanni Federico
+- and Silvia Del Ry
+- Circulating and Exosomal microRNA-33 in Childhood Obesity
+- Reprinted from: Biomedicines 2023, 11, 2295, https://doi.org/10.3390/biomedicines11082295 . . 69
+- Larysa V. Yuzefovych, Viktor M. Pastukh, Madhuri S. Mulekar, Kate Ledbetter, William O.
+- Richards and Lyudmila I. Rachek
+- Effect of Bariatric Surgery on Plasma Cell-Free Mitochondrial DNA, Insulin Sensitivity and
+- Metabolic Changes in Obese Patients
+- Reprinted from: Biomedicines 2023, 11, 2514, https://doi.org/10.3390/biomedicines11092514 . . 82
+- Fabiana Martins Kattah, Milijana Janjusevic, Nayra Figueiredo, Emilly Santos Oliveira,
+- Glaucia Carielo Lima, Ana Raimunda Dâmaso, et al.
+- HOMA-IR as a Predictor of PAI-1 Levels in Women with Severe Obesity
+- Reprinted from: Biomedicines 2024, 12, 1222, https://doi.org/10.3390/biomedicines12061222 . . 97
+- Akila Lara Oliveira, Mariana Gonçalves de Oliveira, Fabı́ola Zakia Mónica and Edson
+- Antunes
+- Methylglyoxal and Advanced Glycation End Products (AGEs): Targets for the Prevention and
+- Treatment of Diabetes-Associated Bladder Dysfunction?
+- Reprinted from: Biomedicines 2024, 12, 939, https://doi.org/10.3390/biomedicines12050939 . . . 108
+-                                                         v
+- Ying Cheng, Shiqing Liang, Shuhan Zhang and Xiaoyan Hui
+- Thermogenic Fat as a New Obesity Management Tool: From Pharmaceutical Reagents to Cell
+- Therapies
+- Reprinted from: Biomedicines 2024, 12, 1474, https://doi.org/10.3390/biomedicines12071474 . . 130
+- Dina Šišljagić, Senka Blažetić, Marija Heffer, Mihaela Vranješ Delać and Andrijana Muller
+- The Interplay of Uterine Health and Obesity: A Comprehensive Review
+- Reprinted from: Biomedicines 2024, 12, 2801, https://doi.org/10.3390/biomedicines12122801 . . 150
+- Marcelino Pérez-Bermejo, Cristian Barrezueta-Aguilar, Javier Pérez-Murillo, Ignacio
+- Ventura, Marı́a Ester Legidos-Garcı́a, Francisco Tomás-Aguirre, et al.
+- Impact of Endocrine Disrupting Pesticide Use on Obesity: A Systematic Review
+- Reprinted from: Biomedicines 2024, 12, 2677, https://doi.org/10.3390/biomedicines12122677 . . 164
+-                                                vi
+- Preface
+-      Obesity is a major global health concern, contributing to the rising incidence of metabolic
+- disorders such as type 2 diabetes, cardiovascular diseases, and chronic inﬂammation.            Despite
+- signiﬁcant advancements in obesity research, many underlying molecular mechanisms still need to
+- be fully elucidated. This Special Issue compiles original research articles and reviews that provide
+- novel insights into the molecular pathways regulating adipose tissue function, energy metabolism,
+- and systemic inﬂammation.
+-      This Reprint will highlight the complex interplay between genetic predisposition, metabolic
+- regulation, and environmental factors in the development of obesity. By presenting cutting-edge
+- ﬁndings, we will advance understanding of obesity-related pathophysiology and pave the way for
+- innovative therapeutic approaches.
+-      We extend our sincere gratitude to all the authors for their valuable contributions, as well as to
+- the reviewers for their insightful feedback. We also acknowledge the support of the editorial team
+- in bringing this Reprint to completion. We hope that this collection will serve as a valuable resource
+- for researchers, clinicians, and professionals dedicated to addressing the challenges of obesity and its
+- related comorbidities.

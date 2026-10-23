@@ -1,0 +1,80 @@
+# Report on the Joint WHO/Flour Fortification Initiative harmonization workshop for wheat and maize flour fortification Amman, Jordan, 20–22 February 2012 (2012, World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/116127
+- 页数: 38
+- 全文: `text/who/Report_on_the_Joint_WHO_Flour_Fortification_Initiative_harmonization_workshop_for_wheat_an_2012.txt`
+- 标签: 食品强化
+
+## 目录 (Contents)
+
+- 1.   INTRODUCTION ............................................................................................................ 1
+- 2.   SUMMARY OF PRESENTATIONS ................................................................................ 3
+-      2.1 Overview of micronutrient deficiencies and strategic interventions in the
+-           Eastern Mediterranean Region ................................................................................ 3
+-      2.2 Flour fortification: a global and regional overview ................................................. 4
+-      2.3 Flour fortification in public health: WHO recommendations.................................. 5
+-      2.4 The impact of folic acid fortification on neural tube defects................................... 7
+-      2.5 Impact of iron fortification of staple foods in public health: overview of
+-           evidence ................................................................................................................... 8
+-      2.6 Discussion ................................................................................................................ 9
+-      2.7 Zinc fortification of cereal flours: current recommendations and research needs. 10
+-      2.8 Impact of vitamin A fortification of staple foods: overview of evidence .............. 11
+-      2.9 Vitamin D in the Eastern Mediterranean Region ................................................... 12
+-      2.10 Other micronutrients used in flour fortification .................................................... 12
+-      2.11 Vitamin B12 fortification of flour.......................................................................... 13
+-      2.12 Fortification with iron and other micronutrients: emerging issues
+-           for programmes...................................................................................................... 13
+-      2.13 Working with the private sector to ensure effective flour fortification ................. 14
+-      2.14 The process for adapting the WHO guidelines on flour fortification
+-           in the region: guiding principles ............................................................................ 14
+-      2.15 Principles of monitoring quality control and safety to flour fortification
+-           programmes ........................................................................................................... 15
+-      2.16 Flour fortification – the European perspective ...................................................... 16
+-      2.17 Impact evaluation of flour fortification ................................................................. 16
+- 3.   GROUP WORK .............................................................................................................. 17
+- 4.   RECOMMENDATIONS ................................................................................................ 18
+-      Annexes
+- 1.   PROGRAMME ............................................................................................................... 21
+- 2.   LIST OF PARTICIPANTS .............................................................................................. 23
+-                                              WHO-EM/NUT/259/E
+- 1.     INTRODUCTION
+-        Wheat flour fortification is a preventative food-based approach to improve the
+- micronutrient status of populations over time that can be integrated with other interventions to
+- reduce vitamin and mineral malnutrition and its consequences. Fortification of industrially
+- processed wheat flour, when appropriately implemented, is an effective, simple and
+- inexpensive strategy for supplying vitamins and minerals to the diets of large segments of the
+- world’s population. However, in an analysis undertaken in preparation for a meeting on flour
+- fortification standards in 2008, only nine out of 78 ongoing wheat flour fortification
+- programmes with iron were judged likely to have significant positive effects on the iron status
+- of the populations.
+-       Flour fortification has been widely implemented in countries of the Eastern
+- Mediterranean, Middle East and North Africa region1. The WHO Regional Office for the
+- Eastern Mediterranean with support from the United Nations Children’s Fund (UNICEF) and
+- the Micronutrient Initiative (MI) launched an initiative in 1999 which subsequently led to
+- nearly all the countries in the region fortifying wheat flour with at least iron and folic acid by
+- 2009.
+-       In 2008, the Flour Fortification Initiative (FFI) and U.S. Centers for Disease Control
+- and Prevention (CDC) organized a meeting of nearly 100 leading nutrition, pharmaceutical
+- and cereal scientists and milling experts from the public and private sectors around the world.
+- They met in Stone Mountain, United States of America. The purpose of the meeting was to
+- provide guidance on national fortification of wheat and maize flours, milled in industrial
+- roller mills (i.e. at least 20 metric tonnes/day milling capacity), with iron, zinc, folic acid,
+- vitamin B12 and vitamin A. WHO, in collaboration with other partners evaluated the
+- commissioned scientific reviews prepared by these experts, as well as the summary of
+- discussions and conclusions from the consultation, and made recommendations on wheat and
+- maize flour fortification for public health that were published in an interim statement.
+-       Since the release of the WHO recommendations, many countries in Africa and Asia
+- have harmonized their standards at both the national and regional levels. Many other countries
+- are reviewing and revising their flour fortification standards informed by the evidence and the
+- WHO recommendations. In East Africa, representatives of government organizations from
+- nine countries in the area, food processors, premix suppliers, research organizations and
+- development partners attended an East Central and Southern Africa (ECSA) Food
+- Fortification meeting in Nairobi, Kenya in September 2009. The meeting was organized by
+- ECSA in collaboration with the A2Z project, and was funded by the United States Agency for
+- International Development (USAID), the World Bank and UNICEF. Participants expressed
+- appreciation for the work of the ECSA Regional Technical Working Group on Regulations
+- 1
+-   The WHO Eastern Mediterranean Region comprises Afghanistan, Bahrain, Djibouti, Egypt, Islamic Republic of Iran, Iraq,
+- Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Pakistan, occupied Palestinian territory, Qatar, Saudi Arabia, Somalia,
+- South Sudan, Sudan, Syrian Arab Republic, Tunisia, United Arab Emirates and Yemen. Most of these countries are also part

@@ -1,0 +1,81 @@
+# Health Promoting Compounds in Milk and Dairy Products (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7353-1
+- 页数: 136
+- 全文: `text/mdpi/Health_Promoting_Compounds_in_Milk_and_Dairy_Products_2026.txt`
+- PDF: `mdpi/Health_Promoting_Compounds_in_Milk_and_Dairy_Products_2026.pdf`
+- 标签: 乳品, 功能成分, 健康
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Mena Ritota and Pamela Manzi
+- Health Promoting Compounds in Milk and Dairy Products
+- Reprinted from: Molecules 2026, 31, 919, https://doi.org/10.3390/molecules31060919 . . . . . .
+- 1
+- Xiuxin Zhao, Yuetong Song, Yuanpei Zhang, Gaozhan Cai, Guanghui Xue, Yan Liu, et al.
+- Predictions of Milk Fatty Acid Contents by Mid-Infrared Spectroscopy in Chinese Holstein
+- Cows
+- Reprinted from: Molecules 2023, 28, 666, https://doi.org/10.3390/molecules28020666 . . . . . .
+- 9
+- Alexander J. W. Elferink, Deborah Entiriwaa, Paolo Bulgarelli, Nathalie G. E. Smits and
+- Jeroen Peters
+- Development of a Microsphere-Based Immunoassay Authenticating A2 Milk and Species Purity
+- in the Milk Production Chain
+- Reprinted from: Molecules 2022, 27, 3199, https://doi.org/10.3390/molecules27103199 . . . . . . 20
+- Pamela Manzi, Maria Gabriella Di Costanzo and Mena Ritota
+- Content and Nutritional Evaluation of Zinc in PDO and Traditional Italian Cheeses
+- Reprinted from: Molecules 2021, 26, 6300, https://doi.org/10.3390/molecules26206300 . . . . . . 31
+- Luisa Pellegrino, Franca Marangoni, Giovanna Muscogiuri, Paolo D’Incecco,
+- Guillaume T. Duval, Cedric Annweiler and Annamaria Colao
+- Vitamin D Fortiﬁcation of Consumption Cow’s Milk: Health, Nutritional and Technological
+- Aspects. A Multidisciplinary Lecture of the Recent Scientiﬁc Evidence
+- Reprinted from: Molecules 2021, 26, 5289, https://doi.org/10.3390/molecules26175289 . . . . . . 47
+- Mena Ritota, Raffaella Comitato and Pamela Manzi
+- Cow and Ewe Cheeses Made with Saffron: Characterization of Bioactive Compounds and Their
+- Antiproliferative Effect in Cervical Adenocarcinoma (HeLa) and Breast Cancer (MDA-MB-231)
+- Cells
+- Reprinted from: Molecules 2022, 27, 1995, https://doi.org/10.3390/molecules27061995 . . . . . . 63
+- Agata Znamirowska, Katarzyna Szajnar and Małgorzata Pawlos
+- Effect of Vitamin C Source on Its Stability during Storage and the Properties of Milk Fermented
+- by Lactobacillus rhamnosus
+- Reprinted from: Molecules 2021, 26, 6187, https://doi.org/10.3390/molecules26206187 . . . . . . 76
+- Marta Czarnowska-Kujawska and Beata Paszczyk
+- Changes in the Folate Content and Fatty Acid Proﬁle in Fermented Milk Produced with
+- Different Starter Cultures during Storage
+- Reprinted from: Molecules 2021, 26, 6063, https://doi.org/10.3390/molecules26196063 . . . . . . 90
+- Khadija Florence Dabo, Christine Chèné, Anne-Laure Fameau and Romdhane Karoui
+- Whipping Creams: Advances in Molecular Composition and Nutritional Chemistry
+- Reprinted from: Molecules 2024, 29, 5933, https://doi.org/10.3390/molecules29245933 . . . . . . 103
+- v
+- About the Editors
+- Pamela Manzi
+- Pamela Manzi is a Senior Researcher at the CREA Council for Agricultural Research and
+- Economics—Research Centre for Food and Nutrition in Rome, where she has worked since
+- 1996.
+- Her scientiﬁc interests focus on the characterization of food products, with particular
+- expertise in the nutritional and functional quality of milk and dairy products, the identiﬁcation
+- of quality indicators, and the study of correlations between food composition, technological
+- process, and consumer information.
+- She has served as Principal Investigator for the PRIMA
+- project “VEGGIE-MED-CHEESES,” coordinated operative units in several Italian Ministry of
+- Agriculture-funded projects, and contributed as Scientiﬁc Manager to regional initiatives on
+- traditional agri-food products. Her achievements include a long record of international and national
+- research leadership, participation in the management committee of the EU School Fruit, Vegetables
+- and Milk Scheme, and the publication of extensive peer-reviewed work covering topics from dairy
+- chemistry to functional components of food. She also contributes to academic training by teaching
+- on the PhD programme in Food Science and the Master’s degree programme in Human Nutrition
+- Science at the University of Rome.
+- Mena Ritota
+- Mena Ritota has been a researcher at CREA Food and Nutrition since 2015. She has a PhD in
+- Chemistry (Analytical Methodologies curriculum), and is a member of the hub “Sustainable Food
+- Design: pathways of sustainability toward ecological transition,” which aims to promote a new
+- paradigm of sustainable production through research projects, models for the redesign/reengineering
+- of Italian food, training and scientiﬁc outreach activities, and the creation of a national stakeholder
+- network.
+- Her current research focuses on:
+- analytical characterization of food biodiversity
+- (quality and traceability) of agri-food products of both animal and plant origin; the study of the
+- chemical-nutritional quality of foods, with particular attention to functional and/or nutritionally
+- relevant molecules and the development of associated analytical methods; the variation in the

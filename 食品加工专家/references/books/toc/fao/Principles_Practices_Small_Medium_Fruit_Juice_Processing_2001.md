@@ -1,0 +1,58 @@
+# Principles and practices of small- and medium-scale fruit juice processing (2001, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/y2515e/y2515e.pdf
+- 页数: 221
+- 全文: `text/fao/Principles_Practices_Small_Medium_Fruit_Juice_Processing_2001.txt`
+- PDF: `fao/Principles_Practices_Small_Medium_Fruit_Juice_Processing_2001.pdf`
+- 标签: 饮料加工, 果汁, 小规模加工
+
+## 目录 (Contents)
+
+- PAGE
+- iii
+- FOREWORD
+- PART 1 GENERAL PRINCIPLES
+- 1
+- CHAPTER 1. INTRODUCTION AND HISTORICAL BACKGROUND
+- 3
+- 1.1
+- Purpose of publication
+- 3
+- 1.2
+- Historical background
+- 5
+- 1.3
+- The value of juice
+- 6
+- 11
+- CHAPTER 2. DEFINING JUICES
+- 2.1
+- Some definitions
+- 11
+- 2.2
+- Juice criteria
+- 12
+- CHAPTER 3. FRUIT MORPHOLOGY AND COMPOSITION
+- 17
+- 3.1
+- Distinctions
+- 17
+- 3.2
+- Fruit/juice general composition
+- 19
+- 3.3
+- Phytochemicals
+- 20
+- CHAPTER 4. JUICE SAFETY, GRADES AND STANDARDS
+- 23
+- 4.1
+- Safety, safety and safety
+- 23
+- 4.2
+- Quality
+- 25
+- 4.3
+- Regulatory concerns
+- 26
+- CHAPTER 5. RAW MATERIAL FOR JUICE

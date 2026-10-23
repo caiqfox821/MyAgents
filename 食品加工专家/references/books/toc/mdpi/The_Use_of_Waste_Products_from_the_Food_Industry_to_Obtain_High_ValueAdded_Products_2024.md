@@ -1,0 +1,81 @@
+# The Use of Waste Products from the Food Industry to Obtain High ValueAdded Products (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1484-8
+- 页数: 202
+- 全文: `text/mdpi/The_Use_of_Waste_Products_from_the_Food_Industry_to_Obtain_High_ValueAdded_Products_2024.txt`
+- PDF: `mdpi/The_Use_of_Waste_Products_from_the_Food_Industry_to_Obtain_High_ValueAdded_Products_2024.pdf`
+- 标签: 食品废弃物, 高值化, 副产物
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Stanisław Kowalski and Dorota Gumul
+- The Use of Waste Products from the Food Industry to Obtain High Value-Added Products
+- Reprinted from: Foods 2023, 12, 847, doi:10.3390/foods13060847 . . . . . . . . . . . . . . . . . . .
+- 1
+- Ibtissam Bouhzam, Rosa Cantero, Marı́a Margallo, Rubén Aldaco, Alba Bala,
+- Pere Fullana-i-Palmer and Rita Puig
+- Extraction of Bioactive Compounds from Spent Coffee Grounds Using Ethanol and Acetone
+- Aqueous Solutions
+- Reprinted from: Foods 2023, 12, 4400, doi:10.3390/foods12244400 . . . . . . . . . . . . . . . . . . .
+- 7
+- Dorota Gumul, Rafał Ziobro, Jarosław Korus and Magdalena Surma
+- Pulp from Colored Potatoes (Solanum tuberosum L.) as an Ingredient Enriching Dessert Cookies
+- Reprinted from: Foods 2023, 12, 3735, doi:10.3390/foods12203735 . . . . . . . . . . . . . . . . . . . 24
+- Zuzana Ciesarová, Kristı́na Kukurová, Viera Jelemenská, Jana Horváthová,
+- Janka Kubincová, Miona Belović and Aleksandra Torbica
+- Asparaginase Treatment of Sea Buckthorn Berries as an Effective Tool for Acrylamide Reduction
+- in Nutritionally Enriched Wholegrain Wheat, Rye and Triticale Biscuits
+- Reprinted from: Foods 2023, 12, 3170, doi:10.3390/foods12173170 . . . . . . . . . . . . . . . . . . . 39
+- Sara Lara-Abia, Gloria Lobo, Noelia Pérez-Pascual, Jorge Welti-Chanes and M. Pilar Cano
+- Improvement in the Stability and Bioaccessibility of Carotenoid and Carotenoid Esters from a
+- Papaya By-Product Using O/W Emulsions
+- Reprinted from: Foods 2023, 12, 2654, doi:10.3390/foods12142654 . . . . . . . . . . . . . . . . . . . 57
+- Nashi K. Alqahtani, Tareq M. Alnemr, Abdullah K. Alsalem, Mutlaq M. Alotaibi and
+- Maged Mohammed
+- Experimental Investigation and Modeling for the Inﬂuence of Adding Date Press Cake on
+- Drinkable Yogurt Quality
+- Reprinted from: Foods 2023, 12, 1219, doi:10.3390/foods12061219 . . . . . . . . . . . . . . . . . . . 76
+- Dorota Gumul, Marek Kruczek, Eva Ivanišová, Jacek Słupski and Stanisław Kowalski
+- Apple Pomace as an Ingredient Enriching Wheat Pasta with Health-Promoting Compounds
+- Reprinted from: Foods 2023, 12, 804, doi:10.3390/foods12040804 . . . . . . . . . . . . . . . . . . . 98
+- Ibtissam Bouhzam, Rosa Cantero, Mercè Balcells, Marı́a Margallo, Rubén Aldaco,
+- Alba Bala, et al.
+- Environmental and Yield Comparison of Quick Extraction Methods for Caffeine and
+- Chlorogenic Acid from Spent Coffee Grounds
+- Reprinted from: Foods 2023, 12, 779, doi:10.3390/foods12040779 . . . . . . . . . . . . . . . . . . . 114
+- Nashi K. Alqahtani, Tareq M. Alnemr, Abdullah M. Alqattan, Salah M. Aleid and
+- Hosam M. Habib
+- Physicochemical and Sensory Properties and Shelf Life of Block-Type Processed Cheeses
+- Fortiﬁed with Date Seeds (Phoenix dactylifera L.) as a Functional Food
+- Reprinted from: Foods 2023, 12, 679, doi:10.3390/foods12030679 . . . . . . . . . . . . . . . . . . . 133
+- Joanna Grzelczyk, Joanna Oracz and Ilona Gałazka-Czarnecka
+- Quality Assessment of Waste from Olive Oil Production and Design of Biodegradable
+- Packaging
+- Reprinted from: Foods 2022, 11, 3776, doi:10.3390/foods11233776 . . . . . . . . . . . . . . . . . . . 151
+- v
+- Liqin Qin, Jinghao Ma, Huafeng Tian, Yanli Ma, Qiuhua Wu, Shuang Cheng and
+- Guangsen Fan
+- Production of Xylooligosaccharides from Jiuzao by Autohydrolysis Coupled with Enzymatic
+- Hydrolysis Using a Thermostable Xylanase
+- Reprinted from: Foods 2022, 11, 2663, doi:10.3390/foods11172663 . . . . . . . . . . . . . . . . . . . 167
+- vi
+- About the Editors
+- Stanisław Kowalski
+- He is a graduate of the University of Agriculture in Krakow, where he defended his doctoral
+- thesis, and is currently employed as a professor at the university. He has broad research interests that
+- include the following:
+- •
+- The use of polysaccharide hydrocolloids as substances inﬂuencing the texture and rheology of
+- food products;
+- •
+- Quality characteristics of natural honey, with a particular emphasis on the impact of thermal
+- processes on the quality of honey, particularly on the synthesis of hydroxymethyl furfural and
+- changes in enzymatic activity;
+- •
+- Supplementation of bread with pseudocereals and other raw materials of plant origin, inﬂuencing
+- changes in the quality parameters and nutritional properties of bread;
+- •
+- Use of edible insects in food technology in the context of the possibility of using this raw material
+- to enrich food products and develop new products, as well as consumer acceptance of food with

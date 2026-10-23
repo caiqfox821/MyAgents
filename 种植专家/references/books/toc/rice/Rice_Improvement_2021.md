@@ -1,0 +1,81 @@
+# Rice Improvement: Physiological, Molecular and Breeding Perspectives (2021, Springer (OA))
+
+- 许可: CC BY
+- 来源: https://doi.org/10.1007/978-3-030-66530-2
+- 页数: 507
+- 全文: `text/rice/Rice_Improvement_2021.txt`
+- PDF: `rice/Rice_Improvement_2021.pdf`
+- 标签: 水稻, 育种, 生理
+
+## 目录 (Contents)
+
+- 
+- Advances   in Genetics and Breeding of Rice: An Overview��������������������������    1
+- E. A. Siddiq and Lakshminarayana R. Vemireddy
+- 
+- Strategies for Engineering Photosynthesis for Enhanced
+- Plant Biomass Production ������������������������������������������������������������������������������   31
+- Wataru Yamori
+- 
+- Green  Super Rice (GSR) Traits: Breeding and Genetics for Multiple
+- Biotic and Abiotic Stress Tolerance in Rice ��������������������������������������������������   59
+- Jauhar Ali, Mahender Anumalla, Varunseelan Murugaiyan,
+- and Zhikang Li
+- 
+- Advances   in Two-Line Heterosis Breeding in Rice via the
+- Temperature-Sensitive Genetic Male Sterility System ��������������������������������   99
+- Jauhar Ali, Madonna Dela Paz, and Christian John Robiso
+- 
+- Growing  Rice with Less Water: Improving Productivity
+- by Decreasing Water Demand������������������������������������������������������������������������ 147
+- Balwant Singh, Shefali Mishra, Deepak Singh Bisht, and Rohit Joshi
+- 
+- Crop  Establishment in Direct-Seeded Rice: Traits, Physiology,
+- and Genetics ���������������������������������������������������������������������������������������������������� 171
+- Fergie Ann Quilloy, Benedick Labaco, Carlos Casal Jr, and Shalabh Dixit
+- 
+- Genetics and Breeding of Heat Tolerance in Rice���������������������������������������� 203
+- Changrong Ye, Xiaolin Li, Edilberto Redoña, Tsutomu Ishimaru,
+- and Krishna Jagadish
+- 
+- Genetics and Breeding of Low-­Temperature Stress
+- Tolerance in Rice���������������������������������������������������������������������������������������������� 221
+- Sofi Najeeb, Anumalla Mahender, Annamalai Anandan,
+- Waseem Hussain, Zhikang Li, and Jauhar Ali
+-                                                                                                                  xiii
+- xiv                                                                                                             Contents
+- 
+- Arsenic Stress Responses and Accumulation in Rice������������������������������������ 281
+- Varunseelan Murugaiyan, Frederike Zeibig, Mahender Anumalla,
+- Sameer Ali Siddiq, Michael Frei, Jayaseelan Murugaiyan,
+- and Jauhar Ali
+- 
+- Molecular  Approaches for Disease Resistance in Rice �������������������������������� 315
+- Mohammed Jamaloddin, Anumalla Mahender, C. Guru Gokulan,
+- Chintavaram Balachiranjeevi, A. Maliha, Hitendra Kumar Patel,
+- and Jauhar Ali
+- 
+- Molecular  Approaches for Insect Pest Management in Rice ���������������������� 379
+- Jagadish S. Bentur, R. M. Sundaram, Satendra Kumar Mangrauthia,
+- and Suresh Nair
+- 
+- Doubled  Haploids in Rice Improvement: Approaches,
+- Applications, and Future Prospects���������������������������������������������������������������� 425
+- Sanghamitra Samantaray, Jauhar Ali, Katrina L. C. Nicolas,
+- Jawahar Lal Katara, Ram Lakhan Verma, C. Parameswaran,
+- B. N. Devanna, Awadhesh Kumar, Byomkesh Dash,
+- and Sudhansu Sekhar Bhuyan
+- 
+- Zinc-Biofortified Rice: A Sustainable Food-­Based Product
+- for Fighting Zinc Malnutrition ���������������������������������������������������������������������� 449
+- Mark Ian C. Calayugan, B. P. Mallikarjuna Swamy, Chau Thanh Nha,
+- Alvin D. Palanog, Partha S. Biswas, Gwen Iris Descalsota-Empleo,
+- Yin Myat Myat Min, and Mary Ann Inabangan-Asilo
+- 
+- Biofortification of Rice Grains for Increased Iron Content ������������������������ 471
+- Jerlie Mhay Matres, Erwin Arcillas, Maria Florida Cueto-Reaño,
+- Ruby Sallan-Gonzales, Kurniawan R. Trijatmiko,
+- and Inez Slamet-Loedin
+- Correction to: Crop Establishment in Direct-Seeded Rice:
+- Traits, Physiology, and Genetics ��������������������������������������������������������������������  C1
+- Index������������������������������������������������������������������������������������������������������������������ 487

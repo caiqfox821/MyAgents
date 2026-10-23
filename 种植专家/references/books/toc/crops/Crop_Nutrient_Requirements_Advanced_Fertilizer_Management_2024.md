@@ -1,0 +1,81 @@
+# Crop Nutrient Requirements and Advanced Fertilizer Management Strategies (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/9034
+- 页数: 342
+- 全文: `text/crops/Crop_Nutrient_Requirements_Advanced_Fertilizer_Management_2024.txt`
+- PDF: `crops/Crop_Nutrient_Requirements_Advanced_Fertilizer_Management_2024.pdf`
+- 标签: 施肥, 养分管理, 植物营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Christos Noulas, Shahram Torabian and Ruijun Qin
+- Crop Nutrient Requirements and Advanced Fertilizer Management Strategies
+- Reprinted from: Agronomy 2023, 13, 2017, doi:10.3390/agronomy13082017 . . . . . . . . . . . . .                   1
+- Avia Saloner and Nirit Bernstein
+- Dynamics of Mineral Uptake and Plant Function during Development of Drug-Type Medical
+- Cannabis Plants
+- Reprinted from: Agronomy 2023, 13, 2865, doi:10.3390/agronomy13122865 . . . . . . . . . . . . . 11
+- Murilo De Souza, Jéssica Pigatto de Queiroz Barcelos and Ciro A. Rosolem
+- Synergistic Effects of Subsoil Calcium in Conjunction with Nitrogen on the Root Growth and
+- Yields of Maize and Soybeans in a Tropical Cropping System
+- Reprinted from: Agronomy 2023, 13, 1547, doi:10.3390/agronomy13061547 . . . . . . . . . . . . . 30
+- Yaping Xie, Lingling Li, Limin Wang, Jianping Zhang, Zhao Dang and Wenjuan Li et al.
+- Relationship between Phosphorus and Nitrogen Concentrations of Flax
+- Reprinted from: Agronomy 2023, 13, 856, doi:10.3390/agronomy13030856 . . . . . . . . . . . . . . 47
+- Juliana Bonfim Cassimiro, Clayton Luı́s Baravelli de Oliveira, Ariele da Silva Boni, Natália
+- de Lima Donato, Guilherme Constantino Meirelles and Juliana Françoso da Silva et al.
+- Ammonia Volatilization and Marandu Grass Production in Response to Enhanced-Efficiency
+- Nitrogen Fertilizers
+- Reprinted from: Agronomy 2023, 13, 837, doi:10.3390/agronomy13030837 . . . . . . . . . . . . . . 60
+- Hamada R. Beheiry, Ahmed A. M. Awad and Hamdy A. Z. Hussein
+- Response of Multi-Stressed Olea europaea Trees to the Adjustment of Soil pH by Acidifying
+- Agents: Impacts on Nutrient Uptake and Productivity
+- Reprinted from: Agronomy 2023, 13, 539, doi:10.3390/agronomy13020539 . . . . . . . . . . . . . . 75
+- Shahram Torabian, Salar Farhangi-Abriz, Ruijun Qin, Christos Noulas and Guojie Wang
+- Performance of Nitrogen Fertilization and Nitrification Inhibitors in the Irrigated Wheat Fields
+- Reprinted from: Agronomy 2023, 13, 366, doi:10.3390/agronomy13020366 . . . . . . . . . . . . . . 94
+- Solomon Amissah, Michael Baidoo, Benjamin K. Agyei, Godfred Ankomah, Roger A. Black
+- and Calvin D. Perry et al.
+- Early and Late Season Nutrient Stress Conditions: Impact on Cotton Productivity and Quality
+- Reprinted from: Agronomy 2022, 13, 64, doi:10.3390/agronomy13010064 . . . . . . . . . . . . . . 109
+- Ying-an Zhu, Jianyang He, Zhongying Yu, Dong Zhou, Haiye Li and Xinyu Wu et al.
+- Wheat and Faba Bean Intercropping Together with Nitrogen Modulation Is a Good Option
+- for Balancing the Trade-Off Relationship between Grain Yield and Quality in the Southwest
+- of China
+- Reprinted from: Agronomy 2022, 12, 2984, doi:10.3390/agronomy12122984 . . . . . . . . . . . . . 123
+- Yaping Xie, Yang Li, Limin Wang, Mir Muhammad Nizamani, Zhongcheng Lv and Zhao
+- Dang et al.
+- Determination of Critical Phosphorus Dilution Curve Based on Capsule Dry Matter for Flax in
+- Northwest China
+- Reprinted from: Agronomy 2022, 12, 2819, doi:10.3390/agronomy12112819 . . . . . . . . . . . . . 137
+-                                                          v
+- Clayton Luı́s Baravelli de Oliveira, Juliana Bonfim Cassimiro, Maikon Vinicius da Silva Lira,
+- Ariele da Silva Boni, Natália de Lima Donato and Roberto dos Anjos Reis et al.
+- Sugarcane Ratoon Yield and Soil Phosphorus Availability in Response to Enhanced Efficiency
+- Phosphate Fertilizer
+- Reprinted from: Agronomy 2022, 12, 2817, doi:10.3390/agronomy12112817 . . . . . . . . . . . . . 149
+- Jie Li, Wenyu Wang, Wei Wang and Yaqun Li
+- The Ability of Nitrification Inhibitors to Decrease Denitrification Rates in an Arable Soil
+- Reprinted from: Agronomy 2022, 12, 2749, doi:10.3390/agronomy12112749 . . . . . . . . . . . . . 162
+- Jolanta Korzeniowska and Ewa Stanislawska-Glubiak
+- Differences in the Concentration of Micronutrients in Young Shoots of Numerous Cultivars of
+- Wheat, Maize and Oilseed Rape
+- Reprinted from: Agronomy 2022, 12, 2639, doi:10.3390/agronomy12112639 . . . . . . . . . . . . . 171
+- Hamdy A. Z. Hussein, Ahmed A. M. Awad and Hamada R. Beheiry
+- Improving Nutrients Uptake and Productivity of Stressed Olive Trees with Mono-Ammonium
+- Phosphate and Urea Phosphate Application
+- Reprinted from: Agronomy 2022, 12, 2390, doi:10.3390/agronomy12102390 . . . . . . . . . . . . . 187
+- Amany E. El-Sonbaty, Saad Farouk, Hatim M. Al-Yasi, Esmat F. Ali, Atef A. S. Abdel-Kader
+- and Seham M. A. El-Gamal
+- Enhancement of Rose Scented Geranium Plant Growth, Secondary Metabolites, and Essential
+- Oil Components through Foliar Applications of Iron (Nano, Sulfur and Chelate) in Alkaline
+- Soils
+- Reprinted from: Agronomy 2022, 12, 2164, doi:10.3390/agronomy12092164 . . . . . . . . . . . . . 208
+- Saowapa Duangpan, Yanipha Tongchu, Tajamul Hussain, Theera Eksomtramage and
+- Jumpen Onthong
+- Beneficial Effects of Silicon Fertilizer on Growth and Physiological Responses in Oil Palm
+- Reprinted from: Agronomy 2022, 12, 413, doi:10.3390/agronomy12020413 . . . . . . . . . . . . . . 228
+- Jing Li, Gengtong Luo, Abdulwahab S. Shaibu, Bin Li, Shengrui Zhang and Junming Sun

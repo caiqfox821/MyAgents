@@ -1,0 +1,81 @@
+# Food Science and Engineering for Sustainability (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5388-5
+- 页数: 206
+- 全文: `text/mdpi/Food_Science_and_Engineering_for_Sustainability_2025.txt`
+- PDF: `mdpi/Food_Science_and_Engineering_for_Sustainability_2025.pdf`
+- 标签: 工艺工程, 可持续, 食品科学
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Madison D. Horgan, Christopher L. Cummings, Jennifer Kuzma, Michael Dahlstrom, Ilaria
+- Cimadori, Maude Cuchiara, et al.
+- Beyond the Hype: Stakeholder Perceptions of Nanotechnology and Genetic Engineering for
+- Sustainable Food Production
+- Reprinted from: Sustainability 2025, 17, 6795, https://doi.org/10.3390/su17156795 . . . . . . . .
+- 1
+- Chaima Grimene, Oussama Mghirbi, Philippe Le Grusse and Jean-Paul Bord
+- Evaluation of Sanitary and Environmental Impact of Plant Protection Practices in Vineyards of
+- Southwestern France: Organic and Conventional/Integrated Agriculture
+- Reprinted from: Sustainability 2025, 17, 583, https://doi.org/10.3390/su17020583 . . . . . . . . . 27
+- Janira Romero, Alexandra Dı́ez Méndez, Marı́a José Castro-Alija, Jorge Poveda and Irene
+- Albertos
+- Quince (Cydonia oblonga Mill.) Waste By-Product Characterization as a Potential Functional
+- Ingredient
+- Reprinted from: Sustainability 2024, 16, 8596, https://doi.org/10.3390/su16198596 . . . . . . . . 52
+- Mark Boulet and Nita Lauren
+- Nudging Householders to Reduce Avoidable Food Waste: The OzHarvest Use It Up Tape
+- Reprinted from: Sustainability 2024, 16, 5132, https://doi.org/10.3390/su16125132 . . . . . . . . 65
+- Saeed Salari, Thomas Castigliego, Joana Ferreira, Ana Lima and Isabel Sousa
+- Development of Healthy and Clean-Label Crackers Incorporating Apple and Carrot Pomace
+- Flours
+- Reprinted from: Sustainability 2024, 16, 5995, https://doi.org/10.3390/su16145995 . . . . . . . . 81
+- Nikoletta Solomakou, Aikaterini M. Drosaki, Kyriakos Kaderides, Ioannis Mourtzinos and
+- Athanasia M. Goula
+- Valorization of Peach By-Products: Utilizing Them as Valuable Resources in a Circular Economy
+- Model
+- Reprinted from: Sustainability 2024, 16, 1289, https://doi.org/10.3390/su16031289 . . . . . . . . 99
+- Marisa Bock and Stephan G. H. Meyerding
+- Consumer Perception of Food Product Packaging Materials Sustainability versus Life Cycle
+- Assessment Results: The Case of Processed Tomatoes—A Quantitative Study in Germany
+- Reprinted from: Sustainability 2023, 15, 16370, https://doi.org/10.3390/su152316370 . . . . . . . 125
+- Stevens Duarte, Ester Betoret, Cristina Barrera, Lucı́a Seguı́ and Noelia Betoret
+- Integral Recovery of Almond Bagasse through Dehydration: Physico-Chemical and
+- Technological Properties and Hot Air-Drying Modelling
+- Reprinted from: Sustainability 2023, 15, 10704, https://doi.org/10.3390/su151310704 . . . . . . . 150
+- Mustafa Mortas
+- Characterization of a New Powdered, Milk-Based Medicinal Plant (Alcea rosea) Drink Product
+- Reprinted from: Sustainability 2023, 15, 9320, https://doi.org/10.3390/su15129320 . . . . . . . . 166
+- Vanessa Ortega-Quevedo, Noelia Santamarı́a-Cárdaba and Cristina Gil-Puente
+- Sustainable Food in Teacher Training: Evaluation of a Proposal for Educational Intervention
+- Reprinted from: Sustainability 2023, 15, 9673, https://doi.org/10.3390/su15129673 . . . . . . . . 180
+- v
+- About the Editors
+- Long Yu
+- Long Yu is a research fellow at Flinders University, Australia. He obtained his PhD from
+- the University of Queensland and completed postdoctoral research at the University of Adelaide.
+- His research focuses on carbohydrate analysis, the mechanical characterization of hydrocolloids
+- and gels, and the discovery of novel bioactive molecules from diverse biomass using advanced
+- mass spectrometry techniques. His work lies at the interface of carbohydrate polymers, bioactive
+- compounds, green extraction technologies, and hydrocolloid science, aiming to develop sustainable
+- and innovative approaches for food, health, and material applications. Since 2013, he has published
+- 33 high-quality refereed papers that have attracted 1,376 citations, with approximately 72% of these
+- citations recorded since 2020, reflecting the growing impact of his research. Long Yu has received
+- numerous awards and recognitions, highlighting his international and national achievements. These
+- include the 2019 Plant Biology travel grant from the American Society of Plant Biologists, where
+- only 80 awardees were selected worldwide, and his selection as the sole Australian Early Career
+- Researcher representative to the Early Career Colloid Conference (UK) in 2018, supported by the
+- Australasian Colloids and Interface Society.
+- Ping Dong
+- Ping Dong is a professor and Deputy Dean of Haide college at Ocean University of China and
+- completed postdoctoral research at the University of Massachusetts, USA. Her research focuses on
+- the nutrition and sustainable utilization of marine biological resources. She has led or participated
+- as a key member in over ten research projects, including a sub-project of the National Key R&D
+- Program, two National Natural Science Foundation projects, the Shandong Key R&D Program, and
+- the Shandong Natural Science Foundation. She has published more than 60 SCI papers and holds
+- over ten patents. As an initiator, she secured the first FDA-authorized BPCS training qualification
+- in the Asia-Pacific region. She was selected as a member of the inaugural Youth Committee of the
+- Agricultural Branch of the Chinese Society of Biochemistry and Molecular Biology. Her work has
+- been recognized with multiple awards, including the First Prize of the Shen Nong China Agricultural

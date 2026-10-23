@@ -1,0 +1,80 @@
+# Use of non-sugar sweeteners: WHO guideline summary (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/375565
+- 页数: 20
+- 全文: `text/who/Use_of_non_sugar_sweeteners_WHO_guideline_summary.txt`
+- 标签: 糖/碳水化合物
+
+## 目录 (Contents)
+
+- Guideline summary                                 1
+-      Background1
+-      Objective, scope and methods                 2
+-      The evidence                                 2
+-      Recommendation and supporting information    6
+-      Translation and implementation              10
+- References	                                     12
+-                                                  iii
+-      Note
+-      This document is a summary of a WHO guideline, the full version of which is available only in English
+-      and can be accessed at https://www.who.int/publications/i/item/9789240073616. This summary
+-      document does not contain all of the information found in the full guideline, but what it does contain
+-      has been extracted directly from the full guideline and is therefore identical to the information found
+-      in the full guideline. Anywhere in this summary document where “this guideline” or “the guideline” is
+-      used in the text, it refers to the full guideline document.
+- iv
+- Guideline summary
+- Background
+- Escalating rates of overweight and obesity are a threat to the health of billions of people across the globe.
+- In 2016, more than 1.9 billion adults aged 18 years and older were overweight (1). Of these, more than 600
+- million were obese. In 2020, more than 38 million children under 5 years of age were overweight – an increase
+- of nearly 6 million during the past 20 years (2). High body mass index (BMI) was responsible for an estimated
+- 4 million deaths in 2017 (3), with greater increases in BMI in the overweight and obesity range leading to a
+- greater risk of mortality (4). Obesity is also a risk factor for many noncommunicable diseases (NCDs), including
+- cardiovascular diseases (CVDs), type 2 diabetes and certain types of cancer. NCDs are the leading causes of
+- death globally and were responsible for an estimated 41 million (71%) of the 55 million deaths in 2019 (5).
+- Obesity and certain NCDs also increase the likelihood of becoming severely ill from COVID-19 infection (6–10).
+- A high level of free sugars intake is associated with poor dietary quality (11), obesity (12) and risk of
+- NCDs (13), and the World Health Organization (WHO) has issued guidance on limiting free sugars intake to
+- reduce the risk of unhealthy weight gain and dental caries (14). Since the release of the WHO guideline on
+- free sugars intake, interest in the potential utility of non-sugar sweeteners to reduce sugars intake at the
+- population level has increased.
+- Referred to by a variety of names, including high-intensity sweeteners, low- or no-calorie sweeteners, non-
+- nutritive sweeteners, non-caloric sweeteners and sugar-substitutes, non-sugar sweeteners have been
+- developed as an alternative to free sugars. They are widely used as an additive in pre-packaged foods,
+- beverages and personal care products (e.g. toothpaste, mouthwash), as well as added to foods and beverages
+- directly by the consumer. Because of their ability to impart sweet taste without calories, non-sugar sweeteners
+- are generally marketed as aiding weight loss or maintenance of healthy weight. They are incorporated into
+- prepared and packaged foods and beverages in a number of ways, including individually, in combinations
+- of different non-sugar sweeteners or in combination with free sugars (15). Non-sugar sweeteners are also
+- frequently recommended as a means of controlling blood glucose levels in individuals with diabetes. Non-
+- sugar sweeteners include a wide variety of synthetically derived chemicals and natural extracts that may or
+- may not be chemically modified, and are generally many times sweeter than sugars, which allows them to be
+- added to foods and beverages in very small quantities. Common non-sugar sweeteners include acesulfame K,
+- aspartame, advantame, cyclamates, neotame, saccharin, sucralose, stevia and stevia derivatives; certain
+- D-amino acids, and several plant proteins and other extracts also impart a sweet taste.
+- Non-sugar sweeteners elicit sweet taste through binding and activation of sweet-taste receptors located
+- in the oral cavity, with subsequent signalling to the brain (16). Sweet-taste receptors have more recently
+- been found at sites outside the oral cavity, including the gastrointestinal tract, pancreas, brain and adipose
+- tissue (17), and may be involved in various metabolic effects of non-sugar sweeteners observed in a large
+- body of in vitro, animal and human studies (18–22).
+- Individual non-sugar sweeteners undergo toxicological assessment by various authoritative bodies, such
+- as the Joint Food and Agriculture Organization of the United Nations (FAO)/WHO Expert Committee on
+- Food Additives (JECFA), to establish safe levels of intake (i.e. acceptable daily intake, or ADI). Although
+- results of randomized controlled trials (RCTs) have generally suggested that non-sugar sweeteners may
+- have limited impact on glucose metabolism and result in lower body weight (when coupled with energy
+- restriction) in the short term, there is no clear consensus on whether non-sugar sweeteners are effective
+- for long-term weight loss or maintenance, or if they are linked to other long- term health effects at intakes
+- within the ADI. In addition, although individual non-sugar sweeteners interact with the same sweet-taste
+-                                                                                                               1
+- receptor to elicit sweet taste and likely result in the same physiological effects to some extent, they are not
+- a homogeneous class of compounds: each has a unique chemical structure, which is reflected in different
+- sweetness intensities, organoleptic properties and routes of processing by the body (15). As a result of these
+- differences, individual non-sugar sweeteners may have different physiological effects in humans (19).
+- Global trends in non-sugar sweetener use are unclear because non-sugar sweeteners have yet to appreciably
+- enter some markets, and robust longitudinal intake data are not readily available for many low-and middle-
+- income countries (LMICs) (23, 24). Nevertheless, available data indicate that the number of foods and
+- beverages containing non-sugar sweeteners and non-sugar sweetener use are significant in diverse settings
+- worldwide (23–28). Although intake rarely appears to exceed the ADI (29), non-sugar sweetener availability
+- and use (predominantly in the form of consumption of beverages containing non-sugar sweeteners) appear

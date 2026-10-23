@@ -1,0 +1,71 @@
+# Fermentation Processes (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-5112-6
+- 页数: 168
+- 全文: `text/mdpi/Fermentation_Processes_2025.txt`
+- PDF: `mdpi/Fermentation_Processes_2025.pdf`
+- 标签: 发酵工艺
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Ricardo Aguilar López
+- Fermentation Processes: Modeling, Optimization and Control: 2nd Edition
+- Reprinted from: Fermentation 2025, 11, 408, https://doi.org/10.3390/fermentation11070408 . . .                    1
+- Merve Aslı Ergün, Başak Esin Köktürk-Güzel and Tuğba Keskin-Gündoğdu
+- Optimizing Xylanase Production: Bridging Statistical Design and Machine Learning for Improved
+- Protein Production
+- Reprinted from: Fermentation 2025, 11, 319, https://doi.org/10.3390/fermentation11060319 . . .                    3
+- Eugenia Gutiérrez, Marianela Noriega, Cecilia Fernández, Nadia Pantano, Leandro Rodriguez
+- and Gustavo Scaglia
+- Dynamic Optimization of Xylitol Production Using Legendre-Based Control Parameterization
+- Reprinted from: Fermentation 2025, 11, 308, https://doi.org/10.3390/fermentation11060308 . . . 23
+- Isabel Santos Pedone, Fabı́ola Insaurriaga Aquino, Eduardo dos Santos Macedo Costa, Karine
+- Laste Macagnan, Jéssica da Rosa Porto, Anderson Schwingel Ribeiro, et al.
+- Assessment of Alternative Media Viability for Cell Growth Phase in the Lab-Scale Xanthan Pruni
+- Production—Part I
+- Reprinted from: Fermentation 2025, 11, 191, https://doi.org/10.3390/fermentation11040191 . . . 36
+- Wai Prathumpai, Umpawa Pinruan, Sujinda Sommai, Somjit Komwijit and Kwanruthai
+- Malairuang
+- Exopolysaccharide (EPS) Production by Endophytic and Basidiomycete Fungi
+- Reprinted from: Fermentation 2025, 11, 183, https://doi.org/10.3390/fermentation11040183 . . . 50
+- Tianli Ma, Yafen Xin, Xuesong Chen, Xingjin Wen, Fei Wang, Hongyu Liu, et al.
+- Effects of Compound Lactic Acid Bacteria Additives on the Quality of Oat and Common Vetch
+- Silage in the Northwest Sichuan Plateau
+- Reprinted from: Fermentation 2025, 11, 93, https://doi.org/10.3390/fermentation11020093 . . . 65
+- Vera V. Yaderets, Nataliya V. Karpova, Elena V. Glagoleva, Alexandra S. Shibaeva and
+- Vakhtang V. Dzhavakhiya
+- The Optimization of the Nutrient Medium Composition for the Submerged Cultivation of
+- the Mycolicibacterium neoaurum Strain VKM Ac-3067D in a 100 L Bioreactor Under Controlled
+- Conditions by Mathematical Planning
+- Reprinted from: Fermentation 2025, 11, 82, https://doi.org/10.3390/fermentation11020082 . . . 76
+- André Moser, Christian Appl, Ralf Pörtner, Frank Baganz and Volker C. Hass
+- A New Concept for the Rapid Development of Digital Twin Core Models for Bioprocesses in
+- Various Reactor Designs
+- Reprinted from: Fermentation 2024, 10, 463, https://doi.org/10.3390/fermentation10090463 . . . 96
+- Liucheng Long, Xiaoqing Ren, Feiyu Zhang, Aijia Shi, Yida Zhai, Wuxi Chen, et al.
+- Enhanced Fermentation Process for Production of High Docosahexaenoic Acid Content by
+- Schizochytrium sp. GCD2032
+- Reprinted from: Fermentation 2024, 10, 460, https://doi.org/10.3390/fermentation10090460 . . . 112
+-                                                          v
+- Bilge Sayın, Akif Göktuğ Bozkurt and Güzin Kaban
+- Assessing Waste Sunﬂower Oil as a Substrate for Citric Acid Production: The Inhibitory Effect of
+- Triton X-100
+- Reprinted from: Fermentation 2024, 10, 374, https://doi.org/10.3390/fermentation10070374 . . . 124
+- Yong Wei, Kun Liu, Yaao Li, Zhixing Li, Tianyu Zhao, Pengfei Zhao, et al.
+- Online Monitoring of the Temperature and Relative Humidity of Recycled Bedding for Dairy
+- Cows on Dairy Farms
+- Reprinted from: Fermentation 2024, 10, 346, https://doi.org/10.3390/fermentation10070346 . . . 139
+-                                                 vi
+- About the Editor
+- Ricardo Aguilar-López
+-     Ricardo Aguilar-López holds the position of Investigador Titular “Cinvestav 3C” (Senior
+- Researcher, Level 3, Cinvestav) in the Department of Biotechnology and Bioengineering at
+- CINVESTAV-IPN. He earned his Sc.D. in Chemical Engineering from Universidad Autónoma
+- Metropolitana in 1998, followed by a Sc.D. in Automatic Control from Cinvestav in 2003. Since joining
+- Cinvestav in 2007, he has authored approximately 165 technical articles in international journals and
+- around 80 contributions to specialized book chapters and conference proceedings. As a National
+- Researcher, Level III (SNII), he has supervised 13 master’s and 12 doctoral students. He leads his
+- laboratory in topics related to dynamic analysis and control of bioprocesses, focusing on modeling and

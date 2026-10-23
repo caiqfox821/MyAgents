@@ -1,0 +1,80 @@
+# Fiscal policies to promote healthy diets: WHO guideline (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/376763
+- 页数: 120
+- 全文: `text/who/Fiscal_policies_to_promote_healthy_diets_WHO_guideline.txt`
+- 标签: 政策/环境
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                     v
+- Abbreviations                                                                      vii
+- Glossary		                                                                         viii
+- Executive summary                                                                    x
+-      Background                                                                      x
+-      Objective, scope and methods                                                    x
+-      The evidence                                                                   xi
+-      Recommendations                                                                xii
+-      Key considerations for implementation                                         xvi
+- 1.   Introduction                                                                    1
+-      1.1   Background                                                                1
+-      1.2   Scope and purpose                                                         2
+-      1.3   Objectives                                                                4
+-      1.4   Target audience                                                           4
+- 2.   How this guideline was developed                                                6
+-      2.1   Contributors to guideline development                                     6
+-      2.2   Guideline development process                                             7
+-      2.3   Management of conflicts of interest                                      11
+- 3.   Summary of evidence                                                           12
+-      3.1   Evidence on effectiveness of fiscal policies to promote healthy diets    12
+-      3.2   Evidence on contextual factors                                           18
+- 4.   Recommendations                                                               20
+- 5.   Implementation considerations                                                 29
+-      5.1   Overarching considerations                                               29
+-      5.2   Policy design considerations                                             29
+-      5.3   Resource considerations                                                  31
+-      5.4   Equity considerations                                                    31
+-      5.5   Acceptability considerations                                             31
+-      5.6   Feasibility considerations                                               31
+-      5.7   Additional resources                                                     32
+-                                                                                     iii
+- 6.    Research gaps                                                                                         33
+-       6.1     Overarching research gaps                                                                      33
+-       6.2     Considerations for the design of future evaluations                                            34
+- 7.    Uptake, monitoring and updating of the guideline                                                      36
+- References		                                                                                                37
+- Annexes
+- Annex 1. Global calls to action and commitments related to food environment policies                         43
+- Annex 2. WHO Secretariat                                                                                    44
+- Annex 3. Members of the WHO Steering Committee (headquarters)                                                45
+- Annex 4. Members of the WHO NUGAG Subgroup on Policy Actions                                                 46
+- Annex 5. External resource people                                                                            48
+- Annex 6. External peer review group                                                                          49
+- Annex 7.    Guidance questions for the review of contextual factors                                          50
+- Annex 8. GRADE evidence profiles                                                                             51
+- 		          GRADE evidence profile 1                                                                         51
+- 		          GRADE evidence profile 2                                                                         63
+- 		          GRADE evidence profile 3                                                                         69
+- 		          GRADE evidence profile 4                                                                         73
+- Annex 9. Summary of declarations of interests of contributors to the guideline development
+- 		process                                                                                                    91
+- Annex 10. Key characteristics of policies evaluated by studies included in the systematic
+- 		        review on the effectiveness of fiscal policies to promote healthy diets                            95
+- iv                                                       Fiscal policies to promote healthy diets: WHO guideline
+- Acknowledgements
+- This guideline was prepared by the Department of Nutrition and Food Safety (NFS) of the World Health
+- Organization (WHO) under the overall leadership of Francesco Branca, Director of the Department of
+- Nutrition and Food Safety. Katrin Engelhardt was the responsible technical officer and coordinated
+- the guideline development with Chizuru Nishida (retired in 2023). The guideline was finalized in close
+- collaboration with Rüdiger Krech, Director of the Department of Health Promotion (HPR), and the Fiscal
+- Policies for Health Unit (TAX/HPR) headed by Jeremias Paul Jr., with contributions from Anne-Marie Perucic,
+- Delia Itziar Belausteguigoitia, Michal Stoklosa, Mark Goodchild, Roberto Iglesias and Laura Rossouw (TAX/
+- HPR). The Department of Nutrition and Food Safety gratefully acknowledges the contributions that many
+- individuals and organizations have made to the development of this guideline.
+- Guideline Development Group (WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup
+- on Policy Actions): Nawal Al Hamad (Ministry of Health, Kuwait), Carukshi Arambepola (University of
+- Colombo, Sri Lanka), Gastón Ares (Universidad de la República, Uruguay), Sharon Friel (Australian National
+- University, Australia), Cho-il Kim (Seoul National University, Republic of Korea), Knut-Inge Klepp (Norwegian
+- Institute of Public Health, Norway), Joerg Meerpohl (University Medical Center Freiburg, Germany), Musonda
+- Mofu (National Food and Nutrition Commission, Zambia), Ladda Mo-suwan (Prince of Songkla University,

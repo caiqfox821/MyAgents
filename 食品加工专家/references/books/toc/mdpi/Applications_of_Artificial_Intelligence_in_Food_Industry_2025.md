@@ -1,0 +1,81 @@
+# Applications of Artificial Intelligence in Food Industry (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4836-2
+- 页数: 300
+- 全文: `text/mdpi/Applications_of_Artificial_Intelligence_in_Food_Industry_2025.txt`
+- PDF: `mdpi/Applications_of_Artificial_Intelligence_in_Food_Industry_2025.pdf`
+- 标签: 智能加工, AI, 数据驱动
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Heera Jayan, Weiqing Min and Zhiming Guo
+- Applications of Artiﬁcial Intelligence in Food Industry
+- Reprinted from: Foods 2025, 14, 1241, https://doi.org/10.3390/foods14071241 . . . . . . . . . . .
+- 1
+- Padej Pao-la-or, Kakanang Posridee, Pussarat Buranakon, Jittra Singthong,
+- Jirawan Oonmetta-Aree, Ratchadaporn Oonsivilai and Anant Oonsivilai
+- Beyond Traditional Methods: Deep-Learning Machines Empower Fingerroot (Boesenbergia
+- rotunda)-Extract Production with Superior Antioxidant Activity
+- Reprinted from: Foods 2024, 13, 2676, https://doi.org/10.3390/foods13172676 . . . . . . . . . . .
+- 7
+- Shuai Yu, Haoran Zheng, David I. Wilson, Wei Yu and Brent R. Young
+- Integrating Image Analysis and Machine Learning for Moisture Prediction and Appearance
+- Quality Evaluation: A Case Study of Kiwifruit Drying Pretreatment
+- Reprinted from: Foods 2024, 13, 1789, https://doi.org/10.3390/foods13121789 . . . . . . . . . . . 30
+- Zhiming Guo, Xuan Chen, Yiyin Zhang, Chanjun Sun, Heera Jayan, Usman Majeed, et al.
+- Dynamic Nondestructive Detection Models of Apple Quality in Critical Harvest Period Based
+- on Near-Infrared Spectroscopy and Intelligent Algorithms
+- Reprinted from: Foods 2024, 13, 1698, https://doi.org/10.3390/foods13111698 . . . . . . . . . . . 49
+- Zhuoyang Zou, Xinghui Zhu, Qinying Zhu, Hongyan Zhang and Lei Zhu
+- Disambiguity and Alignment: An Effective Multi-Modal Alignment Method for Cross-Modal
+- Recipe Retrieval
+- Reprinted from: Foods 2024, 13, 1628, https://doi.org/10.3390/foods13111628 . . . . . . . . . . . 64
+- Younes Noutﬁa and Ewa Ropelewska
+- Exploration of Convective and Infrared Drying Effect on Image Texture Parameters of ‘Mejhoul’
+- and ‘Boufeggous’ Date Palm Fruit Using Machine Learning Models
+- Reprinted from: Foods 2024, 13, 1602, https://doi.org/10.3390/foods13111602 . . . . . . . . . . . 80
+- Yanqiu Zhu, Shuxiang Fan, Min Zuo, Baohua Zhang, Qingzhen Zhu and Jianlei Kong
+- Discrimination of New and Aged Seeds Based on On-Line Near-Infrared Spectroscopy
+- Technology Combined with Machine Learning
+- Reprinted from: Foods 2024, 13, 1570, https://doi.org/10.3390/foods13101570 . . . . . . . . . . . 93
+- Milana Pribić, Ilija Kamenko, Saša Despotović, Milan Mirosavljević and Jelena Pejin
+- Modeling and Optimization of Triticale Wort Production Using an Artiﬁcial Neural Network
+- and a Genetic Algorithm
+- Reprinted from: Foods 2024, 13, 343, https://doi.org/10.3390/foods13020343 . . . . . . . . . . . 106
+- Padej Pao-la-or, Boonruang Marungsri, Pornariya Chirinang, Kakanang Posridee,
+- Ratchadaporn Oonsivilai and Anant Oonsivilai
+- Boosting Purnica granatum L. Seed Oil Yield: An Adaptive Neuro-Fuzzy Interference System
+- Fuels SC-CO2 Extraction Breakthrough
+- Reprinted from: Foods 2024, 13, 161, https://doi.org/10.3390/foods13010161 . . . . . . . . . . . 123
+- Bridget V. Granados-Vega, Carlos Maldonado-Flores, Camila S. Gómez-Navarro,
+- Walter M. Warren-Vega, Armando Campos-Rodrı́guez and Luis A. Romero-Cano
+- Development of a Low-Cost Artiﬁcial Vision System as an Alternative for the Automatic
+- Classiﬁcation of Persian Lemon: Prototype Test Simulation
+- Reprinted from: Foods 2023, 12, 3829, https://doi.org/10.3390/foods12203829 . . . . . . . . . . . 136
+- v
+- Tianhao Li, Wensong Wei, Shujuan Xing, Weiqing Min, Chunjiang Zhang and
+- Shuqiang Jiang
+- Deep Learning-Based Near-Infrared Hyperspectral Imaging for Food Nutrition Estimation
+- Reprinted from: Foods 2023, 12, 3145, https://doi.org/10.3390/foods12173145 . . . . . . . . . . . 148
+- Dandan Tao, Ruofan Hu, Dongyu Zhang, Jasmine Laber, Anne Lapsley, Timothy Kwan, et al.
+- A Novel Foodborne Illness Detection and Web Application Tool Based on Social Media
+- Reprinted from: Foods 2023, 12, 2769, https://doi.org/10.3390/foods12142769 . . . . . . . . . . . 163
+- Ewa Ropelewska and Justyna Szwejda-Grzybowska
+- The Estimation of Chemical Properties of Pepper Treated with Natural Fertilizers Based on Image
+- Texture Parameters
+- Reprinted from: Foods 2023, 12, 2123, https://doi.org/10.3390/foods12112123 . . . . . . . . . . . 178
+- Yi Chen, Yandi Guo, Qiuxu Fan, Qinghui Zhang and Yu Dong
+- Health-Aware Food Recommendation Based on Knowledge Graph and Multi-Task Learning
+- Reprinted from: Foods 2023, 12, 2079, https://doi.org/10.3390/foods12102079 . . . . . . . . . . . 192
+- Hind Raki, Yahya Aalaila, Ayoub Taktour and Diego H. Peluffo-Ordóñez
+- Combining AI Tools with Non-Destructive Technologies for Crop-Based Food Safety: A
+- Comprehensive Review
+- Reprinted from: Foods 2024, 13, 11, https://doi.org/10.3390/foods13010011 . . . . . . . . . . . . 214
+- Haohan Ding, Jiawei Tian, Wei Yu, David I. Wilson, Brent R. Young, Xiaohui Cui, et al.
+- The Application of Artiﬁcial Intelligence and Big Data in the Food Industry
+- Reprinted from: Foods 2023, 12, 4511, https://doi.org/10.3390/foods12244511 . . . . . . . . . . . 246
+- Longlong Zhang, Qiuping Yang and Zhiyuan Zhu
+- The Application of Multi-Parameter Multi-Modal Technology Integrating Biological Sensors and
+- Artiﬁcial Intelligence in the Rapid Detection of Food Contaminants

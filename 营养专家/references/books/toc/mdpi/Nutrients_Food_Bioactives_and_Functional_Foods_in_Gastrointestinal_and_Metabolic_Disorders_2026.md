@@ -1,0 +1,79 @@
+# Nutrients, Food Bioactives, and Functional Foods in Gastrointestinal and Metabolic Disorders (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8772-9
+- 页数: 272
+- 全文: `text/mdpi/Nutrients_Food_Bioactives_and_Functional_Foods_in_Gastrointestinal_and_Metabolic_Disorders_2026.txt`
+- 标签: 代谢与心血管, 肠道/菌群, 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Lorena Ortega Moreno and Samuel Fernández-Tomé
+- Nutrients, Food Bioactives, and Functional Foods in Gastrointestinal and Metabolic Disorders
+- Reprinted from: Foods 2025, 14, 3513, https://doi.org/10.3390/foods14203513 . . . . . . . . . . .              1
+- Lei Wu, Yao Niu, Fei Liu, Jiongling Tian, Zhilin Ma, Jiahui Yang, et al.
+- Flavonoids of Mao Jian Green Tea Ameliorate Glycemic Metabolism in Type-2-Diabetic Rats via
+- AMPK Signaling Pathways and Gut Microbiota Regulation
+- Reprinted from: Foods 2025, 14, 2404, https://doi.org/10.3390/foods14132402 . . . . . . . . . . .              7
+- Meng Liu, Fazhi Su, Yujia He, Minghao Sun, Chenxi Bai, Wensen Zhang, et al.
+- An Extensive Analysis of Artemisia integrifolia Linn. on T2DM: Investigating Glycolipid
+- Metabolism, Metabolic Proﬁling, and Molecular Docking for Potential Functional
+- Food Applications
+- Reprinted from: Foods 2025, 14, 2945, https://doi.org/10.3390/foods14172945 . . . . . . . . . . . 24
+- Shuling He, Lvyun Sun, Jiali Chen, Yixin Li, Ying Pan, Amei Su, et al.
+- Therapeutic Effects of Sulforaphane on Helicobacter pylori-Infected Mice: Insights from
+- High-Coverage Metabolomics and Lipidomics Analyses of Serum and Liver
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 7791, https://doi.org/10.3390/ijms26167791 . . . . . . 41
+- Kabelo Mokgalaboni, Reneilwe G. Mashaba, Wendy N. Phoswa and Sogolo L. Lebelo
+- Curcumin Attenuates Hyperglycemia and Inﬂammation in Type 2 Diabetes Mellitus:
+- Quantitative Analysis of Randomized Controlled Trial
+- Reprinted from: Nutrients 2024, 16, 4177, https://doi.org/10.3390/nu16234177 . . . . . . . . . . 61
+- Guilherme Renke, Ana Carolina Fuschini, Beatriz Clivati, Laura Mocellin Teixeira,
+- Maria Luisa Cuyabano, C. Tamer Erel and Eliane Lopes Rosado
+- New Perspectives on the Use of Resveratrol in the Treatment of Metabolic and
+- Estrogen-Dependent Conditions Through Hormonal Modulation and
+- Anti-Inﬂammatory Effects
+- Reprinted from: Curr. Issues Mol. Biol. 2025, 47, 692, https://doi.org/10.3390/cimb47090692 . . . 81
+- Suwajee Pothinam, Chaochetdhapada Putpim, Thanyaporn Siriwoharn
+- and Wachira Jirarattanarangsri
+- Effects of Perilla Seed Oil on Blood Lipids, Oxidative Stress, and Inﬂammation in
+- Hyperlipidemic Rats
+- Reprinted from: Foods 2025, 14, 1380, https://doi.org/10.3390/foods14081380 . . . . . . . . . . . 96
+- Caleb Boren, Benjamin Barr, Noshin Mubtasim and Lauren Gollahon
+- Adipocytokine Protein Expression from Visceral Fat Differs Signiﬁcantly Based on Diet,
+- Sex, and Age in C3H/HeJ Mice Fed Long-Term, High-Fat Diets, ± Ammonium-Hydroxide-
+- Supplemented Dietary Protein
+- Reprinted from: Curr. Issues Mol. Biol. 2025, 47, 218, https://doi.org/10.3390/cimb47040218 . . . 108
+- Fan Chen, Yining Zhao, Yanfa Dai, Ning Sun, Xuezheng Gao, Jiajun Yin, et al.
+- Chick Early Amniotic Fluid Alleviates Dextran-Sulfate-Sodium-Induced Colitis in Mice via
+- T-Cell Receptor Pathway
+- Reprinted from: Antioxidants 2025, 14, 51, https://doi.org/10.3390/antiox14010051 . . . . . . . . 138
+-                                                        v
+- Lei Wu, Yao Niu, Boyang Ren, Shengyu Wang, Yuhong Song, Xingyu Wang, et al.
+- Naringenin Promotes Gastrointestinal Motility in Mice by Impacting the SCF/c-Kit Pathway
+- and Gut Microbiota
+- Reprinted from: Foods 2024, 13, 2520, https://doi.org/10.3390/foods13162520 . . . . . . . . . . . 163
+- Lilian Dolores Chel-Guerrero, Rolffy Ortiz-Andrade, Enrique Sauri-Duch,
+- Emilio Piña-Betancourt, Luis Hebert-Doctor and Myrna Déciga-Campos
+- An Isobolographic Analysis of the Antinociceptive Effect of Salvia hispanica L. in Combination
+- with Citrus × latifolia in Rats
+- Reprinted from: Nutrients 2025, 17, 1884, https://doi.org/10.3390/nu17111884 . . . . . . . . . . 176
+- Oleg Frumuzachi, Andrei Mocan, Sascha Rohn and Laura Gavrilas,
+- Impact of a Chokeberry (Aronia melanocarpa (Michx.) Elliott) Supplementation on
+- Cardiometabolic Outcomes: A Critical Systematic Review and Meta-Analysis of Randomized
+- Controlled Trials
+- Reprinted from: Nutrients 2025, 17, 1488, https://doi.org/10.3390/nu17091488 . . . . . . . . . . 191
+- Arianna Natale, Federica Fiori, Maria Parpinel, Claudio Pelucchi, Eva Negri,
+- Carlo La Vecchia and Marta Rossi
+- Dietary Isoﬂavones Intake and Gastric Cancer
+- Reprinted from: Nutrients 2024, 16, 2771, https://doi.org/10.3390/nu16162771 . . . . . . . . . . 220
+- Iván Benito-Vázquez, Ana Muñoz-Labrador, Manuel Garrido-Romero,
+- Gema Hontoria-Caballo, Carlos Garcı́a-Garcı́a, Marina Diez-Municio and F. Javier Moreno
+- New Pipeline for Analysing Fruit Proteolytic Products Used as Digestive Health Nutraceuticals
+- Reprinted from: Int. J. Mol. Sci. 2024, 25, 10315, https://doi.org/10.3390/ijms251910315 . . . . . 228
+- Saroya Bilraheem, Sirasit Srinuanpan, Benjamas Cheirsilp, Apichat Upaichit, Fusako Kawai
+- and Uschara Thumarat
+- Optimization of Pectin Extraction from Melon Peel as a New Source of Pectin and Pectin
+- Hydrolysate with Prebiotic Potential
+- Reprinted from: Foods 2024, 13, 2554, https://doi.org/10.3390/foods13162554 . . . . . . . . . . . 247

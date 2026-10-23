@@ -1,0 +1,147 @@
+[
+  {
+    "id": "successfulcannin00powe",
+    "file": "Successful_Canning_and_Preserving_1917",
+    "title": "Successful Canning and Preserving",
+    "year": 1917,
+    "author": "Ola Powell",
+    "tags": [
+      "保藏",
+      "罐藏",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "canningpreservin00duckrich",
+    "file": "Canning_and_Preserving_of_Food_Products_1905",
+    "title": "Canning and Preserving of Food Products with Bacteriological Technique",
+    "year": 1905,
+    "author": "Edward W. Duckwall",
+    "tags": [
+      "保藏",
+      "罐藏",
+      "微生物",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "artofcanningpres00pacrrich",
+    "file": "The_Art_of_Canning_and_Preserving_as_an_Industry_1900",
+    "title": "The Art of Canning and Preserving as an Industry",
+    "year": 1900,
+    "author": "Henry P. Pacrette",
+    "tags": [
+      "保藏",
+      "罐藏",
+      "工业化",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "preservationoffi00stev",
+    "file": "Preservation_of_Fishery_Products_for_Food_1899",
+    "title": "The Preservation of Fishery Products for Food",
+    "year": 1899,
+    "author": "Charles H. Stevenson",
+    "tags": [
+      "水产加工",
+      "保藏",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "homefarmfoodpres00crue",
+    "file": "Home_and_Farm_Food_Preservation_1918",
+    "title": "Home and Farm Food Preservation",
+    "year": 1918,
+    "author": "William V. Cruess",
+    "tags": [
+      "保藏",
+      "果蔬加工",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "dairychemistrypr00richrich",
+    "file": "Dairy_Chemistry_1920",
+    "title": "Dairy Chemistry: A Practical Handbook",
+    "year": 1920,
+    "author": "H. Droop Richmond",
+    "tags": [
+      "乳品",
+      "食品化学",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "treatiseonfloury00wilh",
+    "file": "Treatise_on_Flour_Yeast_Fermentation_and_Baking_1914",
+    "title": "A Treatise on Flour, Yeast, Fermentation and Baking",
+    "year": 1914,
+    "author": "Julius E. Wihlfahrt",
+    "tags": [
+      "烘焙",
+      "谷物加工",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "breadmakingbread00brot",
+    "file": "Bread_Making_and_Bread_Baking_1915",
+    "title": "Bread Making and Bread Baking",
+    "year": 1915,
+    "author": "Minnie E. Brotherton",
+    "tags": [
+      "烘焙",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "textbookofmeathy00edelrich",
+    "file": "Text_Book_of_Meat_Hygiene_1939",
+    "title": "Text-book of Meat Hygiene",
+    "year": 1939,
+    "author": "R. Edelmann",
+    "tags": [
+      "肉制品",
+      "卫生",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "dryingvegetables00lund",
+    "file": "Drying_Vegetables_and_Fruits_for_Home_Use_1919",
+    "title": "Drying Vegetables and Fruits for Home Use",
+    "year": 1919,
+    "author": "A. L. Lund",
+    "tags": [
+      "干燥",
+      "果蔬加工",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "completeconfecti00parkrich",
+    "file": "The_Complete_Confectioner_Pastry_Cook_and_Baker_1846",
+    "title": "The Complete Confectioner, Pastry-Cook and Baker",
+    "year": 1846,
+    "author": "Parkinson",
+    "tags": [
+      "糖果",
+      "烘焙",
+      "历史经典"
+    ]
+  },
+  {
+    "id": "leaveningagentsy00hartrich",
+    "file": "Leavening_Agents_1914",
+    "title": "Leavening Agents: Yeast, Leaven, Salt-rising Fermentation, Baking Powder",
+    "year": 1914,
+    "author": "Hart",
+    "tags": [
+      "烘焙",
+      "膨松剂",
+      "历史经典"
+    ]
+  }
+]

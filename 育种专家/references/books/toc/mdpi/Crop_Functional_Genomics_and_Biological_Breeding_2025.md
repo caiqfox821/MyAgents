@@ -1,0 +1,77 @@
+# Crop Functional Genomics and Biological Breeding (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11009
+- 页数: 184
+- 全文: `text/mdpi/Crop_Functional_Genomics_and_Biological_Breeding_2025.txt`
+- 标签: 功能基因组, 生物育种
+
+## 目录 (Contents)
+
+- Jia Li, Jie Huang, Jiezheng Ying, Jian Zhang, Dawei Xue and Yifeng Wang
+- Crop Functional Genomics and Biological Breeding
+- Reprinted from: Plants 2025, 14, 1258, https://doi.org/10.3390/plants14081258 . . . . . . . . . .   1
+- Tian Pan, Hongmiao Jin, Chuanhui Zhou and Mengyuan Yan
+- Rice Serine Hydroxymethyltransferases: Evolution, Subcellular Localization, Function and
+- Perspectives
+- Reprinted from: Plants 2024, 13, 1116, https://doi.org/10.3390/plants13081116 . . . . . . . . . .   7
+- Qing Zhu, Haoyue Zheng, Xu Hu, Yi Liu, Xinyi Zheng, Libei Li and Minqiang Tang
+- Genome-Wide Analysis of the SAUR Gene Family and Its Expression Proﬁles in Response to Salt
+- Stress in Santalum album
+- Reprinted from: Plants 2024, 13, 1286, https://doi.org/10.3390/plants13101286 . . . . . . . . . . 25
+- Qin Liu, Shaocui Li, Guanghui Du and Xia An
+- Genome-Wide Analysis of the Nramp Gene Family in Kenaf (Hibiscus cannabinus): Identiﬁcation,
+- Expression Analysis, and Response to Cadmium Stress
+- Reprinted from: Plants 2024, 13, 2514, https://doi.org/10.3390/plants13172514 . . . . . . . . . . 40
+- Yihao Yang, Xiaoyi Yang, Lingjun Wu, Zixing Sun, Yi Zhang, Ziyan Shen, et al.
+- Phenotypic Analysis and Gene Cloning of Rice Floury Endosperm Mutant wcr (White-Core Rice)
+- Reprinted from: Plants 2024, 13, 2653, https://doi.org/10.3390/plants13182653 . . . . . . . . . . 59
+- Fengdan Wang, Hanfu Wu, Mei Yang, Wen Xu, Wenjie Zhao, Rui Qiu, et al.
+- Unveiling Salt Tolerance Mechanisms and Hub Genes in Alfalfa (Medicago sativa L.) Through
+- Transcriptomic and WGCNA Analysis
+- Reprinted from: Plants 2024, 13, 3141, https://doi.org/10.3390/plants13223141 . . . . . . . . . . 73
+- Tamanna Islam Rimi, Meirong Zhang, Ruixin Zhang, Zhe Zhang, Xueyu Leng, Jiafang Han,
+- et al.
+- Putative Allele of D10 Gene Alters Rice Tiller Response to Nitrogen
+- Reprinted from: Plants 2024, 13, 3349, https://doi.org/10.3390/plants13233349 . . . . . . . . . . 104
+- Sha-Sha Jia, Xin-Yu Ren, Man-Ni Tong, Si-Yao Jiang, Chang-Quan Zhang, Qiao-Quan Liu
+- and Qian-Feng Li
+- OsIAA19, an Aux/IAA Family Gene, Involved in the Regulation of Seed-Speciﬁc Traits in Rice
+- Reprinted from: Plants 2024, 13, 3538, https://doi.org/10.3390/plants13243538 . . . . . . . . . . 122
+- Yusi Yang, Jiaming Wei, Xiaojie Tian, Changhua Liu, Xiufeng Li and Qingyun Bu
+- OsBBX2 Delays Flowering by Repressing Hd3a Expression Under Long-Day Conditions in Rice
+- Reprinted from: Plants 2025, 14, 48, https://doi.org/10.3390/plants14010048 . . . . . . . . . . . 137
+- Ann Murithi, Gayathri Panangipalli, Zhengyu Wen, Michael S. Olsen, Thomas Lübberstedt,
+- Kanwarpal S. Dhugga and Mark Jung
+- Global Transcriptomic Analysis of Inbred Lines Reveal Candidate Genes for Response to Maize
+- Lethal Necrosis
+- Reprinted from: Plants 2025, 14, 295, https://doi.org/10.3390/plants14020295 . . . . . . . . . . . 143
+- Yidan Jin, Niqing He, Zhaoping Cheng, Shaojun Lin, Fenghuang Huang, Wenxiao Wang, et al.
+- Resistance Spectrum Analysis and Breeding Utilization of Rice Blast Resistance Gene Pigm-1
+- Reprinted from: Plants 2025, 14, 535, https://doi.org/10.3390/plants14040535 . . . . . . . . . . . 163
+-                                                   v
+- Editorial
+- Crop Functional Genomics and Biological Breeding
+- Jia Li 1,2 , Jie Huang 1 , Jiezheng Ying 1 , Jian Zhang 1 , Dawei Xue 2 and Yifeng Wang 1, *
+-                                          1   State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute,
+-                                              Hangzhou 311400, China; lij697495@163.com (J.L.); huangjie@caas.cn (J.H.); yingjiezheng@caas.cn (J.Y.);
+-                                              zhangjian@caas.cn (J.Z.)
+-                                          2   College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou 311121, China;
+-                                              dwxue@hznu.edu.cn
+-                                          *   Correspondence: wangyifeng@caas.cn
+-                                          1. Introduction
+-                                                Over the past two decades, the rapid development of functional genomics has gradu-
+-                                          ally clariﬁed the regulatory effects of genotypes on phenotypes. Crop breeding researchers
+-                                          have discovered numerous genes that inﬂuence critical traits such as yield, resistance,
+-                                          and quality. By targeting these genes, scientists have achieved more customised variety
+-                                          breeding through biological breeding. Crop functional genomics research is a vital pathway
+-                                          for biological breeding. Understanding the functional genomics of crops provides deep
+-                                          insights into the genetic mechanisms controlling key traits like yield, stress resistance, and
+-                                          quality improvement. This article aims to summarise the latest research and discoveries
+-                                          in crop functional genomics from plant journals, including studies on gene responses to
+-                                          stresses through whole-genome and transcriptome analyses and the identiﬁcation and
+-                                          cloning of new genes related to crop yield, resistance, germination, and quality. This article
+-                                          also covers functional analyses of these genes and their applications in biological breeding.
+-                                          2. Studying Gene Resistance Through Functional Genomics
+-                                                Liu et al. conducted a genome-wide analysis of the Nramp gene family in kenaf
+-                                          (Hibiscus cannabinus), identifying 15 HcNramp genes. Phylogenetic analysis classiﬁed these

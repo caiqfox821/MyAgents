@@ -1,0 +1,80 @@
+# Integrated Soil Management (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11236
+- 页数: 268
+- 全文: `text/crops/Integrated_Soil_Management_2025.txt`
+- PDF: `crops/Integrated_Soil_Management_2025.pdf`
+- 标签: 土壤管理, 土壤健康, 综合栽培
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- José L. S. Pereira and Vı́tor J. P. D. Martinho
+- Integrated Soil Management: Food Supply, Environmental Impacts, and Socioeconomic
+- Functions
+- Reprinted from: Soil Syst. 2025, 9, 64, https://doi.org/10.3390/soilsystems9020064 . . . . . . . .             1
+- Belén Cárceles Rodrı́guez, Vı́ctor Hugo Durán-Zuazo, Miguel Soriano Rodrı́guez, Iván F.
+- Garcı́a-Tejero, Baltasar Gálvez Ruiz and Simón Cuadros Tavira
+- Conservation Agriculture as a Sustainable System for Soil Health: A Review
+- Reprinted from: Soil Syst. 2022, 6, 87, https://doi.org/10.3390/soilsystems6040087 . . . . . . . .             6
+- Diego Rubiales
+- Managing Root Parasitic Weeds to Facilitate Legume Reintroduction into Mediterranean
+- Rain-Fed Farming Systems
+- Reprinted from: Soil Syst. 2023, 7, 99, https://doi.org/10.3390/soilsystems7040099 . . . . . . . . 43
+- Vı́tor João Pereira Domingues Martinho, José L. S. Pereira and José Manuel Gonçalves
+- Assessment of the Interrelationships of Soil Nutrient Balances with the Agricultural Soil
+- Emissions and Food Production
+- Reprinted from: Soil Syst. 2022, 6, 32, https://doi.org/10.3390/soilsystems6020032 . . . . . . . . 59
+- Rysul Hasan Hredoy, Md. Abu Bakar Siddique, Md. Ahedul Akbor, Md. Aftab Ali Shaikh
+- and Md. Mostaﬁzur Rahman
+- Impacts of Landﬁll Leachate on the Surrounding Environment: A Case Study on Amin Bazar
+- Landﬁll, Dhaka (Bangladesh)
+- Reprinted from: Soil Syst. 2022, 6, 90, https://doi.org/10.3390/soilsystems6040090 . . . . . . . . 73
+- Margarida Arrobas, João Silva, Mariah Ruaro Busato, Ana Carolina Ferreira, Soraia
+- Raimundo, Abel Pereira, et al.
+- Large Chestnut Trees Did Not Respond to Annual Fertiliser Applications, Requiring a
+- Long-Term Approach to Establishing Effective Fertilisation Plans
+- Reprinted from: Soil Syst. 2023, 7, 2, https://doi.org/10.3390/soilsystems7010002 . . . . . . . . . 89
+- Aasma Parveen, Muhammad Mahran Aslam, Rashid Iqbal, Muhammad Ali, Muhammad
+- Kamran, Mona S. Alwahibi, et al.
+- Effect of Natural Phytohormones on Growth, Nutritional Status, and Yield of Mung Bean (Vigna
+- radiata L.) and N Availability in Sandy-Loam Soil of Sub-Tropics
+- Reprinted from: Soil Syst. 2023, 7, 34, https://doi.org/10.3390/soilsystems7020034 . . . . . . . . 104
+- Sabaiporn Nacoon, Wasan Seemakram, Jindarat Ekprasert, Piyada Theerakulpisut, Jirawat
+- Sanitchon, Thomas W. Kuyper and Sophon Boonlue
+- Arbuscular Mycorrhizal Fungi Enhance Growth and Increase Concentrations of Anthocyanin,
+- Phenolic Compounds, and Antioxidant Activity of Black Rice (Oryza sativa L.)
+- Reprinted from: Soil Syst. 2023, 7, 44, https://doi.org/10.3390/soilsystems7020044 . . . . . . . . 121
+- Chris Cavalaris, Theofanis Gemtos and Christos Karamoutis
+- Rotational Tillage Practices to Deal with Soil Compaction in Carbon Farming
+- Reprinted from: Soil Syst. 2023, 7, 90, https://doi.org/10.3390/soilsystems7040090 . . . . . . . . 135
+-                                                        v
+- Sergey Sheshnitsan, Nadezhda Golubkina, Tatiana Sheshnitsan, Otilia Cristina Murariu,
+- Alessio Vincenzo Tallarita and Gianluca Caruso
+- Selenium and Heavy Metals in Soil–Plant System in a Hydrogeochemical Province with High
+- Selenium Content in Groundwater: A Case Study of the Lower Dniester Valley
+- Reprinted from: Soil Syst. 2024, 8, 7, https://doi.org/10.3390/soilsystems8010007 . . . . . . . . . 155
+- Silvia Landi, Beatrice Carletti, Francesco Binazzi, Sonia Cacini, Beatrice Nesi, Emilio Resta,
+- et al.
+- Impact of Pot Farming on Plant-Parasitic Nematode Control
+- Reprinted from: Soil Syst. 2024, 8, 60, https://doi.org/10.3390/soilsystems8020060 . . . . . . . . 171
+- Antonı́n Kintl, Ján Šmeringai, Tomáš Lošák, Igor Huňady, Julie Sobotková, Tadeáš
+- Hrušovský, et al.
+- The Effect of Soil Heterogeneity on the Content of Macronutrients and Micronutrients in the
+- Chickpea (Cicer arietinum L.)
+- Reprinted from: Soil Syst. 2024, 8, 75, https://doi.org/10.3390/soilsystems8030075 . . . . . . . . 185
+- Rajesh Choudhary, Sangeeta Lenka, Dinesh Kumar Yadav, Narendra Kumar Lenka,
+- Rameshwar S. Kanwar, Abhijit Sarkar, et al.
+- Impact of Crop Residue, Nutrients, and Soil Moisture on Methane Emissions from Soil under
+- Long-Term Conservation Tillage
+- Reprinted from: Soil Syst. 2024, 8, 88, https://doi.org/10.3390/soilsystems8030088 . . . . . . . . 204
+- Yuqian Wang, Liqiong Yang, Weipeng Liu and Jie Zhuang
+- The Effect of Manure Application Rates on the Vertical Distribution of Antibiotic Resistance
+- Genes in Farmland Soil
+- Reprinted from: Soil Syst. 2024, 8, 89, https://doi.org/10.3390/soilsystems8030089 . . . . . . . . 223
+- Annie Lesley Buckle, Felicity Victoria Crotty and Philip L. Staddon
+- Mixed Grazing Increases Abundance of Arbuscular Mycorrhizal Fungi in Upland Welsh
+- Grasslands
+- Reprinted from: Soil Syst. 2024, 8, 94, https://doi.org/10.3390/soilsystems8030094 . . . . . . . . 241
+-                                                   vi

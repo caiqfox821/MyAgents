@@ -1,0 +1,79 @@
+# Analysis of Chemical Contaminants in Food (2020, mdpi-res.com)
+
+- 许可: 开放获取（机构库）
+- 来源: https://doi.org/10.3390/books978-3-03936-379-7
+- 页数: 140
+- 全文: `text/guides/Analysis_of_Chemical_Contaminants_in_Food.txt`
+- 标签: risk
+
+## 目录 (Contents)
+
+- About the Special Issue Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Claudio Medana
+- Analysis of Chemical Contaminants in Food
+- Reprinted from: Toxics 2020, 8, 27, doi:10.3390/toxics8020027 . . . . . . . . . . . . . . . . . . . . .     1
+- Alex O. Okaru and Dirk W. Lachenmeier
+- The Food and Beverage Occurrence of Furfuryl Alcohol and Myrcene—Two Emerging Potential
+- Human Carcinogens?
+- Reprinted from: Toxics 2017, 5, 9, doi:10.3390/toxics5010009 . . . . . . . . . . . . . . . . . . . . .      4
+- Michaela Zeiner and Iva Juranović Cindrić
+- Harmful Elements (Al, Cd, Cr, Ni, and Pb) in Wild Berries and Fruits Collected in Croatia
+- Reprinted from: Toxics 2018, 6, 31, doi:10.3390/toxics6020031 . . . . . . . . . . . . . . . . . . . . . 12
+- Elena Fattore, Renzo Bagnati, Andrea Colombo, Roberto Fanelli, Roberto Miniero,
+- Gianfranco Brambilla, Alessandro Di Domenico, Alessandra Roncarati and Enrico Davoli
+- Perfuorooctane Sulfonate (PFOS), Perﬂuorooctanoic Acid (PFOA), Brominated Dioxins
+- (PBDDs) and Furans (PBDFs) in Wild and Farmed Organisms at Different Trophic Levels in
+- the Mediterranean Sea
+- Reprinted from: Toxics 2018, 6, 50, doi:10.3390/toxics6030050 . . . . . . . . . . . . . . . . . . . . . 22
+- Alberto Nuñez, Yelena Sapozhnikova and Steven J. Lehotay
+- Characterization of MS/MS Product Ions for the Differentiation of Structurally Isomeric
+- Pesticides by High-Resolution Mass Spectrometry
+- Reprinted from: Toxics 2018, 6, 59, doi:10.3390/toxics6040059 . . . . . . . . . . . . . . . . . . . . . 29
+- Renata Raina-Fulton and Aisha A. Mohamad
+- Pressurized Solvent Extraction with Ethyl Acetate and Liquid Chromatography—Tandem Mass
+- Spectrometry for the Analysis of Selected Conazole Fungicides in Matcha
+- Reprinted from: Toxics 2018, 6, 64, doi:10.3390/toxics6040064 . . . . . . . . . . . . . . . . . . . . . 41
+- Thanh-Thien Tran-Lam, Yen Hai Dao, Duong Thanh Nguyen, Hoi Kim Ma, Trung Quoc
+- Pham and Giang Truong Le
+- Optimization of Sample Preparation for Detection of 10 Phthalates in Non-Alcoholic Beverages
+- in Northern Vietnam
+- Reprinted from: Toxics 2018, 6, 69, doi:10.3390/toxics6040069 . . . . . . . . . . . . . . . . . . . . . 54
+- Dirk W. Lachenmeier, Steffen Schwarz, Jan Teipel, Maren Hegmanns, Thomas Kuballa,
+- Stephan G. Walch and Carmen M. Breitling-Utzmann
+- Potential Antagonistic Effects of Acrylamide Mitigation during Coffee Roasting on Furfuryl
+- Alcohol, Furan and 5-Hydroxymethylfurfural
+- Reprinted from: Toxics 2019, 7, 1, doi:10.3390/toxics7010001 . . . . . . . . . . . . . . . . . . . . . 68
+- Jitlada Vichapong, Yanawath Santaladchaiyakit, Rodjana Burakham and Supalax Srijaranai
+- Magnetic Stirring Assisted Demulsiﬁcation Dispersive Liquid–Liquid Microextraction for
+- Preconcentration of Polycyclic Aromatic Hydrocarbons in Grilled Pork Samples
+- Reprinted from: Toxics 2019, 7, 8, doi:10.3390/toxics7010008 . . . . . . . . . . . . . . . . . . . . . 81
+-                                                       v
+- Christian Vella and Everaldo Attard
+- Consumption of Minerals, Toxic Metals and Hydroxymethylfurfural: Analysis of Infant Foods
+- and Formulae
+- Reprinted from: Toxics 2019, 7, 33, doi:10.3390/toxics7020033 . . . . . . . . . . . . . . . . . . . . . 94
+- Nadia Smadi, Adla Jammoul and Nada El Darra
+- Assessment of Antibiotic and Pesticides Residues in Breast Milk of Syrian Refugee
+- Lactating Mothers
+- Reprinted from: Toxics 2019, 7, 39, doi:10.3390/toxics7030039 . . . . . . . . . . . . . . . . . . . . . 102
+- Federica Dal Bello, Riccardo Aigotti, Michael Zorzi, Valerio Giaccone and Claudio Medana
+- Multi-Analyte MS Based Investigation in Relation to the Illicit Treatment of Fish Products with
+- Hydrogen Peroxide
+- Reprinted from: Toxics 2020, 8, 2, doi:10.3390/toxics8010002 . . . . . . . . . . . . . . . . . . . . . 116
+-                                                     vi
+- About the Special Issue Editor
+- Claudio Medana is Full Professor of the Analytical Chemistry, Molecular Biotechnology, and Health
+- Sciences Department, University of Torino, Italy. He is in charge of the Unit of Mass Spectrometry
+- of the department and coordinator of the MS facility (open access lab). His recent research activity is
+- focused on the development of analytical mass spectrometry methods for the identiﬁcation, structure
+- determination, and quantiﬁcation of bioactive molecules. His past activity was focused on synthesis
+- and analytical characterization of new potential drugs. He serves as mentor and tutor of Master’s
+- students in Chemistry, Pharmacy, and Biotechnology and PhD students in Chemical and Materials
+- Sciences. The most recent research topics are:
+- •    Assessment of the transformation of bioactive molecules by HPLC coupled to high-resolution
+-      multistage mass spectrometry to study drug metabolism and the environmental fate of drugs
+-      and toxics.
+- •    Studies about MS fragmentation pathways and application to structural determination of
+-      synthetic intermediates or unknown molecules.
+- •    Targeted metabolomics determination of biochemicals, including the endogenous toxins formed
+-      by interaction of sugars and proteins, the enzymatic products of drugs and lipid molecules,

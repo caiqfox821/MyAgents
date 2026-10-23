@@ -1,0 +1,81 @@
+# Environmentally Friendly Manufacturing of Food Additives and Functional Ingredients (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7646-4
+- 页数: 154
+- 全文: `text/mdpi/Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients_2026.txt`
+- PDF: `mdpi/Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients_2026.pdf`
+- 标签: 食品添加剂, 绿色制造, 功能配料
+
+## 目录 (Contents)
+
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Xv Qin, Yaxian Guo, Xiaoqing Zhao, Bin Liang, Chanchan Sun, Xiulian Li and Changjian Ji
+- Fabricating Pea Protein Micro-Gel-Stabilized Pickering Emulsion as Saturated Fat Replacement
+- in Ice Cream
+- Reprinted from: Foods 2024, 13, 1511, https://doi.org/10.3390/foods13101511 . . . . . . . . . . .
+- 1
+- Yuhan Liu, Le Jing, Jiaqi Cui, Dongdong Yuan and Chengtao Wang
+- Preparation of Edible Colorant Lake Using Calcium Carbonate and β-Carotene: Structural
+- Characterization and Formation Mechanism Study
+- Reprinted from: Foods 2024, 13, 1050, https://doi.org/10.3390/foods13071050 . . . . . . . . . . . 20
+- Yan Gou, Donglin Gu, Jing Fan, Jianbo Yang, Ke Zan, Jingjing Liu, et al.
+- Puriﬁcation and Structural Characterization of Polysaccharides from Polygonum multiﬂorum
+- Thunb. and Their Immunostimulatory Activity in RAW264.7 Cells
+- Reprinted from: Foods 2024, 13, 932, https://doi.org/10.3390/foods13060932 . . . . . . . . . . . 39
+- Pengkun Shen, Ruizhi Yang, Yingying Wu, Jiao Liu, Xiuzhen Ding, Wentao Wang
+- and Luping Zhao
+- Effects of Quillaja Saponin on Physicochemical Properties of Oil Bodies Recovered from Peony
+- (Paeonia ostii) Seed Aqueous Extract at Different pH
+- Reprinted from: Foods 2023, 12, 3017, https://doi.org/10.3390/foods12163017 . . . . . . . . . . . 55
+- Xinhuan Yan, Shaoxiang Pan, Xuemei Liu, Mengnan Tan, Xiaodong Zheng, Wenyu Du, et al.
+- Proﬁling the Major Aroma-Active Compounds of Microwave-Dried Jujube Slices through
+- Molecular Sensory Science Approaches
+- Reprinted from: Foods 2023, 12, 3012, https://doi.org/10.3390/foods12163012 . . . . . . . . . . . 67
+- Xufeng Yang, Luyao Zhou, Yingying Wu, Xiuzhen Ding, Wentao Wang, Dajian Zhang
+- and Luping Zhao
+- Effect of Heat Treatment on the Digestive Characteristics of Different Soybean Oil Body
+- Emulsions
+- Reprinted from: Foods 2023, 12, 2942, https://doi.org/10.3390/foods12152942 . . . . . . . . . . . 83
+- Xin Li, Jianhao Lv, Minghao Niu, Siqi Liu, Yue Wu, Jiahan Liu, et al.
+- Characterization and Antibacterial Properties of Egg White Protein Films Loaded with
+- ε-Polylysine: Evaluation of Their Degradability and Application
+- Reprinted from: Foods 2023, 12, 2431, https://doi.org/10.3390/foods12122431 . . . . . . . . . . . 97
+- Wan Wang, Kai Zhang, Congyu Lin, Shanshan Zhao, Jiaqi Guan, Wei Zhou, et al.
+- Inﬂuence of Cmr1 in the Regulation of Antioxidant Function Melanin Biosynthesis in
+- Aureobasidium pullulans
+- Reprinted from: Foods 2023, 12, 2135, https://doi.org/10.3390/foods12112135 . . . . . . . . . . . 112
+- Ranran Li, Chenyang Wang, Yan Wang, Xuan Xie, Wenjie Sui, Rui Liu, et al.
+- Extrusion Modiﬁcation of Wheat Bran and Its Effects on Structural and Rheological Properties
+- of Wheat Flour Dough
+- Reprinted from: Foods 2023, 12, 1813, https://doi.org/10.3390/foods12091813 . . . . . . . . . . . 127
+- v
+- Preface
+- In an era marked by increasing global concerns regarding food safety, environmental
+- sustainability, and public health, the development of food additives and functional ingredients
+- that balance performance, environmental compatibility, and nutritional value has become an urgent
+- priority for the food science community. Against this backdrop, we are pleased to present the Reprint
+- of the Special Issue ”Environmentally Friendly Manufacturing of Food Additives and Functional
+- Ingredients (Volume II)” in Foods, a follow-up to our highly regarded ﬁrst volume that continues
+- to highlight cutting-edge research at the forefront of sustainable food innovation.
+- The central focus of this Special Issue is the re-examination of the production and application
+- of food additives and functional ingredients through an environmental perspective—emphasizing
+- renewable resources, low-carbon processes, and biodegradable outcomes, while maintaining or
+- enhancing the sensory, stability, and health-promoting properties of food products. Its scope is
+- intentionally broad, encompassing topics such as the extraction and modiﬁcation of natural functional
+- components (e.g., polysaccharides, proteins, and plant-derived bioactives), the development of
+- sustainable alternatives to synthetic additives (including colorants, fat replacers, and preservatives),
+- the optimization of environmentally efﬁcient manufacturing technologies (such as extrusion,
+- microwave processing, and pH-controlled extraction), and the evaluation of the safety, functionality,
+- and environmental impact of novel ingredients.
+- The motivation for this Special Issue arises from two critical imperatives: ﬁrst, the necessity to
+- address the environmental limitations of conventional food additive production, which frequently
+- depends on non-renewable resources, generates substantial waste, or employs hazardous chemical
+- processes; second, the increasing consumer demand for “clean label” foods—products devoid of
+- artiﬁcial additives, abundant in natural nutrients, and consistent with sustainable consumption
+- principles. By compiling this collection, we seek to bridge the gap between academic research and
+- industrial application, offering a platform for researchers, engineers, and practitioners to disseminate
+- innovative methodologies, evaluate practical solutions, and foster collaborative efforts to advance the
+- food industry.
+- This Special Issue targets a diverse audience committed to advancing sustainable food science.
+- It addresses academic researchers specializing in food chemistry, food engineering, and functional

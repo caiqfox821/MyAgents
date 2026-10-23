@@ -1,0 +1,71 @@
+# Application of Fermentation Technology in Animal Nutrition (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-2770-1
+- 页数: 182
+- 全文: `text/mdpi/Fermentation_Technology_in_Animal_Nutrition_2024.txt`
+- PDF: `mdpi/Fermentation_Technology_in_Animal_Nutrition_2024.pdf`
+- 标签: 发酵饲料, 生物制造
+
+## 目录 (Contents)
+
+- Siran Wang
+- Application of Fermentation Technology in Animal Nutrition
+- Reprinted from: Fermentation 2024, 10, 596, https://doi.org/10.3390/fermentation10120596 . . .   1
+- Nazir Ahmad Khan, Mussayyab Khan, Abubakar Sufyan, Ashmal Saeed, Lin Sun,
+- Siran Wang, et al.
+- Biotechnological Processing of Sugarcane Bagasse through Solid-State Fermentation with
+- White Rot Fungi into Nutritionally Rich and Digestible Ruminant Feed
+- Reprinted from: Fermentation 2024, 10, 181, https://doi.org/10.3390/fermentation10040181 . . .   5
+- Rajan Dhakal, André Luis Alves Neves, Rumakanta Sapkota, Prabhat Khanal and
+- Hanne Helene Hansen
+- Prokaryote Composition and Structure of Rumen Fluid before and after In Vitro Rumen
+- Fermentation
+- Reprinted from: Fermentation 2024, 10, 108, https://doi.org/10.3390/fermentation10020108 . . . 21
+- Zhiqi Lu, Chuang Li, Lie Hou, Zhenbin Zhang, Yue Lu, Chun Xue, et al.
+- Safety of Chinese Cabbage Waste and Rice Straw Mixed Silage and Its Effect on Growth and
+- Health Performance of Hu Sheep
+- Reprinted from: Fermentation 2024, 10, 47, https://doi.org/10.3390/fermentation10010047 . . . . 30
+- Irida Palamidi, Vasileios V. Paraskeuas, Basiliki Kotsampasi, Ioannis Hadjigeorgiou,
+- Ioannis Politis and Konstantinos C. Mountzouris
+- Effect of Yogurt Acid Whey on the Quality of Maize Silage
+- Reprinted from: Fermentation 2023, 9, 994, https://doi.org/10.3390/fermentation9120994 . . . . 44
+- Dengte Li, Huade Xie, Fanquan Zeng, Xianqing Luo, Lijuan Peng, Xinwen Sun, et al.
+- An Assessment on the Fermentation Quality and Bacterial Community of Corn Straw Silage
+- with Pineapple Residue
+- Reprinted from: Fermentation 2024, 10, 242, https://doi.org/10.3390/fermentation10050242 . . . 55
+- Chuang Li, Zhiqi Lu, Ruxin Qi, Zhenbin Zhang, Yue Lu, Muhammad Hammad Zafar, et al.
+- Illumina Sequencing and Metabolomic Analysis Explored the Effects of the Mixed Silage of Rice
+- Straw and Chinese Cabbage Waste on Fecal Microorganisms and Metabolites in Hu Sheep
+- Reprinted from: Fermentation 2024, 10, 233, https://doi.org/10.3390/fermentation10050233 . . . 66
+- Elon S. Aniceto, Tadeu S. Oliveira, José R. Meirelles, Jr., Ismael N. Silva, Elvanio J. L. Mozelli
+- Filho, Raphael S. Gomes, et al.
+- Evaluation of Essential Oils and Their Blends on the Fermentative Profile, Microbial Count, and
+- Aerobic Stability of Sorghum Silage
+- Reprinted from: Fermentation 2024, 10, 335, https://doi.org/10.3390/fermentation10070335 . . . 81
+- He Meng, Yan Jiang, Lin Wang, Yuanming Li, Sui Wang, Xiaohong Tong, et al.
+- Dynamic Analysis of Fermentation Quality, Microbial Community, and Metabolome in the
+- Whole Plant Soybean Silage
+- Reprinted from: Fermentation 2024, 10, 535, https://doi.org/10.3390/fermentation10100535 . . . 91
+- Xinxin Li, Yitong Jin, Fuhou Li, Meng Yu, Jiarui Du, Qixuan Yi, et al.
+- Effects of Lactobacillus plantarum and Cellulase on Mixed Silages of Amaranthus hypochondriacus
+- and Cornmeal: Fermentation Characteristics, Nutritional Value, and Aerobic Stability
+- Reprinted from: Fermentation 2024, 10, 378, https://doi.org/10.3390/fermentation10080378 . . . 108
+-                                                 v
+- Xiaolong Wang, Longteng Ma, Zhuying Liu and Xinguo Huang
+- The Impact of Lactobacillus delbrueckii Hepatic Metabolism in Post-Weaning Piglets
+- Reprinted from: Fermentation 2024, 10, 286, https://doi.org/10.3390/fermentation10060286 . . . 125
+- Huade Xie, Fanquan Zeng, Xianqing Luo, Zhipei Li, Yuhong Pan, Yanxia Guo, et al.
+- Silage Making of Napier Grass and Sugarcane Top at Different Proportions: Evolution of
+- Natural Fermentation Characteristics, Chemical Composition, and Microbiological Profile
+- Reprinted from: Fermentation 2024, 10, 525, https://doi.org/10.3390/fermentation10100525 . . . 142
+- Rafaela Scalise Xavier de Freitas, Janaina Silveira da Silva, Althieres José Furtado,
+- Flavio Perna Junior, Alessandra Lopes de Oliveira and Ives Cláudio da Silva Bueno
+- The Production of Marandu Grass (Urochloa brizantha) Extracts as a Natural Modifier of Rumen
+- Fermentation Kinetics Using an In Vitro Technique
+- Reprinted from: Fermentation 2024, 10, 447, https://doi.org/10.3390/fermentation10090447 . . . 158
+-                                                 vi
+- Editorial
+- Application of Fermentation Technology in Animal Nutrition
+- Siran Wang 1,2
+-                                          1   Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing 210014, China;

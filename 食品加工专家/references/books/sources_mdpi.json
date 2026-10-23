@@ -1,0 +1,788 @@
+[
+  {
+    "id": 9983,
+    "url_title": "Processing_Foods_Process_Optimization_and_Quality_Assessment",
+    "file": "Processing_Foods_Process_Optimization_and_Quality_Assessment_2024",
+    "year": 2024,
+    "pages": 214,
+    "doi": "10.3390/books978-3-0365-7779-1",
+    "pdf_isbn": "978-3-0365-7779-1",
+    "tags": [
+      "工艺工程",
+      "过程优化",
+      "品质评价"
+    ]
+  },
+  {
+    "id": 11597,
+    "url_title": "Food_Science_and_Engineering_for_Sustainability",
+    "file": "Food_Science_and_Engineering_for_Sustainability_2025",
+    "year": 2025,
+    "pages": 204,
+    "doi": "10.3390/books978-3-7258-5388-5",
+    "pdf_isbn": "978-3-7258-5388-5",
+    "tags": [
+      "工艺工程",
+      "可持续",
+      "食品科学"
+    ]
+  },
+  {
+    "id": 6167,
+    "url_title": "Sustainable_Functional_Food_Processing",
+    "file": "Sustainable_Functional_Food_Processing_2022",
+    "year": 2022,
+    "pages": 454,
+    "doi": "10.3390/books978-3-0365-5302-3",
+    "pdf_isbn": "978-3-0365-5302-3",
+    "tags": [
+      "功能食品",
+      "加工工艺",
+      "可持续"
+    ]
+  },
+  {
+    "id": 11407,
+    "url_title": "Applications_of_Artificial_Intelligence_in_Food_Industry",
+    "file": "Applications_of_Artificial_Intelligence_in_Food_Industry_2025",
+    "year": 2025,
+    "pages": 298,
+    "doi": "10.3390/books978-3-7258-4836-2",
+    "pdf_isbn": "978-3-7258-4836-2",
+    "tags": [
+      "智能加工",
+      "AI",
+      "数据驱动"
+    ]
+  },
+  {
+    "id": 10411,
+    "url_title": "DataDriven_Intelligent_Modeling_and_Optimization_Algorithms_for_Industrial_Processes",
+    "file": "DataDriven_Intelligent_Modeling_and_Optimization_Algorithms_for_Industrial_Processes_2025",
+    "year": 2025,
+    "pages": 254,
+    "doi": "10.3390/books978-3-7258-2986-6",
+    "pdf_isbn": "978-3-7258-2986-6",
+    "tags": [
+      "智能加工",
+      "过程建模",
+      "优化算法"
+    ]
+  },
+  {
+    "id": 4926,
+    "url_title": "Application_of_Novel_Thermal_Technology_in_Foods_Processing",
+    "file": "Application_of_Novel_Thermal_Technology_in_Foods_Processing_2022",
+    "year": 2022,
+    "pages": 176,
+    "doi": "10.3390/books978-3-0365-3003-1",
+    "pdf_isbn": "978-3-0365-3003-1",
+    "tags": [
+      "热加工",
+      "新型杀菌",
+      "食品加工"
+    ]
+  },
+  {
+    "id": 12653,
+    "url_title": "Optimization_of_Nonthermal_Technology_in_Food_Processing",
+    "file": "Optimization_of_Nonthermal_Technology_in_Food_Processing_2026",
+    "year": 2026,
+    "pages": 190,
+    "doi": "10.3390/books978-3-7258-7243-5",
+    "pdf_isbn": "978-3-7258-7243-5",
+    "tags": [
+      "非热加工",
+      "工艺优化",
+      "新型杀菌"
+    ]
+  },
+  {
+    "id": 12534,
+    "url_title": "Novel_Thermal_and_Nonthermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality",
+    "file": "Novel_Thermal_and_Nonthermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality_2026",
+    "year": 2026,
+    "pages": 132,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-7179-7",
+    "tags": [
+      "热加工",
+      "非热加工",
+      "微生物安全",
+      "品质"
+    ]
+  },
+  {
+    "id": 7273,
+    "url_title": "Thermal_and_NonThermal_Treatments_to_Preserve_and_Encourage_Bioactive_Compounds_in_Fruit_and_Vegetables_Based_Products",
+    "file": "Thermal_and_NonThermal_Treatments_to_Preserve_and_Encourage_Bioactive_Compounds_in_Fruit_and_Vegetables_Based_Products_2023",
+    "year": 2023,
+    "pages": 306,
+    "doi": null,
+    "pdf_isbn": "978-3-0365-6831-7",
+    "tags": [
+      "果蔬加工",
+      "热/非热",
+      "生物活性"
+    ]
+  },
+  {
+    "id": 13096,
+    "url_title": "Microwave_and_UltrasoundAssisted_Extraction_for_Plant_Bioactive_Compounds",
+    "file": "Microwave_and_UltrasoundAssisted_Extraction_for_Plant_Bioactive_Compounds_2026",
+    "year": 2026,
+    "pages": 158,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-8020-1",
+    "tags": [
+      "微波辅助",
+      "超声辅助",
+      "提取"
+    ]
+  },
+  {
+    "id": 8594,
+    "url_title": "Mechanism_and_Engineering_Research_on_Processing_Storage_and_Preservation_of_Fresh_Food",
+    "file": "Mechanism_and_Engineering_Research_on_Processing_Storage_and_Preservation_of_Fresh_Food_2024",
+    "year": 2024,
+    "pages": 328,
+    "doi": "10.3390/books978-3-0365-9988-5",
+    "pdf_isbn": "978-3-0365-9988-5",
+    "tags": [
+      "果蔬保鲜",
+      "加工贮藏",
+      "工程技术"
+    ]
+  },
+  {
+    "id": 12379,
+    "url_title": "Enhancing_Shelf_Life_of_Food_Products",
+    "file": "Enhancing_Shelf_Life_of_Food_Products_2026",
+    "year": 2026,
+    "pages": 246,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-6849-0",
+    "tags": [
+      "货架期",
+      "保鲜",
+      "延长保质期"
+    ]
+  },
+  {
+    "id": 10264,
+    "url_title": "Advanced_Coatings_and_Films_for_Food_Packing_and_Storage",
+    "file": "Advanced_Coatings_and_Films_for_Food_Packing_and_Storage_2024",
+    "year": 2024,
+    "pages": 224,
+    "doi": "10.3390/books978-3-7258-2708-4",
+    "pdf_isbn": "978-3-7258-2708-4",
+    "tags": [
+      "包装",
+      "涂膜",
+      "贮藏"
+    ]
+  },
+  {
+    "id": 9699,
+    "url_title": "Recent_Advances_in_the_Development_of_Thin_Films",
+    "file": "Recent_Advances_in_the_Development_of_Thin_Films_2024",
+    "year": 2024,
+    "pages": 206,
+    "doi": "10.3390/books978-3-7258-1856-3",
+    "pdf_isbn": "978-3-7258-1856-3",
+    "tags": [
+      "薄膜",
+      "包装材料",
+      "涂层"
+    ]
+  },
+  {
+    "id": 8790,
+    "url_title": "Effects_of_Processing_on_Food_Composition_Nutritional_Value_and_Sensory_Quality",
+    "file": "Effects_of_Processing_on_Food_Composition_Nutritional_Value_and_Sensory_Quality_2024",
+    "year": 2024,
+    "pages": 182,
+    "doi": "10.3390/books978-3-0365-9952-6",
+    "pdf_isbn": "978-3-0365-9952-6",
+    "tags": [
+      "加工影响",
+      "营养成分",
+      "感官品质"
+    ]
+  },
+  {
+    "id": 12470,
+    "url_title": "Effect_of_Processing_and_Cooking_on_Physicochemical_Sensory_and_Functional_Properties_of_Food",
+    "file": "Effect_of_Processing_and_Cooking_on_Physicochemical_Sensory_and_Functional_Properties_of_Food_2026",
+    "year": 2026,
+    "pages": 318,
+    "doi": "10.3390/books978-3-7258-7079-0",
+    "pdf_isbn": "978-3-7258-7079-0",
+    "tags": [
+      "加工与烹饪",
+      "感官",
+      "功能特性"
+    ]
+  },
+  {
+    "id": 8954,
+    "url_title": "Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II",
+    "file": "Physicochemical_Sensory_and_Nutritional_Properties_of_Foods_Affected_by_Processing_and_Storage_Series_II_2024",
+    "year": 2024,
+    "pages": 228,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-0234-0",
+    "tags": [
+      "加工贮藏",
+      "感官",
+      "营养"
+    ]
+  },
+  {
+    "id": 10387,
+    "url_title": "Trends_in_Grain_Processing_for_Food_Industry",
+    "file": "Trends_in_Grain_Processing_for_Food_Industry_2025",
+    "year": 2025,
+    "pages": 238,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-2896-8",
+    "tags": [
+      "谷物加工",
+      "粮食",
+      "食品工业"
+    ]
+  },
+  {
+    "id": 11918,
+    "url_title": "Cereals_and_CerealBased_Foods",
+    "file": "Cereals_and_CerealBased_Foods_2025",
+    "year": 2025,
+    "pages": 212,
+    "doi": "10.3390/books978-3-7258-5696-1",
+    "pdf_isbn": "978-3-7258-5696-1",
+    "tags": [
+      "谷物",
+      "谷物食品",
+      "加工"
+    ]
+  },
+  {
+    "id": 10588,
+    "url_title": "Functional_Bakery_Products",
+    "file": "Functional_Bakery_Products_2025",
+    "year": 2025,
+    "pages": 250,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-3192-0",
+    "tags": [
+      "烘焙",
+      "功能食品",
+      "配方"
+    ]
+  },
+  {
+    "id": 12393,
+    "url_title": "Impact_of_Functional_Ingredients_on_Technological_Sensory_and_Health_Properties_of_Bakery_Products",
+    "file": "Impact_of_Functional_Ingredients_on_Technological_Sensory_and_Health_Properties_of_Bakery_Products_2026",
+    "year": 2026,
+    "pages": 168,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-6853-7",
+    "tags": [
+      "烘焙",
+      "功能配料",
+      "感官"
+    ]
+  },
+  {
+    "id": 3827,
+    "url_title": "Qualitative_and_Nutritional_Improvement_of_CerealBased_Foods_and_Beverages",
+    "file": "Qualitative_and_Nutritional_Improvement_of_CerealBased_Foods_and_Beverages_2021",
+    "year": 2021,
+    "pages": 306,
+    "doi": "10.3390/books978-3-0365-0707-1",
+    "pdf_isbn": "978-3-0365-0707-1",
+    "tags": [
+      "谷物食品",
+      "营养强化",
+      "饮料"
+    ]
+  },
+  {
+    "id": 10661,
+    "url_title": "Dairy_Products",
+    "file": "Dairy_Products_2025",
+    "year": 2025,
+    "pages": 178,
+    "doi": "10.3390/books978-3-7258-3550-8",
+    "pdf_isbn": "978-3-7258-3550-8",
+    "tags": [
+      "乳品",
+      "乳制品加工"
+    ]
+  },
+  {
+    "id": 12743,
+    "url_title": "Health_Promoting_Compounds_in_Milk_and_Dairy_Products",
+    "file": "Health_Promoting_Compounds_in_Milk_and_Dairy_Products_2026",
+    "year": 2026,
+    "pages": 134,
+    "doi": "10.3390/books978-3-7258-7353-1",
+    "pdf_isbn": "978-3-7258-7353-1",
+    "tags": [
+      "乳品",
+      "功能成分",
+      "健康"
+    ]
+  },
+  {
+    "id": 3446,
+    "url_title": "Chemical_and_Technological_Characterization_of_Dairy_Products",
+    "file": "Chemical_and_Technological_Characterization_of_Dairy_Products_2021",
+    "year": 2021,
+    "pages": 216,
+    "doi": null,
+    "pdf_isbn": "978-3-0365-0219-9",
+    "tags": [
+      "乳品",
+      "化学与工艺",
+      "表征"
+    ]
+  },
+  {
+    "id": 12598,
+    "url_title": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health",
+    "file": "Nutritional_Value_of_Meat_and_Meat_Products_and_Their_Role_in_Human_Health_2026",
+    "year": 2026,
+    "pages": 264,
+    "doi": "10.3390/books978-3-7258-7273-2",
+    "pdf_isbn": "978-3-7258-7273-2",
+    "tags": [
+      "肉制品",
+      "营养",
+      "健康"
+    ]
+  },
+  {
+    "id": 12406,
+    "url_title": "Feeding_and_Processing_Affect_Meat_Quality_and_Sensory_Evaluation",
+    "file": "Feeding_and_Processing_Affect_Meat_Quality_and_Sensory_Evaluation_2026",
+    "year": 2026,
+    "pages": 180,
+    "doi": "10.3390/books978-3-7258-6933-6",
+    "pdf_isbn": "978-3-7258-6933-6",
+    "tags": [
+      "肉制品",
+      "加工品质",
+      "感官"
+    ]
+  },
+  {
+    "id": 10024,
+    "url_title": "Recent_Advances_in_Aquatic_Food_Products_Processing",
+    "file": "Recent_Advances_in_Aquatic_Food_Products_Processing_2024",
+    "year": 2024,
+    "pages": 176,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-2300-0",
+    "tags": [
+      "水产加工",
+      "水产品",
+      "进展"
+    ]
+  },
+  {
+    "id": 9317,
+    "url_title": "Marine_Fish_Oils_as_Functional_Foods",
+    "file": "Marine_Fish_Oils_as_Functional_Foods_2024",
+    "year": 2024,
+    "pages": 168,
+    "doi": "10.3390/books978-3-7258-1224-0",
+    "pdf_isbn": "978-3-7258-1224-0",
+    "tags": [
+      "水产",
+      "鱼油",
+      "功能食品"
+    ]
+  },
+  {
+    "id": 12838,
+    "url_title": "Plant_Protein_Processing",
+    "file": "Plant_Protein_Processing_2026",
+    "year": 2026,
+    "pages": 196,
+    "doi": "10.3390/books978-3-7258-7676-1",
+    "pdf_isbn": "978-3-7258-7676-1",
+    "tags": [
+      "植物蛋白",
+      "蛋白加工",
+      "工艺"
+    ]
+  },
+  {
+    "id": 12839,
+    "url_title": "Sustainable_Protein_Sources",
+    "file": "Sustainable_Protein_Sources_2026",
+    "year": 2026,
+    "pages": 170,
+    "doi": "10.3390/books978-3-7258-7760-7",
+    "pdf_isbn": "978-3-7258-7760-7",
+    "tags": [
+      "植物蛋白",
+      "可持续蛋白",
+      "替代蛋白"
+    ]
+  },
+  {
+    "id": 10696,
+    "url_title": "Functionality_and_Food_Applications_of_Plant_Proteins_Volume_II",
+    "file": "Functionality_and_Food_Applications_of_Plant_Proteins_Volume_II_2025",
+    "year": 2025,
+    "pages": 264,
+    "doi": "10.3390/books978-3-7258-3577-5",
+    "pdf_isbn": "978-3-7258-3577-5",
+    "tags": [
+      "植物蛋白",
+      "功能特性",
+      "应用"
+    ]
+  },
+  {
+    "id": 8366,
+    "url_title": "Research_on_the_Properties_of_Polysaccharides_Starch_Protein_Pectin_and_Fibre_in_Food_Processing",
+    "file": "Research_on_the_Properties_of_Polysaccharides_Starch_Protein_Pectin_and_Fibre_in_Food_Processing_2023",
+    "year": 2023,
+    "pages": 584,
+    "doi": "10.3390/books978-3-0365-9675-4",
+    "pdf_isbn": "978-3-0365-9675-4",
+    "tags": [
+      "多糖淀粉",
+      "蛋白果胶",
+      "食品加工"
+    ]
+  },
+  {
+    "id": 12623,
+    "url_title": "Food_Colloids",
+    "file": "Food_Colloids_2026",
+    "year": 2026,
+    "pages": 152,
+    "doi": "10.3390/books978-3-7258-7211-4",
+    "pdf_isbn": "978-3-7258-7211-4",
+    "tags": [
+      "食品胶体",
+      "乳化",
+      "界面"
+    ]
+  },
+  {
+    "id": 11911,
+    "url_title": "Food_Gels",
+    "file": "Food_Gels_2025",
+    "year": 2025,
+    "pages": 218,
+    "doi": "10.3390/books978-3-7258-5898-9",
+    "pdf_isbn": "978-3-7258-5898-9",
+    "tags": [
+      "食品凝胶",
+      "胶体",
+      "质构"
+    ]
+  },
+  {
+    "id": 9941,
+    "url_title": "Application_of_Polymers_in_Food_Sciences",
+    "file": "Application_of_Polymers_in_Food_Sciences_2024",
+    "year": 2024,
+    "pages": 266,
+    "doi": "10.3390/books978-3-7258-2193-8",
+    "pdf_isbn": "978-3-7258-2193-8",
+    "tags": [
+      "高分子",
+      "食品科学",
+      "应用"
+    ]
+  },
+  {
+    "id": 12503,
+    "url_title": "Development_of_Functional_and_Fortified_Foods",
+    "file": "Development_of_Functional_and_Fortified_Foods_2026",
+    "year": 2026,
+    "pages": 220,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-7015-8",
+    "tags": [
+      "功能食品",
+      "营养强化",
+      "配方"
+    ]
+  },
+  {
+    "id": 13430,
+    "url_title": "Advances_in_the_Design_Analysis_and_Evaluation_of_Functional_Foods",
+    "file": "Advances_in_the_Design_Analysis_and_Evaluation_of_Functional_Foods_2026",
+    "year": 2026,
+    "pages": 184,
+    "doi": "10.3390/books978-3-7258-8940-2",
+    "pdf_isbn": "978-3-7258-8940-2",
+    "tags": [
+      "功能食品",
+      "设计评价",
+      "分析"
+    ]
+  },
+  {
+    "id": 12863,
+    "url_title": "Recent_Trends_in_Designing_Novel_Foods",
+    "file": "Recent_Trends_in_Designing_Novel_Foods_2026",
+    "year": 2026,
+    "pages": 206,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-7788-1",
+    "tags": [
+      "新型食品",
+      "设计",
+      "趋势"
+    ]
+  },
+  {
+    "id": 13101,
+    "url_title": "Nanomaterials_and_Nanotechnology_in_Food",
+    "file": "Nanomaterials_and_Nanotechnology_in_Food_2026",
+    "year": 2026,
+    "pages": 136,
+    "doi": "10.3390/books978-3-7258-8278-6",
+    "pdf_isbn": "978-3-7258-8278-6",
+    "tags": [
+      "纳米材料",
+      "纳米技术",
+      "食品"
+    ]
+  },
+  {
+    "id": 12752,
+    "url_title": "Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients",
+    "file": "Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients_2026",
+    "year": 2026,
+    "pages": 152,
+    "doi": "10.3390/books978-3-7258-7646-4",
+    "pdf_isbn": "978-3-7258-7646-4",
+    "tags": [
+      "食品添加剂",
+      "绿色制造",
+      "功能配料"
+    ]
+  },
+  {
+    "id": 13064,
+    "url_title": "Bioactive_Compounds_in_Foods_and_Their_ByProducts",
+    "file": "Bioactive_Compounds_in_Foods_and_Their_ByProducts_2026",
+    "year": 2026,
+    "pages": 354,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-8336-3",
+    "tags": [
+      "生物活性",
+      "副产物",
+      "功能食品"
+    ]
+  },
+  {
+    "id": 11284,
+    "url_title": "Bioactive_Compounds_in_Foods",
+    "file": "Bioactive_Compounds_in_Foods_2025",
+    "year": 2025,
+    "pages": 230,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-4732-7",
+    "tags": [
+      "生物活性成分",
+      "食品",
+      "功能"
+    ]
+  },
+  {
+    "id": 13198,
+    "url_title": "Extraction_and_Analysis_of_Chemical_Compositions_of_Natural_Products_and_Plants",
+    "file": "Extraction_and_Analysis_of_Chemical_Compositions_of_Natural_Products_and_Plants_2026",
+    "year": 2026,
+    "pages": 222,
+    "doi": "10.3390/books978-3-7258-8626-5",
+    "pdf_isbn": "978-3-7258-8626-5",
+    "tags": [
+      "天然产物",
+      "提取",
+      "分析"
+    ]
+  },
+  {
+    "id": 12638,
+    "url_title": "Recent_Advances_in_Biological_and_Technological_Research_of_Fresh_Fruit_and_Vegetable",
+    "file": "Recent_Advances_in_Biological_and_Technological_Research_of_Fresh_Fruit_and_Vegetable_2026",
+    "year": 2026,
+    "pages": 226,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-7449-1",
+    "tags": [
+      "果蔬",
+      "采后",
+      "加工技术"
+    ]
+  },
+  {
+    "id": 12847,
+    "url_title": "Recent_Advances_in_Membrane_Filtration_and_Purification_Technologies",
+    "file": "Recent_Advances_in_Membrane_Filtration_and_Purification_Technologies_2026",
+    "year": 2026,
+    "pages": 128,
+    "doi": "10.3390/books978-3-7258-7598-6",
+    "pdf_isbn": "978-3-7258-7598-6",
+    "tags": [
+      "膜分离",
+      "过滤",
+      "纯化"
+    ]
+  },
+  {
+    "id": 12882,
+    "url_title": "Food_Waste_Management_and_Sustainability",
+    "file": "Food_Waste_Management_and_Sustainability_2026",
+    "year": 2026,
+    "pages": 236,
+    "doi": "10.3390/books978-3-7258-7790-4",
+    "pdf_isbn": "978-3-7258-7790-4",
+    "tags": [
+      "食品废弃物",
+      "可持续",
+      "管理"
+    ]
+  },
+  {
+    "id": 12338,
+    "url_title": "Novel_Foods_FoodGrade_Materials_and_Environmentally_Friendly_Compounds_from_Food_Waste",
+    "file": "Novel_Foods_FoodGrade_Materials_and_Environmentally_Friendly_Compounds_from_Food_Waste_2026",
+    "year": 2026,
+    "pages": 274,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-6599-4",
+    "tags": [
+      "食品废弃物",
+      "食品级材料",
+      "增值"
+    ]
+  },
+  {
+    "id": 9497,
+    "url_title": "The_Use_of_Waste_Products_from_the_Food_Industry_to_Obtain_High_ValueAdded_Products",
+    "file": "The_Use_of_Waste_Products_from_the_Food_Industry_to_Obtain_High_ValueAdded_Products_2024",
+    "year": 2024,
+    "pages": 200,
+    "doi": "10.3390/books978-3-7258-1484-8",
+    "pdf_isbn": "978-3-7258-1484-8",
+    "tags": [
+      "食品废弃物",
+      "高值化",
+      "副产物"
+    ]
+  },
+  {
+    "id": 9605,
+    "url_title": "Current_Research_on_Probiotics_and_Fermented_Products",
+    "file": "Current_Research_on_Probiotics_and_Fermented_Products_2024",
+    "year": 2024,
+    "pages": 200,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-1574-6",
+    "tags": [
+      "发酵食品",
+      "益生菌",
+      "功能"
+    ]
+  },
+  {
+    "id": 10315,
+    "url_title": "The_Antioxidant_Potential_of_Fermented_Foods",
+    "file": "The_Antioxidant_Potential_of_Fermented_Foods_2024",
+    "year": 2024,
+    "pages": 232,
+    "doi": null,
+    "pdf_isbn": "978-3-7258-2843-2",
+    "tags": [
+      "发酵食品",
+      "抗氧化",
+      "功能"
+    ]
+  },
+  {
+    "id": 8568,
+    "url_title": "Development_of_Analytical_Methods_in_the_Field_of_Food_Analysis",
+    "file": "Development_of_Analytical_Methods_in_the_Field_of_Food_Analysis_2024",
+    "year": 2024,
+    "pages": 196,
+    "doi": "10.3390/books978-3-0365-9811-6",
+    "pdf_isbn": "978-3-0365-9811-6",
+    "tags": [
+      "食品分析",
+      "分析方法",
+      "检测"
+    ]
+  },
+  {
+    "id": 7305,
+    "url_title": "Functionality_and_Food_Applications_of_Plant_Proteins",
+    "file": "Functionality_and_Food_Applications_of_Plant_Proteins_2020",
+    "year": 2020,
+    "pages": null,
+    "doi": null,
+    "pdf_isbn": null,
+    "tags": [
+      "植物蛋白",
+      "功能特性",
+      "应用"
+    ]
+  },
+  {
+    "id": 5456,
+    "url_title": "Recent_Advances_and_Future_Trends_in_Fermented_and_Functional_Foods",
+    "file": "Recent_Advances_and_Future_Trends_in_Fermented_and_Functional_Foods_2021",
+    "year": 2021,
+    "pages": null,
+    "doi": null,
+    "pdf_isbn": null,
+    "tags": [
+      "发酵食品",
+      "功能食品",
+      "趋势"
+    ]
+  },
+  {
+    "id": 12860,
+    "kind": "topic",
+    "url_title": "Advances_in_Analysis_of_Food_and_Beverages",
+    "file": "Advances_in_Analysis_of_Food_and_Beverages_2025",
+    "year": 2025,
+    "pages": 356,
+    "doi": "10.3390/books978-3-7258-7870-3",
+    "pdf_isbn": "978-3-7258-7870-3",
+    "tags": [
+      "食品饮料",
+      "分析",
+      "检测"
+    ]
+  },
+  {
+    "id": 11239,
+    "kind": "topic",
+    "url_title": "Advances_in_Analysis_of_Flavors_and_Fragrances",
+    "file": "Advances_in_Analysis_of_Flavors_and_Fragrances_2025",
+    "year": 2025,
+    "pages": 604,
+    "doi": "10.3390/books978-3-7258-4500-2",
+    "pdf_isbn": "978-3-7258-4500-2",
+    "tags": [
+      "风味",
+      "香精",
+      "分析"
+    ]
+  }
+]

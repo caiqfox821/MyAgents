@@ -1,0 +1,68 @@
+# Making older persons visible in the sustainable development goals’ monitoring framework and indicators (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/376154
+- 页数: 122
+- 全文: `text/who/Making_older_persons_visible_in_the_sustainable_development_goals_monitoring_framework_and.txt`
+- 标签: 老年营养
+
+## 目录 (Contents)
+
+-            Preface                                                                vi
+-               World Health Organization                                           vi
+-               Ghana Statistical Service                                          vii
+-               United Kingdom Office for National Statistics                      viii
+-            Acknowledgements                                                       ix
+-            Abbreviations                                                           x
+-            Executive summary                                                      xi
+-            1.	What is driving our thinking – commitments to sustainable
+-                development and older persons                                       1
+-               1.1 Introduction                                                     2
+-               1.2 What we are building on                                          6
+-               1.3 Conceptual framework – to make older people visible             12
+-               1.4 Analytical framework                                           24
+-            2.	What we are aiming to do – strengthen the capacity
+-                of national statistical offices to improve data reported
+-                on older persons                                                  30
+-               2.1 Address demand for better data                                 31
+-               2.2 Disaggregate data by 5-year age and sex groups                 34
+-               2.3 Increase strategic investments and learning across countries   36
+-            3. K
+-                ey findings and learning from 20 national statistical
+-               office cases reporting on different SDG indicators                 38
+-               3.1 Data sources                                                   40
+-               3.2 Information management                                         40
+-               3.3 Use of data collected                                          41
+-               3.4 Achievements                                                   42
+-               3.5 Challenges                                                     43
+-               3.6 Areas for further work                                         44
+- Contents                                                                                iii
+-                                      4.	What we are aiming to do – strengthen the capacity
+-                                          of national statistical offices to improve data reported
+-                                          on older persons                                                              48
+-                                      5. D
+-                                          etailed cases on specific SDG indicators from
+-                                         20 nationalstatistical offices                                            51
+-                                           SDG Indicator 1.3.1
+-                                      	Proportion of population covered by social protection floors/systems,
+-                                           by sex, distinguishing children, unemployed persons, older persons,
+-                                           persons with disabilities, pregnant women, newborns, work-injury
+-                                           victims and the poor and the vulnerable (Uganda)                             54
+-                                           SDG Indicator 1.4.1
+-                                      	Proportion of population living in households with access to basic
+-                                           services (Nigeria)                                                           56
+-                                           SDG Indicator 3.4.1
+-                                      	Mortality rate attributed to cardiovascular disease, cancer, diabetes
+-                                           or chronic respiratory disease (Poland)                                      58
+-                                           SDG Indicator 3.4.2
+-                                           Suicide mortality rate (Serbia)                                              60
+-                                           SDG Indicator 3.8.2
+-                                      	Proportion of population with large household expenditures on health
+-                                           as a share of total household expenditure or income (Mauritius)              62
+-                                           SDG Indicator 4.3.1
+-                                      	Participation rate of youth and adults in formal and non-formal
+-                                           education and training in the previous 12 months, by sex (Bulgaria)          64
+-                                           SDG Indicator 4.4.1
+-                                      	Proportion of youth and adults with information and
+-                                           communications technology (ICT) skills, by type of skill (Colombia)          66
+-                                           SDG Indicator 5.2.1

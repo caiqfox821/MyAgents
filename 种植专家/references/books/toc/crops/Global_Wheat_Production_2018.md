@@ -1,0 +1,80 @@
+# Global Wheat Production (2018, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/6776
+- 页数: 254
+- 全文: `text/crops/Global_Wheat_Production_2018.txt`
+- PDF: `crops/Global_Wheat_Production_2018.pdf`
+- 标签: 小麦, 粮食作物, 栽培
+
+## 目录 (Contents)
+
+-                  Preface XI
+-      Chapter 1   Effect of Phosphorus on Root Signaling of Wheat under
+-                  Different Water Regimes 1
+-                  Mukhtar Ahmed, Sehrish Khan, Muhammad Irfan, Muhammad
+-                  Aqeel Aslam, Ghulam Shabbir and Shakeel Ahmad
+-      Chapter 2   Wheat Sensitivity to Nitrogen Supply under Different Climatic
+-                  Conditions 31
+-                  Veres Szilvia, Ondrasek Gabrijel and Zsombik László
+-      Chapter 3   Role of Osmolytes and Antioxidant Enzymes for Drought
+-                  Tolerance in Wheat 51
+-                  Muhammad Javid Iqbal
+-      Chapter 4   Wheat Straw Open Burning: Emissions and Impact on
+-                  Climate Change 67
+-                  Gisela Montero, Marcos A. Coronado, Conrado García, Héctor E.
+-                  Campbell, Daniela G. Montes, Ricardo Torres, Laura Pérez, José A.
+-                  León and José R. Ayala
+-      Chapter 5   Nitrogen Losses: Gaseous and Leached Nitrogen Balance 79
+-                  Arritokieta Ortuzar-Iragorri, Ander Castellón, Gerardo Besga, Ana
+-                  Aizpurua, Teresa Fuertes-Mendizabal and Jose M. Estavillo
+-      Chapter 6   Challenges to Safe Wheat Storage 99
+-                  Shaima Mohamed Nabil Moustafa, Haifa Abdulaziz S. Alhaithloul
+-                  and Hani Mohamed Awad Abdelzaher
+-      Chapter 7   Quality Assessment of Feed Wheat in Ruminant Diets 115
+-                  Wenzhu Yang and Yizhao Shen
+- X   Contents
+-                 Chapter 8   Storage Proteins Accumulation and Aggregation in Developing
+-                             Wheat Grains 133
+-                             Aussenac Thierry and Rhazi Larbi
+-                 Chapter 9   Mutant Resources of Spring Wheat to Improve Grain Quality
+-                             and Morphology 165
+-                             Saule Kenzhebayeva, Gulina Doktyrbay, Fatma Sarsu, Nargul
+-                             Omirbekova, Alfia Abekova and Dauren Tashenev
+-                Chapter 10   Genetic Improvement of Bread Wheat for Stem Rust Resistance
+-                             in the Central Federal Region of Russia: Results and
+-                             Prospects 183
+-                             Inna Lapochkina, Olga Baranova, Nail Gainullin, Michael Kuzmich,
+-                             Svetlana Polyakova, Petr Polityko, Ramin Mamedov and Sergey
+-                             Voronov
+-                Chapter 11   Interrelation of Functional Properties of Protein Products from
+-                             Wheat with the Composition and Physicochemical
+-                             Characteristics of Their Proteins 205
+-                             Valentina V. Kolpakova, Nikolay D. Lukin and Irina S. Gaivoronskaya
+-                Chapter 12   Wheat Straw Pulping for Paper and Paperboard
+-                             Production 223
+-                             Guigan Fang and Kuizhong Shen
+- Preface
+- In the coming years, the agricultural sector will face a challenge to feed an increasingly
+- growing human population while simultaneously facing the need to avoid additional defor‐
+- estation and land degradation. This challenge requires the sustainable intensification of un‐
+- derperforming agricultural systems that can cope with climate change. With a current
+- production of ~ 700 Mt, wheat is the third largest crop globally and an essential source of
+- calories in human diets. Wheat will remain a crucial component of human nutrition, and
+- increasing its production is therefore an important requirement for food security. Global fer‐
+- tilizer and pesticide use has increased significantly during the last decades leading to an in‐
+- crease in wheat yields in many countries. Yet, approximately 70% more wheat could still be
+- produced if the cropland already under cultivation met its current climatic potential, which
+- can mainly be achieved through improved fertilization and irrigation. A large geographic
+- variation in wheat yields across similar climates points to sizeable yield gaps in many na‐
+- tions and indicates a regionally variable flexibility to increase wheat production. Climate
+- change will alter growing conditions and thus impact future wheat production and manage‐
+- ment opportunities for sustainable intensification. Wheat is expected to be especially sensi‐
+- tive to rising temperature since it has been among the crops most affected in an already
+- changing climate. Warming is likely to reduce wheat yields due to a shorter grain filling
+- period caused by a more rapid development. On the other hand, increased growth rates
+- during winter or a shift of the grain filling period into a wetter part of the season may result
+- in rising wheat yields in some regions. In addition, precipitation is expected to become an
+- important driver for crop production in many regions, such as in South and West Asia.
+- The purpose of the book Global Wheat Production is an attempt to present a comprehensive
+- picture of the importance of wheat production globally. The book is designed to cater to the

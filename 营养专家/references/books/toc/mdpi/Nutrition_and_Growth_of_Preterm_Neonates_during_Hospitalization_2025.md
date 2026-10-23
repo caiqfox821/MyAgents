@@ -1,0 +1,80 @@
+# Nutrition and Growth of Preterm Neonates during Hospitalization (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5456-1
+- 页数: 208
+- 全文: `text/mdpi/Nutrition_and_Growth_of_Preterm_Neonates_during_Hospitalization_2025.txt`
+- 标签: 母婴/儿童
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Antonios K. Gounaris and Rozeta Sokou
+- Nutrition and Growth of Preterm Neonates during Hospitalization: Impact on Childhood
+- Outcome
+- Reprinted from: Nutrients 2024, 16, 218, https://doi.org/10.3390/nu16020218 . . . . . . . . . . .              1
+- Margarita Dimitroglou, Rozeta Sokou, Nicoletta Iacovidou, Abraham Pouliakis,
+- Georgios Kafalidis, Theodora Boutsikou and Zoi Iliodromiti
+- Anti-SARS-CoV-2 Immunoglobulins in Human Milk after Coronavirus Disease or
+- Vaccination—Time Frame and Duration of Detection in Human Milk and Factors That
+- Affect Their Titers: A Systematic Review
+- Reprinted from: Nutrients 2023, 15, 1905, https://doi.org/10.3390/nu15081905 . . . . . . . . . .               6
+- Antonios K. Gounaris, Rozeta Sokou, Eleni A. Gounari, Polytimi Panagiotounakou
+- and Ioanna N. Grivea
+- Extrauterine Growth Restriction and Optimal Growth of Very Preterm Neonates: State of the
+- Art
+- Reprinted from: Nutrients 2023, 15, 3231, https://doi.org/10.3390/nu15143231 . . . . . . . . . . 41
+- Ageliki A. Karatza, Despoina Gkentzi and Anastasia Varvarigou
+- Nutrition of Infants with Bronchopulmonary Dysplasia before and after Discharge from the
+- Neonatal Intensive Care Unit
+- Reprinted from: Nutrients 2022, 14, 3311, https://doi.org/10.3390/nu14163311 . . . . . . . . . . 49
+- Chrysoula Kosmeri, Vasileios Giapros, Dimitrios Rallis, Foteini Balomenou,
+- Anastasios Serbis and Maria Baltogianni
+- Classiﬁcation and Special Nutritional Needs of SGA Infants and Neonates of Multiple
+- Pregnancies
+- Reprinted from: Nutrients 2023, 15, 2736, https://doi.org/10.3390/nu15122736 . . . . . . . . . . 60
+- Rozeta Sokou, Stavroula Parastatidou, Zoi Iliodromiti, Katerina Lampropoulou,
+- Dionysios Vrachnis, Theodora Boutsikou,
+- Knowledge Gaps and Current Evidence Regarding Breastfeeding Issues in Mothers with
+- Chronic Diseases
+- Reprinted from: Nutrients 2023, 15, 2822, https://doi.org/10.3390/nu15132822 . . . . . . . . . . 71
+- Despina D. Briana and Ariadne Malamitsi-Puchner
+- An Update on Lung Function of Extremely and Very Preterm Infants in Later Life: The Role of
+- Early Nutritional Interventions
+- Reprinted from: Nutrients 2023, 15, 3353, https://doi.org/10.3390/nu15153353 . . . . . . . . . . 92
+- Rozeta Sokou, Stavroula Parastatidou, Georgios Ioakeimidis, Evangelia-Filothei Tavoulari,
+- Athanasia Makrogianni, Elina Isaakidou, et al.
+- Breastfeeding in Neonates Admitted to an NICU: 18-Month Follow-Up
+- Reprinted from: Nutrients 2022, 14, 3841, https://doi.org/10.3390/nu14183841 . . . . . . . . . . 104
+- Claire L. Wood, Robert Tinnion, Kieren G. Hollingsworth, Michael I. Trenell, Mark S. Pearce,
+- Tim D. Cheetham and Nicholas D. Embleton
+- Muscle Function, Body Composition, Insulin Sensitivity and Physical Activity in Adolescents
+- Born Preterm: Impact of Gestation and Vitamin D Status
+- Reprinted from: Nutrients 2022, 14, 5045, https://doi.org/10.3390/nu14235045 . . . . . . . . . . 119
+-                                                        v
+- Giannoula Gialeli, Anastasia Kapetanaki, Ourania Panagopoulou, Panagiota Vourna,
+- Athanasios Michos, Christina Kanaka-Gantenbein, et al.
+- Supplementation of Mother’s Own Milk with Preterm Donor Human Milk: Impact on Protein
+- Intake and Growth in Very Low Birth Weight Infants—A Randomized Controlled Study
+- Reprinted from: Nutrients 2023, 15, 566, https://doi.org/10.3390/nu15030566 . . . . . . . . . . . 131
+- Joanna Seliga-Siwecka, Justyna Fiałkowska and Anna Chmielewska
+- Effect of Targeted vs. Standard Fortiﬁcation of Breast Milk on Growth and Development of
+- Preterm Infants (≤32 Weeks): Results from an Interrupted Randomized Controlled Trial
+- Reprinted from: Nutrients 2023, 15, 619, https://doi.org/10.3390/nu15030619 . . . . . . . . . . . 143
+- Yung-Chieh Lin, Chi-Hsiang Chu, Yen-Ju Chen, Ray-Bing Chen and Chao-Ching Huang
+- Early-Life Slow Enteral Feeding Progression Pattern Is Associated with Longitudinal Head-Size
+- Growth Faltering and Neurodevelopmental Impairment Outcomes in Extremely Preterm
+- Infants
+- Reprinted from: Nutrients 2023, 15, 1277, https://doi.org/10.3390/nu15051277 . . . . . . . . . . 158
+- Corinna Peter, Abdulmonem Abukhris, Julia Brendel, Carolin Böhne, Bettina Bohnhorst
+- and Sabine Pirr
+- Growth and Duration of Inﬂammation Determine Short- and Long-Term Outcome in
+- Very-Low-Birth-Weight Infants Requiring Abdominal Surgery
+- Reprinted from: Nutrients 2023, 15, 1668, https://doi.org/10.3390/nu15071668 . . . . . . . . . . 171
+- Ioanna Kakatsaki, Styliani Papanikolaou, Theano Roumeliotaki,
+- Nicolina Hilda Anagnostatou, Ioanna Lygerou and Eleftheria Hatzidaki
+- The Prevalence of Small for Gestational Age and Extrauterine Growth Restriction among
+- Extremely and Very Preterm Neonates, Using Different Growth Curves, and Its Association
+- with Clinical and Nutritional Factors
+- Reprinted from: Nutrients 2023, 15, 3290, https://doi.org/10.3390/nu15153290 . . . . . . . . . . 183
+-                                                  vi

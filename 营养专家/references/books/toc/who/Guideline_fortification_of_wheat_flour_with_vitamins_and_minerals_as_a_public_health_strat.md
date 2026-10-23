@@ -1,0 +1,80 @@
+# Guideline: fortification of wheat flour with vitamins and minerals as a public health strategy (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/354783
+- 页数: 74
+- 全文: `text/who/Guideline_fortification_of_wheat_flour_with_vitamins_and_minerals_as_a_public_health_strat.txt`
+- 标签: 维生素, 食品强化
+
+## 目录 (Contents)
+
+-    Acknowledgements                                                                                  v
+-    Financial support                                                                                 v
+-    Executive summary                                                                                 1
+-            Purpose of the guideline                                                                  1
+-            Guideline development methodology                                                         2
+-            Summary of the evidence                                                                   3
+-            Recommendations                                                                           4
+-            Key remarks                                                                               4
+-            Evidence gaps                                                                             7
+-            Plans for updating the guideline                                                          7
+-    Scope and purpose                                                                                 8
+-    Background                                                                                        8
+-    Objectives                                                                                       12
+-    Summary of the evidence                                                                          13
+-            Wheat flour fortification and population micronutrient status and health-related outcomes 13
+-    Recommendations                                                                                  17
+-    Remarks                                                                                          17
+-    Summary of the considerations for determining the direction and strength of the                  20
+-    recommendations
+-    Evidence gaps                                                                                    21
+-    Dissemination, implementation and ethical considerations                                         22
+-            Dissemination                                                                            22
+-            Equity, human rights and implementation considerations                                   23
+-            Regulatory considerations                                                                25
+-            Ethical considerations                                                                   26
+-    Monitoring and evaluation of guideline implementation                                            27
+-    Guideline development process                                                                    28
+-            Scope of the guideline, evidence appraisal and decision-making                           29
+-            Management of competing interests                                                        31
+-    Plans for updating the guideline                                                                 32
+-    References                                                                                       33
+-                                                                                                           iii
+-      Annex 1.       GRADE summary of findings tables                                                  38
+-      Annex 2.       Questions in population, intervention, control, outcomes (PICO) format            49
+-      Annex 3.       Summary of the considerations of the members of the guideline development 54
+-                     group – nutrition actions 2013–2014 for determining the strength of the
+-                     recommendations
+-      Annex 4.       Logic model for fortification of maize flour and corn meal with vitamins and      56
+-                     minerals in public health
+-      Annex 5.       WHO steering committee for food fortification                                     57
+-      Annex 6.       WHO guideline development groups                                                  58
+-                     A. Guideline development group – micronutrients 2010–2011                         58
+-                     B. WHO guideline development group – nutrition actions 2013–2014                  59
+-                        (attended the 2020 meeting)
+-      Annex 7.       Systematic reviews teams                                                          61
+-      Annex 8.       Peer-reviewers                                                                    62
+-      Annex 9.       WHO Secretariat                                                                   63
+-                    WHO regional offices                                                               63
+- iv   GUIDELINE: FORTIFICATION OF WHEAT FLOUR WITH VITAMINS AND MINERALS AS A PUBLIC HEALTH STRATEGY
+- ACKNOWLEDGEMENTS
+-        This guideline was coordinated by the Department of Nutrition and Food Safety of the World Health
+-        Organization (WHO). Dr Maria Nieves Garcia-Casal oversaw the preparation of this document with
+-        technical contributions from the following individuals (in alphabetical order): Mr Filiberto Beltran,
+-        Dr Juan Pablo Peña-Rosas and Dr Lisa Rogers.
+-             We would like to express our gratitude to Dr Susan Norris, Ms Marion Blacker and Ms Rebekah
+-        Thomas from the WHO Guidelines Review Committee Secretariat, and members of the Guidelines
+-        Review Committee for their technical support throughout the process. Thanks are also due to Ms
+-        Alma Alic from the Department of Compliance and Risk Management and Ethics for her support in
+-        the management of conflicts-of-interest procedures.
+-              Special thanks are extended to the authors of the systematic reviews, and authors of other
+-        commissioned literature reviews that were used to inform this guideline, for their assistance and
+-        collaboration in preparing or updating these reviews. We appreciate the feedback provided by a
+-        large number of international stakeholders during the guideline development process.
+-              WHO gratefully acknowledges the technical input of the members of the two WHO guideline
+-        development groups involved in this process, especially the chair and co-chairs of the two meetings,
+-        Dr Janet King (2010) and Ms Rusidah Selamat and Dr Rebecca Joyce Stoltzfus (2014). We thank the
+-        peer-reviewers Dr Omar Dary, Ms Monica Guamuch, Dr Becky Tsang and Dr Rizwan Yusufali for their
+-        thoughtful feedback on a preliminary version of this guideline. WHO is also grateful to the staff
+-        of the Cochrane Public Health Group for their support in developing and updating the Cochrane
+-        systematic review used to inform this guideline.

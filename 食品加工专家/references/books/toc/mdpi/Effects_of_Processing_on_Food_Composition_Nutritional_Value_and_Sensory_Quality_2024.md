@@ -1,0 +1,81 @@
+# Effects of Processing on Food Composition Nutritional Value and Sensory Quality (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-9952-6
+- 页数: 184
+- 全文: `text/mdpi/Effects_of_Processing_on_Food_Composition_Nutritional_Value_and_Sensory_Quality_2024.txt`
+- PDF: `mdpi/Effects_of_Processing_on_Food_Composition_Nutritional_Value_and_Sensory_Quality_2024.pdf`
+- 标签: 加工影响, 营养成分, 感官品质
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Mirabela Ioana Lupu, Cristina Maria Canja, Vasile Padureanu, Adriana Boieriu, Alina Maier,
+- Carmen Badarau, et al.
+- Insights on the Potential of Carob Powder (Ceratonia siliqua L.) to Improve the
+- Physico-Chemical, Biochemical and Nutritional Properties of Wheat Durum Pasta
+- Reprinted from: Appl. Sci. 2023, 13, , doi:10.3390/app13063788 . . . . . . . . . . . . . . . . . . . .
+- 1
+- Liene Jansone, Zanda Kruma, Kristine Majore and Solvita Kampuse
+- Dehydrated Sauerkraut Juice in Bread and Meat Applications and Bioaccessibility of Total
+- Phenol Compounds after In Vitro Gastrointestinal Digestion
+- Reprinted from: Appl. Sci. 2023, 13, 3358, doi:10.3390/app13053358 . . . . . . . . . . . . . . . . . 15
+- Alexandra Mădălina Mateescu, Andrut, a Elena Mures, an, Andreea Pus, cas, , Vlad Mures, an,
+- Radu E. Sestras and Sevastit, a Muste
+- Baby Food Purees Obtained from Ten Different Apple Cultivars and Vegetable Mixtures:
+- Product Development and Quality Control
+- Reprinted from: Appl. Sci. 2022, 12, 12462, doi:10.3390/app122312462 . . . . . . . . . . . . . . . . 31
+- Łukasz Łopusiewicz, Izabela Dmytrów, Anna Mituniewicz-Małek, Paweł Kwiatkowski,
+- Edward Kowalczyk, Monika Sienkiewicz and Emilia Drozłowska
+- Natural Gum from Flaxseed By-Product as a Potential Stabilizing and Thickening Agent for
+- Acid Whey
+- Fermented Beverages
+- Reprinted from: Appl. Sci. 2022, 12, 10281, doi:10.3390/app122010281 . . . . . . . . . . . . . . . . 45
+- Monika Trzaskowska, Katarzyna Neffe-Skocińska, Anna Okoń, Dorota Zielińska,
+- Aleksandra Szydłowska, Anna Łepecka and Danuta Kołożyn-Krajewska
+- Safety Assessment of Organic High-Protein Bars during Storage at Ambient and Refrigerated
+- Temperatures
+- Reprinted from: Appl. Sci. 2022, 12, 8454, doi:10.3390/app12178454 . . . . . . . . . . . . . . . . . 63
+- Elżbieta Bogusławska-Was, Alicja Dłubała, Wojciech Sawicki, Małgorzata Ożgo and Adam
+- Lepczyński
+- The Effect of Cold Plasma on Selected Parameters of Bovine Colostrum
+- Reprinted from: Appl. Sci. 2023, 13, 5490, doi:10.3390/app13095490 . . . . . . . . . . . . . . . . . 77
+- Magdalena Ordon, Weronika Burdajewicz, Józef Sternal, Marcin Okreglicki and Małgorzata
+- Mizielińska
+- The Antibacterial Effect of the Films Coated with the Layers Based on Uncaria tomentosa and
+- Formitopsis betulina Extracts and ZnO Nanoparticles and Their Inﬂuence on the Secondary
+- Shelf-Life of Sliced Cooked Ham
+- Reprinted from: Appl. Sci. 2023, 13, 8853, doi:10.3390/app13158853 . . . . . . . . . . . . . . . . . 93
+- Katarzyna Kajak-Siemaszko, Dorota Zielińska, Anna Łepecka, Danuta Jaworska, Anna
+- Okoń, Katarzyna Neffe-Skocińska, et al.
+- Effect of Lactic Acid Bacteria on Nutritional and Sensory Quality of Goat Organic Acid-Rennet
+- Cheeses
+- Reprinted from: Appl. Sci. 2022, 12, 8855, doi:10.3390/app12178855 . . . . . . . . . . . . . . . . . 117
+- v
+- Mariusz Szymczak, Patryk Kamiński, Marta Turło, Justyna Bucholska, Damir Mogut, Piotr
+- Minkiewicz, et al.
+- Effect of Marinating Temperature of Atlantic Herring on Meat Ripening, Peptide Fractions
+- Proportion, and Antioxidant Activity of Meat and Brine
+- Reprinted from: Appl. Sci. 2023, 13, 7225, doi:10.3390/app13127225 . . . . . . . . . . . . . . . . . 139
+- Patryk Kamiński, Mariusz Szymczak and Barbara Szymczak
+- Effects of Primary Processing and Pre-Salting of Baltic Herring on Contribution of Digestive
+- Proteases in Marinating Process
+- Reprinted from: Appl. Sci. 2022, 12, 10877, doi:10.3390/app122110877 . . . . . . . . . . . . . . . . 157
+- vi
+- About the Editors
+- Mariusz Szymczak
+- Mariusz Szymczak is an Associate Professor at the Faculty of Food Sciences and Fisheries at
+- the West Pomeranian University of Technology in Szczecin, Poland. He graduated with a Ph.D.
+- in Food Science and Technology in 2004. He has 20 years of experience as a researcher in ﬁsh
+- technology, especially focusing on raw materials with high protein contents. He collaborates with
+- many industrial partners from the ﬁsh industry in the following R&D areas: fresh and frozen ﬁsh,
+- salting, marinating, smoking, and surimi. In this research area, he has several patents and signiﬁcant
+- know-how, which are implemented in the industry. He is a board member of a number of journals
+- and a reviewer for different papers in food science, biotechnology, and enzymes.
+- Joanna Traﬁalek
+- Joanna Traﬁalek is a food technologist and a professor at the University of Life Sciences in
+- Warsaw. She has also been working as the head of postgraduate studies in the “Food Safety and
+- Food Quality Management Systems” program. Her main research topic is food safety. She has
+- developed effective tools which allow for the precise assessment of food safety in practice. Prof.
+- Joanna Traﬁałek is a co-author of numerous publications published in internationally recognized
+- journals and a co-author of several chapters in books connected with gastronomy, food hygiene,

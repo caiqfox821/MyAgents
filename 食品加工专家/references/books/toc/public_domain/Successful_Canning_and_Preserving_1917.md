@@ -1,0 +1,61 @@
+# Successful Canning and Preserving (1917, Archive.org)
+
+- 作者: Ola Powell
+- 许可: Public Domain
+- 来源: https://archive.org/details/successfulcannin00powe
+- 页数: 412
+- 全文: `text/public_domain/Successful_Canning_and_Preserving_1917.txt`
+- PDF: `public_domain/Successful_Canning_and_Preserving_1917.pdf`
+- 标签: 保藏, 罐藏, 历史经典
+
+## 目录 (Contents)
+
+- MUTER
+- I.
+- II.
+- PAG]
+- HISTORY OF THE DEVELOPMENT OF SCIENTIFIC CANNING
+- BACTERIOLOGY AS APPLIED TO CANNING..
+- I
+- \r,
+- PREPARATION AND EQUIPMENT
+- IV. CANNING IN TIN
+- III.
+- V.
+- CANNING
+- IN
+- :;r,
+- .v.i
+- GLASS
+- 71
+- HOT-WATER BATH
+- PROCESSING AT HIGH TEMPERATURE
+- VI. PROCESSING
+- VII.
+- VIII. FRUIT JUICES.
+- 77
+- s7
+- !:;
+- .
+- IX. FRUITS FOR CANNING
+- .
+- X. VEGETABLES FOR CANNING
+- .
+- .
+- .
+- XI. PRESERVES
+- i:W
+- 1
+- XII. MARMALADES, JAMS AND CONSERVES
+- XIII. JELLY
+- 124
+- I
+- ->
+- Ki.'j
+- MAKING
+- 174
+- XIV. PICKLING
+- XV. DRYING
+- FRUITS, VEGETABLES AND
+- HERBS
+- XVI. PRESERVATION OF MEATS

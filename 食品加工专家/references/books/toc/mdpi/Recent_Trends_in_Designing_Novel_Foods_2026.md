@@ -1,0 +1,81 @@
+# Recent Trends in Designing Novel Foods (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 208
+- 全文: `text/mdpi/Recent_Trends_in_Designing_Novel_Foods_2026.txt`
+- PDF: `mdpi/Recent_Trends_in_Designing_Novel_Foods_2026.pdf`
+- 标签: 新型食品, 设计, 趋势
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Raquel P. F. Guiné, Maria João Barroca and Ofélia Anjos
+- Recent Trends in Designing Novel Foods: Nutritional Proﬁles and Consumer Perceptions
+- Reprinted from: Foods 2026, 15, 795, https://doi.org/10.3390/foods15050795 . . . . . . . . . . .
+- 1
+- Nina G. Kon’kova, Valentina I. Khoreva, Vitaliy S. Popov, Tamara V. Yakusheva,
+- Ilya A. Kibkalo, Leonid L. Malyshev, et al.
+- Technological Assessment of Bread with the Addition of Cyperus esculentus L. Accessions Flour
+- Grown in the Kuban–Azov Plain
+- Reprinted from: Foods 2025, 14, 3680, https://doi.org/10.3390/foods14213680 . . . . . . . . . . .
+- 6
+- Hassan Barakat, Hani A. Alfheeaid, Thamer Aljutaily, Raed Alayouni, Hend F. Alharbi and
+- Woroud A. Alsanei
+- Elucidating the Nutritional Proﬁle and Biochemical Characterization of High-Energy
+- Nutritional Bar Formulated with Sukkari Date Paste and Mixed Nuts
+- Reprinted from: Foods 2025, 14, 3661, https://doi.org/10.3390/foods14213661 . . . . . . . . . . . 36
+- Daniela Magalhães, Cristina V. Rodrigues, Carmen Botella-Martinez, Nuria Muñoz-Tebar,
+- José Angel Pérez-Álvarez, Manuel Viuda-Martos, et al.
+- Lemon Dietary Fibre-Based Powder as a Promising Ingredient for the Food Industry: Enhancing
+- Mortadella Nutritional Quality
+- Reprinted from: Foods 2025, 14, 1693, https://doi.org/10.3390/foods14101693 . . . . . . . . . . . 59
+- Rocio Lopez-Navarro, Luis Montero-Vicente, Carmen Escriba-Perez and
+- Juan M. Buitrago-Vera
+- Implicit and Explicit Consumer Perceptions of Cashews: A Neuroscientiﬁc and Sensory
+- Analysis Approach
+- Reprinted from: Foods 2025, 14, 1213, https://doi.org/10.3390/foods14071213 . . . . . . . . . . . 88
+- Natália L. Seixas, Vanessa B. Paula, Teresa Dias, Luís G. Dias and Letícia M. Estevinho
+- The Effect of Incorporating Fermented Elderberries (Sambucus nigra) into Bread: Quality, Shelf
+- Life, and Biological Enhancement
+- Reprinted from: Foods 2025, 14, 724, https://doi.org/10.3390/foods14050724 . . . . . . . . . . . 107
+- Pedro Coelho, Carmo Serrano, Norton Komora and Anabela Raymundo
+- From a Coriander Mayonnaise to a Vegan Analogue: Assessing pH and Salt Inﬂuence in a
+- Saccharomyces cerevisiae Yeast Protein Extract and Chlorella vulgaris Mixed System
+- Reprinted from: Foods 2025, 14, 587, https://doi.org/10.3390/foods14040587 . . . . . . . . . . . 122
+- Alessandro Bianchi, Sonia Capparelli, Isabella Taglieri, Chiara Sanmartin, Laura Pistelli and
+- Francesca Venturi
+- Salty Biscuits Enriched with Fresh and Dried Bee Pollen: Chemical, Technological, and Sensory
+- Characterization
+- Reprinted from: Foods 2025, 14, 527, https://doi.org/10.3390/foods14030527 . . . . . . . . . . . 143
+- Marcelina Maciejewska, Anna Dabrowska
+- ˛
+- and Marina Cano-Lamadrid
+- Sustainable Protein Sources: Functional Analysis of Tenebrio molitor Hydrolysates and Attitudes
+- of Consumers in Poland and Spain Toward Insect-Based Foods
+- Reprinted from: Foods 2025, 14, 333, https://doi.org/10.3390/foods14020333 . . . . . . . . . . . 159
+- v
+- Hassan Muzaffar, Muhammad Jehangir, Jiayue Hu, Yiyang Yu, Mingzhou Yu and
+- Yonghong Hu
+- Therapeutic Potential of White Kidney Beans (Phaseolus vulgaris) for Weight Management
+- Reprinted from: Foods 2025, 14, 3940, https://doi.org/10.3390/foods14223940 . . . . . . . . . . . 172
+- vi
+- About the Editors
+- Raquel P. F. Guiné
+- Raquel P. F. Guiné is a Full Professor in the Food Industry Department at Polytechnic University
+- of Viseu. She has a PhD in Chemical Engineering, a Specialization in Food Engineering, and a
+- Habilitation in Food Science. Has been president of the scientiﬁc board, president of the board of
+- representatives, director of the department, and director of bachelor’s and master courses. Has been
+- coordinator of the CERNAS-IPV research unit and co-coordinator of CI&DETS research centre. The
+- scientiﬁc areas of interest include food science, food engineering, food processing, food chemistry,
+- nutrition, diets and food consumption. Global project coordinator of international projects like the
+- EATMOT (involving 18 countries, EISuFood (involving 18 countries), and Food-WISE (involving 17
+- countries). Participation in the organization of 32 events/conferences and member of the Scientiﬁc
+- Committee of 66 congresses/Meetings. Authorship of 27 books, 119 chapters, 413 scientiﬁc articles
+- and 398 conference proceedings/abstracts. Communications at scientiﬁc and knowledge transfer
+- meetings: 41 lectures/plenaries/Keynotes by invitation, 259 oral presentations and 215 posters.
+- Ofélia Anjos
+- Ofélia Anjos is a Full Professor in Food Science and Technology at the Agrarian School of the
+- Polytechnic University of Castelo Branco. She was also a teacher collaborator at UBI University and
+- Aberta University. Ofélia Anjos has a PhD in Materials Science and a Habilitation in Ciências Agrárias
+- e Florestais, with a speciﬁcation in food science. She has been involved in many organisational

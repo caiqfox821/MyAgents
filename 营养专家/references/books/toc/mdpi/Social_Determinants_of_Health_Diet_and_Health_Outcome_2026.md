@@ -1,0 +1,79 @@
+# Social Determinants of Health, Diet, and Health Outcome (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5890-3
+- 页数: 180
+- 全文: `text/mdpi/Social_Determinants_of_Health_Diet_and_Health_Outcome_2026.txt`
+- 标签: 膳食模式/摄入, 公共卫生/行为
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Li Jiao
+- Social Determinants of Health, Diet, and Health Outcome
+- Reprinted from: Nutrients 2024, 16, 3642, https://doi.org/10.3390/nu16213642 . . . . . . . . . .                  1
+- Francesca Coppi, Valentina Bucciarelli, Kateryna Solodka, Valentina Selleri, Giada Zanini,
+- Marcello Pinti, et al.
+- The Impact of Stress and Social Determinants on Diet in Cardiovascular Prevention in Young
+- Women
+- Reprinted from: Nutrients 2024, 16, 1044, https://doi.org/10.3390/nu16071044 . . . . . . . . . .                  6
+- Jayna M. Dave, Tzuan A. Chen, Alexandra N. Castro, Mamie White, Elizabeth A. Onugha,
+- Sloane Zimmerman and Debbe Thompson
+- Regional Variability in the Prevalence of Food Insecurity and Diet Quality among United States
+- Children
+- Reprinted from: Nutrients 2024, 16, 224, https://doi.org/10.3390/nu16020224 . . . . . . . . . . . 21
+- Ibrahim M. Gosadi
+- Assessment of School Contributions to Healthy Eating, Physical Activity Education, and Support
+- for Weight-Loss Attempts among Adolescents from Jazan, Saudi Arabia
+- Reprinted from: Nutrients 2023, 15, 4688, https://doi.org/10.3390/nu15214688 . . . . . . . . . . 33
+- Aleksandra Małachowska and Marzena Jeżewska-Zychowicz
+- Retrospective Reports of Parental Feeding Practices and Current Eating Styles in Polish Adults
+- Reprinted from: Nutrients 2023, 15, 4217, https://doi.org/10.3390/nu15194217 . . . . . . . . . . 45
+- Aristea Gioxari, Charalampia Amerikanou, Sevasti Peraki, Andriana C. Kaliora and Maria
+- Skouroliakou
+- Eating Behavior and Factors of Metabolic Health in Primary Schoolchildren: A Cross-Sectional
+- Study in Greek Children
+- Reprinted from: Nutrients 2023, 15, 3592, https://doi.org/10.3390/nu15163592 . . . . . . . . . . 56
+- Rosa Campos-Guerrero, Xiomara Genoveva Diaz-Molina, Rodrigo Vargas-Fernández and
+- Diego Azañedo
+- Women’s Autonomy and Anemia in Children under Five Years of Age: A Peruvian Population-
+- Based Survey
+- Reprinted from: Nutrients 2023, 15, 3436, https://doi.org/10.3390/nu15153436 . . . . . . . . . . 72
+- Oluwaﬁkayo S. Adeyemi-Benson, Alexandra M. Roehll, Edson Flores and Chelsea R.
+- Singleton
+- Differences in Nutrient Intake and Diet Quality among Non-Hispanic Black Adults by Place of
+- Birth and Length of Time in the United States
+- Reprinted from: Nutrients 2023, 15, 3644, https://doi.org/10.3390/nu15163644 . . . . . . . . . . 85
+- Elias M. A. Militao, Olalekan A. Uthman, Elsa M. Salvador, Stig Vinberg and Gloria Macassa
+- Food Insecurity and Associated Factors among Households in Maputo City
+- Reprinted from: Nutrients 2023, 15, 2372, https://doi.org/10.3390/nu15102372 . . . . . . . . . . 97
+- Ede Surya Darmawan, Dian Kusuma, Vetty Yulianty Permanasari, Vilda Amir, Dwi Hapsari
+- Tjandrarini and Ika Dharmayanti
+- Beyond the Plate: Uncovering Inequalities in Fruit and Vegetable Intake across Indonesian
+- Districts
+- Reprinted from: Nutrients 2023, 15, 2160, https://doi.org/10.3390/nu15092160 . . . . . . . . . . 109
+-                                                          v
+- Akram Hernández-Vásquez, Alicia Bartra Reátegui, Keller Sánchez-Dávila and Rodrigo
+- Vargas-Fernández
+- Association between Disability and Unmet Food Needs in the Venezuelan Migrant and Refugee
+- Population: Analysis of a Population-Based Survey, 2022
+- Reprinted from: Nutrients 2023, 15, 1663, https://doi.org/10.3390/nu15071663 . . . . . . . . . . 122
+- Tomoya Takiguchi, Muneko Nishijo, Noriko Kaneko, Katsushi Yoshita, Yusuke Arai, Noboru
+- Demura and Yoshikazu Nishino
+- Foods and Nutrients at Risk for Insufﬁcient Intake by Community-Dwelling Healthy Older
+- Women Eating Alone and Together in Japan—A Preliminary Finding
+- Reprinted from: Nutrients 2023, 15, 2391, https://doi.org/10.3390/nu15102391 . . . . . . . . . . 133
+- Tegan Mansouri, George Ghanatios, Lori Hatzinger, Rachel Barich, Ebriama Dampha, Jennifer
+- L. Temple, et al.
+- Eating Patterns among Emergency Medical Service Providers in the United States: A Qualitative
+- Interview Study
+- Reprinted from: Nutrients 2022, 14, 4884, https://doi.org/10.3390/nu14224884 . . . . . . . . . . 146
+- Guillermo Paraje, Daniela Montes de Oca, Camila Corvalán and Barry Popkin
+- Socioeconomic Patterns in Budget Share Allocations of Regulated Foods and Beverages in Chile:
+- A Longitudinal Analysis
+- Reprinted from: Nutrients 2023, 15, 679, https://doi.org/10.3390/nu15030679 . . . . . . . . . . . 156
+-                                                  vi
+- About the Editor
+- Li Jiao
+-      Li Jiao is a tenured Associate Professor of Medicine at the Baylor College of Medicine, Houston, TX.

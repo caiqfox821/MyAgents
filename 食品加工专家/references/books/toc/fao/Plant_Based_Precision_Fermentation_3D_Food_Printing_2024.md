@@ -1,0 +1,81 @@
+# Plant-based food products, precision fermentation and 3D food printing (2024, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/cd2430en/cd2430en.pdf
+- 页数: 120
+- 全文: `text/fao/Plant_Based_Precision_Fermentation_3D_Food_Printing_2024.txt`
+- PDF: `fao/Plant_Based_Precision_Fermentation_3D_Food_Printing_2024.pdf`
+- 标签: 新兴技术, 3D食品打印, 植物基
+
+## 目录 (Contents)
+
+- Acknowledgements
+- Abbreviations
+- Executive summary
+- 1. Introduction
+- 1.1. Background
+- 1.2. Scope of the Food Safety Foresight Technical Meeting
+- vi
+- vii
+- viii
+- 1
+- 3
+- 5
+- 2. Plant-based food products (that mimic animal-derived foods)
+- 2.1. Background
+- 		 2.1.1. Market share and growth estimates
+- 		 2.1.2. Typical ingredients and production steps
+- 		 2.1.3. Environmental aspects
+- 		 2.1.4. Nutritional aspects
+- 2.2. Current knowledge of food safety implications
+- 2.3. Regulatory frameworks
+- 2.4. Future directions and developments
+- 7
+- 9
+- 9
+- 9
+- 15
+- 16
+- 19
+- 27
+- 29
+- 3. Precision fermentation
+- 3.1. Background
+- 		 3.1.1. Market share and growth estimates
+- 		 3.1.2. Typical production steps
+- 		 3.1.3. Environmental aspects
+- 		 3.1.4. Nutritional aspects
+- 3.2. Current knowledge of food safety implications
+- 3.3. Regulatory frameworks
+- 3.4. Future directions and developments
+- 33
+- 35
+- 37
+- 37
+- 38
+- 38
+- 39
+- 43
+- 45
+- iii
+- 4. 3D food printing
+- 4.1. Background
+- 		 4.1.1. Market share and growth estimates
+- 		 4.1.2. Typical printing process
+- 		 4.1.3. Environmental aspects
+- 		 4.1.4. Nutritional aspects
+- 4.2. Current knowledge of food safety implications
+- 4.3. Regulatory frameworks
+- 4.4. Future directions and developments
+- 5. Consumer perceptions of new food sources and
+- production systems
+- 5.1. Drivers of consumer perceptions
+- 5.2. Food safety as a prerequisite for regulatory approval
+- and consumer acceptance
+- 5.3. Consumer perceptions linked to the three focus areas
+- of the meeting
+- 6. Conclusions and way forward
+- References
+- Annex: List of participants
+- iv
+- 49

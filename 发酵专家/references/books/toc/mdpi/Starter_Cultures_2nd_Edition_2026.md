@@ -1,0 +1,71 @@
+# Development and Application of Starter Cultures, 2nd Edition (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-8454-4
+- 页数: 162
+- 全文: `text/mdpi/Starter_Cultures_2nd_Edition_2026.txt`
+- PDF: `mdpi/Starter_Cultures_2nd_Edition_2026.pdf`
+- 标签: 发酵剂, 菌种, 食品发酵
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Roberta Comunian and Luigi Chessa
+- Development and Application of Starter Cultures, 2nd Edition
+- Reprinted from: Fermentation 2026, 12, 251, https://doi.org/10.3390/fermentation12060251 . . .                    1
+- Lydie Besançon, Da Lorn, Christelle Kouamé, Joël Grabulos, Marc Lebrun, Angélique Fontana,
+- et al.
+- Inﬂuence of Yeast Interactions on the Fermentation Process and Aroma Production in Synthetic
+- Cocoa Pulp vs. Real Mucilage Media
+- Reprinted from: Fermentation 2024, 10, 662, https://doi.org/10.3390/fermentation10120662 . . .                    5
+- Mükerrem Kaya, Bilge Sayın, Kübra Çinar Topçu and Güzin Kaban
+- Effects of Autochthonous Starter Cultures on the Quality Characteristics of Traditionally Produced
+- Sucuk
+- Reprinted from: Fermentation 2025, 11, 672, https://doi.org/10.3390/fermentation11120672 . . . 28
+- Luigi Chessa, Antonio Paba, Ilaria Dupré, Margherita Addis, Carlo Piga, Massimo Pes and
+- Roberta Comunian
+- From Raw Milk Microbiome to Cheese: The Challenge of Indigenous Natural Starter Culture
+- Exploitation
+- Reprinted from: Fermentation 2025, 11, 660, https://doi.org/10.3390/fermentation11120660 . . . 46
+- Liang Zhao, Fangfang Li, Hao Xiao, Tengfei Zhao, Yanxia Zhong, Zhihui Hu, et al.
+- Green Tea Modulates Temporal Dynamics and Environmental Adaptation of Microbial Communities
+- in Daqu Fermentation
+- Reprinted from: Fermentation 2025, 11, 511, https://doi.org/10.3390/fermentation11090511 . . . 71
+- Liang Zhao, Jialin Liu, Liang Zhang, Zhenbiao Luo, Qulai Tang, Jingjing Zhao, et al.
+- Effects of Kuding Tea on the Succession and Assembly of the Fungal Community During Fermentation
+- of Daqu
+- Reprinted from: Fermentation 2026, 12, 136, https://doi.org/10.3390/fermentation12030136 . . . 90
+- Marilisa Giavalisco, Emanuela Lavanga, Annamaria Ricciardi and Teresa Zotta
+- Starter Cultures for the Production of Fermented Table Olives: Current Status and Future Perspectives
+- Reprinted from: Fermentation 2024, 10, 351, https://doi.org/10.3390/fermentation10070351 . . . 108
+- Naganori Ohisa, Kazuto Endo and Toshikazu Komoda
+- Preparing Sponge Dough for Making Bread Using Wheat Flour Cultured in 5% Saline
+- Reprinted from: Fermentation 2025, 11, 206, https://doi.org/10.3390/fermentation11040206 . . . 126
+- Jessica Rodrı́guez, Domenica Villavicencio, Alys Raza, Fernanda Hernández-Alomı́a,
+- Carlos Bastidas-Caldes and Marı́a Alejandra Cruz
+- Low-Cost Production Process of Saccharomyces cerevisiae Yeast for Craft Beer Fermentation
+- Reprinted from: Fermentation 2025, 11, 688, https://doi.org/10.3390/fermentation11120688 . . . 133
+-                                                          v
+- About the Editors
+- Roberta Comunian
+-      Roberta Comunian, Director of the Research Department on Animal Origin at Agris Sardegna, the
+- Agricultural Research Agency of Sardinia, Italy, holds a Master’s degree in Biological Sciences and a
+- Ph.D. in Production and Safety of Food of Animal Origin from the Department of Veterinary Medicine.
+- With over 27 years of experience in food microbiology, she has led, as a researcher, the Microbiology
+- Unit at Agris Sardegna since 2007 and has served as Director since 2025. Her expertise includes
+- phenotypic and genotypic identiﬁcation, as well as the technological and safety characterization of
+- microbial strains and communities of agri-food interest. She oversees the Agris-BNSS microbial culture
+- collection, focusing on the long-term preservation of microbial communities crucial to the quality
+- and safety of traditional fermented food products. In her leadership role, she coordinates research
+- projects, actively contributes to the scientiﬁc literature, and shares her ﬁndings through conferences
+- and seminars. She collaborates with the School of Specialization in Inspection of Food of Animal
+- Origin of the Veterinary Medicine Department, University of Sassari, teaching dairy microbiology. She
+- is a member of the Scientiﬁc Technical Committee of the Italian Ministry of Agriculture, contributes to
+- the National Plan on Biodiversity of Agricultural Relevance, serves as one of the Italian experts in the
+- Standing Committee on Methods for Dairy Microorganisms of the International Dairy Federation, and
+- sits on the Scientiﬁc Committee of MIRRI.it, the Italian Network of Microbial Culture Collections.
+- Luigi Chessa
+-      Luigi Chessa is a researcher at the Microbiology Unit of Agris Sardegna, the Agricultural
+- Research Agency of Sardinia, Italy, where his work focuses on the microbial systems relevant to
+- food fermentation and quality. He holds a Master’s degree in Agricultural and Environmental

@@ -1,0 +1,80 @@
+# Advancement in Propagation, Breeding, Cultivation and Marketing of Ornamentals (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/9896
+- 页数: 366
+- 全文: `text/mdpi/Advancement_in_Propagation_Breeding_Cultivation_and_Marketing_of_Ornamentals_2024.txt`
+- 标签: 繁殖, 栽培, 花卉
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Margherita Beruto, Emmy Dhooghe and Bruce Dunn
+- Advancement in Propagation, Breeding, Cultivation, and Marketing of Ornamentals
+- Reprinted from: Horticulturae 2024, 10, 747, doi:10.3390/horticulturae10070747 . . . . . . . . . .             1
+- Jinliao Chen, Fei Wang, Yangting Zhang, Ruiyue Zheng, Xiaopei Wu, Ye Ai, et al.
+- Genome-Wide Identiﬁcation of the PEBP Family Gene in Three Cymbidium Species and Its
+- Expression Patterns Analysis in C. ensifolium
+- Reprinted from: Horticulturae 2024, 10, 252, doi:10.3390/horticulturae10030252 . . . . . . . . . .             7
+- Kewen Zhang, Tong Lyu and Yingmin Lyu
+- Transcriptional Insights into Lily Stem Bulblet Formation: Hormonal Regulation, Sugar
+- Metabolism, and Transcriptional Networks in LA Lily ‘Aladdin’
+- Reprinted from: Horticulturae 2024, 10, 171, doi:10.3390/horticulturae10020171 . . . . . . . . . . 21
+- Yufan Lu, Tongjun Zhou, Jinqing Guo, Jian Zhong, Dawei Li, Huajin Shi, et al.
+- Effects of Substitute Substrate, Water, and Fertilizer Management on the Growth of Potted
+- Chrysanthemums
+- Reprinted from: Horticulturae 2024, 10, 138, doi:10.3390/horticulturae10020138 . . . . . . . . . . 39
+- János Bálint, Klára Benedek and Artúr Botond Csorba
+- Assessing the Effect of Plant Growth Stimulants and Retardants on Cyclamen “Halios F1
+- Salmon Rose” Cultivar
+- Reprinted from: Horticulturae 2024, 10, 53, doi:10.3390/horticulturae10010053 . . . . . . . . . . . 63
+- Yifan Jing, David Beleski and Wagner Vendrame
+- Micropropagation and Acclimatization of Monstera deliciosa Liebm. ‘Thai Constellation’
+- Reprinted from: Horticulturae 2024, 10, 1, doi:10.3390/horticulturae10010001 . . . . . . . . . . . . 77
+- Anqi Xie, Jingyue Wu, Yajie Shi, Fuling Lei, Lingling Dong, Dongliang Zhang, et al.
+- Photosynthetic Characteristics of 20 Herbaceous Peony Cultivars
+- Reprinted from: Horticulturae 2023, 9, 1331, doi:10.3390/horticulturae9121331 . . . . . . . . . . . 88
+- Carolyn Margaret Wilmot, Muhali Olaide Jimoh and Charles Petrus Laubscher
+- Warm Bulb Storage Optimises Flowering Attributes and Foliage Characteristics in Amaryllis
+- belladonna L.
+- Reprinted from: Horticulturae 2023, 9, 1271, doi:10.3390/horticulturae9121271 . . . . . . . . . . . 101
+- Hossein Naderi Boldaji, Shirin Dianati Daylami and Kourosh Vahdati
+- Use of Light Spectra for Efﬁcient Production of PLBs in Temperate Terrestrial Orchids
+- Reprinted from: Horticulturae 2023, 9, 1007, doi:10.3390/horticulturae9091007 . . . . . . . . . . . 117
+- Mehrdad Akbarzadeh, Paul Quataert, Johan Van Huylenbroeck, Stefaan P. O. Werbrouck
+- and Emmy Dhooghe
+- Prediction Model for Breeding Hardy Geraniums
+- Reprinted from: Horticulturae 2023, 9, 617, doi:10.3390/horticulturae9060617 . . . . . . . . . . . . 132
+- Paulien De Clercq, Els Pauwels, Seppe Top, Kathy Steppe and Marie-Christine Van Labeke
+- Effect of Seaweed-Based Biostimulants on Growth and Development of Hydrangea paniculata
+- under Continuous or Periodic Drought Stress
+- Reprinted from: Horticulturae 2023, 9, 509, doi:10.3390/ horticulturae9040509 . . . . . . . . . . . 144
+-                                                        v
+- Esther Geukens, Annelies Haegeman, Jef Van Meulder, Katrijn Van Laere, Erik Smolders,
+- Tom Ruttink, et al.
+- Exploring Genetic Diversity in an Ilex crenata Breeding Germplasm
+- Reprinted from: Horticulturae 2023, 9, 485, doi:10.3390/horticulturae9040485 . . . . . . . . . . . . 162
+- Sara Yasemin and Nezihe Koksal
+- Comparative Analysis of Morphological, Physiological, Anatomic and Biochemical Responses
+- in Relatively Sensitive Zinnia elegans ‘Zinnita Scarlet’ and Relatively Tolerant Zinnia marylandica
+- ‘Double Zahara Fire Improved’ under Saline Conditions
+- Reprinted from: Horticulturae 2023, 9, 247, doi:10.3390/horticulturae9020247 . . . . . . . . . . . . 177
+- Shuxian Ren, Menglu Hu, Qian Wu, Lin Wang, Huaishan Gu, Ziyue Chen, et al.
+- Flowering Time and Physiological Reaction of Dendrobium nobile Lindl in Response to TDZ
+- Application
+- Reprinted from: Horticulturae 2023, 9, 129, doi:10.3390/horticulturae9020129 . . . . . . . . . . . . 201
+- Jiewen Li, Jiawei Chen, Qian Zhang, Pengcheng Yu, Yanping Zhou and Guixia Jia
+- The Composition of Anthocyanins and Carotenoids Inﬂuenced the Flower Color Heredity in
+- Asiatic Hybrid Lilies
+- Reprinted from: Horticulturae 2022, 8, 1206, doi:10.3390/horticulturae8121206 . . . . . . . . . . . 213
+- Irene Borra-Serrano, Katrijn Van Laere, Peter Lootens and Leen Leus
+- Breeding and Selection of Nursery Plants Assisted by High-Throughput Field Phenotyping
+- Using UAV Imagery: Case Studies with Sweet Box (Sarcococca) and Garden Rose (Rosa)
+- Reprinted from: Horticulturae 2022, 8, 1186, doi:10.3390/horticulturae8121186 . . . . . . . . . . . 226
+- Ying Zhang, Shui-Yan Yu and Yong-Hong Hu
+- Air Layering Improves Rooting in Tree Peony Cultivars from the Jiangnan Group
+- Reprinted from: Horticulturae 2022, 8, 941, doi:10.3390/horticulturae8100941 . . . . . . . . . . . . 243
+- Leen Leus, Gil Luypaert, Emmy Dhooghe, Johan Witters, Els Pauwels, Christof Van Poucke,
+- et al.
+- Jasmonic Acid and Salicylic Acid Levels in Defense Response of Azalea (Rhododendron simsii
+- Hybrid) to Broad Mite (Polyphagotarsonemus latus)

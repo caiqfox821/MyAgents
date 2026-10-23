@@ -1,0 +1,80 @@
+# WHO global report on sodium intake reduction (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/366393
+- 页数: 99
+- 全文: `text/who/WHO_global_report_on_sodium_intake_reduction.txt`
+- 标签: 钠盐
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                                                         v
+- Abbreviations                                                                                                           vi
+- Foreword                                                                                                               vii
+- Executive summary                                                                                                      viii
+- Scope and purpose                                                                                                       ix
+- Background                                                                                                               1
+-    WHO guideline: sodium intake for adults and children                                                                  2
+-    Member State commitments to the prevention and control of noncommunicable diseases                                    3
+- Methods                                                                                                                  5
+-    Implementation of sodium reduction policies and measures                                                              6
+-    Sodium Country Score Card                                                                                             6
+-    Population dietary sodium intake                                                                                      8
+-    Modelled health impact of sodium reduction policies and measures                                                      8
+- Results                                                                                                                11
+-    Implementation of sodium reduction policies and measures                                                            12
+-      National policy commitments                                                                                       12
+-      Measures to reduce sodium in the food supply or encourage consumers to make healthier food choices about sodium   13
+-           Reformulation to reduce sodium content across the food supply                                                15
+-           Public food procurement and service policies                                                                 19
+-           Nutrition labelling                                                                                          21
+-           Mass media campaigns                                                                                         27
+-           Marketing restrictions                                                                                       29
+-           Fiscal policies                                                                                              31
+-    Sodium Country Score Card                                                                                           33
+-      Sodium Country Score Cards: African Region                                                                        35
+-      Sodium Country Score Cards: Region of the Americas                                                                36
+-      Sodium Country Score Cards: Eastern Mediterranean Region                                                          37
+-      Sodium Country Score Cards: European Region                                                                       38
+-      Sodium Country Score Cards: South-East Asia Region                                                                39
+-      Sodium Country Score Cards: Western Pacific Region                                                                40
+-    Population dietary sodium intake                                                                                    41
+-    Modelled health impact of sodium reduction policies and measures                                                    42
+-      Impact of policies and measures on sodium intake                                                                  42
+-       Impact of policies and measures on cardiovascular disease                                                        42
+- The way forward                                                                                                        43
+- References                                                                                                             46
+- Annexes                                                                                                                53
+-    Annex 1: Sodium intake, sodium country score, policies and measures in WHO Member States                            54
+-    Annex 2: Details of sodium reduction policies and measures implemented around the world                             70
+-    Annex 3: Overview of mandatory and voluntary measures by WHO region                                                 87
+-    Annex 4: Overview of mandatory and voluntary measures by World Bank income group                                    90
+-                                                                                                                           iii
+- Acknowledgements
+- T
+-     his report was developed by Ms Kaia Engesveen, Ms Allison Goldstein, Dr Mary-Anne Land and Ms Camilla
+-     Haugstveit Warren under the coordination of Dr Luz Maria De-Regil, Multisectoral Action in Food Systems Unit,
+-     Department of Nutrition and Food Safety, World Health Organization (WHO).
+- The valuable technical contributions from colleagues across WHO are recognized: Dr Ayoub Al-Jawaldeh, Dr Lorena
+- Allemandi, Dr Hana Bekele, Dr Elaine Borghi, Dr Francesco Branca, Ms Melanie Cowan, Dr Angela De Silva, Mr Fabio
+- Da Silva Gomes, Dr Katrin Engelhardt, Ms Eman Ibrahim, Dr Luc Ingenbleek, Dr Lucero Lopez-Perez, Ms Fabienne
+- Maertens, Mr Eugene Mahlehla, Ms Nashwa Mansour, Dr Ricardo X. Martinez, Mr Leendert Nederveen, Dr Chizuru
+- Nishida, Ms Pyi Pyi Phyo, Ms Leanne Riley, Dr Juliawati Untoro, Ms Laura Utemissova, Mr Stephen Whiting, Dr Kremlin
+- Wickramasinghe and Dr Rain Yamamoto. Also recognized are the WHO Nigeria noncommunicable disease team
+- through Dr Kelias Phiri Msyamboza and the WHO Country Office of Sri Lanka.
+- WHO also recognizes the valuable contributions made by Ms Simone Bosch, Dr Laura Cobb, Dr Renu Garg, Ms Nicole Ide
+- (Resolve to Save Lives) and Mr Aaron Schwid (Vital Strategies), Ms Mhairi Brown (World Action on Salt, Sugar and Health),
+- Dr Marieke Hendriksen (WHO Collaborating Centre for Nutrition), Dr Megan E. Henry (Johns Hopkins Bloomberg School
+- of Public Health), Dr Kathy Trieu and Professor Jacqui Webster (WHO Collaborating Centre on Population Salt Reduction),
+- Professor Jason Wu (Nutrition Science Program, The George Institute for Global Health), Professor Peter Scarborough
+- (Nuffield Department of Population Health, University of Oxford), Professor Chantal Julia (Équipe de Recherche en
+- Épidémilogie Nutritionnelle), Dr Eszter Sarkadi-Nagy (National Insitute of Pharmacy and Nutrition, Hungary), Ms
+- Stephanise Desnousse, Ms Judy Jean-Baptise and Ms Vereine Louis-Marie (Ministry of Health Seychelles), and colleagues
+- from the Ministry of Health of Sri Lanka.
+- All Member States are acknowledged for the actions taken to reduce population sodium intake.
+- Financial support
+- WHO is grateful for the financial support to develop this report from the Government of Sweden and Resolve to Save
+- Lives.
+-                                                                                                                         v
+- abbreviations
+- HIC     high-income countries

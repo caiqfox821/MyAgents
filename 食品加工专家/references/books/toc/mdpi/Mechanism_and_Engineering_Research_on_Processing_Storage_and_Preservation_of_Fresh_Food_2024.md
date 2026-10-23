@@ -1,0 +1,81 @@
+# Mechanism and Engineering Research on Processing Storage and Preservation of Fresh Food (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-9988-5
+- 页数: 330
+- 全文: `text/mdpi/Mechanism_and_Engineering_Research_on_Processing_Storage_and_Preservation_of_Fresh_Food_2024.txt`
+- PDF: `mdpi/Mechanism_and_Engineering_Research_on_Processing_Storage_and_Preservation_of_Fresh_Food_2024.pdf`
+- 标签: 果蔬保鲜, 加工贮藏, 工程技术
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Min Zhang and Hongwei Xiao
+- Mechanisms and Engineering Research on the Processing, Storage, and Preservation of Fresh
+- Food
+- Reprinted from: Foods 2023, 12, 4402, doi:10.3390/foods12244402 . . . . . . . . . . . . . . . . . . .
+- 1
+- Lifei Yang, Xiaoli Liu, Haiyan Lu, Cunzheng Zhang, Jian Chen and Zhiqi Shi
+- Cinnamaldehyde Inhibits Postharvest Gray Mold on Pepper Fruits via Inhibiting Fungal
+- Growth and Triggering Fruit Defense
+- Reprinted from: Foods 2023, 12, 3458, doi:10.3390/foods12183458 . . . . . . . . . . . . . . . . . . .
+- 3
+- Peihong Jiang, Dongjie Chen, Xiangyang Chang, Changfeng Zhang, Xiuping Fan and
+- Xiaoming Qin
+- Study on the Regulation Mechanism of Quality Deterioration Due to Chilling Stress and Dry
+- Exposure during Anhydrous Storage and Transportation of Yesso Scallop Patinopecten yessoensis
+- Reprinted from: Foods 2023, 12, 2902, doi:10.3390/foods12152902 . . . . . . . . . . . . . . . . . . . 17
+- Lexia Jiang, Baosheng Huang, Jiaming Tang, Peihong Jiang, Dongjie Chen and Changfeng
+- Zhang
+- Comprehensive Analysis of Physiological, Biochemical and Flavor Characteristics Changes in
+- Crucian Carp (Carassius auratus) under Different Concentrations of Eugenol
+- Reprinted from: Foods 2023, 12, 2820, doi:10.3390/foods12152820 . . . . . . . . . . . . . . . . . . . 33
+- Qiang Tong, Wentao Zhao, Tairong Guo, Dequan Wang and Xiuping Dong
+- A Study of the Gelatin Low-Temperature Deposition Manufacturing Forming Process Based on
+- Fluid Numerical Simulation
+- Reprinted from: Foods 2023, 12, 2687, doi:10.3390/foods12142687 . . . . . . . . . . . . . . . . . . . 49
+- Qiang Tong, Yuxiang Meng, Yao Tong, Dequan Wang and Xiuping Dong
+- The Effect of Nozzle Temperature on the Low-Temperature Printing Performance of
+- Low-Viscosity Food Ink
+- Reprinted from: Foods 2023, 12, 2666, doi:10.3390/foods12142666 . . . . . . . . . . . . . . . . . . . 69
+- Xiangyong Meng, Qinqin Shen, Teng Song, Honglei Zhao, Yong Zhang, Aiqing Ren and
+- Wenbin Yang
+- Facile Fabrication of Anthocyanin-Nanocellulose Hydrogel Indicator Label for Intelligent
+- Evaluation of Minced Pork Freshness
+- Reprinted from: Foods 2023, 12, 2602, doi:10.3390/foods12132602 . . . . . . . . . . . . . . . . . . . 87
+- Dan Xu, Minmin Huang, Jiao Lei, Hongxin Song, Liangbin Hu and Haizhen Mo
+- Auricularia auricular Adsorbs Aﬂatoxin B1 and Ameliorates Aﬂatoxin B1-Induced Liver Damage
+- in Sprague Dawley Rats
+- Reprinted from: Foods 2023, 12, 2644, doi:10.3390/foods12142644 . . . . . . . . . . . . . . . . . . . 107
+- Wu Wang, Tingting Li, Jing Chen and Yingwang Ye
+- Inhibition of Salmonella Enteritidis by Essential Oil Components and the Effect of Storage on the
+- Quality of Chicken
+- Reprinted from: Foods 2023, 12, 2560, doi:10.3390/foods12132560 . . . . . . . . . . . . . . . . . . . 121
+- Xiaobo Li, Miao Zhang, Haizhen Mo, Hongbo Li, Dan Xu and Liangbin Hu
+- The Ultrasensitive Detection of Aﬂatoxin M1 Using Gold Nanoparticles Modiﬁed Electrode
+- with Fe3+ as a Probe
+- Reprinted from: Foods 2023, 12, 2521, doi:10.3390/foods12132521 . . . . . . . . . . . . . . . . . . . 137
+- v
+- Yuhui Ye, Yulong Wang, Pengyan Liu, Jian Chen and Cunzheng Zhang
+- Uncovering the Nutritive Proﬁles of Adult Male Chinese Mitten Crab (E. sinensis) Harvested
+- from the Pond and Natural Water Area of Qin Lake Based on Metabolomics
+- Reprinted from: Foods 2023, 12, 2178, doi:10.3390/foods12112178 . . . . . . . . . . . . . . . . . . . 149
+- Xiaohuan Chen, Min Zhang and Tiantian Tang
+- Microwave-Induced Rapid Shape Change of 4D Printed Vegetable-Based Food
+- Reprinted from: Foods 2023, 12, 2158, doi:10.3390/foods12112158 . . . . . . . . . . . . . . . . . . . 165
+- Jun-Wen Bai, Yu-Chi Wang, Jian-Rong Cai, Lu Zhang, Yi Dai, Xiao-Yu Tian and Hong-Wei
+- Xiao
+- Three-Dimensional Appearance and Physicochemical Properties of Pleurotus eryngii under
+- Different Drying Methods
+- Reprinted from: Foods 2023, 12, 1999, doi:10.3390/foods12101999 . . . . . . . . . . . . . . . . . . . 181
+- Taoqing Yang, Xia Zheng, Sriram K. Vidyarthi, Hongwei Xiao, Xuedong Yao, Yican Li, et al.
+- Artiﬁcial Neural Network Modeling and Genetic Algorithm Multiobjective Optimization of
+- Process of Drying-Assisted Walnut Breaking
+- Reprinted from: Foods 2023, 12, 1897, doi:10.3390/foods12091897 . . . . . . . . . . . . . . . . . . . 197
+- Hongwu Bai, Guanghong Zhou and Xianjin Liu
+- Evaluation of Temperature Uniformity in a Middle-Refrigerated Truck Loaded with Pig
+- Carcasses
+- Reprinted from: Foods 2023, 12, 1837, doi:10.3390/foods12091837 . . . . . . . . . . . . . . . . . . . 219
+- Yiqiu Deng, Guangsheng Zhao, Kewei Cheng, Chuanchuan Shi and Gongnian Xiao
+- Effect of Apple Polyphenols on the Antioxidant Activity and Structure of Three-Dimensional
+- Printed Processed Cheese

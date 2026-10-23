@@ -1,0 +1,81 @@
+# Bioactive Compounds in Foods (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 232
+- 全文: `text/mdpi/Bioactive_Compounds_in_Foods_2025.txt`
+- PDF: `mdpi/Bioactive_Compounds_in_Foods_2025.pdf`
+- 标签: 生物活性成分, 食品, 功能
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Ivana Generalić Mekinić and Vida Šimat
+- Bioactive Compounds in Foods: New and Novel Sources, Characterization, Strategies,
+- and Applications
+- Reprinted from: Foods 2025, 14, 1617, https://doi.org/10.3390/foods14091617 . . . . . . . . . . .
+- 1
+- Anabela S. G. Costa, Juliana A. Barreto Peixoto, Susana Machado, Liliana Espírito Santo,
+- Thiago F. Soares, Nelson Andrade, et al.
+- Coffee Pulp from Azores: A Novel Phytochemical-Rich Food with Potential
+- Anti-Diabetic Properties
+- Reprinted from: Foods 2025, 14, 306, https://doi.org/10.3390/foods14020306 . . . . . . . . . . .
+- 6
+- Valentina Nikolić, Slad̄ana Žilić, Marijana Simić, Katarina Šavikin, Tatjana Stević,
+- Jelena Živković, et al.
+- Characterization and Potential Food Applications of Oat Flour and Husks from Differently
+- Colored Genotypes as Novel Nutritional Sources of Bioactive Compounds
+- Reprinted from: Foods 2024, 13, 3853, https://doi.org/10.3390/foods13233853 . . . . . . . . . . . 26
+- Elena Coyago-Cruz, Alejandro Barrigas, Aida Guachamin, Jorge Heredia-Moya,
+- Johana Zuñiga-Miranda and Edwin Vera
+- Bioactive Composition of Tropical Flowers and Their Antioxidant and Antimicrobial Properties
+- Reprinted from: Foods 2024, 13, 3766, https://doi.org/10.3390/foods13233766 . . . . . . . . . . . 48
+- Takahiro Katsuki, Kayako Ogi, Ayaka Kinno, Shingo Kasamatsu, Hideshi Ihara
+- and Hidenobu Sumitani
+- Inhibition of Amyloid β Accumulation by Protease-Digested Whitebait (Shirasu) in a Murine
+- Model of Alzheimer’s Disease
+- Reprinted from: Foods 2024, 13, 2858, https://doi.org/10.3390/foods13182858 . . . . . . . . . . . 78
+- Hosakatte Niranjana Murthy, Guggalada Govardhana Yadav, Kadanthottu Sebastian Joseph,
+- Sabha Khan H. S., Snehalata M. Magi, Yaser Hassan Dewir and Nóra Mendler-Drienyovszki
+- Nutritional Value, Fatty Acid and Phytochemical Composition, and Antioxidant Properties of
+- Mysore Fig (Ficus drupacea Thunb.) Fruits
+- Reprinted from: Foods 2024, 13, 2845, https://doi.org/10.3390/foods13172845 . . . . . . . . . . . 89
+- Junichi Higuchi, Masaki Kurogochi, Toshiyuki Yamaguchi, Noriki Fujio, Sho Mitsuduka,
+- Yuko Ishida, et al.
+- Qualitative and Quantitative Analyses of Sialyl O-Glycans in Milk-Derived
+- Sialylglycopeptide Concentrate
+- Reprinted from: Foods 2024, 13, 2792, https://doi.org/10.3390/foods13172792 . . . . . . . . . . . 104
+- Anica Bebek Markovinović, Tomislav Bosiljkov, Tibor Janči, Marko Kostić,
+- Nebojša Dedović, Ela Lučić, et al.
+- Characterization of Antioxidant Bioactive Compounds and Rheological, Color and Sensory
+- Properties in 3D-Printed Fruit Snacks
+- Reprinted from: Foods 2024, 13, 1623, https://doi.org/10.3390/foods13111623 . . . . . . . . . . . 118
+- v
+- Clément Lemoine, Maria João Rodrigues, Xavier Dauvergne, Stéphane Cérantola,
+- Luísa Custódio and Christian Magné
+- A Characterization of Biological Activities and Bioactive Phenolics from the Non-Volatile
+- Fraction of the Edible and Medicinal Halophyte Sea Fennel (Crithmum maritimum L.)
+- Reprinted from: Foods 2024, 13, 1294, https://doi.org/10.3390/foods13091294 . . . . . . . . . . . 137
+- Olivera Politeo, Pavao Ćurlin, Petra Brzović, Killian Auzende, Christian Magné
+- and Ivana Generalić Mekinić
+- Volatiles from French and Croatian Sea Fennel Ecotypes: Chemical Proﬁles and the Antioxidant,
+- Antimicrobial and Antiageing Activity of Essential Oils and Hydrolates
+- Reprinted from: Foods 2024, 13, 695, https://doi.org/10.3390/foods13050695 . . . . . . . . . . . 151
+- Federica Cardinali, Luca Belleggia, Anna Reale, Martina Cirlini, Floriana Boscaino,
+- Tiziana Di Renzo, et al.
+- Exploitation of Black Olive (Olea europaea L. cv. Piantone di Mogliano) Pomace for the
+- Production of High-Value Bread
+- Reprinted from: Foods 2024, 13, 460, https://doi.org/10.3390/foods13030460 . . . . . . . . . . . 166
+- Estrella Sayas-Barberá, Concepción Paredes, Manuel Salgado-Ramos, Noelia Pallarés,
+- Emilia Ferrer, Casilda Navarro-Rodríguez de Vera and José Ángel Pérez-Álvarez
+- Approaches to Enhance Sugar Content in Foods: Is the Date Palm Fruit a Natural Alternative to
+- Sweeteners?
+- Reprinted from: Foods 2024, 13, 129, https://doi.org/10.3390/foods13010129 . . . . . . . . . . . 192
+- vi
+- About the Editors
+- Ivana Generalić Mekinić
+- Ivana Generalić Mekinić is an Associate Professor at the Department of Food Technology and
+- Biotechnology at Faculty of Chemistry and Technology University of Split, Croatia. She earned
+- her Ph.D. in Biotechnical Sciences (Food Technology) from the Faculty of Food Technology and

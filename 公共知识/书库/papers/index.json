@@ -1,0 +1,3333 @@
+[
+  {
+    "pmcid": "PMC13476076",
+    "themes": [
+      "guides"
+    ],
+    "year": 2026,
+    "title": "Toward internal threshold for toxicological concern: in vitro (47 段)",
+    "doi": "10.1093/toxsci/kfag086",
+    "journal": "Toxicological Sciences",
+    "xml": "papers/xml/PMC13476076.xml",
+    "text": "papers/txt/PMC13476076.txt",
+    "paras": 47,
+    "words": 4310,
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13476076"
+  },
+  {
+    "pmcid": "PMC12838909",
+    "doi": "10.3390/cancers18020268",
+    "pmid": "41595188",
+    "title": "Adverse Outcome Pathway 298: Increase in Reactive Oxygen Species Leading to Human Treatment-Resistant Gastric Cancer.",
+    "journal": "Cancers",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "毒作用机制/AOP"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12838909",
+    "xml": "papers/xml/PMC12838909.xml",
+    "text": "papers/txt/PMC12838909.txt",
+    "paras": 37
+  },
+  {
+    "pmcid": "PMC13631915",
+    "doi": "10.1002/cpt.70493",
+    "pmid": "42823916",
+    "title": "Pediatric Developmental Safety Assessment and New Approach Methodologies: US FDA/Triangle CERSI Workshop Report.",
+    "journal": "Clinical pharmacology and therapeutics",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13631915",
+    "xml": "papers/xml/PMC13631915.xml",
+    "text": "papers/txt/PMC13631915.txt",
+    "paras": 79
+  },
+  {
+    "pmcid": "PMC13669715",
+    "doi": "10.1039/d6cs01323f",
+    "pmid": "42876279",
+    "title": "New approach methodologies in nanomedicine: bridging the gap between in silico , in vitro , and in vivo systems.",
+    "journal": "Chemical Society reviews",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "计算毒理",
+      "替代方法/NAMs"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13669715",
+    "xml": "papers/xml/PMC13669715.xml",
+    "text": "papers/txt/PMC13669715.txt",
+    "paras": 89
+  },
+  {
+    "pmcid": "PMC13067788",
+    "doi": "10.1002/advs.202522276",
+    "pmid": "41766415",
+    "title": "Integrating Human Intestinal Organoids into FDA's New Approach Methodologies for Drug Discovery.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 4,
+    "url": "https://europepmc.org/article/PMC/PMC13067788",
+    "xml": "papers/xml/PMC13067788.xml",
+    "text": "papers/txt/PMC13067788.txt",
+    "paras": 47
+  },
+  {
+    "pmcid": "PMC13038229",
+    "doi": "10.3389/ftox.2026.1754231",
+    "pmid": "41923925",
+    "title": "Application of in vitro new approach methodologies data to chemical risk assessment: current status and perspectives toward next generation risk assessment.",
+    "journal": "Frontiers in toxicology",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "风险评估"
+    ],
+    "citedBy": 4,
+    "url": "https://europepmc.org/article/PMC/PMC13038229",
+    "xml": "papers/xml/PMC13038229.xml",
+    "text": "papers/txt/PMC13038229.txt",
+    "paras": 58
+  },
+  {
+    "pmcid": "PMC12858485",
+    "doi": "10.1007/s00204-025-04209-7",
+    "pmid": "41037145",
+    "title": "Mapping the ethical and sustainable transition in toxicology: a bibliometric analysis and a review of new approach methodologies.",
+    "journal": "Archives of toxicology",
+    "year": 2026,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "法规与指南"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC12858485",
+    "xml": "papers/xml/PMC12858485.xml",
+    "text": "papers/txt/PMC12858485.txt",
+    "paras": 92
+  },
+  {
+    "pmcid": "PMC13307297",
+    "doi": "10.3390/toxics14060528",
+    "pmid": "42347425",
+    "title": "Human Exposure Pathways to Per- and Polyfluoroalkyl Substances (PFASs)-A Comprehensive Review of Sources, Physicochemical Properties, and Human Health Risk Assessment.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "法规与指南",
+      "暴露评估",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13307297",
+    "xml": "papers/xml/PMC13307297.xml",
+    "text": "papers/txt/PMC13307297.txt",
+    "paras": 53
+  },
+  {
+    "pmcid": "PMC13030343",
+    "doi": "10.3390/toxics14030196",
+    "pmid": "41893465",
+    "title": "Occurrence, Pollution Characteristics, Mass Load and Ecological Risk Assessment of Per- and Polyfluoroalkyl Substances in the Dianchi Basin, China.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13030343",
+    "xml": "papers/xml/PMC13030343.xml",
+    "text": "papers/txt/PMC13030343.txt",
+    "paras": 68
+  },
+  {
+    "pmcid": "PMC13416516",
+    "doi": "10.3390/toxics14070548",
+    "pmid": "42515113",
+    "title": "Occurrence, Source Inference, and Risk Assessment of Per- and Polyfluoroalkyl Substances in Effluents, River Water and Groundwater from the Lijiang River Basin, a Typical Karst Region.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13416516",
+    "xml": "papers/xml/PMC13416516.xml",
+    "text": "papers/txt/PMC13416516.txt",
+    "paras": 69
+  },
+  {
+    "pmcid": "PMC12901172",
+    "doi": "10.1007/s11356-026-37431-6",
+    "pmid": "41582239",
+    "title": "Determination of per- and polyfluoroalkyl substances in air samples from urban areas close to industrial complexes and human risk assessment.",
+    "journal": "Environmental science and pollution research international",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12901172",
+    "xml": "papers/xml/PMC12901172.xml",
+    "text": "papers/txt/PMC12901172.txt",
+    "paras": 58
+  },
+  {
+    "pmcid": "PMC13504563",
+    "doi": "10.1021/envhealth.5c00832",
+    "pmid": "42643968",
+    "title": "Exposure to Legacy and Novel Per- and Polyfluoroalkyl Substances and Diminished Ovarian Reserve: Evidence from Blood-Follicle Transfer and Mixture Risk Assessment in Reproductive-Aged Women.",
+    "journal": "Environment & health (Washington, D.C.)",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "暴露评估",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13504563",
+    "xml": "papers/xml/PMC13504563.xml",
+    "text": "papers/txt/PMC13504563.txt",
+    "paras": 50
+  },
+  {
+    "pmcid": "PMC13545467",
+    "doi": "10.1016/j.isci.2026.117263",
+    "pmid": "42701532",
+    "title": "Microplastics in Persian Gulf offshore sediments: Distribution, polymer composition, and ecological risk assessment.",
+    "journal": "iScience",
+    "year": "2026",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13545467",
+    "xml": "papers/xml/PMC13545467.xml",
+    "text": "papers/txt/PMC13545467.txt",
+    "paras": 57
+  },
+  {
+    "pmcid": "PMC12692092",
+    "themes": [
+      "guides"
+    ],
+    "year": 2025,
+    "title": "Integrative Assessment of Glycyrrhiza uralensis</i (57 段)",
+    "doi": "10.3390/ijms262311677",
+    "journal": "International Journal of Molecular Sciences",
+    "xml": "papers/xml/PMC12692092.xml",
+    "text": "papers/txt/PMC12692092.txt",
+    "paras": 57,
+    "words": 7011,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12692092"
+  },
+  {
+    "pmcid": "PMC12175843",
+    "themes": [
+      "guides"
+    ],
+    "year": 2025,
+    "title": "Characterization of medical device constituents and developmen (73 段)",
+    "doi": "10.3389/ftox.2025.1600127",
+    "journal": "Frontiers in Toxicology",
+    "xml": "papers/xml/PMC12175843.xml",
+    "text": "papers/txt/PMC12175843.txt",
+    "paras": 73,
+    "words": 10005,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12175843"
+  },
+  {
+    "pmcid": "PMC7617506",
+    "themes": [
+      "guides"
+    ],
+    "year": 2025,
+    "title": "Derivation of human toxicokinetic parameters and internal thre (138 段)",
+    "doi": "10.1038/s41370-025-00746-6",
+    "journal": "Journal of Exposure Science & Environmental Epidemiology",
+    "xml": "papers/xml/PMC7617506.xml",
+    "text": "papers/txt/PMC7617506.txt",
+    "paras": 138,
+    "words": 10925,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC7617506"
+  },
+  {
+    "pmcid": "PMC13151919",
+    "doi": "10.12688/f1000research.172881.2",
+    "pmid": "42112047",
+    "title": "Methods2AOP: A Collaboration to Strengthen the Integration of Test Methods into the Adverse Outcome Pathway Framework.",
+    "journal": "F1000Research",
+    "year": 2025,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "毒作用机制/AOP"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC13151919",
+    "xml": "papers/xml/PMC13151919.xml",
+    "text": "papers/txt/PMC13151919.txt",
+    "paras": 353
+  },
+  {
+    "pmcid": "PMC12534273",
+    "doi": "10.1007/s00204-025-04168-z",
+    "pmid": "40925984",
+    "title": "Exploring experiences of the regulatory toxicology system: system-level promoters and inhibitors of new approach methodologies.",
+    "journal": "Archives of toxicology",
+    "year": 2025,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "法规与指南"
+    ],
+    "citedBy": 4,
+    "url": "https://europepmc.org/article/PMC/PMC12534273",
+    "xml": "papers/xml/PMC12534273.xml",
+    "text": "papers/txt/PMC12534273.txt",
+    "paras": 177
+  },
+  {
+    "pmcid": "PMC12332500",
+    "themes": [
+      "guides"
+    ],
+    "year": 2025,
+    "title": "Statement on the use and interpretation of the margin of exposure approach (EFSA Scientific Committee)",
+    "doi": "10.2903/j.efsa.2025.9606",
+    "journal": "EFSA Journal 2025;23(8):e9606",
+    "xml": "papers/xml/PMC12332500.xml",
+    "text": "papers/txt/PMC12332500.txt",
+    "paras": 343,
+    "words": 7999,
+    "tags": [
+      "MOE/风险表征",
+      "EFSA SC 一级文本"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12332500"
+  },
+  {
+    "pmcid": "PMC12301701",
+    "doi": "10.2903/j.efsa.2025.9586",
+    "pmid": "40726815",
+    "title": "Guidance on the use of read-across for chemical safety assessment in food and feed.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2025",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "计算毒理"
+    ],
+    "citedBy": 17,
+    "url": "https://europepmc.org/article/PMC/PMC12301701",
+    "xml": "papers/xml/PMC12301701.xml",
+    "text": "papers/txt/PMC12301701.txt",
+    "paras": 702
+  },
+  {
+    "pmcid": "PMC12564224",
+    "doi": "10.3390/foods14203472",
+    "pmid": "41154008",
+    "title": "Occurrence and Health Risk Assessment of Per- and Polyfluoroalkyl Substances in Yogurt Across Lebanese Governorates.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2025",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12564224",
+    "xml": "papers/xml/PMC12564224.xml",
+    "text": "papers/txt/PMC12564224.txt",
+    "paras": 74
+  },
+  {
+    "pmcid": "PMC12745961",
+    "doi": "10.1016/j.toxrep.2025.102095",
+    "pmid": "41472785",
+    "title": "An evaluation and risk assessment of children's exposures to water-soluble per- and polyfluoroalkyl substances through winter gloves.",
+    "journal": "Toxicology reports",
+    "year": "2025",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "暴露评估",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12745961",
+    "xml": "papers/xml/PMC12745961.xml",
+    "text": "papers/txt/PMC12745961.txt",
+    "paras": 118
+  },
+  {
+    "pmcid": "PMC12308470",
+    "doi": null,
+    "pmid": null,
+    "title": "我国东部饮用水源水中传统及新型全氟和多氟烷基物质的赋存特征及风险评估 Occurrence， characteristics， and risk assessment of legacy and novel per- and polyfluoroalkyl substances in drinking water sources of Eastern China",
+    "journal": "Se pu = Chinese journal of chromatography",
+    "year": "2025",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12308470",
+    "xml": "papers/xml/PMC12308470.xml",
+    "text": "papers/txt/PMC12308470.txt",
+    "paras": 46
+  },
+  {
+    "pmcid": "PMC11301258",
+    "doi": "10.2903/j.efsa.2024.8954",
+    "pmid": "39109086",
+    "title": "A developmental neurotoxicity adverse outcome pathway (DNT-AOP) with voltage gate sodium channel (VGSC) inhibition as a molecular initiating event (MiE).",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": 2024,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "毒作用机制/AOP"
+    ],
+    "citedBy": 8,
+    "url": "https://europepmc.org/article/PMC/PMC11301258",
+    "xml": "papers/xml/PMC11301258.xml",
+    "text": "papers/txt/PMC11301258.txt",
+    "paras": 176
+  },
+  {
+    "pmcid": "PMC10965660",
+    "doi": "10.1007/s00204-024-03703-8",
+    "pmid": "38480536",
+    "title": "Recent advances and current challenges of new approach methodologies in developmental and adult neurotoxicity testing.",
+    "journal": "Archives of toxicology",
+    "year": "2024",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 26,
+    "url": "https://europepmc.org/article/PMC/PMC10965660",
+    "xml": "papers/xml/PMC10965660.xml",
+    "text": "papers/txt/PMC10965660.txt",
+    "paras": 197
+  },
+  {
+    "pmcid": "PMC10541315",
+    "themes": [
+      "guides"
+    ],
+    "year": 2023,
+    "title": "Correction to: Developing an internal threshold of toxicologic (7 段)",
+    "doi": "10.1038/s41370-023-00582-6",
+    "journal": "Journal of Exposure Science & Environmental Epidemiology",
+    "xml": "papers/xml/PMC10541315.xml",
+    "text": "papers/txt/PMC10541315.txt",
+    "paras": 7,
+    "words": 686,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC10541315"
+  },
+  {
+    "pmcid": "PMC9816225",
+    "themes": [
+      "guides"
+    ],
+    "year": 2023,
+    "title": "Correction to: Practical application of the interim internal t (6 段)",
+    "doi": "10.1007/s00204-022-03398-9",
+    "journal": "Archives of Toxicology",
+    "xml": "papers/xml/PMC9816225.xml",
+    "text": "papers/txt/PMC9816225.txt",
+    "paras": 6,
+    "words": 523,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC9816225"
+  },
+  {
+    "pmcid": "PMC9816204",
+    "doi": "10.1007/s00204-022-03371-6",
+    "pmid": "36149470",
+    "title": "Practical application of the interim internal threshold of toxicological concern (iTTC): a case study based on clinical data.",
+    "journal": "Archives of toxicology",
+    "year": 2023,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 7,
+    "url": "https://europepmc.org/article/PMC/PMC9816204",
+    "xml": "papers/xml/PMC9816204.xml",
+    "text": "papers/txt/PMC9816204.txt",
+    "paras": 43
+  },
+  {
+    "pmcid": "PMC10449328",
+    "doi": "10.3389/fpubh.2023.1212544",
+    "pmid": "37637826",
+    "title": "CIAO: a living experiment in interdisciplinary large-scale collaboration facilitated by the Adverse Outcome Pathway framework.",
+    "journal": "Frontiers in public health",
+    "year": 2023,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "毒作用机制/AOP"
+    ],
+    "citedBy": 7,
+    "url": "https://europepmc.org/article/PMC/PMC10449328",
+    "xml": "papers/xml/PMC10449328.xml",
+    "text": "papers/txt/PMC10449328.txt",
+    "paras": 109
+  },
+  {
+    "pmcid": "PMC10858683",
+    "doi": "10.1016/j.envint.2023.108082",
+    "pmid": "37422975",
+    "title": "New approach methodologies in human regulatory toxicology - Not if, but how and when!",
+    "journal": "Environment international",
+    "year": "2023",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "法规与指南"
+    ],
+    "citedBy": 245,
+    "url": "https://europepmc.org/article/PMC/PMC10858683",
+    "xml": "papers/xml/PMC10858683.xml",
+    "text": "papers/txt/PMC10858683.txt",
+    "paras": 130
+  },
+  {
+    "pmcid": "PMC12431630",
+    "doi": "10.14573/altex.2205081",
+    "pmid": "35867862",
+    "title": "Technical framework for enabling high quality measurements in new approach methodologies (NAMs).",
+    "journal": "ALTEX",
+    "year": "2023",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 15,
+    "url": "https://europepmc.org/article/PMC/PMC12431630",
+    "xml": "papers/xml/PMC12431630.xml",
+    "text": "papers/txt/PMC12431630.txt",
+    "paras": 49
+  },
+  {
+    "pmcid": "PMC9731903",
+    "themes": [
+      "guides"
+    ],
+    "year": 2022,
+    "title": "Developing an internal threshold of toxicological concern (iTT (62 段)",
+    "doi": "10.1038/s41370-022-00494-x",
+    "journal": "Journal of Exposure Science & Environmental Epidemiology",
+    "xml": "papers/xml/PMC9731903.xml",
+    "text": "papers/txt/PMC9731903.txt",
+    "paras": 62,
+    "words": 8553,
+    "tags": [
+      "TTC"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC9731903"
+  },
+  {
+    "pmcid": "PMC9096208",
+    "themes": [
+      "guides"
+    ],
+    "year": 2022,
+    "title": "Editorial: Advances and Refinements in the Development and App (26 段)",
+    "doi": "10.3389/ftox.2022.882321",
+    "journal": "Frontiers in Toxicology",
+    "xml": "papers/xml/PMC9096208.xml",
+    "text": "papers/txt/PMC9096208.txt",
+    "paras": 26,
+    "words": 3279,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC9096208"
+  },
+  {
+    "pmcid": "PMC9257167",
+    "doi": "10.3389/fphar.2022.930148",
+    "pmid": "35814243",
+    "title": "RE-Place: A Unique Project Collecting Expertise on New Approach Methodologies.",
+    "journal": "Frontiers in pharmacology",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC9257167",
+    "xml": "papers/xml/PMC9257167.xml",
+    "text": "papers/txt/PMC9257167.txt",
+    "paras": 124
+  },
+  {
+    "pmcid": "PMC9115850",
+    "doi": "10.14573/altex.2105041",
+    "pmid": "34874455",
+    "title": "U.S. Federal Agency interests and key considerations for new approach methodologies for nanomaterials.",
+    "journal": "ALTEX",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 14,
+    "url": "https://europepmc.org/article/PMC/PMC9115850",
+    "xml": "papers/xml/PMC9115850.xml",
+    "text": "papers/txt/PMC9115850.txt",
+    "paras": 120
+  },
+  {
+    "pmcid": "PMC9475191",
+    "doi": "10.3389/ftox.2022.964553",
+    "pmid": "36119357",
+    "title": "Use of new approach methodologies (NAMs) to meet regulatory requirements for the assessment of industrial chemicals and pesticides for effects on human health.",
+    "journal": "Frontiers in toxicology",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "法规与指南",
+      "农药残留",
+      "农残分析"
+    ],
+    "citedBy": 167,
+    "url": "https://europepmc.org/article/PMC/PMC9475191",
+    "xml": "papers/xml/PMC9475191.xml",
+    "text": "papers/txt/PMC9475191.txt",
+    "paras": 203
+  },
+  {
+    "pmcid": "PMC9593753",
+    "doi": "10.2903/j.efsa.2022.7584",
+    "pmid": "36304832",
+    "title": "Guidance on the use of the benchmark dose approach in risk assessment.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "剂量-反应",
+      "风险评估"
+    ],
+    "citedBy": 129,
+    "url": "https://europepmc.org/article/PMC/PMC9593753",
+    "xml": "papers/xml/PMC9593753.xml",
+    "text": "papers/txt/PMC9593753.txt",
+    "paras": 550
+  },
+  {
+    "pmcid": "PMC9584981",
+    "doi": "10.1007/s00204-022-03356-5",
+    "pmid": "36063173",
+    "title": "Towards best use and regulatory acceptance of generic physiologically based kinetic (PBK) models for in vitro-to-in vivo extrapolation (IVIVE) in chemical risk assessment.",
+    "journal": "Archives of toxicology",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "法规与指南",
+      "风险评估"
+    ],
+    "citedBy": 33,
+    "url": "https://europepmc.org/article/PMC/PMC9584981",
+    "xml": "papers/xml/PMC9584981.xml",
+    "text": "papers/txt/PMC9584981.txt",
+    "paras": 62
+  },
+  {
+    "pmcid": "PMC9534282",
+    "doi": "10.1289/ehp12062",
+    "pmid": "36197374",
+    "title": "Comment on \"Internal Relative Potency Factors for the Risk Assessment of Mixtures of Per- and Polyfluoroalkyl Substances (PFAS) in Human Biomonitoring\".",
+    "journal": "Environmental health perspectives",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC9534282",
+    "xml": "papers/xml/PMC9534282.xml",
+    "text": "papers/txt/PMC9534282.txt",
+    "paras": 13
+  },
+  {
+    "pmcid": "PMC9320915",
+    "doi": "10.1289/ehp10009",
+    "pmid": "35881550",
+    "title": "Internal Relative Potency Factors for the Risk Assessment of Mixtures of Per- and Polyfluoroalkyl Substances (PFAS) in Human Biomonitoring.",
+    "journal": "Environmental health perspectives",
+    "year": "2022",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 31,
+    "url": "https://europepmc.org/article/PMC/PMC9320915",
+    "xml": "papers/xml/PMC9320915.xml",
+    "text": "papers/txt/PMC9320915.txt",
+    "paras": 107
+  },
+  {
+    "pmcid": "PMC8915827",
+    "doi": "10.3389/ftox.2021.688321",
+    "pmid": "35295144",
+    "title": "Threshold of Toxicological Concern-An Update for Non-Genotoxic Carcinogens.",
+    "journal": "Frontiers in toxicology",
+    "year": 2021,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC",
+      "遗传毒性与致癌"
+    ],
+    "citedBy": 5,
+    "url": "https://europepmc.org/article/PMC/PMC8915827",
+    "xml": "papers/xml/PMC8915827.xml",
+    "text": "papers/txt/PMC8915827.txt",
+    "paras": 86
+  },
+  {
+    "pmcid": "PMC8915901",
+    "doi": "10.3389/ftox.2021.655951",
+    "pmid": "35295160",
+    "title": "Application of the Threshold of Toxicological Concern (TTC) in Food Safety: Challenges and Opportunities.",
+    "journal": "Frontiers in toxicology",
+    "year": 2021,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 7,
+    "url": "https://europepmc.org/article/PMC/PMC8915901",
+    "xml": "papers/xml/PMC8915901.xml",
+    "text": "papers/txt/PMC8915901.txt",
+    "paras": 43
+  },
+  {
+    "pmcid": "PMC8915903",
+    "doi": "10.3389/ftox.2021.626543",
+    "pmid": "35295111",
+    "title": "Development of a New Threshold of Toxicological Concern Database of Non-cancer Toxicity Endpoints for Industrial Chemicals.",
+    "journal": "Frontiers in toxicology",
+    "year": 2021,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 5,
+    "url": "https://europepmc.org/article/PMC/PMC8915903",
+    "xml": "papers/xml/PMC8915903.xml",
+    "text": "papers/txt/PMC8915903.txt",
+    "paras": 80
+  },
+  {
+    "pmcid": "PMC8915872",
+    "doi": "10.3389/ftox.2020.580347",
+    "pmid": "35296122",
+    "title": "Derivation of New Threshold of Toxicological Concern Values for Exposure via Inhalation for Environmentally-Relevant Chemicals.",
+    "journal": "Frontiers in toxicology",
+    "year": 2020,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC",
+      "暴露评估"
+    ],
+    "citedBy": 15,
+    "url": "https://europepmc.org/article/PMC/PMC8915872",
+    "xml": "papers/xml/PMC8915872.xml",
+    "text": "papers/txt/PMC8915872.txt",
+    "paras": 169
+  },
+  {
+    "pmcid": "PMC8915896",
+    "doi": "10.3389/ftox.2020.621541",
+    "pmid": "35296119",
+    "title": "Internal Threshold of Toxicological Concern (iTTC): Where We Are Today and What Is Possible in the Near Future.",
+    "journal": "Frontiers in toxicology",
+    "year": 2020,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 11,
+    "url": "https://europepmc.org/article/PMC/PMC8915896",
+    "xml": "papers/xml/PMC8915896.xml",
+    "text": "papers/txt/PMC8915896.txt",
+    "paras": 45
+  },
+  {
+    "pmcid": "PMC7069980",
+    "doi": "10.1038/s41598-020-61651-6",
+    "pmid": "32170214",
+    "title": "Occurrence, partition and environmental risk assessment of per- and polyfluoroalkyl substances in water and sediment from the Baiyangdian Lake, China.",
+    "journal": "Scientific reports",
+    "year": "2020",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 28,
+    "url": "https://europepmc.org/article/PMC/PMC7069980",
+    "xml": "papers/xml/PMC7069980.xml",
+    "text": "papers/txt/PMC7069980.txt",
+    "paras": 53
+  },
+  {
+    "pmcid": "PMC7009090",
+    "doi": "10.2903/j.efsa.2019.5708",
+    "pmid": "32626331",
+    "title": "Guidance on the use of the Threshold of Toxicological Concern approach in food safety assessment.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": 2019,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 213,
+    "url": "https://europepmc.org/article/PMC/PMC7009090",
+    "xml": "papers/xml/PMC7009090.xml",
+    "text": "papers/txt/PMC7009090.txt",
+    "paras": 138
+  },
+  {
+    "pmcid": "PMC7292191",
+    "doi": "10.2903/j.efsa.2019.5520",
+    "pmid": "32626067",
+    "title": "Guidance on Communication of Uncertainty in Scientific Assessments.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2019",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "不确定性与概率"
+    ],
+    "citedBy": 70,
+    "url": "https://europepmc.org/article/PMC/PMC7292191",
+    "xml": "papers/xml/PMC7292191.xml",
+    "text": "papers/txt/PMC7292191.txt",
+    "paras": 533
+  },
+  {
+    "pmcid": "PMC7009727",
+    "themes": [
+      "guides"
+    ],
+    "year": 2018,
+    "title": "Guidance on Uncertainty Analysis in Scientific Assessments. (294 段)",
+    "doi": "10.2903/j.efsa.2018.5123",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC7009727.xml",
+    "text": "papers/txt/PMC7009727.txt",
+    "paras": 294,
+    "words": 16176,
+    "tags": [
+      "不确定性与概率"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC7009727"
+  },
+  {
+    "pmcid": "PMC6208822",
+    "themes": [
+      "guides"
+    ],
+    "year": 2018,
+    "title": "EANM practical guidance on uncertainty analysis for molecular (178 段)",
+    "doi": "10.1007/s00259-018-4136-7",
+    "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+    "xml": "papers/xml/PMC6208822.xml",
+    "text": "papers/txt/PMC6208822.txt",
+    "paras": 178,
+    "words": 12348,
+    "tags": [
+      "不确定性与概率"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC6208822"
+  },
+  {
+    "pmcid": "PMC7009645",
+    "themes": [
+      "guides"
+    ],
+    "year": 2018,
+    "title": "The principles and methods behind EFSA's Guidance on Uncertain (2124 段)",
+    "doi": "10.2903/j.efsa.2018.5122",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC7009645.xml",
+    "text": "papers/txt/PMC7009645.txt",
+    "paras": 2124,
+    "words": 128917,
+    "tags": [
+      "guides"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC7009645"
+  },
+  {
+    "pmcid": "PMC7009819",
+    "doi": "10.2903/j.efsa.2017.4658",
+    "pmid": "32625254",
+    "title": "Update: use of the benchmark dose approach in risk assessment.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2017",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "剂量-反应",
+      "风险评估"
+    ],
+    "citedBy": 212,
+    "url": "https://europepmc.org/article/PMC/PMC7009819",
+    "xml": "papers/xml/PMC7009819.xml",
+    "text": "papers/txt/PMC7009819.txt",
+    "paras": 365
+  },
+  {
+    "pmcid": "PMC7009893",
+    "doi": "10.2903/j.efsa.2017.4971",
+    "pmid": "32625632",
+    "title": "Guidance on the use of the weight of evidence approach in scientific assessments.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2017",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "guides"
+    ],
+    "citedBy": 270,
+    "url": "https://europepmc.org/article/PMC/PMC7009893",
+    "xml": "papers/xml/PMC7009893.xml",
+    "text": "papers/txt/PMC7009893.txt",
+    "paras": 799
+  },
+  {
+    "pmcid": "PMC4421758",
+    "doi": "10.1289/ehp.123-a136",
+    "pmid": "25932681",
+    "title": "Profiles in cytotoxicity: a first step toward chemical-specific adjustment factors.",
+    "journal": "Environmental health perspectives",
+    "year": 2015,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "不确定系数"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC4421758",
+    "xml": "papers/xml/PMC4421758.xml",
+    "text": "papers/txt/PMC4421758.txt",
+    "paras": 13
+  },
+  {
+    "pmcid": "PMC3809586",
+    "doi": "10.1080/10408398.2012.752341",
+    "pmid": "24090142",
+    "title": "Determining the applicability of threshold of toxicological concern approaches to substances found in foods.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": 2013,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "TTC"
+    ],
+    "citedBy": 10,
+    "url": "https://europepmc.org/article/PMC/PMC3809586",
+    "xml": "papers/xml/PMC3809586.xml",
+    "text": "papers/txt/PMC3809586.txt",
+    "paras": 76
+  },
+  {
+    "pmcid": "PMC7006250",
+    "doi": "10.5487/tr.2009.25.1.001",
+    "pmid": "32038812",
+    "title": "Basic Principles of the Validation for Good Laboratory Practice Institutes.",
+    "journal": "Toxicological research",
+    "year": "2009",
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "定量与验证"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC7006250",
+    "xml": "papers/xml/PMC7006250.xml",
+    "text": "papers/txt/PMC7006250.txt",
+    "paras": 4
+  },
+  {
+    "pmcid": "PMC13680456",
+    "doi": null,
+    "pmid": null,
+    "title": "Towards the One Exposome: harnessing artificial intelligence and digital health technologies across One Health toxicology, new approach methodologies, and environmental public health",
+    "journal": "Frontiers in public health",
+    "year": null,
+    "themes": [
+      "guides"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13680456",
+    "xml": "papers/xml/PMC13680456.xml",
+    "text": "papers/txt/PMC13680456.txt",
+    "paras": 305
+  },
+  {
+    "pmcid": "PMC13586983",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Affinity selection mass spectrometry screening discovers new C (40 段)",
+    "doi": "10.1039/d6cb00250a",
+    "journal": "RSC Chemical Biology",
+    "xml": "papers/xml/PMC13586983.xml",
+    "text": "papers/txt/PMC13586983.txt",
+    "paras": 40,
+    "words": 7077,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13586983"
+  },
+  {
+    "pmcid": "PMC13467950",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "LC-HRMS and Molecular Networking for Non-Targeted Screening of (78 段)",
+    "doi": "10.3390/molecules31152640",
+    "journal": "Molecules",
+    "xml": "papers/xml/PMC13467950.xml",
+    "text": "papers/txt/PMC13467950.txt",
+    "paras": 78,
+    "words": 10740,
+    "tags": [
+      "非靶向筛查与鉴定",
+      "高分辨质谱"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13467950"
+  },
+  {
+    "pmcid": "PMC13573562",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Machine Learning-Enhanced LC-HRMS Workflows for Suspect and No (120 段)",
+    "doi": "10.1021/acs.analchem.5c06726",
+    "journal": "Analytical Chemistry",
+    "xml": "papers/xml/PMC13573562.xml",
+    "text": "papers/txt/PMC13573562.txt",
+    "paras": 120,
+    "words": 13978,
+    "tags": [
+      "高分辨质谱"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13573562"
+  },
+  {
+    "pmcid": "PMC13659026",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Assessing the use of ASAP‐MS for Screening a UK Pub for Illici (93 段)",
+    "doi": "10.1002/jms.70121",
+    "journal": "Journal of Mass Spectrometry",
+    "xml": "papers/xml/PMC13659026.xml",
+    "text": "papers/txt/PMC13659026.txt",
+    "paras": 93,
+    "words": 10510,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13659026"
+  },
+  {
+    "pmcid": "PMC13607427",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Proteomics-Guided Computational Prioritization of Putative RAN (114 段)",
+    "doi": "10.3390/ijms27188255",
+    "journal": "International Journal of Molecular Sciences",
+    "xml": "papers/xml/PMC13607427.xml",
+    "text": "papers/txt/PMC13607427.txt",
+    "paras": 114,
+    "words": 12178,
+    "tags": [
+      "蛋白质组学"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13607427"
+  },
+  {
+    "pmcid": "PMC13567559",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Green Analytical Workflows: Recent Advances in Sample Preparat (96 段)",
+    "doi": "10.3390/molecules31173063",
+    "journal": "Molecules",
+    "xml": "papers/xml/PMC13567559.xml",
+    "text": "papers/txt/PMC13567559.txt",
+    "paras": 96,
+    "words": 17979,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13567559"
+  },
+  {
+    "pmcid": "PMC13547244",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "The data substrate of exposome intelligence: an interoperabili (188 段)",
+    "doi": "10.3389/frai.2026.1901969",
+    "journal": "Frontiers in Artificial Intelligence",
+    "xml": "papers/xml/PMC13547244.xml",
+    "text": "papers/txt/PMC13547244.txt",
+    "paras": 188,
+    "words": 23416,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13547244"
+  },
+  {
+    "pmcid": "PMC13650249",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Green Sorptive Sampling Coupled With UHPLC–IMS–MS and GC×GC–TO (114 段)",
+    "doi": "10.1002/jssc.70549",
+    "journal": "Journal of Separation Science",
+    "xml": "papers/xml/PMC13650249.xml",
+    "text": "papers/txt/PMC13650249.txt",
+    "paras": 114,
+    "words": 10215,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13650249"
+  },
+  {
+    "pmcid": "PMC13449885",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Understanding and Reporting PFAS Exposure: Wide-Scope Retrospe (28 段)",
+    "doi": "10.1021/acs.est.6c03864",
+    "journal": "Environmental Science & Technology",
+    "xml": "papers/xml/PMC13449885.xml",
+    "text": "papers/txt/PMC13449885.txt",
+    "paras": 28,
+    "words": 8690,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13449885"
+  },
+  {
+    "pmcid": "PMC13665507",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "From Food Additives and Contaminants to the Human Exposome: A (74 段)",
+    "doi": "10.3390/foods15193525",
+    "journal": "Foods",
+    "xml": "papers/xml/PMC13665507.xml",
+    "text": "papers/txt/PMC13665507.txt",
+    "paras": 74,
+    "words": 12288,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13665507"
+  },
+  {
+    "pmcid": "PMC13313190",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Recent developments in analytical techniques for monitoring an (83 段)",
+    "doi": "10.1080/17576180.2026.2676685",
+    "journal": "Bioanalysis",
+    "xml": "papers/xml/PMC13313190.xml",
+    "text": "papers/txt/PMC13313190.txt",
+    "paras": 83,
+    "words": 11890,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13313190"
+  },
+  {
+    "pmcid": "PMC13164884",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Identification of Emerging Organic Pollutants in Aquatic Envir (56 段)",
+    "doi": "10.3390/molecules31091495",
+    "journal": "Molecules",
+    "xml": "papers/xml/PMC13164884.xml",
+    "text": "papers/txt/PMC13164884.txt",
+    "paras": 56,
+    "words": 8380,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13164884"
+  },
+  {
+    "pmcid": "PMC13066546",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Identifying Food Packaging Migrants: Current Analytical Capabi (103 段)",
+    "doi": "10.1111/1541-4337.70474",
+    "journal": "Comprehensive Reviews in Food Science and Food Safety",
+    "xml": "papers/xml/PMC13066546.xml",
+    "text": "papers/txt/PMC13066546.txt",
+    "paras": 103,
+    "words": 23315,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13066546"
+  },
+  {
+    "pmcid": "PMC13593624",
+    "themes": [
+      "ms"
+    ],
+    "year": 2026,
+    "title": "Low Analytical Evaluation Threshold in Leachables Screening: C (140 段)",
+    "doi": "10.1007/s11095-026-04151-y",
+    "journal": "Pharmaceutical Research",
+    "xml": "papers/xml/PMC13593624.xml",
+    "text": "papers/txt/PMC13593624.txt",
+    "paras": 140,
+    "words": 12342,
+    "tags": [
+      "ms"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13593624"
+  },
+  {
+    "pmcid": "PMC13623913",
+    "doi": "10.3389/fbioe.2026.1929744",
+    "pmid": "42819341",
+    "title": "Engineering small peptide secretion in &lt;i&gt;Komagataella phaffii&lt;/i&gt;.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13623913",
+    "xml": "papers/xml/PMC13623913.xml",
+    "text": "papers/txt/PMC13623913.txt",
+    "paras": 84
+  },
+  {
+    "pmcid": "PMC13666820",
+    "doi": null,
+    "pmid": null,
+    "title": "Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry and Gas Chromatography-Mass Spectrometry Screening of Classical Psychoactive Substances, Novel Psychoactive Substances, and Metabolites in Postmortem Urine Samples",
+    "journal": "Molecules (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13666820",
+    "xml": "papers/xml/PMC13666820.xml",
+    "text": "papers/txt/PMC13666820.txt",
+    "paras": 41
+  },
+  {
+    "pmcid": "PMC13302567",
+    "doi": "10.3390/jox16030093",
+    "pmid": "42346415",
+    "title": "Analysis and Risks of Emerging Contaminants and Microplastics in Natural and Treated Waters and Human Health: A Critical Review.",
+    "journal": "Journal of xenobiotics",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13302567",
+    "xml": "papers/xml/PMC13302567.xml",
+    "text": "papers/txt/PMC13302567.txt",
+    "paras": 179
+  },
+  {
+    "pmcid": "PMC13124081",
+    "doi": "10.1002/ansa.70088",
+    "pmid": "42058445",
+    "title": "Rapid Analysis of Sports Prohibited Substances in Black Market Pharmaceutical Products Using Atmospheric Solids Analysis Probe-Mass Spectrometry.",
+    "journal": "Analytical science advances",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13124081",
+    "xml": "papers/xml/PMC13124081.xml",
+    "text": "papers/txt/PMC13124081.txt",
+    "paras": 77
+  },
+  {
+    "pmcid": "PMC13611223",
+    "doi": "10.3390/toxics14090803",
+    "pmid": "42797722",
+    "title": "Environmental Chemical Exposomics and Metabolomics in Toxicology: Recent Advances.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "代谢组学"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13611223",
+    "xml": "papers/xml/PMC13611223.xml",
+    "text": "papers/txt/PMC13611223.txt",
+    "paras": 20
+  },
+  {
+    "pmcid": "PMC13652719",
+    "doi": null,
+    "pmid": null,
+    "title": "Identifying Differentially Expressed Proteins via Plasma Exosomal Proteomics",
+    "journal": "Bio-protocol",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "蛋白质组学"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13652719",
+    "xml": "papers/xml/PMC13652719.xml",
+    "text": "papers/txt/PMC13652719.txt",
+    "paras": 170
+  },
+  {
+    "pmcid": "PMC13603888",
+    "doi": "10.3390/bioengineering13091040",
+    "pmid": "42791912",
+    "title": "From Machine Learning-Enhanced Proteomics to a Validated Diagnostic Model: A Pipeline for Breast Cancer Biomarker Discovery via Independent and Transcriptomic Corroboration.",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "蛋白质组学"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13603888",
+    "xml": "papers/xml/PMC13603888.xml",
+    "text": "papers/txt/PMC13603888.txt",
+    "paras": 57
+  },
+  {
+    "pmcid": "PMC13541997",
+    "doi": "10.1007/s00216-026-06532-z",
+    "pmid": "42104159",
+    "title": "Comprehensive characterisation of organic pollutants in high-polluted sediments and gull eggs using a broad-scope gas chromatography-Orbitrap methodology.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "高分辨质谱"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13541997",
+    "xml": "papers/xml/PMC13541997.xml",
+    "text": "papers/txt/PMC13541997.txt",
+    "paras": 62
+  },
+  {
+    "pmcid": "PMC13671053",
+    "doi": null,
+    "pmid": null,
+    "title": "Screening and identification of a novel umami peptide with in vitro anti-inflammatory potential from sea cucumber protein: Integration of flavoromics, bioinformatic prediction, molecular simulation and experimental validation",
+    "journal": "Food chemistry: X",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "定量与验证"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13671053",
+    "xml": "papers/xml/PMC13671053.xml",
+    "text": "papers/txt/PMC13671053.txt",
+    "paras": 84
+  },
+  {
+    "pmcid": "PMC13407509",
+    "doi": "10.3390/foods15142467",
+    "pmid": "42511214",
+    "title": "Microchemical Techniques for Multiclass Fungicide Residue Analysis in Complex Food Matrices.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13407509",
+    "xml": "papers/xml/PMC13407509.xml",
+    "text": "papers/txt/PMC13407509.txt",
+    "paras": 66
+  },
+  {
+    "pmcid": "PMC13499498",
+    "doi": "10.1016/j.fsisyn.2026.100701",
+    "pmid": "42633410",
+    "title": "Interpol review of forensic drug chemistry, 2022-2025.",
+    "journal": "Forensic science international. Synergy",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13499498",
+    "xml": "papers/xml/PMC13499498.xml",
+    "text": "papers/txt/PMC13499498.txt",
+    "paras": 97
+  },
+  {
+    "pmcid": "PMC13349675",
+    "doi": "10.46234/ccdcw2026.121",
+    "pmid": "42434694",
+    "title": "Emerging Chemical Hazards in Animal-Derived Foods: From Public Health to Detection and Control Solutions.",
+    "journal": "China CDC weekly",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13349675",
+    "xml": "papers/xml/PMC13349675.xml",
+    "text": "papers/txt/PMC13349675.txt",
+    "paras": 22
+  },
+  {
+    "pmcid": "PMC13425548",
+    "doi": "10.1021/acs.analchem.6c02768",
+    "pmid": "42457645",
+    "title": "Integrating Suspect and Nontargeted Screening for Food Safety Testing: A Case Study of Bee Pollen Supplements.",
+    "journal": "Analytical chemistry",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13425548",
+    "xml": "papers/xml/PMC13425548.xml",
+    "text": "papers/txt/PMC13425548.txt",
+    "paras": 48
+  },
+  {
+    "pmcid": "PMC13658488",
+    "doi": "10.1007/s00216-026-06701-0",
+    "pmid": "42542444",
+    "title": "Suspect screening-based LC-HRMS characterization of short-chain peptide hydrolysates from marine macroalgae.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "高分辨质谱"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13658488",
+    "xml": "papers/xml/PMC13658488.xml",
+    "text": "papers/txt/PMC13658488.txt",
+    "paras": 51
+  },
+  {
+    "pmcid": "PMC13473578",
+    "doi": "10.1038/s41467-026-75038-0",
+    "pmid": "42409848",
+    "title": "Large-scale discovery and annotation of substructure patterns in mass spectrometry profiles.",
+    "journal": "Nature communications",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 6,
+    "url": "https://europepmc.org/article/PMC/PMC13473578",
+    "xml": "papers/xml/PMC13473578.xml",
+    "text": "papers/txt/PMC13473578.txt",
+    "paras": 119
+  },
+  {
+    "pmcid": "PMC13541874",
+    "doi": "10.1007/s00216-026-06512-3",
+    "pmid": "42047788",
+    "title": "Assessing emerging contaminants in Antarctic benthic marine fauna: a dual mass spectrometry investigation combining targeted and suspect screening approaches.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "高分辨质谱"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13541874",
+    "xml": "papers/xml/PMC13541874.xml",
+    "text": "papers/txt/PMC13541874.txt",
+    "paras": 84
+  },
+  {
+    "pmcid": "PMC13516829",
+    "doi": "10.3390/molecules31162938",
+    "pmid": "42654018",
+    "title": "Multi-Platform Metabolomics for Fraud Detection in Spices and Botanical Food Supplements: From Fingerprint Acquisition to Decision-Grade Evidence.",
+    "journal": "Molecules (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "代谢组学"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13516829",
+    "xml": "papers/xml/PMC13516829.xml",
+    "text": "papers/txt/PMC13516829.txt",
+    "paras": 130
+  },
+  {
+    "pmcid": "PMC13063162",
+    "doi": "10.1021/acsomega.5c08713",
+    "pmid": "41970918",
+    "title": "Suspect Screening for PFAS in Groundwater with an Accessible LC-MS Workflow.",
+    "journal": "ACS omega",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "高分辨质谱"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13063162",
+    "xml": "papers/xml/PMC13063162.xml",
+    "text": "papers/txt/PMC13063162.txt",
+    "paras": 78
+  },
+  {
+    "pmcid": "PMC13257398",
+    "doi": "10.3390/foods15112001",
+    "pmid": "42279787",
+    "title": "Suspected and Non-Targeted Screening of Non-Edible Substances in Food by UPLC-Q-TOF-MS.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "非靶向筛查与鉴定",
+      "高分辨质谱"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13257398",
+    "xml": "papers/xml/PMC13257398.xml",
+    "text": "papers/txt/PMC13257398.txt",
+    "paras": 68
+  },
+  {
+    "pmcid": "PMC13611334",
+    "doi": "10.3390/toxins18090395",
+    "pmid": "42784319",
+    "title": "Multiclass Cyanotoxins in Aquatic Environments: Occurrence, Impacts and Detection Techniques.",
+    "journal": "Toxins",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13611334",
+    "xml": "papers/xml/PMC13611334.xml",
+    "text": "papers/txt/PMC13611334.txt",
+    "paras": 75
+  },
+  {
+    "pmcid": "PMC13296496",
+    "doi": "10.1021/acs.est.5c18068",
+    "pmid": "42262507",
+    "title": "ToxBase: A Multidimensional ToxCast Reference Database for High-Throughput Human Exposome Analysis.",
+    "journal": "Environmental science & technology",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13296496",
+    "xml": "papers/xml/PMC13296496.xml",
+    "text": "papers/txt/PMC13296496.txt",
+    "paras": 57
+  },
+  {
+    "pmcid": "PMC13325860",
+    "doi": "10.1021/acs.est.6c01661",
+    "pmid": "42304736",
+    "title": "Integrated Chemical and Toxicity Screening of Tap Drinking Water across Western Oregon Using Suspect and Nontarget Screening.",
+    "journal": "Environmental science & technology",
+    "year": "2026",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13325860",
+    "xml": "papers/xml/PMC13325860.xml",
+    "text": "papers/txt/PMC13325860.txt",
+    "paras": 46
+  },
+  {
+    "pmcid": "PMC13642712",
+    "doi": null,
+    "pmid": null,
+    "title": "Multivariate statistical analysis of chemical components, origin, variety, and sensory quality of domestic cigar tobacco leaves",
+    "journal": "Frontiers in chemistry",
+    "year": null,
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13642712",
+    "xml": "papers/xml/PMC13642712.xml",
+    "text": "papers/txt/PMC13642712.txt",
+    "paras": 110
+  },
+  {
+    "pmcid": "PMC13668877",
+    "doi": null,
+    "pmid": null,
+    "title": "A novel digital identification strategy for licorice raw materials: TCM-ID with common/exclusive ion matrices and hierarchical matching",
+    "journal": "Frontiers in chemistry",
+    "year": null,
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13668877",
+    "xml": "papers/xml/PMC13668877.xml",
+    "text": "papers/txt/PMC13668877.txt",
+    "paras": 73
+  },
+  {
+    "pmcid": "PMC13585053",
+    "doi": null,
+    "pmid": null,
+    "title": "Expanding the Scope of PFAS Research to Include Adipose Tissues",
+    "journal": "Environmental science & technology",
+    "year": null,
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13585053",
+    "xml": "papers/xml/PMC13585053.xml",
+    "text": "papers/txt/PMC13585053.txt",
+    "paras": 31
+  },
+  {
+    "pmcid": "PMC13647195",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme no (86 段)",
+    "doi": "10.2903/j.efsa.2026.10340",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13647195.xml",
+    "text": "papers/txt/PMC13647195.txt",
+    "paras": 86,
+    "words": 3738,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13647195"
+  },
+  {
+    "pmcid": "PMC13613427",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme en (91 段)",
+    "doi": "10.2903/j.efsa.2026.10335",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13613427.xml",
+    "text": "papers/txt/PMC13613427.txt",
+    "paras": 91,
+    "words": 3960,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13613427"
+  },
+  {
+    "pmcid": "PMC13643832",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme phospholipase A1 from the (161 段)",
+    "doi": "10.2903/j.efsa.2026.10341",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13643832.xml",
+    "text": "papers/txt/PMC13643832.txt",
+    "paras": 161,
+    "words": 6568,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13643832"
+  },
+  {
+    "pmcid": "PMC13628449",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme cellulase from the geneti (201 段)",
+    "doi": "10.2903/j.efsa.2026.10331",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13628449.xml",
+    "text": "papers/txt/PMC13628449.txt",
+    "paras": 201,
+    "words": 7493,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13628449"
+  },
+  {
+    "pmcid": "PMC13647199",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme cyclomaltodextrin glucano (151 段)",
+    "doi": "10.2903/j.efsa.2026.10342",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13647199.xml",
+    "text": "papers/txt/PMC13647199.txt",
+    "paras": 151,
+    "words": 5188,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13647199"
+  },
+  {
+    "pmcid": "PMC13670137",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme endo‐polygalacturonase fr (205 段)",
+    "doi": "10.2903/j.efsa.2026.10333",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13670137.xml",
+    "text": "papers/txt/PMC13670137.txt",
+    "paras": 205,
+    "words": 8677,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13670137"
+  },
+  {
+    "pmcid": "PMC13647196",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme containing endo‐polygalac (198 段)",
+    "doi": "10.2903/j.efsa.2026.10330",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13647196.xml",
+    "text": "papers/txt/PMC13647196.txt",
+    "paras": 198,
+    "words": 8698,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13647196"
+  },
+  {
+    "pmcid": "PMC13674153",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of a food enzyme containing cellulase and en (231 段)",
+    "doi": "10.2903/j.efsa.2026.10339",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13674153.xml",
+    "text": "papers/txt/PMC13674153.txt",
+    "paras": 231,
+    "words": 9562,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13674153"
+  },
+  {
+    "pmcid": "PMC13624930",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of the food enzyme aspergillopepsin I from t (250 段)",
+    "doi": "10.2903/j.efsa.2026.10338",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13624930.xml",
+    "text": "papers/txt/PMC13624930.txt",
+    "paras": 250,
+    "words": 9454,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13624930"
+  },
+  {
+    "pmcid": "PMC13643652",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of a food enzyme containing leucyl aminopept (239 段)",
+    "doi": "10.2903/j.efsa.2026.10332",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13643652.xml",
+    "text": "papers/txt/PMC13643652.txt",
+    "paras": 239,
+    "words": 9084,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13643652"
+  },
+  {
+    "pmcid": "PMC13373769",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme α- (88 段)",
+    "doi": "10.2903/j.efsa.2026.10214",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13373769.xml",
+    "text": "papers/txt/PMC13373769.txt",
+    "paras": 88,
+    "words": 3871,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13373769"
+  },
+  {
+    "pmcid": "PMC13370326",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme α- (91 段)",
+    "doi": "10.2903/j.efsa.2026.10213",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13370326.xml",
+    "text": "papers/txt/PMC13370326.txt",
+    "paras": 91,
+    "words": 3607,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13370326"
+  },
+  {
+    "pmcid": "PMC13366396",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme α- (94 段)",
+    "doi": "10.2903/j.efsa.2026.10201",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13366396.xml",
+    "text": "papers/txt/PMC13366396.txt",
+    "paras": 94,
+    "words": 3879,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13366396"
+  },
+  {
+    "pmcid": "PMC13352140",
+    "themes": [
+      "risk"
+    ],
+    "year": 2026,
+    "title": "Safety evaluation of an extension of use of the food enzyme en (89 段)",
+    "doi": "10.2903/j.efsa.2026.10215",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13352140.xml",
+    "text": "papers/txt/PMC13352140.txt",
+    "paras": 89,
+    "words": 3895,
+    "tags": [
+      "risk"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13352140"
+  },
+  {
+    "pmcid": "PMC13621334",
+    "doi": "10.2903/j.efsa.2026.e240901",
+    "pmid": "42812922",
+    "title": "EFSA needs for scientific excellence and regulatory readiness.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13621334",
+    "xml": "papers/xml/PMC13621334.xml",
+    "text": "papers/txt/PMC13621334.txt",
+    "paras": 240
+  },
+  {
+    "pmcid": "PMC13334363",
+    "doi": "10.2903/j.efsa.2026.10181",
+    "pmid": "42440778",
+    "title": "Safety evaluation of an extension of use of the food enzyme endo 1,4-β-xylanase from the genetically modified &lt;i&gt;Aspergillus oryzae&lt;/i&gt; strain NZYM-FB.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13334363",
+    "xml": "papers/xml/PMC13334363.xml",
+    "text": "papers/txt/PMC13334363.txt",
+    "paras": 88
+  },
+  {
+    "pmcid": "PMC13348825",
+    "doi": "10.2903/j.efsa.2026.10206",
+    "pmid": "42428972",
+    "title": "Safety evaluation of an extension of use of the food enzyme pullulanase from the genetically modified &lt;i&gt;Bacillus licheniformis&lt;/i&gt; strain NZYM-LU.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC13348825",
+    "xml": "papers/xml/PMC13348825.xml",
+    "text": "papers/txt/PMC13348825.txt",
+    "paras": 87
+  },
+  {
+    "pmcid": "PMC13370318",
+    "doi": "10.2903/j.efsa.2026.10198",
+    "pmid": "42459450",
+    "title": "Safety evaluation of an extension of use of the food enzyme α-amylase from the non-genetically modified &lt;i&gt;Bacillus amyloliquefaciens&lt;/i&gt; strain LMG-S 32676.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13370318",
+    "xml": "papers/xml/PMC13370318.xml",
+    "text": "papers/txt/PMC13370318.txt",
+    "paras": 94
+  },
+  {
+    "pmcid": "PMC13373770",
+    "doi": "10.2903/j.efsa.2026.10199",
+    "pmid": "42466175",
+    "title": "Safety evaluation of an extension of use of the food enzyme α-amylase from the genetically modified &lt;i&gt;Bacillus licheniformis&lt;/i&gt; strain NZYM-KE.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13373770",
+    "xml": "papers/xml/PMC13373770.xml",
+    "text": "papers/txt/PMC13373770.txt",
+    "paras": 103
+  },
+  {
+    "pmcid": "PMC13618386",
+    "doi": "10.2903/j.efsa.2026.10337",
+    "pmid": "42807995",
+    "title": "Safety evaluation of a food enzyme containing carboxypeptidase C, oryzin and leucyl aminopeptidase activities from the non-genetically modified &lt;i&gt;Aspergillus&lt;/i&gt; sp. strain FP 12-385.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13618386",
+    "xml": "papers/xml/PMC13618386.xml",
+    "text": "papers/txt/PMC13618386.txt",
+    "paras": 261
+  },
+  {
+    "pmcid": "PMC13359024",
+    "doi": "10.2903/j.efsa.2026.10219",
+    "pmid": "42444746",
+    "title": "Safety evaluation of an extension of use of the food enzyme endo-1,4-β-xylanase from the genetically modified &lt;i&gt;Trichoderma reesei&lt;/i&gt; strain NZYM-ER.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13359024",
+    "xml": "papers/xml/PMC13359024.xml",
+    "text": "papers/txt/PMC13359024.txt",
+    "paras": 96
+  },
+  {
+    "pmcid": "PMC13370324",
+    "doi": "10.2903/j.efsa.2026.10204",
+    "pmid": "42459447",
+    "title": "Safety evaluation of an extension of use of the food enzyme phospholipase A1 from the genetically modified &lt;i&gt;Aspergillus niger&lt;/i&gt; strain NZYM-FP.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13370324",
+    "xml": "papers/xml/PMC13370324.xml",
+    "text": "papers/txt/PMC13370324.txt",
+    "paras": 102
+  },
+  {
+    "pmcid": "PMC13366399",
+    "doi": "10.2903/j.efsa.2026.10200",
+    "pmid": "42453128",
+    "title": "Safety evaluation of an extension of use of the food enzyme α-amylase from the genetically modified &lt;i&gt;Bacillus licheniformis&lt;/i&gt; strain NZYM-AC.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13366399",
+    "xml": "papers/xml/PMC13366399.xml",
+    "text": "papers/txt/PMC13366399.txt",
+    "paras": 99
+  },
+  {
+    "pmcid": "PMC13359265",
+    "doi": "10.2903/j.efsa.2026.10203",
+    "pmid": "42444743",
+    "title": "Safety evaluation of an extension of use of the food enzyme carboxypeptidase D from the genetically modified &lt;i&gt;Aspergillus oryzae&lt;/i&gt; strain NZYM-MK.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13359265",
+    "xml": "papers/xml/PMC13359265.xml",
+    "text": "papers/txt/PMC13359265.txt",
+    "paras": 88
+  },
+  {
+    "pmcid": "PMC13359028",
+    "doi": "10.2903/j.efsa.2026.10216",
+    "pmid": "42444742",
+    "title": "Safety evaluation of an extension of use of the food enzyme bacillolysin from the non-genetically modified &lt;i&gt;Bacillus amyloliquefaciens&lt;/i&gt; strain HPN 131.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC13359028",
+    "xml": "papers/xml/PMC13359028.xml",
+    "text": "papers/txt/PMC13359028.txt",
+    "paras": 116
+  },
+  {
+    "pmcid": "PMC13580035",
+    "doi": "10.3389/ftox.2026.1872816",
+    "pmid": "42751220",
+    "title": "Rewriting paracelsus: linking chemical assessment to public health.",
+    "journal": "Frontiers in toxicology",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13580035",
+    "xml": "papers/xml/PMC13580035.xml",
+    "text": "papers/txt/PMC13580035.txt",
+    "paras": 70
+  },
+  {
+    "pmcid": "PMC13564023",
+    "doi": "10.1021/acsomega.6c06636",
+    "pmid": "42730220",
+    "title": "Pyrrolizidine Alkaloids in Tea and Dietary Exposure Assessment of Tea Intake.",
+    "journal": "ACS omega",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13564023",
+    "xml": "papers/xml/PMC13564023.xml",
+    "text": "papers/txt/PMC13564023.txt",
+    "paras": 33
+  },
+  {
+    "pmcid": "PMC13188159",
+    "doi": "10.1021/acs.chemrestox.6c00103",
+    "pmid": "42083101",
+    "title": "An Integrated AIVIVE-PBPK-QIVIVE Framework with HTTK Validation for Probabilistic Risk Assessment of Neodymium Nitrate.",
+    "journal": "Chemical research in toxicology",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "不确定性与概率",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13188159",
+    "xml": "papers/xml/PMC13188159.xml",
+    "text": "papers/txt/PMC13188159.txt",
+    "paras": 45
+  },
+  {
+    "pmcid": "PMC13096188",
+    "doi": "10.1038/s41598-026-43176-6",
+    "pmid": "42009731",
+    "title": "Impact of extraction methods on Monte Carlo based dietary health risk assessment of potentially harmful elements in edible plants.",
+    "journal": "Scientific reports",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估",
+      "不确定性与概率",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13096188",
+    "xml": "papers/xml/PMC13096188.xml",
+    "text": "papers/txt/PMC13096188.txt",
+    "paras": 131
+  },
+  {
+    "pmcid": "PMC13517401",
+    "doi": "10.3390/toxics14080718",
+    "pmid": "42647000",
+    "title": "Probabilistic Ecological Risk Assessment of Synthetic Musk Compounds in the Han River Estuary: Integrating Multi-Year Monitoring and Explainable Machine Learning.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "不确定性与概率",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13517401",
+    "xml": "papers/xml/PMC13517401.xml",
+    "text": "papers/txt/PMC13517401.txt",
+    "paras": 70
+  },
+  {
+    "pmcid": "PMC12928422",
+    "doi": "10.1371/journal.pone.0341584",
+    "pmid": "41729859",
+    "title": "Health risk assessment of exposure to Polycyclic Aromatic Hydrocarbons in bread from Iranian markets: Application of monte carlo simulation approach.",
+    "journal": "PloS one",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估",
+      "不确定性与概率",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12928422",
+    "xml": "papers/xml/PMC12928422.xml",
+    "text": "papers/txt/PMC12928422.txt",
+    "paras": 71
+  },
+  {
+    "pmcid": "PMC12881550",
+    "doi": "10.1038/s41598-026-36387-4",
+    "pmid": "41535714",
+    "title": "A probabilistic assessment of dietary heavy metal exposure and its temporal trends in Chongqing China from 2012 to 2022.",
+    "journal": "Scientific reports",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估",
+      "不确定性与概率"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12881550",
+    "xml": "papers/xml/PMC12881550.xml",
+    "text": "papers/txt/PMC12881550.txt",
+    "paras": 64
+  },
+  {
+    "pmcid": "PMC12921804",
+    "doi": "10.3390/jox16010035",
+    "pmid": "41718278",
+    "title": "New Challenges in the Monitoring, Risk Assessment, and Management of Pesticides and Biocides in the \"One Health Era\".",
+    "journal": "Journal of xenobiotics",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "农药残留",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12921804",
+    "xml": "papers/xml/PMC12921804.xml",
+    "text": "papers/txt/PMC12921804.txt",
+    "paras": 54
+  },
+  {
+    "pmcid": "PMC13334814",
+    "doi": "10.1016/j.crfs.2026.101489",
+    "pmid": "42441262",
+    "title": "Residual characteristics and chronic health risk assessment of multiple pesticides in 23 daily-consumed vegetables from Shandong, China: A 4-year investigation.",
+    "journal": "Current research in food science",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "农药残留",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13334814",
+    "xml": "papers/xml/PMC13334814.xml",
+    "text": "papers/txt/PMC13334814.txt",
+    "paras": 69
+  },
+  {
+    "pmcid": "PMC12945265",
+    "doi": "10.3390/toxics14020150",
+    "pmid": "41745824",
+    "title": "Risk Assessment of Dibutyl Phthalate (DBP) and Bis(2-Ethylhexyl) Phthalate (DEHP) in Hot Pot Bases with a Hybrid Modeling Approach.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "风险评估"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC12945265",
+    "xml": "papers/xml/PMC12945265.xml",
+    "text": "papers/txt/PMC12945265.txt",
+    "paras": 72
+  },
+  {
+    "pmcid": "PMC12984358",
+    "doi": "10.3390/foods15050964",
+    "pmid": "41829237",
+    "title": "Migration and Safety Assessment of 20 Antioxidants in 39 Disposable Biodegradable Tableware Products.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12984358",
+    "xml": "papers/xml/PMC12984358.xml",
+    "text": "papers/txt/PMC12984358.txt",
+    "paras": 68
+  },
+  {
+    "pmcid": "PMC12839867",
+    "doi": "10.3390/foods15020239",
+    "pmid": "41596838",
+    "title": "Occurrence, Dietary Exposure, and Health Risk Assessment of Chlorinated Paraffins in Chicken Meat Across China.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12839867",
+    "xml": "papers/xml/PMC12839867.xml",
+    "text": "papers/txt/PMC12839867.txt",
+    "paras": 38
+  },
+  {
+    "pmcid": "PMC12830979",
+    "doi": "10.1038/s41598-025-32866-2",
+    "pmid": "41413267",
+    "title": "Probabilistic health risk assessment for dietary exposure to 3-monochloropropane-1,2-diol (3-MCPD) and 1,3-dichloropropan-2-ol (1,3-DCP) through consumption of commercial soup.",
+    "journal": "Scientific reports",
+    "year": "2025",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估",
+      "不确定性与概率",
+      "风险评估"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12830979",
+    "xml": "papers/xml/PMC12830979.xml",
+    "text": "papers/txt/PMC12830979.txt",
+    "paras": 70
+  },
+  {
+    "pmcid": "PMC13654981",
+    "doi": null,
+    "pmid": null,
+    "title": "Microbiota-based PBPK model: new approach methodology for assessing the kinetics of drugs and chemicals",
+    "journal": "Frontiers in pharmacology",
+    "year": null,
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "risk"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13654981",
+    "xml": "papers/xml/PMC13654981.xml",
+    "text": "papers/txt/PMC13654981.txt",
+    "paras": 94
+  },
+  {
+    "pmcid": "PMC13379458",
+    "themes": [
+      "tox",
+      "guides"
+    ],
+    "year": 2026,
+    "title": "Mutagenic and carcinogenic potency determinations for NDMA sup (57 段)",
+    "doi": "10.1007/s00204-026-04385-0",
+    "journal": "Archives of Toxicology",
+    "xml": "papers/xml/PMC13379458.xml",
+    "text": "papers/txt/PMC13379458.txt",
+    "paras": 57,
+    "words": 12602,
+    "tags": [
+      "遗传毒性与致癌"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13379458"
+  },
+  {
+    "pmcid": "PMC13417730",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Scientific Opinion on waiving of the dog studies in the regula (558 段)",
+    "doi": "10.2903/j.efsa.2026.10239",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13417730.xml",
+    "text": "papers/txt/PMC13417730.txt",
+    "paras": 558,
+    "words": 29815,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13417730"
+  },
+  {
+    "pmcid": "PMC13284742",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Statement on the findings presented in the Toxicological Profi (202 段)",
+    "doi": "10.2903/j.efsa.2026.10156",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13284742.xml",
+    "text": "papers/txt/PMC13284742.txt",
+    "paras": 202,
+    "words": 12377,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13284742"
+  },
+  {
+    "pmcid": "PMC13086658",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Development of a QSAR model for predicting PPARα activation by (151 段)",
+    "doi": "10.1007/s00204-026-04359-2",
+    "journal": "Archives of Toxicology",
+    "xml": "papers/xml/PMC13086658.xml",
+    "text": "papers/txt/PMC13086658.txt",
+    "paras": 151,
+    "words": 15731,
+    "tags": [
+      "计算毒理"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13086658"
+  },
+  {
+    "pmcid": "PMC13221417",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Neurodevelopmental effects of methylmercury (MeHg): a review o (256 段)",
+    "doi": "10.1007/s00204-026-04345-8",
+    "journal": "Archives of Toxicology",
+    "xml": "papers/xml/PMC13221417.xml",
+    "text": "papers/txt/PMC13221417.txt",
+    "paras": 256,
+    "words": 28118,
+    "tags": [
+      "法规与指南"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13221417"
+  },
+  {
+    "pmcid": "PMC12871449",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Rapid risk assessment on acute reference dose (ARfD) of cereul (8 段)",
+    "doi": "10.2903/j.efsa.2026.9941",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC12871449.xml",
+    "text": "papers/txt/PMC12871449.txt",
+    "paras": 8,
+    "words": 3661,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12871449"
+  },
+  {
+    "pmcid": "PMC13613164",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Synergistic effects of combined exposure to hydroquinone and n (97 段)",
+    "doi": "10.2478/aiht-2026-77-4146",
+    "journal": "Archives of Industrial Hygiene and Toxicology",
+    "xml": "papers/xml/PMC13613164.xml",
+    "text": "papers/txt/PMC13613164.txt",
+    "paras": 97,
+    "words": 8697,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13613164"
+  },
+  {
+    "pmcid": "PMC13117112",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Benchmark Approach to Unravel Fluoride Toxicity: Liver and Kid (63 段)",
+    "doi": "10.3390/jox16020063",
+    "journal": "Journal of Xenobiotics",
+    "xml": "papers/xml/PMC13117112.xml",
+    "text": "papers/txt/PMC13117112.txt",
+    "paras": 63,
+    "words": 15174,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13117112"
+  },
+  {
+    "pmcid": "PMC13163406",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Glutamate: Safe and Adequate Intake Levels for Infants-<i&g (99 段)",
+    "doi": "10.3390/foods15091530",
+    "journal": "Foods",
+    "xml": "papers/xml/PMC13163406.xml",
+    "text": "papers/txt/PMC13163406.txt",
+    "paras": 99,
+    "words": 12769,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13163406"
+  },
+  {
+    "pmcid": "PMC13403159",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Update of the risk assessment on emerging and novel brominated (3845 段)",
+    "doi": "10.2903/j.efsa.2026.10187",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC13403159.xml",
+    "text": "papers/txt/PMC13403159.txt",
+    "paras": 3845,
+    "words": 142886,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13403159"
+  },
+  {
+    "pmcid": "PMC12884199",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Update of the statement on safety of cannabidiol as a novel fo (1073 段)",
+    "doi": "10.2903/j.efsa.2026.9862",
+    "journal": "EFSA Journal",
+    "xml": "papers/xml/PMC12884199.xml",
+    "text": "papers/txt/PMC12884199.txt",
+    "paras": 1073,
+    "words": 29884,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12884199"
+  },
+  {
+    "pmcid": "PMC13355825",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Advancing next-generation risk assessment for cosmetic ingredi (207 段)",
+    "doi": "10.1016/j.namjnl.2026.100106",
+    "journal": "NAM journal",
+    "xml": "papers/xml/PMC13355825.xml",
+    "text": "papers/txt/PMC13355825.txt",
+    "paras": 207,
+    "words": 26402,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13355825"
+  },
+  {
+    "pmcid": "PMC13330514",
+    "themes": [
+      "tox"
+    ],
+    "year": 2026,
+    "title": "Cross-study analysis identifies estrogen depletion and exposur (56 段)",
+    "doi": "10.1016/j.toxrep.2026.102305",
+    "journal": "Toxicology Reports",
+    "xml": "papers/xml/PMC13330514.xml",
+    "text": "papers/txt/PMC13330514.txt",
+    "paras": 56,
+    "words": 6603,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC13330514"
+  },
+  {
+    "pmcid": "PMC12839768",
+    "doi": "10.3390/foods15020244",
+    "pmid": "41596843",
+    "title": "Risk Assessment of Chemical Mixtures in Foods: A Comprehensive Methodological and Regulatory Review.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "法规与指南"
+    ],
+    "citedBy": 6,
+    "url": "https://europepmc.org/article/PMC/PMC12839768",
+    "xml": "papers/xml/PMC12839768.xml",
+    "text": "papers/txt/PMC12839768.txt",
+    "paras": 140
+  },
+  {
+    "pmcid": "PMC13290123",
+    "doi": "10.3389/ftox.2026.1847761",
+    "pmid": "42344759",
+    "title": "Establishing scientific confidence: human biological relevance of reconstructed human respiratory epithelium (RHRE) for assessing respiratory effects.",
+    "journal": "Frontiers in toxicology",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13290123",
+    "xml": "papers/xml/PMC13290123.xml",
+    "text": "papers/txt/PMC13290123.txt",
+    "paras": 70
+  },
+  {
+    "pmcid": "PMC13613497",
+    "doi": "10.3389/fbioe.2026.1769254",
+    "pmid": "42799080",
+    "title": "Radiomics in spinal research: a narrative review.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "法规与指南"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13613497",
+    "xml": "papers/xml/PMC13613497.xml",
+    "text": "papers/txt/PMC13613497.txt",
+    "paras": 122
+  },
+  {
+    "pmcid": "PMC13593692",
+    "doi": "10.1007/s00204-026-04457-1",
+    "pmid": "42228136",
+    "title": "The in vitro alkaline comet assay with liver models as a complementary tool for genotoxicity assessment of N-nitrosamines.",
+    "journal": "Archives of toxicology",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "替代方法/NAMs",
+      "遗传毒性与致癌"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13593692",
+    "xml": "papers/xml/PMC13593692.xml",
+    "text": "papers/txt/PMC13593692.txt",
+    "paras": 162
+  },
+  {
+    "pmcid": "PMC13431130",
+    "doi": "10.2903/j.efsa.2026.10251",
+    "pmid": "42549235",
+    "title": "Safety and efficacy of a feed additive consisting of nicarbazin (NICACOX®) for chickens for fattening and chickens reared for laying (Huvepharma N.V.).",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13431130",
+    "xml": "papers/xml/PMC13431130.xml",
+    "text": "papers/txt/PMC13431130.txt",
+    "paras": 499
+  },
+  {
+    "pmcid": "PMC13638729",
+    "doi": "10.1007/s10565-026-10228-6",
+    "pmid": "42432198",
+    "title": "Co-exposure to polystyrene nanoparticles and tetrabromobisphenol A induces genotoxicity and interferes with intestinal barrier differentiation.",
+    "journal": "Cell biology and toxicology",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "遗传毒性与致癌"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13638729",
+    "xml": "papers/xml/PMC13638729.xml",
+    "text": "papers/txt/PMC13638729.txt",
+    "paras": 92
+  },
+  {
+    "pmcid": "PMC12846058",
+    "doi": "10.3390/toxics14010092",
+    "pmid": "41600641",
+    "title": "Extractables and Leachables in Pharmaceutical Products: Potential Adverse Effects and Toxicological Risk Assessment.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 3,
+    "url": "https://europepmc.org/article/PMC/PMC12846058",
+    "xml": "papers/xml/PMC12846058.xml",
+    "text": "papers/txt/PMC12846058.txt",
+    "paras": 163
+  },
+  {
+    "pmcid": "PMC13001115",
+    "doi": "10.3389/fpubh.2026.1775284",
+    "pmid": "41869597",
+    "title": "AI redefine untargeted metabolomics: estimating chemical amounts for a Human Exposome Project.",
+    "journal": "Frontiers in public health",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13001115",
+    "xml": "papers/xml/PMC13001115.xml",
+    "text": "papers/txt/PMC13001115.txt",
+    "paras": 178
+  },
+  {
+    "pmcid": "PMC13211588",
+    "doi": "10.3390/toxics14050398",
+    "pmid": "42198524",
+    "title": "Safety Assessment of &lt;i&gt;Sophora flavescens&lt;/i&gt; Root Extract for Cosmetic Use: An Integrated Approach Using In Vitro, In Silico MoS, TTC, and History of Safe Use.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "TTC",
+      "计算毒理",
+      "替代方法/NAMs"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13211588",
+    "xml": "papers/xml/PMC13211588.xml",
+    "text": "papers/txt/PMC13211588.txt",
+    "paras": 91
+  },
+  {
+    "pmcid": "PMC13611461",
+    "doi": "10.3390/toxics14090782",
+    "pmid": "42797701",
+    "title": "Establishing Proposition 65 Safe Harbor Levels for Estragole and Methyleugenol in Cosmetics: A Mechanistic Read-Across from Safrole.",
+    "journal": "Toxics",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "计算毒理",
+      "毒作用机制/AOP"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13611461",
+    "xml": "papers/xml/PMC13611461.xml",
+    "text": "papers/txt/PMC13611461.txt",
+    "paras": 89
+  },
+  {
+    "pmcid": "PMC13347273",
+    "doi": "10.1111/1541-4337.70552",
+    "pmid": "42422975",
+    "title": "Principles of Food Safety and Toxicological Risk Assessment: Refining Hazards, Risk Management Communication, and Common Misconceptions.",
+    "journal": "Comprehensive reviews in food science and food safety",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13347273",
+    "xml": "papers/xml/PMC13347273.xml",
+    "text": "papers/txt/PMC13347273.txt",
+    "paras": 170
+  },
+  {
+    "pmcid": "PMC13678575",
+    "doi": "10.1155/jamc/9609425",
+    "pmid": "42898726",
+    "title": "Tracing Hydrazine in Pharmaceuticals: Toxicological Concerns, Extraction Approaches, and Analytical Method Development.",
+    "journal": "Journal of analytical methods in chemistry",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13678575",
+    "xml": "papers/xml/PMC13678575.xml",
+    "text": "papers/txt/PMC13678575.txt",
+    "paras": 204
+  },
+  {
+    "pmcid": "PMC13377479",
+    "doi": "10.1016/j.crfs.2026.101483",
+    "pmid": "42491520",
+    "title": "&lt;i&gt;Alternaria&lt;/i&gt; toxins in tomato products: from analytical advances to risk assessment and regulatory needs.",
+    "journal": "Current research in food science",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "法规与指南"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13377479",
+    "xml": "papers/xml/PMC13377479.xml",
+    "text": "papers/txt/PMC13377479.txt",
+    "paras": 99
+  },
+  {
+    "pmcid": "PMC13115124",
+    "doi": "10.3390/foods15081387",
+    "pmid": "42073275",
+    "title": "Migration of 35 Siloxanes from Silicone Food Contact Materials in China and Their Potential Exposure Assessment.",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13115124",
+    "xml": "papers/xml/PMC13115124.xml",
+    "text": "papers/txt/PMC13115124.txt",
+    "paras": 61
+  },
+  {
+    "pmcid": "PMC13604187",
+    "doi": "10.3390/biom16091285",
+    "pmid": "42793117",
+    "title": "Laccase-Mediated Fabrication of Food Packaging Films: A Critical Review of Functional Performance, Safety, and Industrial Viability.",
+    "journal": "Biomolecules",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "法规与指南"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13604187",
+    "xml": "papers/xml/PMC13604187.xml",
+    "text": "papers/txt/PMC13604187.txt",
+    "paras": 105
+  },
+  {
+    "pmcid": "PMC13129612",
+    "doi": "10.2903/j.efsa.2026.10055",
+    "pmid": "42078839",
+    "title": "Flavouring Group Evaluation 82 Revision 2 (FGE.82Rev2): Consideration of epoxides evaluated by JECFA.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 1,
+    "url": "https://europepmc.org/article/PMC/PMC13129612",
+    "xml": "papers/xml/PMC13129612.xml",
+    "text": "papers/txt/PMC13129612.txt",
+    "paras": 380
+  },
+  {
+    "pmcid": "PMC13043536",
+    "doi": "10.1007/s00204-025-04275-x",
+    "pmid": "41501514",
+    "title": "The way forward for assessing the human health safety of cosmetics in the EU: Proceedings of Workshop 2.",
+    "journal": "Archives of toxicology",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 3,
+    "url": "https://europepmc.org/article/PMC/PMC13043536",
+    "xml": "papers/xml/PMC13043536.xml",
+    "text": "papers/txt/PMC13043536.txt",
+    "paras": 180
+  },
+  {
+    "pmcid": "PMC13512329",
+    "doi": "10.3390/ijerph23080949",
+    "pmid": "42652266",
+    "title": "Occurrence and Co-Occurrence of Regulated and Emerging Mycotoxins in Foods Marketed to U.S. Toddlers.",
+    "journal": "International journal of environmental research and public health",
+    "year": "2026",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC13512329",
+    "xml": "papers/xml/PMC13512329.xml",
+    "text": "papers/txt/PMC13512329.txt",
+    "paras": 167
+  },
+  {
+    "pmcid": "PMC12454481",
+    "themes": [
+      "tox"
+    ],
+    "year": 2025,
+    "title": "Alignment between Duplex Sequencing and transgenic rodent muta (57 段)",
+    "doi": "10.1007/s00204-025-04121-0",
+    "journal": "Archives of Toxicology",
+    "xml": "papers/xml/PMC12454481.xml",
+    "text": "papers/txt/PMC12454481.txt",
+    "paras": 57,
+    "words": 11527,
+    "tags": [
+      "tox"
+    ],
+    "url": "https://europepmc.org/article/PMC/PMC12454481"
+  },
+  {
+    "pmcid": "PMC11821704",
+    "doi": "10.1007/s00204-024-03951-8",
+    "pmid": "39751876",
+    "title": "Critical comparison of BMD and TD&lt;sub&gt;50&lt;/sub&gt; methods for the calculation of acceptable intakes for N-nitroso compounds.",
+    "journal": "Archives of toxicology",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "剂量-反应"
+    ],
+    "citedBy": 6,
+    "url": "https://europepmc.org/article/PMC/PMC11821704",
+    "xml": "papers/xml/PMC11821704.xml",
+    "text": "papers/txt/PMC11821704.txt",
+    "paras": 66
+  },
+  {
+    "pmcid": "PMC12645840",
+    "doi": "10.1093/bioadv/vbaf265",
+    "pmid": "41306380",
+    "title": "MutSeqR: an open source R package for standardized analysis of error-corrected next-generation sequencing data in genetic toxicology.",
+    "journal": "Bioinformatics advances",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC12645840",
+    "xml": "papers/xml/PMC12645840.xml",
+    "text": "papers/txt/PMC12645840.txt",
+    "paras": 88
+  },
+  {
+    "pmcid": "PMC12359848",
+    "doi": "10.1186/s12951-025-03647-w",
+    "pmid": "40826425",
+    "title": "Imogolite nanotube modifications impact pulmonary toxicity in mice: implications for safe and sustainable by design (SSbD).",
+    "journal": "Journal of nanobiotechnology",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 2,
+    "url": "https://europepmc.org/article/PMC/PMC12359848",
+    "xml": "papers/xml/PMC12359848.xml",
+    "text": "papers/txt/PMC12359848.txt",
+    "paras": 162
+  },
+  {
+    "pmcid": "PMC12720018",
+    "doi": "10.2903/j.efsa.2025.9814",
+    "pmid": "41439007",
+    "title": "Scientific Opinion on the application of physiologically based kinetic (PBK) modelling for the quantitative in vitro to in vivo extrapolation (QIVIVE) of developmental neurotoxicity in vitro battery (DNT IVB) data for pesticide active substances.",
+    "journal": "EFSA journal. European Food Safety Authority",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "替代方法/NAMs"
+    ],
+    "citedBy": 6,
+    "url": "https://europepmc.org/article/PMC/PMC12720018",
+    "xml": "papers/xml/PMC12720018.xml",
+    "text": "papers/txt/PMC12720018.txt",
+    "paras": 634
+  },
+  {
+    "pmcid": "PMC12723853",
+    "doi": "10.1186/s41021-025-00349-5",
+    "pmid": "41430355",
+    "title": "Guidelines for the assessment and control of mutagenic impurities in pharmaceuticals.",
+    "journal": "Genes and environment : the official journal of the Japanese Environmental Mutagen Society",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "遗传毒性与致癌"
+    ],
+    "citedBy": 3,
+    "url": "https://europepmc.org/article/PMC/PMC12723853",
+    "xml": "papers/xml/PMC12723853.xml",
+    "text": "papers/txt/PMC12723853.txt",
+    "paras": 102
+  },
+  {
+    "pmcid": "PMC12391825",
+    "doi": "10.1016/j.toxrep.2025.102112",
+    "pmid": "40893791",
+    "title": "&lt;i&gt;In&lt;/i&gt; silico toxicological risk assessment of chemical constituents from &lt;i&gt;Curtisia dentata&lt;/i&gt; stem-bark extract.",
+    "journal": "Toxicology reports",
+    "year": "2025",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 0,
+    "url": "https://europepmc.org/article/PMC/PMC12391825",
+    "xml": "papers/xml/PMC12391825.xml",
+    "text": "papers/txt/PMC12391825.txt",
+    "paras": 71
+  },
+  {
+    "pmcid": "PMC11489165",
+    "doi": "10.1007/s00204-024-03835-x",
+    "pmid": "39153032",
+    "title": "Mono-n-hexyl phthalate: exposure estimation and assessment of health risks based on levels found in human urine samples.",
+    "journal": "Archives of toxicology",
+    "year": "2024",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "citedBy": 3,
+    "url": "https://europepmc.org/article/PMC/PMC11489165",
+    "xml": "papers/xml/PMC11489165.xml",
+    "text": "papers/txt/PMC11489165.txt",
+    "paras": 100
+  },
+  {
+    "themes": [
+      "tox",
+      "guides"
+    ],
+    "year": 2020,
+    "journal": "Regulatory Toxicology and Pharmacology 2020;118:104807",
+    "doi": "10.1016/j.yrtph.2020.104807",
+    "title": "Management of pharmaceutical ICH M7 (Q)SAR predictions - the impact of model version updates",
+    "tags": [
+      "(Q)SAR/ICH M7",
+      "TTC/1.5 µg·d",
+      "模型版本漂移"
+    ],
+    "paras": 76,
+    "words": 12123,
+    "xml": "papers/xml/PMC7734868.xml",
+    "text": "papers/txt/PMC7734868.txt",
+    "url": "https://europepmc.org/article/PMC/PMC7734868",
+    "pmcid": "PMC7734868"
+  },
+  {
+    "themes": [
+      "tox",
+      "guides"
+    ],
+    "year": 2019,
+    "journal": "Regulatory Toxicology and Pharmacology 2019;102:53-64",
+    "doi": "10.1016/j.yrtph.2018.12.007",
+    "title": "Principles and procedures for handling out-of-domain and indeterminate results as part of ICH M7 recommended (Q)SAR analyses (Amberg et al.)",
+    "tags": [
+      "(Q)SAR/ICH M7",
+      "适用域/OOD"
+    ],
+    "paras": 94,
+    "words": 8979,
+    "xml": "papers/xml/PMC7500704.xml",
+    "text": "papers/txt/PMC7500704.txt",
+    "url": "https://europepmc.org/article/PMC/PMC7500704",
+    "pmcid": "PMC7500704"
+  }
+]

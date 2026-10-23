@@ -1,0 +1,79 @@
+# Mass Spectrometry for Biomedical and Food Analysis (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-0699-7
+- 页数: 210
+- 全文: `text/mdpi/Mass_Spectrometry_for_Biomedical_and_Food_Analysis_2024.txt`
+- 标签: risk, 样品前处理
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Xianjiang Li and Wen Ma
+- Mass Spectrometry for Biomedical and Food Analysis
+- Reprinted from: Molecules 2024, 29, 1290, doi:10.3390/molecules29061290 . . . . . . . . . . . . . .               1
+- Tuo Qin, Xiaojuan Rong, Xiaohui Zhang, Lingfei Kong, Yutong Kang and Xuanlin Liu et al.
+- Lipid Mediators Metabolic Chaos of Asthmatic Mice Reversed by Rosmarinic Acid
+- Reprinted from: Molecules 2023, 28, 3827, doi:10.3390/molecules28093827 . . . . . . . . . . . . . .               5
+- Madhuri Jayathirtha, Taniya Jayaweera, Danielle Whitham, Isabelle Sullivan, Brı̂ndus, a
+- Alina Petre and Costel C. Darie et al.
+- Two-Dimensional-PAGE Coupled with nLC-MS/MS-Based Identification of Differentially
+- Expressed Proteins and Tumorigenic Pathways in MCF7 Breast Cancer Cells
+- Transfected for JTB Protein Silencing
+- Reprinted from: Molecules 2023, 28, 7501, doi:10.3390/molecules28227501 . . . . . . . . . . . . . . 19
+- Piotr Kośliński, Robert Pluskota, Marcin Koba, Zygmunt Siedlecki and Maciej Śniegocki
+- Comparative Analysis of Amino Acid Profiles in Patients with Glioblastoma and Meningioma
+- Using Liquid Chromatography Electrospray Ionization Tandem Mass Spectrometry
+- (LC-ESI-MS/MS)
+- Reprinted from: Molecules 2023, 28, 7699, doi:10.3390/molecules28237699 . . . . . . . . . . . . . . 51
+- Mariachiara Bianco, Giovanni Ventura, Cosima Damiana Calvano, Ilario Losito, Tommaso R.
+- I. Cataldi and Antonio Monopoli
+- Matrix Selection Strategies for MALDI-TOF MS/MS Characterization of Cyclic Tetrapyrroles in
+- Blood and Food Samples
+- Reprinted from: Molecules 2024, 29, 868, doi:10.3390/molecules29040868 . . . . . . . . . . . . . . 69
+- Mingxia Liu, Wen Ma, Yi He, Zuoli Sun and Jian Yang
+- Recent Progress in Mass Spectrometry-Based Metabolomics in Major Depressive Disorder
+- Research
+- Reprinted from: Molecules 2023, 28, 7430, doi:10.3390/molecules28217430 . . . . . . . . . . . . . . 84
+- Chen He, Qin Gao, Changwen Ye, Guotao Yang, Pengfei Zhang and Rongchao Yang et al.
+- Development of a Purity Certified Reference Material for Vinyl Acetate
+- Reprinted from: Molecules 2023, 28, 6245, doi:10.3390/molecules28176245 . . . . . . . . . . . . . . 106
+- Xianjiang Li, Wei Zhang, Xiao Li, Shukun Zhou, Mengling Tu and Yunxiao Zhu et al.
+- Purity Assessment of Dinotefuran Using Mass Balance and Quantitative Nuclear Magnetic
+- Resonance
+- Reprinted from: Molecules 2023, 28, 3884, doi:10.3390/molecules28093884 . . . . . . . . . . . . . . 122
+- Xiao Li, Ling Shi, Panshu Song, Wei Cai, Ximing Luo and Bo Zhao
+- Certification of New Selenium-Enriched Yeast and Supplement Reference Materials for
+- Selenomethionine Using Two Independent Measurement Strategies
+- Reprinted from: Molecules 2024, 29, 235, doi:10.3390/molecules29010235 . . . . . . . . . . . . . . 133
+- Yue Wang, Tingjie Huang, Tao Zhang, Xiaoping Ma, Guangshuo Zhou and Meiyao Chi et al.
+- Residue Levels and Dietary Intake Risk Assessments of 139 Pesticides in Agricultural Produce
+- Using the m-PFC Method Based on SBA-15-C18 with GC-MS/MS
+- Reprinted from: Molecules 2023, 28, 2480, doi:10.3390/molecules28062480 . . . . . . . . . . . . . . 145
+-                                                          v
+- Kangcong Li, Yan Gao, Xiuqin Li, Yan Zhang, Benfeng Zhu and Qinghe Zhang
+- Fragmentation Pathway of Organophosphorus Flame Retardants by Liquid
+- Chromatography–Orbitrap-Based High-Resolution Mass Spectrometry
+- Reprinted from: Molecules 2024, 29, 680, doi:10.3390/molecules29030680 . . . . . . . . . . . . . . 159
+- Jiali Fan, Feng Liu, Wenhua Ji, Xiao Wang and Lili Li
+- Comprehensive Investigation of Ginsenosides in the Steamed Panax quinquefolius with Different
+- Processing Conditions Using LC-MS
+- Reprinted from: Molecules 2024, 29, 623, doi:10.3390/molecules29030623 . . . . . . . . . . . . . . 172
+- Zeyang Liu, Susu Pan, Peize Wu, Ming Li and Dapeng Liang
+- Determination of A1 and A2 β-Casein in Milk Using Characteristic Thermolytic Peptides via
+- Liquid Chromatography-Mass Spectrometry
+- Reprinted from: Molecules 2023, 28, 5200, doi:10.3390/molecules28135200 . . . . . . . . . . . . . . 188
+-                                                   vi
+- About the Editors
+- Wen Ma
+-      Wen Ma received her B.S. degree from Wuhan University and a Ph.D. degree from Peking
+- University. She is now an associate researcher at the State Key Laboratory of Natural and Biomimetic
+- Drugs, School of Pharmaceutical Sciences, Peking University. Her current research interests focus
+- on the design of novel nanomaterials and nanodevices for biomedical applications based on laser
+- desorption/ionization mass spectrometry (LDI-MS) and liquid chromatography mass spectrometry
+- (LC-MS). She has chaired or participated in five projects from the National Natural Science
+- Foundation of China and State Key Laboratory. She has been authorized 5 national invention patents
+- and published 41 papers on journals, such as Small Methods, Chem. Eng. J., Chem. Sci., Molecules, and
+- so on. She also works as an editor for J. Anal. Test. and invited as reviewer for 25 journals including
+- Small Methods, Food Chem., Talanta, Chem-Asian J., and so on.

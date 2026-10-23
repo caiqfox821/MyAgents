@@ -1,0 +1,81 @@
+# ORYZA Simulation Modules for Potential and Nitrogen Limited Rice Production (1994, Wageningen (WUR))
+
+- 许可: Open Access
+- 来源: https://edepot.wur.nl/297741
+- 页数: 222
+- 全文: `text/rice/ORYZA_Simulation_Modules_Rice_Production_1994.txt`
+- PDF: `rice/ORYZA_Simulation_Modules_Rice_Production_1994.pdf`
+- 标签: 水稻, 生长模型, 模拟, 氮素
+
+## 目录 (Contents)
+
+- 1 Introduction                                                             1
+-        GeneralstructureoftheORYZA NandORYZAOmodels               2
+-        Aboutthelayoutofthisvolume                                     3
+- 2 DescriptionoftheORYZAN modules(version2.0)                      7
+-   2.1 Timeandenvironment(TIMENV)                                      7
+-   2.2 Phenologicaldevelopment(DEVELP)                                  8
+-   2.3 Leafarea(LFAREA)                                                 9
+-   2.4 Biomassofthecrop(BIOMSl)                                         12
+-        2.4.1 DailygrossC02 assimilation(CANOPY,TOTASN,
+-               ASTRO,ASSHMN)                                          12
+-        2.4.2 Drymatterpartitioning(DMPART)                         16
+-        2.4.3 Maintenanceandgrowthrespiration(RESPIR)              17
+-        2.4.4 Growthofthecrop(GROWTH)                              20
+-        2.4.5 Tillerandgrainformation (SINK)                       24
+-        2.4.6 Cropnitrogendemand(NDEMND)                            27
+-        2.4.7 Nitrogenuptake(NUPTK)                                  31
+-        2.4.8 Nitrogeninthecrop(NCROP)                             36
+- 3 DescriptionoftheORYZAOmodules(version2.0)                      43
+-   3.1 Timeandenvironment (TIMENV)                                 43
+-   3.2 Biomassaccumulationbythecrop(BIOMS2)                       43
+-       3.2.1 Drymatteraccumulation(GROW0)                          44
+-       3.2.2 Nuptake:thefertilizer applicationcurve,recoveryand
+-              soilNsupply(NAPO)                                     49
+-       3.2.3 Nitrogenuptake:demand(DEMO)                           51
+-       3.2.4 Actualnitrogenuptake(NUPO)                            53
+-       3.2.5 Allocationandredistributionofnitrogen(NALO)          54
+- 4 Validation                                                              57
+-   4.1 General                                                             57
+-   4.2 ResultsofvalidationofORYZA_N                                57
+-   4.3 ResultsofvalidationofORYZAO                                 61
+- References                                                                65
+- Appendix 1 AcronymsusedintheORYZAmodules                         67
+- Appendix2 InputrequiredfortheORYZANmodules                       75
+- Appendix3 Determinationofparameters,functions andtablesused
+-            inORYZA N                                                  77
+- Appendix4 InputrequiredfortheORYZAOmodules                        83
+- Appendix5 DeterminationofparametersandtablesusedinORYZAO      85
+- Appendix6 ExamplesofinputfilesrequiredfortheORYZANand
+-             ORYZA_0modules                                             93
+- Appendix7 TheFORTRANSimulationEnvironment(FSE)                101
+- Appendix8 ListingoftheORYZA N modules                         113
+- Appendix9 ListingoftheORYZAOmodules                           155
+- Appendix 10 DatasetsusedforvalidationofORYZA N andORYZA_0   173
+- 1 Introduction
+- H.F.M,tenBerge1,H.Drenthe &J.J.M.Riethoven1
+- 1
+-     ResearchInstituteforAgrobiologyandSoilFertility(AB-DLO),P.O.Box14,
+-     6700AAWageningen,TheNetherlands
+- 2
+-     DepartmentofTheoreticalProductionEcology,WageningenAgriculturalUniversity,
+-     P.O.Box430,6700AKWageningen,TheNetherlands
+- Wepresent inthis issuea set of simulation moduleswhichcanbe combined into different
+- sets, to form complete simulation models. Thetwo sets presented here are referred to as
+- ORYZAN and ORYZA0. The modules are "building blocks' for simulating rice
+- production in different environments and under different constraints. The sets presented
+- hereareviewed asastarting point only.Manyofthemodulescanbefurther polished, and
+- newmodules describing other processes (e.g. aspects ofwater limited production) willbe
+- addedinthenearfuture. Thusalibraryofmodules,eachdescribingacomponent (groupof
+- subprocesses).,maygraduallybedeveloped.
+- Teams from several national research centres participating in SARP have worked on
+- evaluationanddevelopmentofthesemodules.Theyalsohavecollecteddatasetsformodel
+- improvement and validation. Based on these results of detailed studies on rice-nitrogen
+- relations, anumber processes relevant to yield formation under limited N supply cannow
+- bedescribed quantitatively.
+- The ORYZAN modules describe the potential aswell asthe nitrogen limited growth of
+- rice.These modules have evolvedfrommodels, such as the potential production module
+- MACROS-LID (Penning de Vries et al., 1989), the model SUCROS (Goudriaan &van
+- Laar, 1994) and the model L3C. The main difference between ORYZA1 and the current
+- ORYZAN version is that the latter includes nitrogen uptake and allocation to crop
+- organs. ORYZAN was originally written in PCSMP. In 1993 it was translated into

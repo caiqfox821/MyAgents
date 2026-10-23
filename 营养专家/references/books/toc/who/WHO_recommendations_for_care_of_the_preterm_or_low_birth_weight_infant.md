@@ -1,0 +1,80 @@
+# WHO recommendations for care of the preterm or low-birth-weight infant (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/363697
+- 页数: 137
+- 全文: `text/who/WHO_recommendations_for_care_of_the_preterm_or_low_birth_weight_infant.txt`
+- 标签: 婴幼儿/儿童, 肥胖
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                                  v
+- Acronyms and abbreviations                                                                        vi
+- Glossary			                                                                                      vii
+- Executive summary                                                                               viii
+- 1. Introduction                                                                                    1
+- 2. Methods                                                                                        5
+- 3. Evidence and recommendations                                                                   11
+-    A. Preventive and promotive care                                                              12
+-       A.1 Kangaroo mother care                                                                   12
+-       A.2 Mother’s own milk                                                                      17
+-       A.3 Donor human milk                                                                       20
+-       A.4 Multicomponent fortification of human milk                                             23
+-       A.5 Preterm formula                                                                        27
+-       A.6 Early initiation of enteral feeding                                                    30
+-       A.7 Responsive and scheduled feeding                                                       33
+-       A.8 Fast and slow advancement of feeding                                                   36
+-       A.9 Duration of exclusive breastfeeding                                                    39
+-       A.10 Micronutrient supplementation                                                         42
+-       A.11 Probiotics                                                                            58
+-       A.12 Emollients                                                                            62
+-    B. Care for complications                                                                    66
+-       B.1 Continuous positive airway pressure for respiratory distress syndrome                  66
+-       B.2 Continuous positive airway pressure immediately after birth                            70
+-       B.3 Continuous positive airway pressure source                                             73
+-       B.4 Methylxanthines for treatment of apnoea                                                76
+-       B.5 Methylxanthines for extubation                                                         79
+-       B.6 Methylxanthines for prevention of apnoea                                               81
+-    C. Family involvement and support                                                            83
+-       C.1 Family involvement in routine care                                                     83
+-       C.2 Family support                                                                         86
+-       C.3 Home visits                                                                            91
+-       C.4 Parental leave and entitlements                                                        94
+- 4. Implementation                                                                                97
+- 5. Applicability issues                                                                         99
+- 6. Research implications                                                                        100
+- 7. Dissemination                                                                                102
+- 8. Monitoring and evaluating the impact of the recommendations                                  103
+- 9. Updating of the guideline                                                                    104
+- References		                                                                                    105
+- Annexes			                                                                                       118
+-   Annex 1:     Current WHO recommendations for care of the preterm or low-birth-weight infant    118
+-   Annex 2:     Contributors to the guideline                                                    120
+-   Annex 3:     Summary of declarations of interest from the Guideline Development Group (GDG)
+- 		             members and how they were managed                                                122
+-                                                                                                        iii
+-                                                                          Web Annexes
+-                                                                          Web Annex A.    Priority questions and outcomes
+-                                                                          Web Annex B.    Detailed list of research priorities
+-                                                                          Web Annex C.    Changes from approved scope of guideline
+-                                                                          The web annexes are available at:
+-                                                                          https://apps.who.int/iris/bitstream/handle/10665/363698/9789240060043-eng.pdf
+-                                                                          Web Supplement. Evidence base
+-                                                                          The web supplement is available at:
+-                                                                          https://apps.who.int/iris/bitstream/handle/10665/363699/9789240060050-eng.pdf
+- WHO recommendations for care of the preterm or low-birth-weight infant
+-              iv
+- Acknowledgements
+- The World Health Organization (WHO) Department of Maternal, Newborn, Child and Adolescent Health
+- and Ageing (MCA) gratefully acknowledges the contributions that many individuals and organizations have
+- made to the development of these recommendations.
+- WHO extends sincere thanks to the chairs of the Guideline Development Group (GDG) Gary Darmstadt
+- and Vinod Paul, and to all the other GDG members: Nafisa Hamoud Al Jaifi, Shabina Ariff, Mats Blennow,
+- Liz Comrie-Thomson, Socorro De Leon-Mendoza, Qi Feng, Patricia Fernandez Riera, Zelee Hill,
+- Ayede Adejumoke Idowu, Carole Kenner, Victoria Nakibuuka Kirabira, Reinhard Klinkott, Silke Mader,
+- Karim Manji, Rhonda Marriot, Monica Morgues, Sushma Nangia, Mohammod Shahidullah, Hoang Thi Tran,
+- Rizwan Ullah Hassan, Andrew Weeks, Bogale Worku and Khalid Yunis. WHO also thanks the members
+- of the External Review Group: Alexander Manu, Ebunoluwa Adejuyigbe, Carolyn Maclennan and
+- Abiy Seifu Estifanos.
+- Roger Chou was the external guideline methodologist. Natalie Strobel provided technical support for
+- analysis, preparation of Grading of Recommendations Assessment, Development and Evaluation (GRADE)

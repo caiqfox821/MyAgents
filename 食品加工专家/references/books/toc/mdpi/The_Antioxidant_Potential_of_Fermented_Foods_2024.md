@@ -1,0 +1,81 @@
+# The Antioxidant Potential of Fermented Foods (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 234
+- 全文: `text/mdpi/The_Antioxidant_Potential_of_Fermented_Foods_2024.txt`
+- PDF: `mdpi/The_Antioxidant_Potential_of_Fermented_Foods_2024.pdf`
+- 标签: 发酵食品, 抗氧化, 功能
+
+## 目录 (Contents)
+
+- Michela Verni and Carlo Giuseppe Rizzello
+- The Antioxidant Potential of Fermented Foods: Challenges and Future Trends
+- Reprinted from: Fermentation 2023, 9, 790, https://doi.org/10.3390/fermentation9090790 . . . .
+- 1
+- Qiuyan Chen, Jinju Mao, Yuan Wang, Na Yin, Na Liu and Yue Zheng et al.
+- Fermented Wheat Bran Polysaccharides Improved Intestinal Health of Zebrafish in Terms of
+- Intestinal Motility and Barrier Function
+- Reprinted from: Fermentation 2023, 9, 293, https://doi.org/10.3390/fermentation9030293 . . . .
+- 3
+- Andrea Polo, Ali Zein Alabiden Tlais, Pasquale Filannino, Alessio Da Ros, Kashika Arora
+- and Vincenzo Cantatore et al.
+- Novel Fermented Ice Cream Formulations with Improved Antiradical and Anti-Inflammatory
+- Features
+- Reprinted from: Fermentation 2023, 9, 117, https://doi.org/10.3390/fermentation9020117 . . . . 19
+- Na Liu, Xiaoping An, Yuan Wang and Jingwei Qi
+- Metabolomics Analysis Reveals the Effect of Fermentation to Secondary Metabolites of
+- Chenopodium album L. Based on UHPLC-QQQ-MS
+- Reprinted from: Fermentation 2023, 9, 100, https://doi.org/10.3390/fermentation9020100 . . . . 42
+- Hee-yeon Kwon, Ji-soo Choi, Soo-jin Kim, Eun-min Kim, Ji-hyun Uhm and Bo-kyung Kim
+- et al.
+- Optimization of Solid-Phase Lactobacillus Fermentation Conditions to Increase γ-Aminobutyric
+- Acid (GABA) Content in Selected Substrates
+- Reprinted from: Fermentation 2022, 9, 22, https://doi.org/10.3390/fermentation9010022 . . . . . 54
+- Lorenzo Siroli, Barbara Giordani, Samantha Rossi, Davide Gottardi, Helena McMahon and
+- Aleksandra Augustyniak et al.
+- Antioxidant and Functional Features of Pre-Fermented Ingredients Obtained by the
+- Fermentation of Milling By-Products
+- Reprinted from: Fermentation 2022, 8, 722, https://doi.org/10.3390/fermentation8120722 . . . . 69
+- Havva Nilgün Budak
+- Determination of Changes in Volatile Aroma Components, Antioxidant Activity and Bioactive
+- Compounds in the Production Process of Jujube (Ziziphus jujuba Mill.) Vinegar Produced by
+- Traditional Methods
+- Reprinted from: Fermentation 2022, 8, 606, https://doi.org/10.3390/fermentation8110606 . . . . 89
+- Hengxian Qu, Longfei Zhang, Xiaoxiao Liu, Yang Liu, Kaidong Mao and Guiqi Shen et al.
+- Modulatory Effect of Limosilactobacillus fermentum grx08 on the Anti-Oxidative Stress Capacity
+- of Liver, Heart, and Kidney in High-Fat Diet Rats
+- Reprinted from: Fermentation 2022, 8, 594, https://doi.org/10.3390/fermentation8110594 . . . . 103
+- Matúš Várady, Jan Tauchen, Pavel Klouček and Peter Popelka
+- Effects of Total Dissolved Solids, Extraction Yield, Grinding, and Method of Preparation on
+- Antioxidant Activity in Fermented Specialty Coffee
+- Reprinted from: Fermentation 2022, 8, 375, https://doi.org/10.3390/fermentation8080375 . . . . 113
+- Benediktus Yudo Leksono, Muhammad Nur Cahyanto, Endang Sutriswati Rahayu, Rini
+- Yanti and Tyas Utami
+- Enhancement of Antioxidant Activities in Black Soy Milk through Isoflavone Aglycone
+- Production during Indigenous Lactic Acid Bacteria Fermentation
+- Reprinted from: Fermentation 2022, 8, 326, https://doi.org/10.3390/fermentation8070326 . . . . 122
+- v
+- Urva Akmal, Ifra Ghori, Abdelbaset Mohamed Elasbali, Bandar Alharbi, Arshad Farid and
+- Abdulhakeem S. Alamri et al.
+- Probiotic and Antioxidant Potential of the Lactobacillus Spp. Isolated from Artisanal Fermented
+- Pickles
+- Reprinted from: Fermentation 2022, 8, 328, https://doi.org/10.3390/fermentation8070328 . . . . 137
+- Kyeesha Glenn-Davi, Alison Hurley, Eireann Brennan, Jack Coughlan, Katie Shiels and
+- Donal Moran et al.
+- Fermentation Enhances the Anti-Inflammatory and Anti-Platelet Properties of Both Bovine
+- Dairy and Plant-Derived Dairy Alternatives
+- Reprinted from: Fermentation 2022, 8, 292, https://doi.org/10.3390/fermentation8070292 . . . . 152
+- Wilawan Palachum, Wiyada Kwanhian Klangbud and Yusuf Chisti
+- Spray-Dried Nipa Palm Vinegar Powder: Production and Evaluation of Physicochemical,
+- Nutritional, Sensory, and Storage Aspects
+- Reprinted from: Fermentation 2022, 8, 272, https://doi.org/10.3390/fermentation8060272 . . . . 171
+- Magdy Ramadan Shahein, El Sayed Hassan Atwaa, Barakat M. Alrashdi, Mahytab Fawzy
+- Ramadan, El Sayed Abd El-Sattar and Adel Abdel Hameed Siam et al.
+- Effect of Fermented Camel Milk Containing Pumpkin Seed Milk on the Oxidative Stress
+- Induced by Carbon Tetrachloride in Experimental Rats
+- Reprinted from: Fermentation 2022, 8, 223, https://doi.org/10.3390/fermentation8050223 . . . . 184
+- Magdy Ramadan Shahein, El-Sayed H. Atwaa, Ahmad O. Babalghith, Barakat M. Alrashdi,
+- Hanan A. Radwan and Muhammad Umair et al.
+- Impact of Incorporating the Aqueous Extract of Hawthorn (C. oxyanatha) Leaves on Yogurt
+- Properties and Its Therapeutic Effects against Oxidative Stress Induced by Carbon Tetrachloride

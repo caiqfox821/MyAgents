@@ -1,0 +1,60 @@
+# 2008-2013 action plan for the global strategy for the prevention and control of  noncommunicable diseases : prevent and control cardiovascular diseases, cancers, chronic respiratory diseases and diabetes (2008, World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/44009
+- 页数: 48
+- 全文: `text/who/2008_2013_action_plan_for_the_global_strategy_for_the_prevention_and_control_of_noncommuni_2008.txt`
+- 标签: 慢病(NCD), 政策/环境
+
+## 目录 (Sections)
+
+- 2000                   Control of Noncommunicable Diseases
+- 2004                   Physical Activity and Health
+- 1   The global burden of noncommunicable diseases continues to grow; tackling it
+- 5       The four types of diseases and their risk factors are considered together in this
+- 9       This plan is intended to support coordinated, comprehensive and integrated
+- 10   The Programme budget 2008–2009 describes the financial resources required by the
+- 14     At the national level, key messages should explain that:
+- 15     Proposed action for Members States
+- 16       Action for the Secretariat
+- 17       Proposed action for international partners
+- 19     Proposed action for Member States
+- 20      Action for the Secretariat
+- 21      Proposed action for international partners
+- 24        Proposed action for Member States
+- 25      Action for the Secretariat
+- 26      Proposed action for international partners
+- 28       Proposed action for Member States
+- 29       Action for the Secretariat
+- 30      Proposed action for international partners
+- 31     Providing effective public health responses to the global threat posed by
+- 32     Since the major determinants of noncommunicable diseases lie outside the health
+- 33     Proposed action for Member States
+- 34         Action for the Secretariat
+- 35   Proposed action for international partners
+- 36     Monitoring noncommunicable diseases and their determinants provides the foundation
+- 38     Proposed action for Member States
+- 39       Action for the Secretariat
+- 40       Proposed action for international partners
+- 41      There is a need for measurable process and output indicators to permit accurate
+- 43      The indicators mentioned below are examples of measurements that WHO will use
+- 1     ENDORSES the action plan for the global strategy for the prevention
+- 2     URGES Member States:
+- 3     REQUESTS the Director-General:
+- 1   The rapid rise of noncommunicable diseases represents one of the major health
+- 2   In 1998 alone, noncommunicable diseases are estimated to have contributed to almost
+- 3   Low - and middle - income countries suffer the greatest impact of noncommunicable
+- 4   There now exists, however, a vast body of knowledge and experience regarding the
+- 6    Much is known about the prevention of noncommunicable diseases. Experience clearly
+- 7    Strategies to reduce exposure to established risk factors and to lower the risk for
+- 11   Decisions made outside the health sector often have a major bearing on elements
+- 12   The long-term needs of people with noncommunicable diseases are rarely dealt with
+- 13   The global threat posed by noncommunicable diseases and the need to provide urgent
+- 14   Goal
+- 15   Objectives
+- 16   To achieve the above objectives, the following components require the support of the
+- 17   WHO has the unique authority and the clear mandate to lead the development and
+- 18   The role of international partners is of paramount importance in the global struggle
+- 19     WHO will provide the leadership and the evidence base for international action on
+- 20     Global partnerships. WHO will take the lead in strengthening international
+- 22     Technical support. WHO will support implementation of programmes at national or

@@ -1,0 +1,80 @@
+# Cardiovascular Risk Factors and Intervention Strategies for the Prevention of Cardiovascular Disease (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1790-0
+- 页数: 156
+- 全文: `text/mdpi/Cardiovascular_Risk_Factors_and_Intervention_Strategies_for_the_Prevention_of_Cardiovascular_Disease_2024.txt`
+- 标签: 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Paolo Palatini, Lucio Mos, Francesca Saladini, Olga Vriz, Claudio Fania, Andrea Ermolao,
+- et al.
+- Both Moderate and Heavy Alcohol Use Amplify the Adverse Cardiovascular Effects of Smoking
+- in Young Patients with Hypertension
+- Reprinted from: J. Clin. Med. 2023, 12, 2792, https://doi.org/10.3390/jcm12082792 . . . . . . . .             1
+- Milan Radovanovic, Janko Jankovic, Stefan Mandic-Rajcevic, Igor Dumic, Richard D. Hanna
+- and Charles W. Nordstrom
+- Ideal Cardiovascular Health and Risk of Cardiovascular Events or Mortality: A Systematic
+- Review and Meta-Analysis of Prospective Studies
+- Reprinted from: J. Clin. Med. 2023, 12, 4417, https://doi.org/10.3390/jcm12134417 . . . . . . . . 12
+- Rebeca Lorca, Andrea Aparicio, Marı́a Salgado, Rut Álvarez-Velasco, Isaac Pascual,
+- Juan Gomez, et al.
+- Chromosome Y Haplogroup R Was Associated with the Risk of Premature Myocardial
+- Infarction with ST-Elevation: Data from the CholeSTEMI Registry
+- Reprinted from: J. Clin. Med. 2023, 12, 4812, https://doi.org/10.3390/jcm12144812 . . . . . . . . 29
+- Damiano Rizzoni, Claudia Agabiti-Rosei, Gianluca E. M. Boari, Maria Lorenza Muiesan and
+- Carolina De Ciuceis
+- Microcirculation in Hypertension: A Therapeutic Target to Prevent Cardiovascular Disease?
+- Reprinted from: J. Clin. Med. 2023, 12, 4892, https://doi.org/10.3390/jcm12154892 . . . . . . . . 38
+- Fabiola Atzeni, Laura La Corte, Mariateresa Cirillo, Manuela Giallanza, James Galloway and
+- Javier Rodrı́guez-Carrio
+- Metabolic Syndrome and Its Components Have a Different Presentation and Impact as
+- Cardiovascular Risk Factors in Psoriatic and Rheumatoid Arthritis
+- Reprinted from: J. Clin. Med. 2023, 12, 5031, https://doi.org/10.3390/jcm12155031 . . . . . . . . 52
+- Antonio da Silva Menezes Junior, Vinı́cius Martins Rodrigues Oliveira,
+- Izadora Caiado Oliveira, André Maroccolo de Sousa, Ana Júlia Prego Santana,
+- Davi Peixoto Craveiro Carvalho, et al.
+- Dual PPRαϒ Agonists for the Management of Dyslipidemia: A Systematic Review and
+- Meta-Analysis of Randomized Clinical Trials
+- Reprinted from: J. Clin. Med. 2023, 12, 5674, https://doi.org/10.3390/jcm12175674 . . . . . . . . 64
+- Simona Giubilato, Fabiana Lucà, Maurizio Giuseppe Abrignani, Laura Gatto,
+- Carmelo Massimiliano Rao, Nadia Ingianni, et al.
+- Management of Residual Risk in Chronic Coronary Syndromes. Clinical Pathways for
+- a Quality-Based Secondary Prevention
+- Reprinted from: J. Clin. Med. 2023, 12, 5989, https://doi.org/10.3390/jcm12185989 . . . . . . . . 77
+- Alejandro de la Sierra
+- Blood Pressure Variability as a Risk Factor for Cardiovascular Disease: Which Antihypertensive
+- Agents Are More Effective?
+- Reprinted from: J. Clin. Med. 2023, 12, 6167, https://doi.org/10.3390/jcm12196167 . . . . . . . . 101
+- Keisuke Narita, Satoshi Hoshide and Kazuomi Kario
+- Polypill Therapy for Cardiovascular Disease Prevention and Combination Medication Therapy
+- for Hypertension Management
+- Reprinted from: J. Clin. Med. 2023, 12, 7226, https://doi.org/10.3390/jcm12237226 . . . . . . . . 108
+-                                                        v
+- Francesca Saladini
+- Effects of Different Kinds of Physical Activity on Vascular Function
+- Reprinted from: J. Clin. Med. 2024, 13, 152, https://doi.org/10.3390/jcm13010152 . . . . . . . . . 121
+- Lanfranco D’Elia and Pasquale Strazzullo
+- Dietary Salt Restriction and Adherence to the Mediterranean Diet: A Single Way to Reduce
+- Cardiovascular Risk?
+- Reprinted from: J. Clin. Med. 2024, 13, 486, https://doi.org/10.3390/jcm13020486 . . . . . . . . . 132
+-                                                   vi
+- About the Editor
+- Paolo Palatini
+-      Paolo Palatini is a Professor of Medicine and Senior Scholar of the Studium Patavinum at the
+- Department of Medicine, University of Padova, Padua, Italy. He is the former Head of Vascular
+- Medicine at the Department of Medicine of Azienda Ospedaliera and the University of Padova. He
+- was Secretary of the Italian Hypertension League and Member of the Boards of the Italian Society
+- of Hypertension, Italian Society of Sports Cardiology, and the Italian Society of Nephrocardiology.
+- He is Chairman of the ESH Working Group on ABPM and BP Variability. Prof Palatini completed
+- his medical education at the University of Padova, Italy. He worked for 5 years in the Laboratory
+- of Professor Stevo Julius at the University of Michigan (USA), where he received local honours. He
+- was appointed as a lecturer in 2009 by the Belgian Hypertension Society and by the Indian Society of
+- Cardiology. Prof Palatini has coordinated several international and national studies of hypertension
+- and clinical pharmacology. He has served as an Editorial Board Member of several International
+- Journals including Hypertension and the Journal of Hypertension. He has published over 500 original
+- articles and reviews in international journals and his present H-index is 91, with over 40,000 citations
+- according to Google Scholar. He has also received the Alberto Zanchetti Life Achievement Award
+- and the Talal Zein Award of the European Society of Hypertension. Professor Palatini’s main areas of

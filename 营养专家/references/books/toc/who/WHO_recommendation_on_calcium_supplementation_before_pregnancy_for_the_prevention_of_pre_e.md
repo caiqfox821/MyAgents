@@ -1,0 +1,80 @@
+# WHO recommendation on calcium supplementation before pregnancy for the prevention of pre-eclampsia and its complications (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/331787
+- 页数: 48
+- 全文: `text/who/WHO_recommendation_on_calcium_supplementation_before_pregnancy_for_the_prevention_of_pre_e.txt`
+- 标签: 矿物质, 母婴
+
+## 目录 (Contents)
+
+-     Acknowledgements                                                                               iv
+-     Acronyms and abbreviations                                                                      v
+-     Executive Summary                                                                               1
+-     1. Background                                                                                   3
+-     2. Methods                                                                                      4
+-     3. Recommendation and supporting evidence                                                     10
+-     4. Dissemination and implementation of the recommendation                                     12
+-     5. Research implications                                                                      13
+-     6. Applicability issues                                                                       13
+-     7. Updating the recommendation                                                                14
+-     References                                                                                    15
+-     Annex 1. External experts and WHO staff involved in the preparation of the guideline          17
+-     Annex 2. Priority outcomes for decision-making                                                21
+-     Annex 3. Summary and management of declared interests from GDG members                        22
+-     Annex 4. Evidence-to-decision framework                                                       24
+- iv   WHO recommendation on Calcium supplementation before pregnancy for the prevention of pre-eclampsia and its complications
+-              Acknowledgements
+-              The Department of Sexual and Reproductive Health and Research, the Department of
+-              Maternal, Newborn, Child and Adolescent Health and Ageing, and the Department of
+-              Nutrition and Food Safety of the World Health Organization (WHO) gratefully acknowledge the
+-              contributions of many individuals and organizations to the updating of this recommendation.
+-              Work on this update was coordinated by Joshua Vogel, Abiodun Adanikin and Olufemi
+-              Oladapo of the WHO Department of Sexual and Reproductive Health and Research.
+-              WHO extends its sincere thanks to Ebun Adejuyigbe, Shabina Ariff, Jemima Dennis-
+-              Antwi, Luz Maria De-Regil, Christine East, Lynn Freedman, Pisake Lumbiganon,
+-              Anita Maepioh, Shireen Meher, James Neilson, Hiromi Obara, Cristina Palacios,
+-              Rachel Plachcinski, Zahida Qureshi, Kathleen Rasmussen, Niveen Abu Rmeileh and
+-              Eleni Tsigas who served as members of the Guideline Development Group (GDG),
+-              and to Zahida Qureshi (Chair) and James Neilson (Vice-Chair) for leading the meeting.
+-              We also thank Caroline Homer, Hadiza Galadanci, Jashodhara Gupta, Jack Moodley,
+-              M Jeeva Sankar, Shakila Thangaratinam, Saraswathi Vedam and Hayfaa Wahabi who
+-              were members of the External Review Group. WHO also gratefully acknowledges the
+-              contribution of the members of the Executive Guideline Steering Group.
+-              Leanne Jones, Frances Kellie and Myfanwy Williams reviewed the scientific evidence,
+-              prepared the Grading of Recommendations Assessment, Development and Evaluation
+-              (GRADE) tables and drafted the narrative summary of evidence. Joshua Vogel,
+-              Abiodun Adanikin and Olufemi Oladapo revised the narrative summaries and double-
+-              checked the corresponding GRADE tables and prepared the evidence-to-decision
+-              (EtD) frameworks. Abiodun Adanikin, Fernando Althabe, Ana Pilar Betrán, Mercedes
+-              Bonet, Maurice Bucagu, Fran McConville, Olufemi Oladapo, Juan Pablo Peña-Rosas,
+-              Anayda Portela, Lisa Rogers, Özge Tuncalp and Joshua Vogel commented on a
+-              preliminary draft document before discussions and deliberations by the WHO Guideline
+-              Development Group members. The External Review Group peer reviewed the final
+-              document prior to executive clearance by WHO and publication.
+-              We acknowledge the various organizations that were represented by observers, including
+-              Deborah Armbruster and Mary-Ellen Stanton (United States Agency for International
+-              Development), Kathleen Hill (Maternal and Child Survival Program/Jhpiego), Jeff Smith
+-              (Bill & Melinda Gates Foundation), Ingela Wiklund (International Confederation of Midwives),
+-              Gerard Visser (International Federation of Gynaecology and Obstetrics) and Charlotte
+-              Warren (Ending Eclampsia Project, Population Council). We also appreciate the contributions
+-              of WHO Regional Offices’ staff – Nino Berdzuli, Bremen De Mucio, Chandani Anoma
+-              Jayathilaka, Ramez Khairi Mahaini, Léopold Ouedraogo, Howard Sobel and Claudio Sosa.
+-              WHO acknowledges the financial support for this work received from the United States
+-              Agency for International Development and the UNDP/UNFPA/UNICEF/WHO/World
+-              Bank Special Programme of Research, Development and Research Training in Human
+-              Reproduction (HRP), a cosponsored program executed by the WHO. WHO emphasizes
+-              that donors do not participate in any decision related to the guideline development
+-              process, including the composition of research questions, membership of the guideline
+-              development groups, conducting and interpretation of systematic reviews, or formulation
+-              of the recommendation. The views of the funding bodies have not influenced the content
+-              of this recommendation.
+-      WHO recommendation on Calcium supplementation before pregnancy for the prevention of pre-eclampsia and its complications   v
+- Acronyms and abbreviations
+- ANC                      Antenatal care
+- BMGF                     Bill & Melinda Gates Foundation
+- CI                       Confidence interval
+- DOI                      Declaration of Interest
+- EtD                      Evidence-to-decision
+- FIGO                     International Federation of Gynaecology and Obstetrics
+- FWC                      Family, Women’s and Children’s Health (a WHO cluster)

@@ -1,0 +1,80 @@
+# Genetics and Molecular Breeding of Fruit Tree Species (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11333
+- 页数: 156
+- 全文: `text/mdpi/Genetics_and_Molecular_Breeding_of_Fruit_Tree_Species_2025.txt`
+- 标签: 果树, 分子育种
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Stefano La Malfa and Stefania Bennici
+- Genetics and Molecular Breeding of Fruit Tree Species
+- Reprinted from: Horticulturae 2025, 11, 756, https://doi.org/10.3390/horticulturae11070756               . .   1
+- Juventine Boaz Odoi, Emmanuel Amponsah Adjei, Michael Teye Barnor, Richard Edema,
+- Samson Gwali, Agyemang Danquah, et al.
+- Genome-Wide Association Mapping of Oil Content and Seed-Related Traits in Shea Tree (Vitellaria
+- paradoxa subsp. nilotica) Populations
+- Reprinted from: Horticulturae 2023, 9, 811, https://doi.org/10.3390/horticulturae9070811 . . . .               4
+- Tianfa Guo, Qianqian Qiu, Fenfen Yan, Zhongtang Wang, Jingkai Bao, Zhi Yang, et al.
+- Construction of a High-Density Genetic Linkage Map Based on Bin Markers and Mapping of
+- QTLs Associated with Fruit Size in Jujube (Ziziphus jujuba Mill.)
+- Reprinted from: Horticulturae 2023, 9, 836, https://doi.org/10.3390/horticulturae9070836 . . . . 22
+- Lingling Gao, Jingjing Liu, Liao Liao, Anqi Gao, Beatrice Nyambura Njuguna, Caiping Zhao,
+- et al.
+- Callus Induction and Adventitious Root Regeneration of Cotyledon Explants in Peach Trees
+- Reprinted from: Horticulturae 2023, 9, 850, https://doi.org/10.3390/horticulturae9080850 . . . . 39
+- Jingting Wang, Xinhui Xia, Gaihua Qin, Jingwen Tang, Jun Wang, Wenhao Zhu, et al.
+- Somatic Embryogenesis and Plant Regeneration from Stem Explants of Pomegranate
+- Reprinted from: Horticulturae 2023, 9, 1038, https://doi.org/10.3390/horticulturae9091038 . . . 55
+- Samuel Simoni, Gabriele Usai, Alberto Vangelisti, Marco Castellacci, Tommaso Giordani,
+- Lucia Natali, et al.
+- Decoding the Genomic Landscape of Pomegranate: A Genome-Wide Analysis of Transposable
+- Elements and Their Structural Proximity to Functional Genes
+- Reprinted from: Horticulturae 2024, 10, 111, https://doi.org/10.3390/horticulturae10020111 . . 69
+- Piyaporn Saensouk, Surapon Saensouk, Rattanavalee Senavongse, Duangkamol Maensiri
+- and Phetlasy Souladeth
+- Cytogenetics Study of Four Edible and Ornamental Zingiber Species (Zingiberaceae) from
+- Thailand
+- Reprinted from: Horticulturae 2024, 10, 409, https://doi.org/10.3390/horticulturae10040409 . . 89
+- Guiying Jia, Na Zhang, Yingxia Yang, Qingdong Jin, Jianfu Jiang, Hong Zhang, et al.
+- NGS-Based Multi-Allelic InDel Genotyping and Fingerprinting Facilitate Genetic Discrimination
+- in Grapevine (Vitis vinifera L.)
+- Reprinted from: Horticulturae 2024, 10, 752, https://doi.org/10.3390/horticulturae10070752 . . 103
+- Yue Song, Lujia Wang, Lipeng Zhang, Junpeng Li, Yuanxu Teng, Zhen Zhang, et al.
+- Uniﬁed Assembly of Chloroplast Genomes: A Comparative Study of Grapes Representing Global
+- Geographic Diversity
+- Reprinted from: Horticulturae 2024, 10, 1218, https://doi.org/10.3390/horticulturae10111218 . . 114
+- Ekaterina Vodiasova, Artem Pronozin, Irina Rozanova, Valentina Tsiupka, Gennady Vasiliev,
+- Yuri Plugatar, et al.
+- Genetic Diversity and Population Structure of Prunus persica Cultivars Revealed by Genotyping-
+- by-Sequencing (GBS)
+- Reprinted from: Horticulturae 2025, 11, 189, https://doi.org/10.3390/horticulturae11020189 . . 129
+-                                                        v
+- About the Editors
+- Stefano La Malfa
+-      Stefano La Malfa is a Full Professor of Arboriculture and Fruitculture at the Department of
+- Agriculture, Food and Environment (Di3A) of Catania University. His research activities mainly deal
+- with propagation, breeding, genetic resources characterization and post-harvest of fruit tree species.
+- His current ﬁelds of research include the use of biotechnological approaches for propagation and
+- breeding of fruit tree species (mainly citrus); the molecular characterization of species, varieties, and
+- clones of several fruit tree crops; and germplasm collection and exploitation. He has been and is
+- involved as a participant and/or scientiﬁc responsible in several research projects concerning different
+- aspects of fruit tree crops and supported by several Italian and foreign institutions. He has been
+- a member of the organizing committees of several national and international congresses. He is a
+- member of the Accademia dei Georgoﬁli, Florence, Italy, and is currently president of the fruticulture
+- section of the Italian Society of Horticulture. He has published more than 100 items indexed on
+- SCOPUS. He has also published some scientiﬁc books as editor or coauthor.
+- Stefania Bennici
+-      Stefania Bennici is Fixed-term Assistant Professor of Arboriculture and Fruitculture at the
+- Department of Agriculture, Food and Environment (Di3A) of Catania University. Her scientiﬁc
+- activity concerns research topics related to biology, physiology, molecular characterization, and the
+- genetic improvement of fruit tree species. Her main research topics include the study of reproductive
+- biology in citrus fruits through histological and molecular analysis; marker-assisted selection and
+- molecular characterization in collection of plant genetic resources of different fruit trees; genomic
+- and transcriptomic analysis for the selection of genes related to agronomic traits of interest; and
+- the use of biotechnological approaches, including genetic transformation and genome editing for
+- the propagation and breeding of fruit tree species and mainly citrus. She has been and is involved
+- as a participant and/or scientiﬁc responsible in several national and international research projects
+- concerning different aspects of fruit tree crops. She is a member of international and national societies

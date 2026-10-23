@@ -1,0 +1,80 @@
+# Report on the technical consultation on the fortification of flour with multiple micronutrients, Kuwait, 28-30 May 2008 (2008, World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/115929
+- 页数: 49
+- 全文: `text/who/Report_on_the_technical_consultation_on_the_fortification_of_flour_with_multiple_micronutr_2008.txt`
+- 标签: 微量营养素补充, 食品强化
+
+## 目录 (Contents)
+
+- 1.   INTRODUCTION ............................................................................................................ 2
+- 2.   TECHNICAL PRESENTATIONS .................................................................................... 2
+-      2.1 Overview of flour fortification activities in the Middle East and North Africa
+-           Region (MENA) ...................................................................................................... 2
+-      2.2 Food fortification with micronutrients for the control of vitamin and mineral
+-           deficiencies .............................................................................................................. 5
+-      2.3 Key issues governing stability, absorption and the impact of multiple
+-           micronutrient fortification of wheat flour................................................................ 7
+-      2.4 Cuernavaca report: wheat flour fortification─current knowledge and practical
+-           applications .............................................................................................................. 8
+-      2.5 Fortification issues in emergency/humanitarian crisis situations: improving the
+-           micronutrient content of WFP’s food basket ........................................................... 9
+-      2.6 Multiple micronutrient fortification: milling considerations and cost implications10
+-      2.7 Multiple micronutrient fortification: milling considerations and cost implications
+-           ─ the regional perspective ..................................................................................... 11
+-      2.8 Stable isotope techniques in the development of food fortification strategies ...... 12
+-      2.9 Monitoring and evaluating flour fortification programmes: some key
+-           considerations ........................................................................................................ 13
+-      2.10 Proposal to develop revisions to the current WHO Regional Office guidelines for
+-           the fortification of flour ......................................................................................... 15
+- 3.   COUNTRY PRESENTATIONS ..................................................................................... 16
+-      3.1 Status of flour fortification in Afghanistan............................................................ 16
+-      3.2 Status of flour fortification in Bahrain................................................................... 17
+-      3.3 Status of flour fortification in Egypt...................................................................... 19
+-      3.4 Status of flour fortification in the Islamic Republic of Iran .................................. 20
+-      3.5 Status of flour fortification in Iraq......................................................................... 21
+-      3.6 Status of flour fortification in Jordan..................................................................... 22
+-      3.7 Status of flour fortification in Kuwait ................................................................... 23
+-      3.8 Status of flour fortification in Morocco................................................................. 25
+-      3.9 Status of flour fortification in Oman ..................................................................... 26
+-      3.10 Flour fortification in Sudan ................................................................................... 26
+-      3.11 Situation of flour fortification in the Syrian Arab Republic .................................. 27
+-      3.12 Prevention of anaemia in Tunisia .......................................................................... 28
+-      3.13 Status of flour fortification in Yemen .................................................................... 29
+- 4.   GROUP WORK .............................................................................................................. 29
+-      4.1 Group work 1. Technical and milling issues: standards, quality assurance and
+-          enforcement ........................................................................................................... 29
+-      4.2 Group work 2. Communication and advocacy strategy for flour fortification ...... 30
+- 5.   CONCLUSIONS............................................................................................................. 31
+- 6.      RECOMMENDATIONS ................................................................................................ 33
+-      Annexes
+- 1. AGENDA............................................................................................................................. 35
+- 2. PROGRAMME.................................................................................................................... 36
+- 3. LIST OF PARTICIPANTS................................................................................................... 39
+-                                   WHO-EM/NUT/250/E
+- 1.     INTRODUCTION
+-       A technical consultation on the fortification of flour with multiple micronutrients
+- was organized by the World Health Organization (WHO) Regional Office for the
+- Eastern Mediterranean, in collaboration with the Ministry of Health, Kuwait, and the
+- Council of Health Ministers of the Gulf Cooperation Council (GCC), from 28 to 30
+- May 2007 in Kuwait. Participants from Afghanistan, Bahrain, Egypt, Islamic Republic
+- of Iran, Iraq, Jordan, Kuwait, Morocco, Oman, Qatar, Sudan, Syrian Arab Republic,
+- Tunisia, United Arab Emirates and Yemen attended the meeting. In addition,
+- representatives from the Centers for Disease Control and Prevention (CDC), Atlanta,
+- the Micronutrient Initiative, Canada, the World Food Programme (WFP), the United
+- Nations Children’s Fund (UNICEF) and the International Atomic Energy Agency
+- (IAEA) were also present at the consultation. The objectives of the consultation were
+- to:
+- •    review current knowledge, including benefits, limitations and indications of
+-      multiple micronutrient fortification of wheat flour;
+- •    review the regional experiences in the fortification of wheat flour; and explore
+-      increased coverage of fortified wheat flour with additional micronutrients;
+- •    overcome constraints in the effective implementation of national flour
+-      fortification programmes;
+- •    agree on possible standardization in the procurement of fortificants, milling
+-      equipment and the monitoring and evaluation of fortification programmes; and
+- •    reach a consensus on the regional fortification standards.
+-       The message of Dr Hussein A Gezairy, WHO Regional Director for the Eastern
+- Mediterranean, was delivered by Dr Jihane Tawilah, WHO Representative, Oman. Dr
+- Gezairy said that fortification of flour had been recognized as a powerful intervention

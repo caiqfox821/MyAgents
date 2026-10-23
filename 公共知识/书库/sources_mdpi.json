@@ -1,0 +1,510 @@
+[
+  {
+    "id": "12582",
+    "url_title": "Analytical_Methods_for_Food_and_Environmental_Pollutants",
+    "file": "Analytical_Methods_for_Food_and_Environmental_Pollutants_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7005-9",
+    "title": "Analytical Methods for Food and Environmental Pollutants",
+    "themes": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "risk",
+      "环境与生态毒理",
+      "ms"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-7005-9"
+  },
+  {
+    "id": "12752",
+    "url_title": "Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients",
+    "file": "Environmentally_Friendly_Manufacturing_of_Food_Additives_and_Functional_Ingredients_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7646-4",
+    "title": "Environmentally Friendly Manufacturing of Food Additives and Functional Ingredients",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "食品添加剂",
+      "ms"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-7646-4"
+  },
+  {
+    "id": "12534",
+    "url_title": "Novel_Thermal_and_Non_thermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality",
+    "file": "Novel_Thermal_and_Non_thermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7179-7",
+    "title": "Novel Thermal and Non-thermal Technologies towards Sustainability and Microbiological Food Safety and Quality",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "微生物危害"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-7179-7",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/12534/Novel_Thermal_and_Nonthermal_Technologies_towards_Sustainability_and_Microbiological_Food_Safety_and_Quality.pdf"
+  },
+  {
+    "id": "12223",
+    "url_title": "Cadmium_and_Trace_Elements_Toxicity",
+    "file": "Cadmium_and_Trace_Elements_Toxicity_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-6581-9",
+    "title": "Cadmium and Trace Elements Toxicity",
+    "themes": [
+      "tox"
+    ],
+    "tags": [
+      "tox"
+    ],
+    "select_theme": "tox",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-6581-9"
+  },
+  {
+    "id": "13221",
+    "url_title": "Chromatography_Mass_Spectrometry_Analysis_in_Biomedical_Research_and_Clinical_Laboratory",
+    "file": "Chromatography_Mass_Spectrometry_Analysis_in_Biomedical_Research_and_Clinical_Laboratory_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-7776-8",
+    "title": "Chromatography–Mass Spectrometry Analysis in Biomedical Research and Clinical Laboratory",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "样品前处理"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-7776-8",
+    "pdf_url": "https://mdpi-res.com/bookfiles/topic/13221/ChromatographyMass_Spectrometry_Analysis_in_Biomedical_Research_and_Clinical_Laboratory.pdf"
+  },
+  {
+    "id": "11693",
+    "url_title": "Quantitative_Risk_Assessment_of_Listeria_monocytogenes_in_Foods",
+    "file": "Quantitative_Risk_Assessment_of_Listeria_monocytogenes_in_Foods_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5468-4",
+    "title": "Quantitative Risk Assessment of Listeria monocytogenes in Foods",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "风险评估",
+      "微生物危害",
+      "定量与验证"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-5468-4",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/11693/Quantitative_Risk_Assessment_of_emListeria_monocytogenesem_in_Foods.pdf"
+  },
+  {
+    "id": "11059",
+    "url_title": "Association_of_Dietary_Intake_with_Chronic_Disease_and_Human_Health",
+    "file": "Association_of_Dietary_Intake_with_Chronic_Disease_and_Human_Health_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-3658-1",
+    "title": "Association of Dietary Intake with Chronic Disease and Human Health",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "暴露评估"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-3658-1"
+  },
+  {
+    "id": "10934",
+    "url_title": "Environmental_and_Occupational_Exposure_to_Chemical_Agents_and_Health_Challenges",
+    "file": "Environmental_and_Occupational_Exposure_to_Chemical_Agents_and_Health_Challenges_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-2704-6",
+    "title": "Environmental and Occupational Exposure to Chemical Agents and Health Challenges",
+    "themes": [
+      "risk",
+      "tox"
+    ],
+    "tags": [
+      "暴露评估",
+      "环境与生态毒理"
+    ],
+    "select_theme": "tox",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-2704-6"
+  },
+  {
+    "id": "11564",
+    "url_title": "Drug_Metabolism_and_Toxicological_Mechanisms",
+    "file": "Drug_Metabolism_and_Toxicological_Mechanisms_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-5190-4",
+    "title": "Drug Metabolism and Toxicological Mechanisms",
+    "themes": [
+      "risk",
+      "tox"
+    ],
+    "tags": [
+      "risk",
+      "毒作用机制/AOP",
+      "毒代与代谢"
+    ],
+    "select_theme": "tox",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-5190-4"
+  },
+  {
+    "id": "11391",
+    "url_title": "Advanced_Pharmaceutical_Analytical_Technology",
+    "file": "Advanced_Pharmaceutical_Analytical_Technology_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4866-9",
+    "title": "Advanced Pharmaceutical Analytical Technology",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "ms"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-4866-9"
+  },
+  {
+    "id": "8854",
+    "url_title": "Food_Pesticide_Residues_Monitoring_and_Health_Risk_Assessment",
+    "file": "Food_Pesticide_Residues_Monitoring_and_Health_Risk_Assessment_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0384-2",
+    "title": "Food Pesticide Residues Monitoring and Health Risk Assessment",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "风险评估",
+      "农药残留",
+      "农残分析"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-0384-2"
+  },
+  {
+    "id": "9022",
+    "url_title": "Mass_Spectrometry_for_Biomedical_and_Food_Analysis",
+    "file": "Mass_Spectrometry_for_Biomedical_and_Food_Analysis_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0699-7",
+    "title": "Mass Spectrometry for Biomedical and Food Analysis",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "risk",
+      "样品前处理"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-0699-7"
+  },
+  {
+    "id": "9300",
+    "url_title": "Antibiotic_Residues_Antimicrobial_Resistance_and_Intervention_Strategies_of_Foodborne_Pathogens",
+    "file": "Antibiotic_Residues_Antimicrobial_Resistance_and_Intervention_Strategies_of_Foodborne_Pathogens_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0923-3",
+    "title": "Antibiotic Residues, Antimicrobial Resistance and Intervention Strategies of Foodborne Pathogens",
+    "themes": [
+      "risk"
+    ],
+    "tags": [
+      "兽药残留",
+      "微生物危害"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-0923-3"
+  },
+  {
+    "id": "9027",
+    "url_title": "Feature_Papers_in_Drug_Toxicity",
+    "file": "Feature_Papers_in_Drug_Toxicity_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0441-2",
+    "title": "Feature Papers in Drug Toxicity",
+    "themes": [
+      "risk",
+      "tox"
+    ],
+    "tags": [
+      "risk",
+      "tox"
+    ],
+    "select_theme": "tox",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-0441-2"
+  },
+  {
+    "id": "9237",
+    "url_title": "Evaluation_and_Prevention_of_Mycotoxin_Contamination_and_Toxicological_Effects",
+    "file": "Evaluation_and_Prevention_of_Mycotoxin_Contamination_and_Toxicological_Effects_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-0886-1",
+    "title": "Evaluation and Prevention of Mycotoxin Contamination and Toxicological Effects",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "真菌毒素",
+      "毒素分析"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-0886-1"
+  },
+  {
+    "id": "9932",
+    "url_title": "State_of_the_Art_Environmental_Chemicals_Exposomics_and_Metabolomics",
+    "file": "State_of_the_Art_Environmental_Chemicals_Exposomics_and_Metabolomics_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2131-0",
+    "title": "State-of-the-Art Environmental Chemicals Exposomics and Metabolomics",
+    "themes": [
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "环境与生态毒理",
+      "代谢组学"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-2131-0",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/9932/StateoftheArt_Environmental_Chemicals_Exposomics_and_Metabolomics.pdf"
+  },
+  {
+    "id": "6429",
+    "url_title": "Novel_Analytical_Methods_in_Food_Analysis",
+    "file": "Novel_Analytical_Methods_in_Food_Analysis_2022",
+    "year": 2022,
+    "doi": "10.3390/books978-3-0365-5815-8",
+    "title": "Novel Analytical Methods in Food Analysis",
+    "themes": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-0365-5815-8"
+  },
+  {
+    "id": "6396",
+    "url_title": "Quantitative_Assessment_of_Environmental_Human_Health_Risks",
+    "file": "Quantitative_Assessment_of_Environmental_Human_Health_Risks_2022",
+    "year": 2022,
+    "doi": "10.3390/books978-3-0365-5852-3",
+    "title": "Quantitative Assessment of Environmental/Human Health Risks",
+    "themes": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "risk",
+      "环境与生态毒理",
+      "定量与验证"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-0365-5852-3",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/6396/Quantitative_Assessment_of_EnvironmentalHuman_Health_Risks.pdf"
+  },
+  {
+    "id": "6322",
+    "url_title": "Sample_Preparation_Quo_Vadis_Current_Status_of_Sample_Preparation_Approaches_2nd_Edition",
+    "file": "Sample_Preparation_Quo_Vadis_Current_Status_of_Sample_Preparation_Approaches_2nd_Edition_2022",
+    "year": 2022,
+    "doi": "10.3390/books978-3-0365-5721-2",
+    "title": "Sample Preparation-Quo Vadis: Current Status of Sample Preparation Approaches-2nd Edition",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "样品前处理"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-0365-5721-2",
+    "pdf_url": "https://mdpi-res.com/bookfiles/book/6322/Sample_PreparationQuo_Vadis_Current_Status_of_Sample_Preparation_Approaches2nd_Edition.pdf"
+  },
+  {
+    "id": "13096",
+    "url_title": "Microwave_and_Ultrasound_Assisted_Extraction_for_Plant_Bioactive_Compounds",
+    "file": "Microwave_and_Ultrasound_Assisted_Extraction_for_Plant_Bioactive_Compounds_2026",
+    "year": 2026,
+    "doi": "10.3390/books978-3-7258-8020-1",
+    "title": "Microwave and Ultrasound-Assisted Extraction for Plant Bioactive Compounds",
+    "themes": [
+      "ms"
+    ],
+    "tags": [
+      "样品前处理"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-8020-1"
+  },
+  {
+    "id": "9761",
+    "url_title": "Temporal_Resolution_a_Key_Factor_in_Environmental_Risk_Assessment",
+    "file": "Temporal_Resolution_a_Key_Factor_in_Environmental_Risk_Assessment_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1888-4",
+    "title": "Temporal Resolution, a Key Factor in Environmental Risk Assessment",
+    "themes": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "风险评估",
+      "环境与生态毒理",
+      "ms"
+    ],
+    "select_theme": "ms",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-1888-4"
+  },
+  {
+    "id": "9858",
+    "url_title": "Environmental_Exposure_Biomonitoring_and_Exposure_Assessment",
+    "file": "Environmental_Exposure_Biomonitoring_and_Exposure_Assessment_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-1744-3",
+    "title": "Environmental Exposure, Biomonitoring and Exposure Assessment",
+    "themes": [
+      "risk",
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "暴露评估",
+      "环境与生态毒理",
+      "ms"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-1744-3"
+  },
+  {
+    "id": "9982",
+    "url_title": "Environmental_and_Health_Issues_and_Solutions_for_Anticoccidials_and_other_Emerging_Pollutants_of_Special_Concern",
+    "file": "Environmental_and_Health_Issues_and_Solutions_for_Anticoccidials_and_other_Emerging_Pollutants_of_Special_Concern_2024",
+    "year": 2024,
+    "doi": "10.3390/books978-3-7258-2200-3",
+    "title": "Environmental and Health Issues and Solutions for Anticoccidials and other Emerging Pollutants of Special Concern",
+    "themes": [
+      "risk",
+      "ms"
+    ],
+    "tags": [
+      "risk",
+      "样品前处理"
+    ],
+    "select_theme": "risk",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-2200-3"
+  },
+  {
+    "id": "11364",
+    "url_title": "Discovery_of_Bioactive_Compounds_from_Natural_Organisms_and_Their_Molecular_Mechanisms_against_Diseases",
+    "file": "Discovery_of_Bioactive_Compounds_from_Natural_Organisms_and_Their_Molecular_Mechanisms_against_Diseases_2025",
+    "year": 2025,
+    "doi": "10.3390/books978-3-7258-4900-0",
+    "title": "Discovery of Bioactive Compounds from Natural Organisms and Their Molecular Mechanisms against Diseases",
+    "themes": [
+      "tox",
+      "ms"
+    ],
+    "tags": [
+      "毒作用机制/AOP",
+      "ms"
+    ],
+    "select_theme": "tox",
+    "publisher": "MDPI",
+    "license": "CC BY 4.0",
+    "sub": "mdpi",
+    "source": "https://doi.org/10.3390/books978-3-7258-4900-0"
+  }
+]

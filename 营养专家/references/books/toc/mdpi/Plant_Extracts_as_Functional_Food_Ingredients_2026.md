@@ -1,0 +1,80 @@
+# Plant Extracts as Functional Food Ingredients (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7750-8
+- 页数: 302
+- 全文: `text/mdpi/Plant_Extracts_as_Functional_Food_Ingredients_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Jaroslawa Rutkowska and Antonella Pasqualone
+- Plant Extracts as Functional Food Ingredients
+- Reprinted from: Foods 2025, 14, 374, https://doi.org/10.3390/foods14030374 . . . . . . . . . . .                  1
+- Naraporn Phomkaivon, Preeyanut Pongponpai, Prapat Kosawatpat, Bussaba Thongdang and
+- Wanida Pan-utai
+- Extraction, Characterisation and Evaluation of Antioxidant and Probiotic Growth Potential of
+- Water-Soluble Polysaccharides from Ulva rigida Macroalgae
+- Reprinted from: Foods 2024, 13, 1630, https://doi.org/10.3390/foods13111630 . . . . . . . . . . .                 9
+- Markéta Jarošová, Pavel Roudnický, Jan Bárta, Zbyněk Zdráhal, Veronika Bártová,
+- Adéla Stupková, et al.
+- Proteomic Proﬁle of Flaxseed (Linum usitatissimum L.) Products as Inﬂuenced by Protein
+- Concentration Method and Cultivar
+- Reprinted from: Foods 2024, 13, 1288, https://doi.org/10.3390/foods13091288 . . . . . . . . . . . 27
+- Meng Meng, Ziyi She, Yinyin Feng, Junhan Zhang, Ran Han, Yanlong Qi, et al.
+- Optimization of Extraction Process and Activity of Angiotensin-Converting Enzyme (ACE)
+- Inhibitory Peptide from Walnut Meal
+- Reprinted from: Foods 2024, 13, 1067, https://doi.org/10.3390/foods13071067 . . . . . . . . . . . 44
+- Milica Glišić, Marija Bošković Cabrol, Nikola Čobanović, Marija Starčević,
+- Stevan Samardžić, Ivona Veličković and Zoran Maksimović
+- The Effects of Sunﬂower and Maize Crop Residue Extracts as a New Ingredient on the Quality
+- Properties of Pork Liver Pâtés
+- Reprinted from: Foods 2024, 13, 788, https://doi.org/10.3390/foods13050788 . . . . . . . . . . . 60
+- Hasim Kelebek, Hatice Kubra Sasmaz, Ozge Aksay, Serkan Selli, Ozan Kahraman and
+- Christine Fields
+- Exploring the Impact of Infusion Parameters and In Vitro Digestion on the Phenolic Proﬁle and
+- Antioxidant Capacity of Guayusa (Ilex guayusa Loes.) Tea Using Liquid Chromatography, Diode
+- Array Detection, and Electrospray Ionization Tandem Mass Spectrometry
+- Reprinted from: Foods 2024, 13, 694, https://doi.org/10.3390/foods13050694 . . . . . . . . . . . 85
+- Ding-Tao Wu, Jing Lei, Jie Li, Mei-Mei Qu Mo, Wen-Bing Li, Yu-Jing Huang, et al.
+- Efﬁcient and Selective Extraction of Rhamnogalacturonan-I-Enriched Pectic Polysaccharides
+- from Tartary Buckwheat Leaves Using Deep-Eutectic-Solvent-Based Techniques
+- Reprinted from: Foods 2024, 13, 625, https://doi.org/10.3390/foods13040625 . . . . . . . . . . . 108
+- Ryszard Amarowicz, Bożena Cwalina-Ambroziak, Michał Adam Janiak, Marta Damszel,
+- Arkadiusz Stepień, Katarzyna Sulewska, et al.
+- Effect of Fertilization on Phenolics of Rapeseeds and Their Antioxidant Potential
+- Reprinted from: Foods 2024, 13, 561, https://doi.org/10.3390/foods13040561 . . . . . . . . . . . 127
+- Kadrin Meremäe, Piret Raudsepp, Linda Rusalepp, Dea Anton, Uko Bleive and Mati Roasto
+- In Vitro Antibacterial and Antioxidative Activity and Polyphenolic Proﬁle of the Extracts of
+- Chokeberry, Blackcurrant, and Rowan Berries and Their Pomaces
+- Reprinted from: Foods 2024, 13, 421, https://doi.org/10.3390/foods13030421 . . . . . . . . . . . 143
+-                                                          v
+- Rubén Domı́nguez-Valencia, Aurora Cittadini, Mirian Pateiro, Paulo E. S. Munekata and
+- José M. Lorenzo
+- Elderberry Lipophilic and Hydrophilic Bioactive Compounds: Characterization and
+- Extract Encapsulation
+- Reprinted from: Foods 2023, 12, 4233, https://doi.org/10.3390/foods12234233 . . . . . . . . . . . 156
+- Juhae Kim, Na-Hyung Kim, Isoo Youn, Eun Kyoung Seo and Choon Young Kim
+- Effects of Allium macrostemon Bunge Extract on Adipose Tissue Inﬂammation and Hepatic
+- Endoplasmic Reticulum Stress in High-Fat Diet-Fed and Bisphenol A-Treated C57BL/6N Mice
+- Reprinted from: Foods 2023, 12, 3777, https://doi.org/10.3390/foods12203777 . . . . . . . . . . . 172
+- Kimberly Calonico and Julian De La Rosa-Millan
+- Digestion-Related Enzyme Inhibition Potential of Selected Mexican Medicinal Plants (Ludwigia
+- octovalvis (Jacq.) P.H.Raven, Cnidoscolus aconitifolius and Crotalaria longirostrata)
+- Reprinted from: Foods 2023, 12, 3529, https://doi.org/10.3390/foods12193529 . . . . . . . . . . . 187
+- Beatriz Nunes Silva, Vasco Cadavez, Cristina Caleja, Eliana Pereira, Ricardo C. Calhelha,
+- Mikel Añibarro-Ortega, et al.
+- Phytochemical Composition and Bioactive Potential of Melissa ofﬁcinalis L., Salvia ofﬁcinalis L.
+- and Mentha spicata L. Extracts
+- Reprinted from: Foods 2023, 12, 947, https://doi.org/10.3390/foods12050947 . . . . . . . . . . . 214
+- Stefania Pagliari, Matilde Forcella, Elena Lonati, Grazia Sacco, Francesco Romaniello,
+- Pierangela Rovellini, et al.
+- Antioxidant and Anti-Inﬂammatory Effect of Cinnamon (Cinnamomum verum J. Presl) Bark
+- Extract after In Vitro Digestion Simulation
+- Reprinted from: Foods 2023, 12, 452, https://doi.org/10.3390/foods12030452 . . . . . . . . . . . 229
+- Momoko Ishida, Fuka Miyagawa, Kosuke Nishi and Takuya Sugahara
+- Aqueous Extract from Cuminum cyminum L. Seed Alleviates Ovalbumin-Induced Allergic
+- Rhinitis in Mouse via Balancing of Helper T Cells
+- Reprinted from: Foods 2022, 11, 3224, https://doi.org/10.3390/foods11203224 . . . . . . . . . . . 247

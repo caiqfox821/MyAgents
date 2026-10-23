@@ -1,0 +1,81 @@
+# Data-Driven Intelligent Modeling and Optimization Algorithms for Industrial Processes (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2986-6
+- 页数: 256
+- 全文: `text/mdpi/DataDriven_Intelligent_Modeling_and_Optimization_Algorithms_for_Industrial_Processes_2025.txt`
+- PDF: `mdpi/DataDriven_Intelligent_Modeling_and_Optimization_Algorithms_for_Industrial_Processes_2025.pdf`
+- 标签: 智能加工, 过程建模, 优化算法
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Sheng Du, Zixin Huang, Li Jin and Xiongbo Wan
+- Recent Progress in Data-Driven Intelligent Modeling and Optimization Algorithms for
+- Industrial Processes
+- Reprinted from: Algorithms 2024, 17, 569, https://doi.org/10.3390/a17120569 . . . . . . . . . . .
+- 1
+- Duby Castellanos-Cárdenas, Norha L. Posada, Andrés Orozco-Duque, Lina M.
+- Sepúlveda-Cano, Fabio Castrillón, Oscar E. Camacho and Rafael E. Vásquez
+- A Review on Data-Driven Model-Free Sliding Mode Control
+- Reprinted from: Algorithms 2024, 17, 543, https://doi.org/10.3390/a17120543 . . . . . . . . . . .
+- 7
+- Fengwei Jing, Fenghe Li, Yong Song, Jie Li, Zhanbiao Feng and Jin Guo
+- Root Cause Tracing Using Equipment Process Accuracy Evaluation for Looper in Hot Rolling
+- Reprinted from: Algorithms 2024, 17, 102, https://doi.org/10.3390/a17030102 . . . . . . . . . . . 36
+- Borut Buchmeister and Natasa Vujica Herzog
+- Advancements in Data Analysis for the Work-Sampling Method
+- Reprinted from: Algorithms 2024, 17, 183, https://doi.org/10.3390/a17050183 . . . . . . . . . . . 55
+- Jaciel David Hernandez-Resendiz, Edgar Tello-Leal and Marcos Sepúlveda
+- A Data-Driven Approach to Discovering Process Choreography
+- Reprinted from: Algorithms 2024, 17, 188, https://doi.org/10.3390/a17050188 . . . . . . . . . . . 72
+- Wen Ying, Zhaohui Wang, Hui Li, Sheng Du and Man Zhao
+- Intelligent Ship Scheduling and Path Planning Method for Maritime Emergency Rescue
+- Reprinted from: Algorithms 2024, 17, 197, https://doi.org/10.3390/a17050197 . . . . . . . . . . . 94
+- Tarik Zarrouk, Mohammed Nouari, Jamal-Eddine Salhi, Mohammed Abbadi and Ahmed
+- Abbadi
+- Three-Dimensional Finite Element Modeling of Ultrasonic Vibration-Assisted Milling of the
+- Nomex Honeycomb Structure
+- Reprinted from: Algorithms 2024, 17, 204, https://doi.org/10.3390/a17050204 . . . . . . . . . . . 104
+- João Pedro Costa Violante, Marcela A. G. Machado, Amanda dos Santos Mendes and Túlio
+- S. Almeida
+- An Interface to Monitor Process Variability Using the Binomial ATTRIVAR SS Control Chart
+- Reprinted from: Algorithms 2024, 17, 216, https://doi.org/10.3390/a17050216 . . . . . . . . . . . 118
+- Guangqiang Tian and Fuzhong Wang
+- Data-Driven Load Frequency Control for Multi-Area Power System Based on Switching Method
+- under Cyber Attacks
+- Reprinted from: Algorithms 2024, 17, 233, https://doi.org/10.3390/a17060233 . . . . . . . . . . . 131
+- Bishwajit Dey, Gulshan Sharma and Pitshou N. Bokoro
+- A Novel Hybrid Crow Search Arithmetic Optimization Algorithm for Solving Weighted
+- Combined Economic Emission Dispatch with Load-Shifting Practice
+- Reprinted from: Algorithms 2024, 17, 313, https://doi.org/10.3390/a17070313 . . . . . . . . . . . 147
+- Andrés Tobón, Carlos Andrés Ramos-Paja, Martha Lucı́a Orozco-Gutı́errez, Andrés Julián
+- Saavedra-Montes and Sergio Ignacio Serna-Garcés
+- Adaptive Sliding-Mode Controller for a Zeta Converter to Provide High-Frequency Transients
+- in Battery Applications
+- Reprinted from: Algorithms 2024, 17, 319, https://doi.org/10.3390/a17070319 . . . . . . . . . . . 176
+- v
+- Amalia Moutsopoulou, Markos Petousis, Georgios E. Stavroulakis, Anastasios Pouliezos
+- and Nectarios Vidakis
+- Novelty in Intelligent Controlled Oscillations in Smart Structures
+- Reprinted from: Algorithms 2024, 17, 505, https://doi.org/10.3390/a17110505 . . . . . . . . . . . 201
+- Wentao Xu, Jin Qian, Yueyang Wu, Shaowei Yan, Yongting Ni and Guangjin Yang
+- A VIKOR-Based Sequential Three-Way Classiﬁcation Ranking Method
+- Reprinted from: Algorithms 2024, 17, 530, https://doi.org/10.3390/a17110530 . . . . . . . . . . . 224
+- vi
+- About the Editors
+- Li Jin
+- Li Jin received a B.S. in Automation and a Ph.D. in Control Science and Engineering from
+- China University of Geosciences, Wuhan, China, in 2016 and 2021, respectively.
+- She was a
+- joint Ph.D. student with the Department of Electrical Engineering and Electronics, University of
+- Liverpool, Liverpool, U.K., from 2018 to 2020. She was a Postdoctoral Fellow in Control Science and
+- Engineering, China University of Geosciences, Wuhan, China, from 2022 to 2024. She is currently
+- a Professor at the School of Automation, China University of Geosciences, Wuhan, China. Her
+- current research interests include power system stability analysis and control, time-delay systems,
+- and robust theory and application.
+- Sheng Du
+- Sheng Du received a B.S. in Measurement & Control Technology and Instruments and a Ph.D.
+- in Control Science and Engineering from China University of Geosciences, Wuhan, China, in 2016
+- and 2021, respectively. He was a joint Ph.D. student with the Department of Electrical and Computer
+- Engineering, University of Alberta, Edmonton, Canada, from 2019 to 2021. He was a Postdoctoral

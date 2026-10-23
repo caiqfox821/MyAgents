@@ -1,0 +1,81 @@
+# Molecular Breeding and Germplasm Improvement of Rice (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-7258-3009-1
+- 页数: 190
+- 全文: `text/rice/Molecular_Breeding_and_Germplasm_Improvement_of_Rice_2025.txt`
+- PDF: `rice/Molecular_Breeding_and_Germplasm_Improvement_of_Rice_2025.pdf`
+- 标签: 水稻, 分子育种, 种质
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Weixun Wu, Yingxin Zhang, Guiai Jiao and Xiangjin Wei
+- Progress in Understanding and Enhancing Rice Tolerance to Biotic and Abiotic Stresses
+- Reprinted from: Plants 2024, 13, 3206, https://doi.org/10.3390/plants13223206 . . . . . . . . . .              1
+- Huimin Fang, Hualan Chen, Jianing Wang, Ning Li, Long Zhang and Cunxu Wei
+- G1 Interacts with OsMADS1 to Regulate the Development of the Sterile Lemma in Rice
+- Reprinted from: Plants 2024, 13, 505, https://doi.org/10.3390/plants13040505 . . . . . . . . . . .             5
+- Xinchen Wang, Fengcai Wu, Jinguo Zhang, Yaling Bao, Nansheng Wang and Guohui Dou et
+- al.
+- Identification of the CNGC Gene Family in Rice and Mining of Alleles for Application in Rice
+- Improvement
+- Reprinted from: Plants 2023, 12, 4089, https://doi.org/10.3390/plants12244089 . . . . . . . . . . 18
+- Gang Li, Ruijie Cao, Liuyang Ma, Guiai Jiao, Pengfei Chen and Nannan Dong et al.
+- OsLEA1b Modulates Starch Biosynthesis at High Temperatures in Rice
+- Reprinted from: Plants 2023, 12, 4070, https://doi.org/10.3390/plants12234070 . . . . . . . . . . 36
+- Zhenling Zhou, Weijie Tang, Zhiguang Sun, Jingfang Li, Bo Yang and Yan Liu et al.
+- OsCIPK9 Interacts with OsSOS3 and Affects Salt-Related Transport to Improve Salt Tolerance
+- Reprinted from: Plants 2023, 12, 3723, https://doi.org/10.3390/plants12213723 . . . . . . . . . . 51
+- Pavel Kostylev, Nataliya Kalinina, Nataliya Vozhzhova, Valentina Golubova and Natalya
+- Chertkova
+- Creation of Rice Doubled Haploids Resistant to Prolonged Flooding Using Anther Culture
+- Reprinted from: Plants 2023, 12, 3681, https://doi.org/10.3390/plants12213681 . . . . . . . . . . 63
+- Fangjun Feng, Xiaosong Ma, Ming Yan, Hong Zhang, Daoliang Mei and Peiqing Fan et al.
+- Identification of Genetic Loci for Rice Seedling Mesocotyl Elongation in Both Natural and
+- Artificial Segregating Populations
+- Reprinted from: Plants 2023, 12, 2743, https://doi.org/10.3390/plants12142743 . . . . . . . . . . 81
+- Mengli Ma, En Lei, Tiantao Wang, Hengling Meng, Wei Zhang and Bingyue Lu
+- Genetic Diversity and Association Mapping of Grain-Size Traits in Rice Landraces from the
+- Honghe Hani Rice Terraces System in Yunnan Province
+- Reprinted from: Plants 2023, 12, 1678, https://doi.org/10.3390/plants12081678 . . . . . . . . . . 94
+- Pei Peng, Haoyu Jiang, Lihua Luo, Changrong Ye and Yinghui Xiao
+- Pyramiding of Multiple Genes to Improve Rice Blast Resistance of Photo-Thermo Sensitive Male
+- Sterile Line, without Yield Penalty in Hybrid Rice Production
+- Reprinted from: Plants 2023, 12, 1389, https://doi.org/10.3390/plants12061389 . . . . . . . . . . 109
+- Lin Liu, Yunpeng Wang, Yunlu Tian, Shuang Song, Zewan Wu and Xin Ding et al.
+- Isolation and Characterization of SPOTTED LEAF42 Encoding a Porphobilinogen Deaminase
+- in Rice
+- Reprinted from: Plants 2023, 12, 403, https://doi.org/10.3390/plants12020403 . . . . . . . . . . . 121
+- Amir Sohail, Liaqat Shah, Ling Liu, Anowerul Islam, Zhengfu Yang and Qinqin Yang et al.
+- Mapping and Validation of qHD7b: Major Heading-Date QTL Functions Mainly under
+- Long-Day Conditions
+- Reprinted from: Plants 2022, 11, 2288, https://doi.org/10.3390/plants11172288 . . . . . . . . . . 149
+-                                                        v
+- Weiwei Ma, Song Cui, Zhenfei Lu, Xiaofeng Yan, Long Cai and Yongfa Lu et al.
+- YTH Domain Proteins Play an Essential Role in Rice Growth and Stress Response
+- Reprinted from: Plants 2022, 11, 2206, https://doi.org/10.3390/plants11172206 . . . . . . . . . . 164
+-                                                  vi
+- About the Editors
+- Xiangjin Wei
+-      Dr.   Xiangjin Wei has received his doctor’s degree in genetics from Nanjing Agricultural
+- University and is currently working at the China National Rice Research Institute. He is mainly
+- engaged in the mechanism analysis of rice quality, abiotic stress resistance and other important
+- agronomic traits, and the cultivation of new rice varieties with high yield, high quality, and resistance
+- to abiotic stress. He has published over 60 research papers in Molecular Plant, National Science Review,
+- Plant Biotechnol J, New Phytologist, Plant Communications and other important journals, and he holds
+- 9 national invention patents of China. He contributed to over 10 new rice varieties and received 5
+- awards, including the National Science and Technology Progress Award of China.
+- Yingxin Zhang
+-      Dr.     Yingxin Zhang has received his doctor’s degree genetics from Nanjing Agricultural
+- University and is currently working at the China National Rice Research Institute. He is mainly
+- engaged in developing disease-resistant, high-yield hybrid rice varieties and creating specific
+- germplasm materials. He has published 33 papers as the first or corresponding author in journals
+- like Plant Cell, Plant Physiology, and Theoretical and Applied Genetics. He holds four invention patents
+- and one utility model patent as the first author. He is involved in a major agricultural research project
+- and a National Natural Science Foundation of China project and has contributed to the cultivation of
+- one nationally approved and two provincially approved rice varieties.
+- Weixun Wu
+-      Dr.     Weixun Wu has received his doctor’s degree in genetics from Nanjing Agricultural
+- University and is currently working at the China National Rice Research Institute. He is mainly
+- engaged in the cloning and functional research of genes related to rice heading date and salt-alkali

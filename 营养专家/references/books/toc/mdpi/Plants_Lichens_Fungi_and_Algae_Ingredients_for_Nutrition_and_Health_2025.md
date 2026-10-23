@@ -1,0 +1,80 @@
+# Plants, Lichens, Fungi and Algae Ingredients for Nutrition and Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4146-2
+- 页数: 202
+- 全文: `text/mdpi/Plants_Lichens_Fungi_and_Algae_Ingredients_for_Nutrition_and_Health_2025.txt`
+- 标签: 营养综合
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Silvia Mironeasa and Mădălina Ungureanu-Iuga
+- Plants, Lichens, Fungi and Algae Ingredients for Nutrition and Health
+- Reprinted from: Appl. Sci. 2024, 14, 2800, https://doi.org/10.3390/app14072800 . . . . . . . . .               1
+- Tatiana Dumitra Panaite, Gabriela Maria Cornescu, Nicoleta Corina Predescu, Ana Cismileanu,
+- Raluca Paula Turcu, Mihaela Saracila and Cristina Soica
+- Microalgae (Chlorella vulgaris and Spirulina platensis) as a Protein Alternative and Their Effects
+- on Productive Performances, Blood Parameters, Protein Digestibility, and Nutritional Value of
+- Laying Hens’ Egg
+- Reprinted from: Appl. Sci. 2023, 13, 10451, https://doi.org/10.3390/app131810451 . . . . . . . .               6
+- Camelia Maria Golea, Paula-Maria Galan, Livia-Ioana Leti and Georgiana Gabriela Codină
+- Genetic Diversity and Physicochemical Characteristics of Different Wheat Species (Triticum
+- aestivum L., Triticum monococcum L., Triticum spelta L.) Cultivated in Romania
+- Reprinted from: Appl. Sci. 2023, 13, 4992, https://doi.org/10.3390/app13084992 . . . . . . . . . 27
+- Banu Koç and Gamze Atar Kayabaşi
+- Enrichment of White Wheat Bread with Pistachio Hulls and Grape Seeds: Effect on Bread
+- Quality Characteristics
+- Reprinted from: Appl. Sci. 2023, 13, 3431, https://doi.org/10.3390/app13063431 . . . . . . . . . 44
+- Iuliana Banu, Livia Patras, cu, Ina Vasilean, Loredana Dumitras, cu and Iuliana Aprodu
+- Influence of the Protein-Based Emulsions on the Rheological, Thermo-Mechanical and Baking
+- Performance of Muffin Formulations
+- Reprinted from: Appl. Sci. 2023, 13, 3316, https://doi.org/10.3390/app13053316 . . . . . . . . . 60
+- Ionut Avramia and Sonia Amariei
+- A Comparative Study on the Development of Bioactive Films Based on β-glucan from Spent
+- Brewer’s Yeast and Pomegranate, Bilberry, or Cranberry Juices
+- Reprinted from: Appl. Sci. 2023, 13, 2807, https://doi.org/10.3390/app13052807 . . . . . . . . . 74
+- Ana M. Vivar-Quintana, Yamina Absi, Miriam Hernández-Jiménez and Isabel Revilla
+- Nutritional Value, Mineral Composition, Fatty Acid Profile and Bioactive Compounds of
+- Commercial Plant-Based Gluten-Free Flours
+- Reprinted from: Appl. Sci. 2023, 13, 2309, https://doi.org/10.3390/app13042309 . . . . . . . . . 88
+- Daniela-Mihaela Grigore, Silvia Mironeasa, Georgeta Ciurescu, Mădălina Ungureanu-Iuga,
+- Ana Batariuc and Narcisa Elena Babeanu
+- Carcass Yield and Meat Quality of Broiler Chicks Supplemented with Yeasts Bioproducts
+- Reprinted from: Appl. Sci. 2023, 13, 1607, https://doi.org/10.3390/app13031607 . . . . . . . . . 108
+- Urishbay Chomanov, Gulmira Kenenbay, Alibek Tursynov, Torgyn Zhumalieva,
+- Nurzhan Tultabayev and Anuarbek Suychinov
+- Nutritive Profile of Canned Goat Meat Food with Added Carrot
+- Reprinted from: Appl. Sci. 2022, 12, 9911, https://doi.org/10.3390/app12199911 . . . . . . . . . 125
+- Jorge Metri-Ojeda, Milena Ramírez-Rodrigues, Lizbeth Rosas-Ordoñez
+- and Diana Baigts-Allende
+- Development and Characterization of a Low-Fat Mayonnaise Salad Dressing Based on Arthrospira
+- platensis Protein Concentrate and Sodium Alginate
+- Reprinted from: Appl. Sci. 2022, 12, 7456, https://doi.org/10.3390/app12157456 . . . . . . . . . 138
+-                                                        v
+- Violeta Popovici, Laura Bucur, Cerasela Elena Gîrd, Suzana Ioana Calcan, Elena Iulia Cucolea,
+- Teodor Costache, et al.
+- Advances in the Characterization of Usnea barbata (L.) Weber ex F.H. Wigg from Călimani
+- Mountains, Romania
+- Reprinted from: Appl. Sci. 2022, 12, 4234, https://doi.org/10.3390/app12094234 . . . . . . . . . 155
+- Gabriela Maria Cornescu, Tatiana Dumitra Panaite, Cristina Soica, Ana Cismileanu and
+- Cristina Camelia Matache
+- Jerusalem Artichoke (Helianthus tuberosus L.) as a Promising Dietary Feed Ingredient for
+- Monogastric Farm Animals
+- Reprinted from: Appl. Sci. 2023, 13, 12748, https://doi.org/10.3390/app132312748 . . . . . . . . 175
+-                                                  vi
+- About the Editors
+- Silvia Mironeasa
+-      Silvia Mironeasa (Professor Habilitate, PhD. Eng. at the “Ştefan cel Mare” University of Suceava)
+- has expertise in food engineering, food processing, food quality analysis, and in the design of
+- experiments and data analysis. Her research activities focus on enhancing the characteristics of raw
+- materials by applying physical treatments and the valorization of vegetable by-products to improve
+- the nutritional profile of foods. She has been involved in 33 interdisciplinary research projects, has
+- published more than 165 scientific papers, and is the author of 21 patents under evaluation and
+- 14 published patents.
+- Mădălina Ungureanu-Iuga
+-      Mădălina Ungureanu-Iuga (Researcher, PhD. Eng. at the “Ştefan cel Mare” University of
+- Suceava and at the Romanian Academy (CE-MONT, INCE)) has expertise in the physico-chemical
+- characterization of food and its microstructure, texture, rheology, thermal processing, and by-product
+- valorization for value-added product development. Her research experience comprises 50 articles
+- published in WoS journals, 20 articles in journals indexed in other international data bases, 10 patent

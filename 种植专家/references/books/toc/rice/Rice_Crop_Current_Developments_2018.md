@@ -1,0 +1,78 @@
+# Rice Crop - Current Developments (2018, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/6366
+- 页数: 268
+- 全文: `text/rice/Rice_Crop_Current_Developments_2018.txt`
+- PDF: `rice/Rice_Crop_Current_Developments_2018.pdf`
+- 标签: 水稻, 栽培, 综合
+
+## 目录 (Contents)
+
+-                  Preface XI
+-      Chapter 1   Anther Culture as a Supplementary Tool for Rice Breeding 1
+-                  D.M. Ruwani G. Mayakaduwa and Tara D. Silva
+-      Chapter 2   Genetic Analysis of Biofortification of Micronutrient Breeding
+-                  in Rice (Oryza sativa L.) 17
+-                  Savitha Palanisamy
+-      Chapter 3   Iron Biofortification of Rice: Progress and Prospects 25
+-                  Andrew De-Xian Kok, Low Lee Yoon, Rogayah Sekeli, Wee Chien
+-                  Yeong, Zetty Norhana Balia Yusof and Lai Kok Song
+-      Chapter 4   Improving Rice Grain Quality by Enhancing Accumulation of
+-                  Iron and Zinc While Minimizing Cadmium and Lead 45
+-                  Lei Gao and Jie Xiong
+-      Chapter 5   Rice Production with Furrow Irrigation in the Mississippi River
+-                  Delta Region of the USA 69
+-                  Gene Stevens, Matthew Rhine and Jim Heiser
+-      Chapter 6   Rice Crop Rotation: A Solution for Weed Management 83
+-                  Ananda Scherner, Fábio Schreiber, André Andres, Germani
+-                  Concenço, Matheus Bastos Martins and Andressa Pitol
+-      Chapter 7   Microwave Weed and Soil Treatment in Rice Production 99
+-                  Muhammad Jamal Khan and Graham Ian Brodie
+-      Chapter 8   Phosphorus Efficient Phenotype of Rice 129
+-                  Josefine Kant, Takuma Ishizaki, Juan Pariasca-Tanaka, Terry Rose,
+-                  Matthias Wissuwa and Michelle Watt
+- X   Contents
+-                 Chapter 9   Heavy Metal and Mineral Element-Induced Abiotic Stress in
+-                             Rice Plant 149
+-                             Anitha Mani and Kavitha Sankaranarayanan
+-                Chapter 10   Abiotic Stress Tolerance in Rice (Oryza sativa L.): A Genomics
+-                             Perspective of Salinity Tolerance 181
+-                             Muhammad Saeed
+-                Chapter 11   Natural Resistance of Sri Lankan Rice (Oryza sativa L.) Varieties
+-                             to Broad-Spectrum Herbicides (Glyphosate and
+-                             Glufosinate) 193
+-                             Shyama R. Weerakoon, Seneviratnage Somaratne, E. M. Sachini I.
+-                             Ekanayaka and Sachithri Munasighe
+-                Chapter 12   Methanogens Harboring in Rice Rhizosphere Reduce Labile
+-                             Organic Carbon Compounds to Produce Methane Gas 211
+-                             Prabhat Pramanik and Pil Joo Kim
+-                Chapter 13   Farmers’ Willingness to Cultivate Traditional Rice in Sri Lanka:
+-                             A Case Study in Anuradhapura District 229
+-                             Ginigaddara Appuhamilage Sanjeewanie Ginigaddara and
+-                             Sampath Priya Disanayake
+-                Chapter 14   Assessing the Impact of Collective Marketing of Paddy Rice in
+-                             Innovation Platforms by Smallholder Producers in Benin 241
+-                             Aminou Arouna
+- Preface
+- Rice has been found in archaeological sites dating back to 8000 BC or even earlier. This crop
+- is unique in a way that it is domesticated independently in several continents such as Asia,
+- Africa, Australia and South America. Worldwide production of rice is the third highest after
+- sugarcane and maize and can be thus regarded as central to the lives of millions of people
+- on earth. The yield of rice can be greatly affected by both abiotic and biotic stresses, which
+- under the changing environment are further threatening global food security. The major
+- abiotic stresses include drought, excessive watering, extreme temperatures, salinity and
+- mineral toxicity along with many others. A recent increase in global warming has exposed
+- rice crops to elevated temperatures and drought, which in turn have already offset a sig‐
+- niﬁcant portion of yield increase. Similarly, heavy metal contamination of agricultural land
+- not only causes abiotic stress for the crop, but has also shown drastic effects on humans.
+- Increased metal concentration in plants leads to the production of reactive oxygen species,
+- which ultimately cause cell death and thus negatively affect overall crop productivity.
+- Also, the presence of pesticide residues and insect pest attack can reduce the quality and
+- quantity of the rice grain. Some pathogens have the ability to cause devastating diseases in
+- rice, especially in intensive production systems, such as double rice-cropping systems. For
+- instance, the intensity of sheath blight in rice-growing regions has increased due to several
+- agronomic practices, characterized by abundant nitrogenous fertilizer application, increased
+- planting density, and use of popular high-yielding hybrid cultivars. Likewise, Pomacea canal‐
+- iculata, the golden apple snail, is well known as a major pest of rice as it can cause severe
+- damage by completely eliminating the young leaves and stems from the plant base, which

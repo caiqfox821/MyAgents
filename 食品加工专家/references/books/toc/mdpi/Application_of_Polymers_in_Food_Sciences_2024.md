@@ -1,0 +1,81 @@
+# Application of Polymers in Food Sciences (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2193-8
+- 页数: 268
+- 全文: `text/mdpi/Application_of_Polymers_in_Food_Sciences_2024.txt`
+- PDF: `mdpi/Application_of_Polymers_in_Food_Sciences_2024.pdf`
+- 标签: 高分子, 食品科学, 应用
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Sherif S. Hindi, Uthman M. Dawoud, Iqbal M. Ismail, Khalid A. Asiry, Omer H. Ibrahim
+- and Mohammed A. Al-Harthi et al.
+- A Novel Microwave Hot Pressing Machine for Production of Fixed Oils from Different
+- Biopolymeric Structured Tissues
+- Reprinted from: Polymers 2023, 15, 2254, doi:10.3390/polym15102254 . . . . . . . . . . . . . . . .
+- 1
+- Ma. Cristine Concepcion D. Ignacio, Khairun N. Tumu, Mita Munshi, Keith L. Vorst and
+- Greg W. Curtzwiler
+- Suitability of MRF Recovered Post-Consumer Polypropylene Applications in Extrusion Blow
+- Molded Bottle Food Packaging
+- Reprinted from: Polymers 2023, 15, 3471, doi:10.3390/polym15163471 . . . . . . . . . . . . . . . . 27
+- Brandon Van Rooyen, Maryna De Wit, Gernot Osthoff, Johan Van Niekerk and Arno Hugo
+- Microstructural and Mechanical Properties of Calcium-Treated Cactus Pear Mucilage (Opuntia
+- spp.), Pectin and Alginate Single-Biopolymer Films
+- Reprinted from: Polymers 2023, 15, 4295, doi:10.3390/polym15214295 . . . . . . . . . . . . . . . . 48
+- Brandon Van Rooyen, Maryna De Wit, Gernot Osthoff, Johan Van Niekerk and Arno Hugo
+- Effect of pH on the Mechanical Properties of Single-Biopolymer Mucilage (Opuntia ficus-indica),
+- Pectin and Alginate Films: Development and Mechanical Characterisation
+- Reprinted from: Polymers 2023, 15, 4640, doi:10.3390/polym15244640 . . . . . . . . . . . . . . . . 61
+- Lissage Pierre, Julio Elı́as Bruna Bugueño, Patricio Alejandro Leyton Bongiorno, Alejandra
+- Torres Mediano and Francisco Javier Rodrı́guez-Mercado
+- Colorimetric Indicator Based on Gold Nanoparticles and Sodium Alginate for Monitoring Fish
+- Spoilage
+- Reprinted from: Polymers 2024, 16, 829, doi:10.3390/polym16060829 . . . . . . . . . . . . . . . . . 72
+- Brandon Van Rooyen, Maryna De Wit, Gernot Osthoff and Johan Van Niekerk
+- Cactus Pear Mucilage (Opuntia spp.) as a Novel Functional Biopolymer: Mucilage Extraction,
+- Rheology and Biofilm Development
+- Reprinted from: Polymers 2024, 16, 1993, doi:10.3390/polym16141993 . . . . . . . . . . . . . . . . 93
+- Vicente Espinosa-Solis, Yunia Verónica Garcı́a-Tejeda, Oscar Manuel Portilla-Rivera,
+- Carolina Estefania Chávez-Murillo and Vı́ctor Barrera-Figueroa
+- Effect of Mixed Particulate Emulsifiers on Spray-Dried Avocado Oil-in-Water Pickering
+- Emulsions
+- Reprinted from: Polymers 2022, 14, 3064, doi:10.3390/polym14153064 . . . . . . . . . . . . . . . . 108
+- Hector Alfonso Enciso-Huerta, Miguel Angel Ruiz-Cabrera, Laura Araceli Lopez-Martinez,
+- Raul Gonzalez-Garcia, Fidel Martinez-Gutierrez and Maria Zenaida Saavedra-Leos
+- Evaluation of Two Active System Encapsulant Matrices with Quercetin and Bacillus clausii for
+- Functional Foods
+- Reprinted from: Polymers 2022, 14, 5225, doi:10.3390/polym14235225 . . . . . . . . . . . . . . . . 127
+- v
+- César Leyva-Porras,
+- Zenaida Saavedra-Leos,
+- Manuel Román-Aguirre,
+- Carlos
+- Arzate-Quintana, Alva R. Castillo-González and Andrés I. González-Jácquez et al.
+- An Equilibrium State Diagram for Storage Stability and Conservation of Active Ingredients in
+- a Functional Food Based on Polysaccharides Blends
+- Reprinted from: Polymers 2023, 15, 367, doi:10.3390/polym15020367 . . . . . . . . . . . . . . . . . 140
+- Barbara Johana González-Moreno, Sergio Arturo Galindo-Rodrı́guez, Verónica Mayela
+- Rivas-Galindo, Luis Alejandro Pérez-López, Graciela Granados-Guzmán and Rocı́o
+- Álvarez-Román
+- Enhancement of Strawberry Shelf Life via a Multisystem Coating Based on Lippia graveolens
+- Essential Oil Loaded in Polymeric Nanocapsules
+- Reprinted from: Polymers 2024, 16, 335, doi:10.3390/polym16030335 . . . . . . . . . . . . . . . . . 156
+- Daniela Soto-Madrid, Florencia Arrau, Rommy N. Zúñiga, Marlén Gutiérrez-Cutiño and
+- Silvia Matiacevich
+- Development and Characterization of a Natural Antioxidant Additive in Powder Based on
+- Polyphenols Extracted from Agro-Industrial Wastes (Walnut Green Husk): Effect of Chickpea
+- Protein Concentration as an Encapsulating Agent during Storage
+- Reprinted from: Polymers 2024, 16, 777, doi:10.3390/polym16060777 . . . . . . . . . . . . . . . . . 176
+- Elibet Moscoso-Moscoso, Carlos A. Ligarda-Samanez, David Choque-Quispe, Mary L.
+- Huamán-Carrión, José C. Arévalo-Quijano and Germán De la Cruz et al.
+- Preliminary Assessment of Tara Gum as a Wall Material: Physicochemical, Structural, Thermal,
+- and Rheological Analyses of Different Drying Methods
+- Reprinted from: Polymers 2024, 16, 838, doi:10.3390/polym16060838 . . . . . . . . . . . . . . . . . 195
+- Angela Monasterio, Emerson Núñez, Valeria Verdugo and Fernando A. Osorio
+- Stability and Biaxial Behavior of Fresh Cheese Coated with Nanoliposomes Encapsulating
+- Grape Seed Tannins and Polysaccharides Using Immersion and Spray Methods

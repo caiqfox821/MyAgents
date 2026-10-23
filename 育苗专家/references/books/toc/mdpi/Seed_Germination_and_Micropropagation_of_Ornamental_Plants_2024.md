@@ -1,0 +1,80 @@
+# Seed Germination and Micropropagation of Ornamental Plants (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/9580
+- 页数: 202
+- 全文: `text/mdpi/Seed_Germination_and_Micropropagation_of_Ornamental_Plants_2024.txt`
+- 标签: 种子萌发, 微繁, 花卉
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Konstantinos Bertsouklis, Epaminondas Kartsonas and Angela Carra
+- Seed Germination and Micropropagation of Ornamental Plants
+- Reprinted from: Horticulturae 2024, 10, 541, doi:10.3390/horticulturae10060541 . . . . . . . . . .             1
+- Naseem Ahmad, Mohammad Faisal, Anees Ahmad, Abdulrahman A. Alatar,
+- Ahmed A. Qahtan and Anshu Alok
+- Thidiazuron Induced In Vitro Clonal Propagation of Lagerstroemia speciosa (L.) Pers.—An
+- Important Avenue Tree
+- Reprinted from: Horticulturae 2022, 8, 359, doi:10.3390/horticulturae8050359 . . . . . . . . . . . .           6
+- Zohreh Aslami, Masood Ghasemi Ghehsareh, Sayyed Mohammad Ehsan Mahdavi
+- and Silvana Nicola
+- Regeneration of African Violet in Response to Light Quality
+- Reprinted from: Horticulturae 2024, 10, 78, doi:10.3390/horticulturae10010078 . . . . . . . . . . . 20
+- Konstantinos Bertsouklis and Konstantina-Panagiota Panagaki
+- In Vitro Germination and Propagation of Dyckia brevifolia, An Ornamental and
+- Endangered Bromeliad
+- Reprinted from: Horticulturae 2022, 8, 390, doi:10.3390/horticulturae8050390 . . . . . . . . . . . . 33
+- Konstantinos Bertsouklis, Panagiota Theodorou and Paraskevi-Evangelia Aretaki
+- In Vitro Propagation of the Mount Parnitha Endangered Species Sideritis raeseri subsp. Attica
+- Reprinted from: Horticulturae 2022, 8, 1114, doi:10.3390/horticulturae8121114 . . . . . . . . . . . 47
+- Caterina Catalano, Angela Carra, Francesco Carimi, Antonio Motisi, Maurizio Sajeva,
+- Alan Butler, et al.
+- Somatic Embryogenesis and Flow Cytometric Assessment of Nuclear Genetic Stability for
+- Sansevieria spp.: An Approach for In Vitro Regeneration of Ornamental Plants
+- Reprinted from: Horticulturae 2023, 9, 138, doi:10.3390/horticulturae9020138 . . . . . . . . . . . . 62
+- Anastasios I. Darras, Katerina Grigoropoulou, Kallirroi Dimiza and Faisal Zulﬁqar
+- Effects of Brief UV-C Irradiation Treatments on Rooting Performance of Pelargonium × hortorum
+- (L.H. Bailey) Stem Cuttings
+- Reprinted from: Horticulturae 2022, 8, 897, doi:10.3390/horticulturae8100897 . . . . . . . . . . . . 75
+- Yaser Hassan Dewir,            Muhammad M. Habib,                AbdulAziz A. AlQarawi,
+- Thobayet S. Alshahrani, Ahmed Ali Alaizari, Jahangir A. Malik, et al.
+- Mycorrhization Enhances Vegetative Growth, Leaf Gas Exchange, and Root Development of
+- Micropropagated Philodendron bipinnatiﬁdum Schott ex Endl. Plantlets during Acclimatization
+- Reprinted from: Horticulturae 2023, 9, 276, doi:10.3390/horticulturae9020276 . . . . . . . . . . . . 87
+- Kostas Ioannidis and Polyxeni Koropouli
+- Effects of Different Media and Their Strengths in In Vitro Culture of Three Different
+- Cistus creticus L. Populations and Their Genetic Assessment Using Simple Sequence Repeat
+- Molecular Markers
+- Reprinted from: Horticulturae 2024, 10, 104, doi:10.3390/horticulturae10010104 . . . . . . . . . . 99
+- Do-Hyun Kim, Sang-Geun Kim, Hayan Lee, Chae-Sun Na and Do-Hyung Lee
+- The Dormancy Types and Germination Characteristics of the Seeds of Berberis koreana Palibin,
+- an Endemic Species of Korea
+- Reprinted from: Horticulturae 2023, 9, 547, doi:10.3390/horticulturae9050547 . . . . . . . . . . . . 116
+-                                                        v
+- Hai Liu, Zhihong Zheng, Xue Han, Cheng Zhang, Haitao Li and Mingkai Wu
+- Chitosan Soaking Improves Seed Germination of Platycodon Grandiﬂorus and Enhances Its
+- Growth, Photosynthesis, Resistance, Yield, and Quality
+- Reprinted from: Horticulturae 2022, 8, 943, doi:10.3390/horticulturae8100943 . . . . . . . . . . . . 130
+- Natalia Miler and Dariusz Kulus
+- Effect of Parental Components and Pollination Frequency on the Setting and Germination of
+- Chrysanthemum Seeds
+- Reprinted from: Horticulturae 2022, 8, 827, doi:10.3390/horticulturae8090827 . . . . . . . . . . . . 143
+- Christos Nanos, Parthena Tsoulpha, Stefanos Kostas, Stefanos Hatzilazarou, Ioanna Michail,
+- Vasiliki Anastasiadi, et al.
+- Asexual Propagation of Greek Salvia ofﬁcinalis L. Populations Selected for Ornamental Use
+- Reprinted from: Horticulturae 2023, 9, 847, doi:10.3390/horticulturae9070847 . . . . . . . . . . . . 154
+- Roxana L. Stoian-Dod, Catalina Dan, Irina M. Morar, Adriana F. Sestras, Alina M. Truta,
+- Gabriela Roman and Radu E. Sestras
+- Seed Germination within Genus Rosa: The Complexity of the Process and Inﬂuencing Factors
+- Reprinted from: Horticulturae 2023, 9, 914, doi:10.3390/horticulturae9080914 . . . . . . . . . . . . 172
+-                                                    vi
+- About the Editors
+- Konstantinos Bertsouklis
+-      Dr Konstantinos Bertsouklis is a full-time assistant professor at the Laboratory of Floriculture
+- and Landscape Architecture AUA (LFLA). He graduated from the Department of Crop Production
+- Science of AUA in 1993; he completed (in 2000) his postgraduate studies, specializing in Floriculture
+- (LFLA). His doctoral thesis was presented at the LFLA (in 2012)—specializing in micropropagation,
+- seed ecophysiology, and phylogenetic studies with morphological and molecular markers. From
+- 1993 to 2005, he worked as a manager of Urban Green in municipal districts (Department of Urban
+- Green, Municipality of Piraeus). His teaching experience relates to lector and laboratory courses at

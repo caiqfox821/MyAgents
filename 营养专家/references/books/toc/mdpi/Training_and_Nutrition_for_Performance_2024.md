@@ -1,0 +1,78 @@
+# Training and Nutrition for Performance (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-2816-6
+- 页数: 166
+- 全文: `text/mdpi/Training_and_Nutrition_for_Performance_2024.txt`
+- 标签: 运动/肌少症
+
+## 目录 (Contents)
+
+- Olga López Torres and Valentı́n E. Fernández-Elı́as
+- Training and Nutrition for Performance: Males, Females, and Gender Differences
+- Reprinted from: Nutrients 2024, 16, 3979, https://doi.org/10.3390/nu16233979 . . . . . . . . . .    1
+- RenanMuniz-Santos, AdrianaBassini, JeffersonFalcão, EduardoPrado, LeRoyMartinIII,
+- VinodChandran,etal.
+- Sportomics Analyses of the Exercise-Induced Impact on Amino Acid Metabolism and
+- Acute-PhaseProteinKineticsinFemaleOlympicAthletes
+- Reprinted from: Nutrients 2024, 16, 3538, https://doi.org/10.3390/nu16203538 . . . . . . . . . .    4
+- Dejan Reljic, Nilas Zieseniss, Hans Joachim Herrmann, Markus Friedrich Neurath
+- andYurdagülZopf
+- Protein Supplementation Increases Adaptations to Low-Volume, Intra-Session Concurrent
+- TraininginUntrainedHealthyAdults:ADouble-Blind,Placebo-Controlled,RandomizedTrial
+- Reprinted from: Nutrients 2024, 16, 2713, https://doi.org/10.3390/nu16162713 . . . . . . . . . . 25
+- Naoko Enatsu, Jun Seino, Taishi Tsuji and Mitsugi Ogata
+- Effectiveness of Sports Nutrition Education Based on Self-Determination Theory for Male
+- University Rowing Athletes: A Randomized Controlled Trial
+- Reprinted from: Nutrients 2024, 16, 799, https://doi.org/10.3390/nu16060799 . . . . . . . . . . . 45
+- ÁlexAparecidoRosiniSilva, VanessaBertolucci, PedroPauloMenezesScariot,
+-  JoãoPedrodaCruz,FlavioMarcioMacedoMendes,DaniloCardosodeOliveira,etal.
+- GlycerophospholipidsinRedBloodCellsAreAssociatedwithAerobicPerformancein
+- YoungSwimmers
+- Reprinted from: Nutrients 2024, 16, 765, https://doi.org/10.3390/nu16060765 . . . . . . . . . . . 58
+- MarinaRuedaFlores,AdriánMartı́n-Castellanos,OlgaLópez-Torres,
+- Valentı́nE.Fernández-Elı́as,JorgeGarcı́a-GonzálezandDanielMon-López
+- Eating Behavior Disorders and Disordered Eating Habits in Spanish High-Performance
+- Women’sOlympicWrestlingAthletes
+- Reprinted from: Nutrients 2024, 16, 709, https://doi.org/10.3390/nu16050709 . . . . . . . . . . . 72
+- Melike Nur Eroglu, Celia Rodrı́guez-Longobardo, Ana Ramı́rez-Adrados, Clara Colina-Coca,
+- Silvia Burgos-Postigo, Olga López-Torres and Valentı́n E. Fernández-Elı́as
+- The Effects of 24-h Fasting on Exercise Performance and Metabolic Parameters in a Pilot Study
+- of Female CrossFit Athletes
+- Reprinted from: Nutrients 2023, 15, 4841, https://doi.org/10.3390/nu15224841 . . . . . . . . . . 85
+- AsierDelArco,AitorMartinezAguirre-Betolaza,EwaMalchrowicz-Mośko,
+- AnnaGogojewiczandArkaitzCastañeda-Babarro
+- Are Supplements Consumed by Middle-Distance Runners Evidence-Based? A Comparative
+- StudybetweenLevelofCompetitionandSex
+- Reprinted from: Nutrients 2023, 15, 4839, https://doi.org/10.3390/nu15224839 . . . . . . . . . . 95
+- Jaime Sebastiá-Rico, Jose M. Soriano, Jesús Sanchis-Chordà, Miguel Alonso-Calvar,
+- PedroLópez-Mateu,DavidRomero-Garcı́aandJoséMiguelMartı́nez-Sanz
+- Dietary Habits of Elite Soccer Players: Variations According to Competitive Level, Playing
+- PositionandSex
+- Reprinted from: Nutrients 2023, 15, 4323, https://doi.org/10.3390/nu15204323 . . . . . . . . . . 106
+-                                                   v
+- Monika Grabia, Jakub Perkowski, Katarzyna Socha and Renata Markiewicz-Żukowska
+- Female Athlete Triad and Relative Energy Deﬁciency in Sport (REDs): Nutritional Management
+- Reprinted from: Nutrients 2024, 16, 359, https://doi.org/10.3390/nu16030359 . . . . . . . . . . . 120
+- Ziyu Wang, Bopeng Qiu, Ruoling Li, Yunzhi Han, Carl Petersen, Shuting Liu, et al.
+- Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in
+- Adults <50 Years of Age: A Systematic Review and Meta-Analysis
+- Reprinted from: Nutrients 2024, 16, 3665, https://doi.org/10.3390/ nu16213665 . . . . . . . . . . 139
+-                                                  vi
+- Editorial
+- Training and Nutrition for Performance: Males, Females, and
+- Gender Differences
+- Olga López Torres * and Valentín E. Fernández-Elías
+-                                          Faculty of Sports Sciences, European University of Madrid, 28040 Madrid, Spain;
+-                                          valentin.fernandez@universidadeuropea.es
+-                                          * Correspondence: olga.lopez@universidadeuropea.es
+-                                                As sports nutrition research evolves, a growing body of evidence highlights the impor-
+-                                          tance of sex-based differences in responses to dietary interventions for athletic performance.
+-                                          In particular, the distinct nutritional needs of female athletes and the impact of chronic
+-                                          energy deﬁcits emerge as central themes. Different studies underscore the complexity
+-                                          of nutritional requirements across genders, emphasizing tailored interventions that can
+-                                          support both performance and long-term health outcomes.
+-                                                Chronic low energy availability (LEA) is a pervasive issue, particularly among female
+-                                          athletes, which can lead to relative energy deﬁciency in sport (RED-S) [1]. This condition,
+-                                          marked by insufﬁcient caloric intake to meet energy expenditure, not only impairs athletic
+-                                          performance but also affects bone density, menstrual health, and immune function [2].

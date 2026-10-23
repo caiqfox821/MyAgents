@@ -1,0 +1,81 @@
+# Optimization of Nonthermal Technology in Food Processing (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7243-5
+- 页数: 192
+- 全文: `text/mdpi/Optimization_of_Nonthermal_Technology_in_Food_Processing_2026.txt`
+- PDF: `mdpi/Optimization_of_Nonthermal_Technology_in_Food_Processing_2026.pdf`
+- 标签: 非热加工, 工艺优化, 新型杀菌
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Milan Houška and Roman Buckow
+- Optimization of Non-Thermal Technology in Food Processing
+- Reprinted from: Foods 2026, 15, 283, https://doi.org/10.3390/foods15020283 . . . . . . . . . . .
+- 1
+- Jan Třı́ska, Naděžda Vrchotová, Jan Strohalm, Milan Houška, Eliška Kovářı́ková,
+- Pavla Novotná, et al.
+- Effect of Ascorbic Acid Addition on the Phenolic Compounds Content in Homogenates from
+- Aerial Parts of Spearmint, Fennel, and Thyme
+- Reprinted from: Foods 2025, 14, 2165, https://doi.org/10.3390/foods14132165 . . . . . . . . . . .
+- 5
+- Alejandro Berzosa, Laura Garza-Moreno, Joaquı́n Quı́lez, Javier Raso,
+- Ignacio Álvarez-Lanzarote and Juan Manuel Martı́nez
+- Permeabilization of Cryptosporidium spp. Oocysts in Water, Apple and Carrot Juice by Pulsed
+- Electric Field Technology
+- Reprinted from: Foods 2025, 14, 2112, https://doi.org/10.3390/foods14122112 . . . . . . . . . . . 16
+- Graciela A. Miranda-Mejı́a, Anaberta Cardador-Martı́nez, Viridiana Tejada-Ortigoza,
+- Mariana Morales-de la Peña and Olga Martı́n-Belloso
+- Modulating Yogurt Fermentation Through Pulsed Electric Fields and Inﬂuence of Milk
+- Fat Content
+- Reprinted from: Foods 2025, 14, 1927, https://doi.org/10.3390/foods14111927 . . . . . . . . . . . 39
+- Gyeong-Seo Park, Hyeon Seo, Han-Baek Lee, Ji-Won Lee, Haﬁz Muhammad Shahbaz,
+- Se-Ho Jeong and Dong-Un Lee
+- Enhanced Peelability and Quality of Whiteleg Shrimp (Litopenaeus vannamei) Using Pulsed
+- Electric Field (PEF) Treatment
+- Reprinted from: Foods 2025, 14, 148, https://doi.org/10.3390/foods14020148 . . . . . . . . . . . 53
+- Yi Zhou, Huixin Zuo, Zhaoqi Dai, Zonglin Guo, Benjamin W. B. Holman, Yanqin Ding, et al.
+- Changes to Pork Bacterial Counts and Composition After Dielectric Barrier Discharge Plasma
+- Treatment and Storage in Modiﬁed-Atmosphere Packaging
+- Reprinted from: Foods 2024, 13, 4162, https://doi.org/10.3390/foods13244162 . . . . . . . . . . . 61
+- Cristina Arroqui, Sandra Horvitz, Marı́a José Noriega, Idoya Fernández-Pan,
+- Francisco C. Ibañez and Paloma Vı́rseda
+- Effect of High-Pressure Processing Pretreatment on the Textural Properties of Cooked Nuovo
+- Maratelli Rice
+- Reprinted from: Foods 2024, 13, 4052, https://doi.org/10.3390/foods13244052 . . . . . . . . . . . 77
+- Uyen Ha Dao, Jitlada Na Lamphun, Sitthidat Tongdonyod, Sirinya Taya, Suphat Phongthai
+- and Wannaporn Klangpetch
+- Optimization of High-Pressure Processing for Microbial Inactivation in Pigmented Rice Grass
+- Juice and Quality Impact Assessment during Refrigerated Storage
+- Reprinted from: Foods 2024, 13, 2995, https://doi.org/10.3390/foods13182995 . . . . . . . . . . . 92
+- Breanna Polen, Brahmaiah Pendyala, Ankit Patras and Doris H. D’Souza
+- Inactivation of Hepatitis A Virus and Feline Calicivirus on Model Food Contact Surfaces by
+- Ultraviolet Light (UV-C) Systems
+- Reprinted from: Foods 2024, 13, 2892, https://doi.org/10.3390/foods13182892 . . . . . . . . . . . 111
+- v
+- Philippe Raymond, François St-Germain, Sylvianne Paul, Denise Chabot
+- and Louise Deschênes
+- Impact of Nanoparticle-Based TiO2 Surfaces on Norovirus Capsids and Genome Integrity
+- Reprinted from: Foods 2024, 13, 1527, https://doi.org/10.3390/foods13101527 . . . . . . . . . . . 129
+- Miroslava Jandová, Michaela Fišerová, Pavla Paterová, Lucie Cacková, Pavel Měřička,
+- Jan Malý, et al.
+- High-Pressure Inactivation of Bacillus cereus in Human Breast Milk
+- Reprinted from: Foods 2023, 12, 4245, https://doi.org/10.3390/foods12234245 . . . . . . . . . . . 143
+- Marco Dalla Rosa, Santina Romani, Pietro Rocculi, Urszula Tylewicz and Silvia Tappi
+- Progress in Low-Impact Processing Technologies to Deliver More Sustainable and Healthy
+- Food Tomorrow
+- Reprinted from: Foods 2025, 14, 2332, https://doi.org/10.3390/foods14132332 . . . . . . . . . . . 160
+- vi
+- About the Editors
+- Milan Houška
+- Milan Houška is a senior scientist working at the Department of Food Science at the Agrifood
+- Research Centre. He is interested in Food Science and Technology, especially food engineering. He
+- has led projects focused on high-pressure technology applications in the food industry in the Czech
+- Republic. Novel technologies such as Pulsed Electric Field are of interest to him.
+- Roman Buckow
+- Roman Buckow is a leading food scientist and the Director of the Centre for Food Science
+- at La Trobe University. He is internationally recognised for his contributions to sustainable food
+- and beverage manufacturing, bioprocessing innovation, alternative proteins, and advanced food
+- processing technologies. Before joining La Trobe in 2024, he served as Professor of Practice in
+- Food Engineering at the University of Sydney and previously held senior leadership roles at CSIRO,

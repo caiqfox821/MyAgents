@@ -1,0 +1,79 @@
+# Cadmium and Trace Elements Toxicity (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6581-9
+- 页数: 186
+- 全文: `text/mdpi/Cadmium_and_Trace_Elements_Toxicity_2026.txt`
+- 标签: tox
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Roberto Madeddu
+- Editorial for the Special Issue “Cadmium and Trace Elements Toxicity”
+- Reprinted from: Toxics 2025, 13, 1056, https://doi.org/10.3390/toxics13121056 . . . . . . . . . .              1
+- Christian Wechselberger, Barbara Messner and David Bernhard
+- The Role of Trace Elements in Cardiovascular Diseases
+- Reprinted from: Toxics 2023, 11, 956, https://doi.org/10.3390/toxics11120956 . . . . . . . . . . .             7
+- Slavena Davidova, Viktor Milushev and Galina Satchanska
+- The Mechanisms of Cadmium Toxicity in Living Organisms
+- Reprinted from: Toxics 2024, 12, 875, https://doi.org/10.3390/toxics12120875 . . . . . . . . . . . 25
+- Supabhorn Yimthiang, David A. Vesey, Glenda C. Gobe, Phisit Pouyfung,
+- TanapornKhamphayaandSoisungwanSatarug
+- GenderDifferencesintheSeverityofCadmiumNephropathy
+- Reprinted from: Toxics 2023, 11, 616, https://doi.org/10.3390/toxics11070616 . . . . . . . . . . . 59
+- Maki Tokumoto, Jin-Yong Lee, Yasuyuki Fujiwara and Masahiko Satoh
+- Long-Term Exposure to Cadmium Causes Hepatic Iron Deﬁciency through the Suppression of
+- Iron-Transport-Related Gene Expression in the Proximal Duodenum
+- Reprinted from: Toxics 2023, 11, 641, https://doi.org/10.3390/toxics11070641 . . . . . . . . . . . 74
+- Giovanni Forte, Andrea Pisano, Beatrice Bocca, Grazia Fenu, Cristiano Farace, Federica Etzi,
+- et al.
+- Toxic Metal and Essential Element Concentrations in the Blood and Tissues of Pancreatic Ductal
+- Adenocarcinoma Patients
+- Reprinted from: Toxics 2024, 12, 32, https://doi.org/10.3390/toxics12010032 . . . . . . . . . . . . 86
+- AndreaVannini,LucaPagano,MarcoBartoli,RiccardoFedeli,AlessioMalcevschi,
+- MicheleSidoli,etal.
+- Accumulation and Release of Cadmium Ions in the Lichen Evernia prunastri (L.) Ach. and
+- Wood-DerivedBiochar:ImplicationfortheUseofBiocharforEnvironmentalBiomonitoring
+- Reprinted from: Toxics 2024, 12, 66, https://doi.org/10.3390/toxics12010066 . . . . . . . . . . . . 98
+- Zeya Zhang, Rui Huang, Zhongjie Shen, Yili Fan, Chenglian Feng and Yingchen Bai
+- Hardness-Dependent Freshwater Quality Criteria for the Protection of Aquatic Organisms for
+- Cadmium in China
+- Reprinted from: Toxics 2024, 12, 892, https://doi.org/10.3390/toxics12120892 . . . . . . . . . . . 111
+- Saba Mudassar, Shakil Ahmed, Rehana Sardar, Nasim Ahmad Yasin, Muhammad Jabbar
+- and Maximilian Lackner
+- Exogenously Applied Triacontanol Mitigates Cadmium Toxicity in Vigna radiata L. by
+- Optimizing Growth, Nutritional Orchestration, and Metal Accumulation
+- Reprinted from: Toxics 2024, 12, 911, https://doi.org/10.3390/toxics12120911 . . . . . . . . . . . 127
+- TeresaUrbano,MarcoVinceti,ChiaraCarbone,LaurenA.Wise,MarcellaMalavolti,
+- ManuelaTondelli,etal.
+- Exposure to Cadmium and Other Trace Elements Among Individuals with Mild Cognitive
+- Impairment
+- Reprinted from: Toxics 2024, 12, 933, https://doi.org/10.3390/toxics12120933 . . . . . . . . . . . 144
+-                                                        v
+- Liuxin Wang, Weiwei Cao and Ting Wu
+- Cadmium-Induced Kidney Apoptosis Based on the IRE1α-XBP1 Signaling Pathway and the
+- Protective Effect of Quercetin
+- Reprinted from: Toxics 2025, 13, 129, https://doi.org/10.3390/toxics13020129 . . . . . . . . . . . 159
+-                                                   vi
+- About the Editors
+- Roberto Madeddu
+-     Roberto Madeddu received his Medical Degree (M.D.) from the University of Sassari, Italy,
+- summa cum laude. He has his medical license as a doctor and surgeon. He received his Ph.D. from
+- the University of Granada, Spain, with European Doctorate distinction. He is a Professor at the
+- Faculty of Medicine and Surgery, University of Sassari, and is President of the International Society
+- for Research on Cadmium and Trace Elements Toxicity. He is also Director of the Heavy Metals
+- Research and Study Center, University of Sassari.
+- Soisungwan Satarug
+-     Soisungwan Satarug received a B.S. degree in Medical Technology from Chiang Mai University
+- in Thailand; an M.S. degree in Biochemistry from Mahidol University in Thailand; an M.C.H degree
+- in Nutrition from the University of Queensland in Australia; and a Ph.D. degree in Biochemistry from
+- the University of Arizona in the USA. She received postdoctoral fellowship training in metabolic
+- activation of carcinogens and carcinogenesis in the USA, Japan, Germany, and France. She was
+- a research scientist at the National Research Centre for Environmental Toxicology in Brisbane,
+- Australia, where she investigated environmental exposure to toxic metals as part of the Australia
+- National Cadmium Minimization Program. Currently, she is a research advisor at the Kidney
+- Disease Research Collaborative, Translational Research Institute, University of Queensland, in
+- Brisbane, Australia. Her research interests revolve around the interplay of nutrition, genetics, and
+- the environment in human disease.
+- Peter Massányi

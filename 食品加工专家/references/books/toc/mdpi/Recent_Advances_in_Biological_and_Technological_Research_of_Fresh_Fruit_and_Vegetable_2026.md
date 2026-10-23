@@ -1,0 +1,81 @@
+# Recent Advances in Biological and Technological Research of Fresh Fruit and Vegetable (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 228
+- 全文: `text/mdpi/Recent_Advances_in_Biological_and_Technological_Research_of_Fresh_Fruit_and_Vegetable_2026.txt`
+- PDF: `mdpi/Recent_Advances_in_Biological_and_Technological_Research_of_Fresh_Fruit_and_Vegetable_2026.pdf`
+- 标签: 果蔬, 采后, 加工技术
+
+## 目录 (Contents)
+
+- Zhongqi Fan
+- Recent Advances in Biological and Technological Research of Fresh Fruit and Vegetable
+- Reprinted from: Foods 2024, 13, 2092, https://doi.org/10.3390/foods13132092 . . . . . . . . . . .
+- 1
+- Hongyan Zhang, Yunyun Han, Liya Liang and Bing Deng
+- Rapid Cooling Delays the Occurring of Core Browning in Postharvest ‘Yali’ Pear at Advanced
+- Maturity by Inhibiting Ethylene Metabolism
+- Reprinted from: Foods 2024, 13, 1072, https://doi.org/10.3390/foods13071072 . . . . . . . . . . .
+- 5
+- Han Lin, Lijuan Bai, Wei Wei, Wenbing Su, Yanting Wu, Rong Wu, et al.
+- The Role of MaWRKY70 in Regulating Lipoxygenase Gene Transcription during Chilling Injury
+- Development in Banana Fruit
+- Reprinted from: Foods 2024, 13, 854, https://doi.org/10.3390/foods13060854 . . . . . . . . . . . 19
+- Junzheng Sun, Yingying Wei, Longxiang Li, Baosha Tang, Yanrong Yang, Zheng Xiao, et al.
+- Investigating the Respiratory and Energy Metabolism Mechanisms behind ε-Poly-L-lysine
+- Chitosan Coating’s Improved Preservation Effectiveness on Tremella fuciformis
+- Reprinted from: Foods 2024, 13, 707, https://doi.org/10.3390/foods13050707 . . . . . . . . . . . 33
+- Karthikeyan Venkatachalam, Narin Charoenphun, Somwang Lekjing and Paramee Noonim
+- Investigation of Melatonin Incorporated CMC-Gelatin Based Edible Coating on the Alleviation
+- of Chilling Injury Induced Pericarp Browning in Longkong
+- Reprinted from: Foods 2024, 13, 72, https://doi.org/10.3390/foods13010072 . . . . . . . . . . . . 46
+- Zhipeng Wang, Wei Wang, Wei Li, Rui Yang, Yanbo Li, Lusi Zhang, et al.
+- Effects of Near-Freezing Temperature Combined with Jujube Polysaccharides Treatment on
+- Proteomic Analysis of ‘Diaogan’ Apricot (Prunus armeniaca L.)
+- Reprinted from: Foods 2023, 12, 4504, https://doi.org/10.3390/foods12244504 . . . . . . . . . . . 68
+- Shupei Wang, Zhimei Tan, Chenshu Wang, Wenqing Liu, Fangxue Hang, Xuemei He, et al.
+- Iron Competition as an Important Mechanism of Pulcherrimin-Producing Metschnikowia sp.
+- Strains for Controlling Postharvest Fungal Decays on Citrus Fruit
+- Reprinted from: Foods 2023, 12, 4249, https://doi.org/10.3390/foods12234249 . . . . . . . . . . . 79
+- Xiurong Zou, Yingying Wei, Jianhua Zhu, Jincai Sun and Xingfeng Shao
+- Volatile Organic Compounds of Scheffersomyces spartinae W9 Have Antifungal Effect against
+- Botrytis cinerea on Strawberry Fruit
+- Reprinted from: Foods 2023, 12, 3619, https://doi.org/10.3390/foods12193619 . . . . . . . . . . . 95
+- Yiming Tian, Lamei Li, Rui Wang, Ning Ji, Chao Ma, Jiqing Lei, et al.
+- Pullulan-Based Active Coating Incorporating Potassium Metabisulﬁte Maintains Postharvest
+- Quality and Induces Disease Resistance to Soft Rot in Kiwifruit
+- Reprinted from: Foods 2023, 12, 3197, https://doi.org/10.3390/foods12173197 . . . . . . . . . . . 107
+- Jan Juhart, Aljaz Medic, Jerneja Jakopic, Robert Veberic, Metka Hudina and Franci Stampar
+- Use of HPLC-MS to Determine the Loss of Metabolites in Apple Juices under Different Storage
+- Conditions
+- Reprinted from: Foods 2023, 12, 2822, https://doi.org/10.3390/foods12152822 . . . . . . . . . . . 125
+- Aljaz Medic, Anita Solar, Metka Hudina, Robert Veberic and Tilen Zamljen
+- Effect of Different Walnut and Hazelnut Leaf Compost Treatments on Yield and Phenolic
+- Composition of Lactuca sativa L.
+- Reprinted from: Foods 2023, 12, 2738, https://doi.org/10.3390/foods12142738 . . . . . . . . . . . 141
+- v
+- Qi Kong, Ruiling Liu, Weijie Wu, Xiangjun Fang, Hangjun Chen, Yanchao Han and Jianye
+- Chen
+- Cuticular Wax Triterpenes Maintain Storage Quality of Blueberries by Reducing Water Loss
+- Reprinted from: Foods 2023, 12, 2643, https://doi.org/10.3390/foods12142643 . . . . . . . . . . . 151
+- Xiaomeng Guo, Qiao Li, Tao Luo, Dongmei Han, Difa Zhu and Zhenxian Wu
+- Postharvest Calcium Chloride Treatment Strengthens Cell Wall Structure to Maintain Litchi
+- Fruit Quality
+- Reprinted from: Foods 2023, 12, 2478, https://doi.org/10.3390/foods12132478 . . . . . . . . . . . 162
+- Ziqian Xia, Rui Wang, Chao Ma, Jiangkuo Li, Jiqing Lei, Ning Ji, et al.
+- Effect of Controlled Atmosphere Packaging on the Physiology and Quality of Fresh-Cut
+- Dictyophora rubrovolvata
+- Reprinted from: Foods 2023, 12, 1665, https://doi.org/10.3390/foods12081665 . . . . . . . . . . . 173
+- Surassawadee Promyou, Yenjit Raruang and Zhi-Yuan Chen
+- Melatonin Treatment of Strawberry Fruit during Storage Extends Its Post-Harvest Quality and
+- Reduces Infection Caused by Botrytis cinerea
+- Reprinted from: Foods 2023, 12, 1445, https://doi.org/10.3390/foods12071445 . . . . . . . . . . . 188
+- Zelin Li, Bin Zhou, Tingting Zheng, Chunyan Zhao, Xiaojing Shen, Xuefeng Wang, et al.
+- Integrating Metabolomics and Proteomics Technologies Provides Insights into the Flavor
+- Precursor Changes at Different Maturity Stages of Arabica Coffee Cherries
+- Reprinted from: Foods 2023, 12, 1432, https://doi.org/10.3390/foods12071432 . . . . . . . . . . . 202
+- vi
+- foods
+- Editorial
+- Recent Advances in Biological and Technological Research of

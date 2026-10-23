@@ -1,0 +1,80 @@
+# WHO recommendations on antenatal care for a positive pregnancy experience (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/250796
+- 页数: 172
+- 全文: `text/who/WHO_recommendations_on_antenatal_care_for_a_positive_pregnancy_experience.txt`
+- 标签: 母婴
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                                                                v
+- Acronyms and abbreviations                                                                                                     vii
+- Executive summary                                                                                                              ix
+- 1. Introduction                                                                                                                 1
+- 2. Methods                                                                                                                      4
+- 3. Evidence and recommendations                                                                                                13
+- 		A. Nutritional interventions                                                                                                 14
+- 		B. Maternal and fetal assessment                                                                                            40
+- 		C. Preventive measures                                                                                                      63
+- 		D. Interventions for common physiological symptoms                                                                          74
+- 		E. Health systems interventions to improve the utilization and quality of ANC                                               85
+- 4. Implementation of the ANC guideline and recommendations: introducing the
+-    2016 WHO ANC model                                                                                                         105
+- 5. Research implications                                                                                                      118
+- 6. Dissemination, applicability and updating of the guideline and recommendations                                             120
+- References		                                                                                                                  123
+- Annex 1:		 External experts and WHO staff involved in the preparation of this guideline                                       137
+- Annex 2: Other WHO guidelines with recommendations relevant to routine ANC                                                    141
+- Annex 3:		 Summary of declarations of interest from the Guideline Development Group
+- 				 (GDG) members and how they were managed                                                                                  143
+- Annex 4: Implementation considerations for ANC guideline recommendations                                                      145
+- Web annexes: WHO recommendations on antenatal care for a positive pregnancy experience*
+- Web annex 1: Priority questions and outcomes for the antenatal care (ANC) interventions
+-              identified for this guideline
+- Web annex 2: Changes from the approved scope of this guideline
+- Web annex 3: Guideline Development Group (GDG) judgements related to the recommendations
+- Web supplement: WHO recommendations on antenatal care for a positive pregnancy experience:
+-                 evidence base*
+- The standardized criteria used in grading the evidence and the GRADE tables have been published in this
+- separate Web supplement. These evidence tables are referred to within this document by number, prefixed with
+- "EB" (for evidence base), for ease of reference.
+- * available at: www.who.int/reproductivehealth/publications/maternal_perinatal_health/anc-positive-pregnancy-experience/en/
+- « To achieve the Every Woman Every Child
+- vision and the Global Strategy for Women's,
+- Children's and Adolescents' Health, we need
+- innovative, evidence-based approaches to
+- antenatal care. I welcome these guidelines,
+- which aim to put women at the centre of care,
+- enhancing their experience of pregnancy and
+- ensuring that babies have the best possible
+- start in life. »
+- Ban Ki-moon, United Nations Secretary-General
+- Acknowledgements
+- The Departments of Reproductive Health and Research (RHR), Nutrition for Health and Development (NHD),
+- and Maternal, Newborn, Child and Adolescent Health (MCA) of the World Health Organization (WHO)
+- gratefully acknowledge the contributions that many individuals and organizations have made to the development
+- of this guideline.
+- A. Metin Gülmezoglu, Matthews Mathai, Olufemi Oladapo, Juan Pablo Peña-Rosas and Özge Tunçalp were the
+- members of the WHO Steering Group that managed the guideline development process. The members of the
+- Guideline Development Group (GDG) included Mohammed Ariful Aram, Françoise Cluzeau, Luz Maria De-Regil,
+- Aft Ghérissi, Gill Gyte, Rintaro Mori, James Neilson, Lynnette Neufeld, Lisa Noguchi, Nafissa Osman, Erika Ota,
+- Tomas Pantoja, Bob Pattinson, Kathleen Rasmussen, Niveen Abu Rmeileh, Harshpal Singh Sachdev, Rusidah
+- Selamat, Charlotte Warren and Charles Wisonge. James Neilson served as chair of the GDG.
+- We would also like to thank the following WHO regional advisors for their contributions: Karima Gholbzouri,
+- Gunta Lazdane, Bremen de Mucio, Mari Nagai, Leopold Ouedraogo, Neena Raina and Susan Serruya. We
+- would also like to thank the following individuals for their contributions to the guideline process, including the
+- scoping: Manzi Anatole, Rifat Atun, Himanshu Bhushan, Jacquelyn Caglia, Chompilas Chongsomchai, Morseda
+- Chowdhury, Mengistu Hailemariam, Stephen Hodgins, Annie Kearns, Ana Langer, Pisake Lumbiganon, Taiwo
+- Oyelade, Jeffrey Smith, Petra ten Hoope-Bender, James Tielsch and Rownak Khan.
+- Special thanks to the authors of the Cochrane systematic reviews used in this guideline for their assistance and
+- collaboration in preparing or updating them. Sonja Henderson, Frances Kellie and Nancy Medley coordinated
+- the updating of the relevant Cochrane systematic reviews. Soo Downe and Kenny Finlayson performed the
+- scoping and qualitative reviews on the views of women and providers with regard to antenatal care (ANC). For
+- the evidence on interventions, Edguardo Abalos, Monica Chamillard and Virginia Dias reviewed and graded the
+- scientific evidence. For the evidence on test accuracy, Khalid Khan and Ewelina Rogozinska reviewed and graded
+- the scientific evidence. Theresa Lawrie reviewed the evidence grading, and drafted the evidence summaries.
+- Simon Lewin and Claire Glenton contributed to the preparation of the evidence summaries on ANC delivery
+- options and provided technical support on the DECIDE framework (Developing & Evaluating Communication
+- strategies to support Informed Decisions & Practice based on Evidence). Emma Allanson coordinated the
+- population of the DECIDE frameworks. Jenny Moberg reviewed and summarized the indirect evidence on ANC

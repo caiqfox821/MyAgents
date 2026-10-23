@@ -1,0 +1,80 @@
+# The Role of Dietary Bioactive Compounds in Human Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4369-5
+- 页数: 254
+- 全文: `text/mdpi/The_Role_of_Dietary_Bioactive_Compounds_in_Human_Health_2025.txt`
+- 标签: 膳食模式/摄入, 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Bin Du and Baojun Xu
+- Editorial for the Special Issue “The Role of Dietary Bioactive Compounds in Human Health” in
+- Molecules
+- Reprinted from: Molecules 2025, 30, 2128, https://doi.org/10.3390/molecules30102128 . . . . .                  1
+- Ashaimaa Y. Moussa, Abdulah R. Alanzi, Jinhai Luo, Jingwen Wang, Wai San Cheang and
+- Baojun Xu
+- Role of Saponins from Platycodon grandiflorum in Alzheimer’s Disease: DFT, Molecular Docking,
+- and Simulation Studies in Key Enzymes
+- Reprinted from: Molecules 2025, 30, 1812, https://doi.org/10.3390/molecules30081812 . . . . .                  5
+- Sara Duarte, Muhammad Ajmal Shah and Ana Sanches Silva
+- Flaxseed in Diet: A Comprehensive Look at Pros and Cons
+- Reprinted from: Molecules 2025, 30, 1335, https://doi.org/10.3390/molecules30061335                . . . . . 36
+- Jiaqiang Sun, Yuelu Jiang, Jing Fu, Linlin He, Xinmiao Guo, Hua Ye, et al.
+- Beneficial Effects of Epigallocatechin Gallate in Preventing Skin Photoaging: A Review
+- Reprinted from: Molecules 2024, 29, 5226, https://doi.org/10.3390/molecules29225226                . . . . . 70
+- Shamila Seyiti, Abulimiti Kelimu and Gulinaer Yusufu
+- Bactrian Camel Milk: Chemical Composition, Bioactivities, Processing Techniques, and
+- Economic Potential in China
+- Reprinted from: Molecules 2024, 29, 4680, https://doi.org/10.3390/molecules29194680 . . . . . 92
+- Regina Ewa Wierzejska, Iwona Gielecińska, Ewelina Hallmann and Barbara Wojda
+- Polyphenols vs. Caffeine in Coffee from Franchise Coffee Shops: Which Serving of Coffee
+- Provides the Optimal Amount of This Compounds to the Body
+- Reprinted from: Molecules 2024, 29, 2231, https://doi.org/10.3390/molecules29102231 . . . . . 115
+- Ying Luo, Tenglong Chang, Shiting Huang, Jing Xiang, Shuangyang Tang and Haiyan Shen
+- Protective Effects and Mechanisms of Esculetin against H2 O2 -Induced Oxidative Stress,
+- Apoptosis, and Pyroptosis in Human Hepatoma HepG2 Cells
+- Reprinted from: Molecules 2024, 29, 1415, https://doi.org/10.3390/molecules29071415 . . . . . 128
+- Iram Iqbal, Polrat Wilairatana, Fatima Saqib, Bushra Nasir, Muqeet Wahid, Muhammad
+- Farhaj Latif, et al.
+- Plant Polyphenols and Their Potential Benefits on Cardiovascular Health: A Review
+- Reprinted from: Molecules 2023, 28, 6403, https://doi.org/10.3390/molecules28176403 . . . . . 140
+- Agnieszka Ewa St˛epień, Julia Trojniak and Jacek Tabarkiewicz
+- Health-Promoting Properties: Anti-Inflammatory and Anticancer Properties of Sambucus nigra
+- L. Flowers and Fruits
+- Reprinted from: Molecules 2023, 28, 6235, https://doi.org/10.3390/molecules28176235 . . . . . 171
+- Md. Shimul Bhuia, Polrat Wilairatana, Jannatul Ferdous, Raihan Chowdhury, Mehedi Hasan
+- Bappi, Md Anisur Rahman, et al.
+- Hirsutine, an Emerging Natural Product with Promising Therapeutic Benefits: A Systematic
+- Review
+- Reprinted from: Molecules 2023, 28, 6141, https://doi.org/10.3390/molecules28166141 . . . . . 188
+-                                                        v
+- Jinhui Wu, Huiying Wang, Yanfei Liu, Baojun Xu, Bin Du and Yuedong Yang
+- Effect of Ultrasonic Irradiation on the Physicochemical and Structural Properties of Laminaria
+- japonica Polysaccharides and Their Performance in Biological Activities
+- Reprinted from: Molecules 2023, 28, 8, https://doi.org/10.3390/molecules28010008 . . . . . . . 209
+- Man Yan, Xiang Li, Chang Sun, Jiajun Tan, Yuanyuan Liu, Mengqi Li, et al.
+- Sodium Butyrate Attenuates AGEs-Induced Oxidative Stress and Inflammation by Inhibiting
+- Autophagy and Affecting Cellular Metabolism in THP-1 Cells
+- Reprinted from: Molecules 2022, 27, 8715, https://doi.org/10.3390/molecules27248715 . . . . . 228
+-                                                 vi
+- About the Editors
+- Baojun Xu
+-      Dr. Xu is a Chair Professor in Beijing Normal-Hong Kong Baptist University (BNBU, a full
+- English teaching university in China), Fellow of the Royal Society of Chemistry, Zhuhai Scholar
+- Distinguished Professor, Department Head of the Department of Life Sciences, Program Director of
+- the Food Science and Technology Program, and author of over 400 peer-reviewed papers. Dr. Xu
+- received his Ph.D. in Food Science from Chungnam National University, South Korea. He conducted
+- postdoctoral research work at North Dakota State University (NDSU), Purdue University, and Gerald
+- P. Murphy Cancer Foundation in USA during 2005-2009. He was a short-term visiting researcher at
+- NDSU in 2012 and University Georgia in 2014, followed by being a visiting researcher during his
+- sabbatical leave (7 months) at Pennsylvania State University in the USA in 2016. Dr. Xu is serving
+- as an Associate Editor-in-Chief of Food Science and Human Wellness, Associate Editor of Food
+- Research International, Associate Editor of Food Frontiers, and Editorial Board Member of around
+- 10 international journals. He received the inaugural President’s Award for Outstanding Research of
+- UIC in 2016 and the President’s Award for Outstanding Service of UIC in 2020. Dr. Xu has been
+- listed in the world’s top 2% scientists by Stanford University for the past five consecutive years and
+- has been included in the best scientists in the world list in the fields of biology and biochemistry
+- at Research.com in 2023 and 2024. Prof. Xu was named a Highly Ranked Scholar (top 0.05%) by
+- ScholarGPSTM, ranked at #8 in food science and technology in the world and #14 in agricultural and

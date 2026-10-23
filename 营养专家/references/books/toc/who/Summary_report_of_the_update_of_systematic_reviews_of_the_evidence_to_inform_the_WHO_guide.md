@@ -1,0 +1,60 @@
+# Summary report of the update of systematic reviews of the evidence to inform the WHO guidelines on physical activity, sedentary behaviour and sleep in children under 5 years of age (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/277355
+- 页数: 39
+- 全文: `text/who/Summary_report_of_the_update_of_systematic_reviews_of_the_evidence_to_inform_the_WHO_guide.txt`
+- 标签: 婴幼儿/儿童, 身体活动
+
+## 目录 (Sections)
+
+- 1 Physical Activity.mp. (95452)
+- 5 Physical Exertion/ (61538)
+- 27 Skinfold Thickness/ (6369)
+- 32 Absorptiometry, Photon/ (23222)
+- 34 Physical Fitness/ (28031)
+- 36 Range of Motion, Articular/ (47501)
+- 37 Postural Balance/ (21392)
+- 38 Metabolic Syndrome X/ (31773)
+- 39 Insulin Resistance/ (55530)
+- 43 Hemoglobin A, Glycosylated/ (35008)
+- 44 HbA1c.tw,kf. (28838)
+- 45   Bone Density/ (54355)
+- 48   Bone development/ (14055)
+- 49   Osteogen*.mp. (58737)
+- 57   Hypercholesterolemia/ (26601)
+- 61   Plagioceph*.tw,kf. (923)
+- 62   Torticollis/ (3685)
+- 65   Motor Activity/ (101303)
+- 66   Gross motor skill*.tw,kf. (527)
+- 70   Child Development/ (44626)
+- 71   Developmental milestone*.mp. (1367)
+- 73   Child Behavior Disorders/ (21844)
+- 74   Child Behavior/ (17461)
+- 80   Interpersonal Relations/ (69575)
+- 81   Attention/ (78115)
+- 82   Attention Deficit Disorder with Hyperactivity/ (28336)
+- 84   Cognitive develop*.tw,kf. (6055)
+- 85   Achievement/ (15933)
+- 87   Educational Achievement/ (50768)
+- 88   School Admission Criteria/ (4896)
+- 90   Educational measurement/ (35482)
+- 91   Educational status/ (50768)
+- 92   Language Development Disorders/ (6357)
+- 93   Language Development/ (10141)
+- 94   Communication/ (79403)
+- 95   Speech Perception/ (23133)
+- 96    Verbal Behavior/ (18278)
+- 97    Vocabulary/ (10409)
+- 100     Self Efficacy/ (18156)
+- 101     Self-Control/ (1180)
+- 103     Executive function/ (11566)
+- 105     Depression/ (108713)
+- 108     Affective Symptoms/ (12972)
+- 109     Stress, Psychological/ (115040)
+- 111     Temperament/ (5630)
+- 1 Physical Activity.mp.
+- 5 Physical Exertion/
+- 19 Sedentary Lifestyle/
+- 26 Communications Media/ or Mass Media/
+- 31 Sleep/

@@ -1,0 +1,80 @@
+# Advanced Pharmaceutical Analytical Technology (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4866-9
+- 页数: 226
+- 全文: `text/mdpi/Advanced_Pharmaceutical_Analytical_Technology_2025.txt`
+- 标签: ms
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Alexis Oliva
+- Advances in Pharmaceutical Analytical Technology
+- Reprinted from: Molecules 2025, 30, 2155, https://doi.org/10.3390/molecules30102155 . . . . . .               1
+- Maurizio Cossu, Andrea Sanna, Giuseppe Mangano, Giuseppe Ledda, Giannina Chessa,
+- Pasquale Gallo, et al.
+- Emerging Mycotoxins in Cheese: Simultaneous Analysis of Aﬂatoxin M1 , Aﬂatoxicol, and
+- Sterigmatocystin by LC-MS/MS
+- Reprinted from: Molecules 2025, 30, 1774, https://doi.org/10.3390/molecules30081774 . . . . . .               5
+- Lyuyin Wang, Jing Gao, Kaixin Xu, Jing Li and Chenggang Liang
+- Development and Validation of Two Cell-Based Reporter-Gene Assays for Determining the
+- Bioactivity of Recombinant Human Thyroid-Stimulating Hormone Pharmaceutical Products
+- Reprinted from: Molecules 2025, 30, 1037, https://doi.org/10.3390/molecules30051037 . . . . . . 18
+- Jost Klawitter, Mckay Easton, Alexander Karpeisky, Kristen B. Farrell, Douglas H. Thamm,
+- Touraj Shokati, et al.
+- Novel Approaches to Monitor Pharmacokinetics and Metabolism of Gemcitabine-Ibandronate
+- Conjugate in Mice and Dogs
+- Reprinted from: Molecules 2025, 30, 354, https://doi.org/10.3390/molecules30020354 . . . . . . 33
+- Adriana Ledeţi, Bianca Baul, Amalia Ridichie, Denisa Ivan, Titus Vlase, Carmen Tomoroga,
+- et al.
+- Thermooxidation of Four Sartans: Kinetic Analysis Based on Thermo-Gravimetric Data
+- Reprinted from: Molecules 2024, 29, 5527, https://doi.org/10.3390/molecules29235527 . . . . . . 54
+- Jianli Zhang, Hang Yu, Yulin Shen, Xingya Yang and Yan Wang
+- Rapid Liquid Chromatography–Tandem Mass Spectrometry Method for Determination of Total
+- and Free Testosterone in Human Serum and Its Application to Monitoring Biomarker Response
+- of Elite Athletes
+- Reprinted from: Molecules 2024, 29, 5007, https://doi.org/10.3390/molecules29215007 . . . . . . 72
+- Magdalena Szumska, Paweł Mroczek, Krystyna Tyrpień-Golder, Beata Pastuszka and
+- Beata Janoszka
+- Determination of Cotinine, 3 -Hydroxycotinine and Nicotine 1 -Oxide in Urine of Passive and
+- Active Young Smokers by LC-Orbitrap-MS/MS Technique
+- Reprinted from: Molecules 2024, 29, 3643, https://doi.org/10.3390/molecules29153643 . . . . . . 84
+- Yong Zhang, Haipeng Liu, Tianci Lv, Mengqian Xiao and Guihua Gao
+- Protein Tyrosine Phosphatase 1B Inhibitors of Pueraria lobata Based on the Spectrum–Effect
+- Relationship by Q-Marker Selection
+- Reprinted from: Molecules 2024, 29, 2731, https://doi.org/10.3390/molecules29122731 . . . . . . 99
+- Yujie Zhang, Jingjie Cao, Jiahan Su, Tingting He, Qianru Wang, Feng Wei, et al.
+- Study of Bitespiramycin Distribution in Rats and Cerebrospinal Fluid of Patients by a Sensitive
+- LC-MS/MS Method with Rapid Sample Preparation
+- Reprinted from: Molecules 2024, 29, 1037, https://doi.org/10.3390/molecules29051037 . . . . . . 113
+-                                                        v
+- Javier Peña, Iria González-Mariño and José L. Pérez Pavón
+- Ultrasound-Assisted Extraction, Followed by Gas Chromatography–Mass Spectrometry for
+- the Simultaneous Quantiﬁcation of Ethinyl Estradiol and Drospirenone in Contraceptive
+- Formulations
+- Reprinted from: Molecules 2023, 28, 4978, https://doi.org/10.3390/molecules28134978 . . . . . . 124
+- Adela Štimac, Tihana Kurtović and Beata Halassy
+- Multi-Detection Size Exclusion Chromatography as an Advanced Tool for Monitoring
+- Enzyme–Antibody Conjugation Reaction and Quality Control of a Final Product
+- Reprinted from: Molecules 2023, 28, 4567, https://doi.org/10.3390/molecules28114567 . . . . . . 137
+- Ibrahim A. Darwish and Nourah Z. Alzoman
+- Development and Validation of Green and High-Throughput Microwell Spectrophotometric
+- Assay for the Determination of Selective Serotonin Reuptake Inhibitors in Their Pharmaceutical
+- Dosage Forms
+- Reprinted from: Molecules 2023, 28, 4221, https://doi.org/10.3390/molecules28104221 . . . . . . 149
+- Agnieszka Lis-Cieplak, Katarzyna Trześniowska, Krzysztof Stolarczyk and
+- Elżbieta U. Stolarczyk
+- Pyrrolizidine Alkaloids as Hazardous Toxins in Natural Products: Current Analytical Methods
+- and Latest Legal Regulations
+- Reprinted from: Molecules 2024, 29, 3269, https://doi.org/10.3390/molecules29143269 . . . . . . 163
+- Zhengqiong Chen, Gang Zhou and Shengjun Ma
+- Research Progress of Ferula ferulaeoides: A Review
+- Reprinted from: Molecules 2023, 28, 3579, https://doi.org/10.3390/molecules28083579 . . . . . . 201
+-                                                 vi
+- About the Editor
+- Alexis Oliva
+-      Alexis Oliva graduated from the University of La Laguna with a degree in Pharmacy in 1990,
+- going on to receive his PhD in Pharmacy and Pharmaceutical Technology in 1995. He is an Associate
+- Professor in the Department of Chemical Engineering and Pharmaceutical Technology at the Faculty of
+- Pharmacy since 2002. He has participated in twelve national and regional scientiﬁc research projects.

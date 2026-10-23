@@ -1,0 +1,69 @@
+# Distillation - Innovative Applications and Modeling (2017, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/5452
+- 页数: 248
+- 全文: `text/intechopen/Distillation_Innovative_Applications_and_Modeling_2017.txt`
+- PDF: `intechopen/Distillation_Innovative_Applications_and_Modeling_2017.pdf`
+- 标签: 下游分离, 蒸馏
+
+## 目录 (Contents)
+
+-                  Preface XI
+-      Section 1   Column Process Design and Calculations 1
+-      Chapter 1   Steady‐State Modeling of Equilibrium Distillation 3
+-                  Vilmar Steffen and Edson Antonio da Silva
+-      Chapter 2   Short-Cut Methods for Multicomponent Batch Distillation 31
+-                  A. Narváez-García, J.C. Zavala-Loría, A. Ruiz-Marín and Y. Canedo-
+-                  López
+-      Chapter 3   Mathematical Modelling of Batch Distillation Columns: A
+-                  Comparative Analysis of Non-Linear and Fuzzy Models 57
+-                  Adriana del Carmen Téllez-Anguiano, Mario Heras-Cervantes, Juan
+-                  Anzurez-Marín, Gerardo Marx Chávez-Campos and José Antonio
+-                  Gutiérrez Gnecchi
+-      Section 2   Distillation Applications 75
+-      Chapter 4   Distillation: Basic Test in Quality Control of
+-                  Automotive Fuels 77
+-                  Ma Mercedes del Coro Fernández-Feal, Luis R. Sánchez-Fernández
+-                  and Blanca Sánchez-Fernández
+-      Chapter 5   Enhanced Distillation Under Infrared Characteristic
+-                  Radiation 99
+-                  Kuo-Ting Wang, M. Quinn Brewster and Wei-Hsiang Lai
+-      Chapter 6   Distillation Techniques in the Fruit Spirits Production 129
+-                  Nermina Spaho
+- X   Contents
+-                Chapter 7   Fractional Distillation of Organic Liquid Compounds Produced
+-                            by Catalytic Cracking of Fats, Oils, and Grease 153
+-                            C. C. Fereira, E. C. Costa, D. A. R. de Castro, M. S. Pereira, A. A.
+-                            Mâncio, M. C. Santos, D. E. L. Lhamas, S. A. P. da Mota, M. E. Araújo,
+-                            Luiz E. P. Borges and N. T. Machado
+-                Chapter 8   Energy Evaluation of the Use of an Absorption Heat Pump in
+-                            Water Distillation Process 185
+-                            Rosenberg J. Romero and Sotsil Silva-Sotelo
+-                Chapter 9   Solar Membrane Distillation: Use of a Helically
+-                            Coiled Fiber 203
+-                            Adel Zrelli
+- Preface
+- The art of distillation dates back to at least the first century A.D. [1, 2]. This state of the art
+- process is the heaven that column designers always dreamt of [3]. It is not uncommon to see
+- in books on distillation, the design of columns to separate hydrocarbons, and the mass pro‐
+- duction of mathematical models and correlations to represent the separation process. This is
+- due to the fact that distillation today accounts for 90% and 95% of all industrial separations.
+- Approximately 40,000 distillation columns are in operation in the United States alone, re‐
+- quiring around 40% of the total energy consumption in U.S. chemical process industries [4].
+- According to Górak and Sorensen [5], distillation is the major consumer of energy in process
+- industries globally, and because of that the amount of research dealing with energy efficien‐
+- cy has increased, as well as with the economic evaluation of the process itself. Connected to
+- all of these aspects, the distillation process is complex and requires adequate modeling, a
+- challenge for researchers and scientists around the world.
+- Although several books are available to study distillation concepts, new applications and
+- mathematical models proposals can only be found in journals concerning chemical engi‐
+- neering problems.
+- In summary, this book is composed of chapters that discuss different applications of the dis‐
+- tillation process, linked to areas such as economic evaluation, studying and demonstrating
+- energy saving, mathematical modeling, and adjusting and correlating experimental data to
+- better predict and design new distillation columns.
+-                                                                    Marisa Fernandes Mendes
+-                                                            Chemical Engineering Department,
+-                                             Federal Rural University of Rio de Janeiro (UFRRJ),
+-                                                           Seropédica City, Rio de Janeiro State,

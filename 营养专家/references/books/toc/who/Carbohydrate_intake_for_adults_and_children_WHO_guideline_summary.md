@@ -1,0 +1,80 @@
+# Carbohydrate intake for adults and children: WHO guideline summary (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/374925
+- 页数: 20
+- 全文: `text/who/Carbohydrate_intake_for_adults_and_children_WHO_guideline_summary.txt`
+- 标签: 糖/碳水化合物, 婴幼儿/儿童
+
+## 目录 (Contents)
+
+- Guideline summary                                 1
+-      Background                                   1
+-      Objective, scope and methods                 2
+-      The evidence                                2
+-      Recommendations and supporting information   4
+-      Translation and implementation               9
+- References10
+- Annex14
+-                                                   iii
+-      Note
+-      This document is a summary of a WHO guideline, the full version of which is available only in English
+-      and can be accessed at https://www.who.int/publications/i/item/9789240073593. This summary
+-      document does not contain all of the information found in the full guideline, but what it does contain
+-      has been extracted directly from the full guideline and is therefore identical to the information found
+-      in the full guideline. Anywhere in this summary document where “this guideline” or “the guideline” is
+-      used in the text, it refers to the full guideline document.
+- iv
+- Guideline summary
+- Background
+- Noncommunicable diseases (NCDs) are the world’s leading cause of death, responsible for an estimated
+- 41 million of the 55 million deaths in 2019 (1). Nearly half of these deaths were premature (i.e. in people
+- aged less than 70 years) and occurred in low- and middle-income countries (LMICs). Obesity is a risk factor
+- for diet-related NCDs and is linked to millions of deaths globally (2, 3). In 2016, more than 1.9 billion adults
+- aged 18 years and older were overweight (4) and, of these, more than 600 million were obese. The spotlight
+- on prevention and management of NCDs and obesity has intensified recently as a result of the COVID-19
+- pandemic, as there is increasing recognition that those with obesity or certain NCDs are at increased risk of
+- adverse outcomes associated with COVID-19 (5–9). Modifiable risk factors such as unhealthy diets, physical
+- inactivity, tobacco use and harmful use of alcohol are major risk factors for NCDs and obesity. The quality of
+- carbohydrates in the diet has been extensively explored as a potential modulator of NCD and obesity risk.
+- Carbohydrates are found in a wide variety of primarily plant-based foods and are the principal source of
+- energy (i.e. calories) in the diets of many people. Metabolism of carbohydrates produces glucose, which is
+- the primary source of metabolic “fuel” for the brain, and other organs and tissues of the body. Carbohydrates
+- can be grouped in many different ways and referred to using a variety of terms. At the most basic level,
+- carbohydrates comprise monosaccharide building blocks and can be categorized based on the degree of
+- polymerization (i.e. number of connected monosaccharides) as either sugars (mono- and disaccharides),
+- oligosaccharides (short-chain carbohydrates) or polysaccharides (i.e. starch) (10).
+- The concept of carbohydrate “quality” refers to the nature and composition of carbohydrates in a food or
+- in the diet, including the proportion of sugars, how quickly polysaccharides are metabolized and release
+- glucose into the body (i.e. digestibility), and the amount of dietary fibre (11–13). Carbohydrates that are
+- slowly digested in the small intestine or pass through undigested are generally considered “high quality“,
+- and rapidly digested carbohydrates such as sugars are considered “low quality“. Dietary fibre, in particular,
+- is an important element of carbohydrate quality. It can be defined in various ways, although virtually all
+- definitions share the concept that dietary fibre is resistant to digestion by enzymes in the small intestine
+- of humans (10). Consumption of low-quality carbohydrates is often associated with poor overall dietary
+- quality and may have a negative health impact, whereas consumption of high-quality carbohydrates is
+- often associated with high overall dietary quality and has been shown to have a positive health impact (14).
+- A high intake of free sugars, for example, is associated with increased risk of obesity and diet-related NCDs.
+- Consequently, the World Health Organization (WHO) has previously issued guidance on limiting intake of
+- free sugars (15). Conversely, high intakes of dietary fibre and consumption of foods generally containing
+- high-quality carbohydrates – such as whole grains, fruits, vegetables and pulses – have been shown to
+- broadly improve health (16–20).
+- The inclusion of dietary fibre and high-quality carbohydrates in the diet from whole grains, vegetables,
+- fruits and pulses has long been recommended to improve and maintain cardiometabolic and overall health.
+- Although current intakes of these nutrients and foods are highly variable across and within populations in
+- different settings, they are generally low at the global level relative to recommended intakes in this guideline,
+- and other national reference values (21–28). Low vegetable and fruit intake in LMICs is of particular concern:
+- recent estimates suggest that less than 20–30% of individuals in many LMICs meet WHO recommendations
+- for vegetable and fruit consumption (29, 30).
+-                                                                                                                1
+- Objective, scope and methods
+- The objective of this guideline is to provide guidance on carbohydrate intake, including intake of dietary
+- fibre and healthy food sources of carbohydrates, to be used by policy-makers, programme managers,
+- health professionals and other stakeholders to promote healthy diets. The guideline was developed by
+- the WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup on Diet and Health following the
+- WHO guideline development process, as outlined in the WHO handbook for guideline development (31). This
+- process includes a review of systematically gathered evidence by an international, multidisciplinary group
+- of experts; assessment of the quality of that evidence via the Grading of Recommendations Assessment,
+- Development and Evaluation (GRADE) framework1; and consideration of additional, potentially mitigating
+- factors2 when translating the evidence into recommendations. The guideline was reviewed by a group of
+- external experts and feedback was solicited from interested stakeholders during public consultations. The

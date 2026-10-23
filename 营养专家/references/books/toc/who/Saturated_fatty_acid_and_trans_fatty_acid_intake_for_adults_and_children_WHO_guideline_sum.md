@@ -1,0 +1,80 @@
+# Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline summary (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/375034
+- 页数: 24
+- 全文: `text/who/Saturated_fatty_acid_and_trans_fatty_acid_intake_for_adults_and_children_WHO_guideline_sum.txt`
+- 标签: 脂肪, 婴幼儿/儿童
+
+## 目录 (Contents)
+
+- Guideline summary                                 1
+-      Background                                    1
+-      Objective, scope and methods                  2
+-      The evidence                                  3
+-      Recommendations and supporting information    6
+-      Translation and implementation               12
+- References14
+-                                                   iii
+-      Note
+-      This document is a summary of a WHO guideline, the full version of which is available only in English
+-      and can be accessed at https://www.who.int/publications/i/item/9789240073630. This summary
+-      document does not contain all of the information found in the full guideline, but what it does contain
+-      has been extracted directly from the full guideline and is therefore identical to the information found
+-      in the full guideline. Anywhere in this summary document where “this guideline” or “the guideline” is
+-      used in the text, it refers to the full guideline document.
+- iv
+- Guideline summary
+- Background
+- Noncommunicable diseases (NCDs) are the world’s leading cause of death, responsible for an estimated
+- 41 million of the 55 million deaths in 2019 (1). Nearly half of these deaths were premature (i.e. in people
+- aged less than 70 years) and occurred in low- and middle-income countries. Of the major NCDs,
+- cardiovascular diseases (CVDs) were the leading cause of mortality in 2019, responsible for more than
+- 18 million deaths (2). Modifiable risk factors such as unhealthy diets, physical inactivity, tobacco use
+- and harmful use of alcohol are major risk factors for CVDs. Dietary saturated fatty acids (SFA) and
+- trans-fatty acids (TFA) are of particular concern because high levels of intake have been correlated with
+- increased risk of CVDs (3).
+- SFA are fatty acids containing only single carbon–carbon bonds (i.e. no double bonds). They are found
+- primarily in foods from animal sources (e.g. dairy foods, meat, egg yolks, hard fats), as well as in some
+- plant-derived fats and oils.
+- TFA are unsaturated fatty acids with at least one double carbon–carbon bond in the trans configuration.
+- TFA can be produced industrially by the partial hydrogenation of vegetable and fish oils, but also occur
+- naturally in meat and dairy products from ruminant animals (e.g. cattle, sheep, goats, camels) as a result
+- of the conversion of cis double bonds in unsaturated fatty acids to the trans position by bacterial enzymes
+- in the stomach (rumen) of the animals. Although the sources are different, the individual isomers in
+- industrially produced and ruminant TFA are largely the same, but present in differing proportions (4–6).
+- Industrially produced TFA are the predominant source of dietary TFA in many populations. They can be
+- found in partially hydrogenated cooking oils and fats which are often used at home, in restaurants, or in
+- the informal sector (e.g. street vendors), and in ready-made baked and fried foods (e.g. doughnuts, cookies,
+- crackers and pies) and other pre-packaged snacks and foods. Although current intakes of ruminant TFA
+- are generally low, ruminant TFA may become the predominant dietary source of TFA in populations where
+- industrially produced TFA are being phased out of the food supply (7–9).
+- Reduced intake of SFA has been associated with a significant reduction in the risk of coronary heart disease
+- when SFA are replaced with polyunsaturated fatty acids or carbohydrates from whole grains (10–13).
+- However, an apparent lack of effect is often observed in studies in which the macronutrients replacing SFA
+- are unknown, are not accounted for or consist largely of refined carbohydrates (10, 13–15). Studies have also
+- demonstrated that high intakes of industrially produced TFA are strongly associated with increased risk of
+- coronary heart disease and related mortality (16, 17). Few studies have identified an association between
+- intake of ruminant TFA and CVDs; however, to date, ruminant TFA intake in most study populations has been
+- very low (18). Efforts to understand the effects of SFA intake in greater detail have shown that individual SFA
+- may have differing effects on blood lipids (19). In addition, growing evidence has led to the suggestion that
+- different SFA-containing foods, such as dairy foods, may have differential effects on risk of CVDs and type
+- 2 diabetes, as a result of either differing compositions of SFAs across foods, other constituents of the foods
+- (i.e. the “food matrix”) or a combination of the two (20–26).
+- The reduction in CVD risk observed with decreased intake of SFA and TFA is believed to occur primarily
+- through an effect on blood lipids, because intakes of both are associated with increases in levels of total
+- cholesterol and low-density lipoprotein (LDL) cholesterol (19, 27), and decreases in high-density lipoprotein
+- (HDL) cholesterol in the case of TFA (27). Other physiological mechanisms, such as inflammation, may also
+- play a role (28, 29). Increased total cholesterol is associated with increased risk of coronary heart disease (30).
+- LDL cholesterol is a well-established surrogate end-point (i.e. biomarker) for measuring the effects of
+-                                                                                                                  1
+- interventions on CVD risk (31, 32), and is considered by many to be a causal factor for atherosclerosis
+- and coronary heart disease (33). Other lipid measures – such as non-HDL cholesterol, triglycerides,
+- cholesterol ratios and cholesterol particle number – have also been suggested as possible predictors
+- of CVD risk.
+- Although CVDs typically present later in life, preclinical signs of atherosclerosis in the form of
+- atherosclerotic lesions in the aorta and coronary arteries can begin to appear in childhood (34, 35),
+- and are positively associated with abnormal blood lipid levels and other CVD risk factors (36, 37).
+- Elevated total and LDL cholesterol in childhood are associated with an increase in CVD risk factors in
+- adulthood (38), including thickening of the carotid artery intima-media (39–41), which is a marker of
+- subclinical atherosclerosis and a predictor of future cardiovascular events (42). Dietary intervention

@@ -1,0 +1,80 @@
+# Guideline: use of multiple micronutrient powders for point-of-use fortification of foods consumed by pregnant women (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/204639
+- 页数: 32
+- 全文: `text/who/Guideline_use_of_multiple_micronutrient_powders_for_point_of_use_fortification_of_foods_co.txt`
+- 标签: 微量营养素补充, 食品强化, 母婴
+
+## 目录 (Contents)
+
+- PUBLICATION HISTORY										 IV
+- ACKNOWLEDGEMENTS										 IV
+-                     Financial support								 IV
+- EXECUTIVE SUMMARY                                                                                                                           1
+-                     Background								                                                                                                      1
+-                     Purpose of the guideline							                                                                                         1
+-                     Guideline development methodology						                                                                                 1
+-                     Available evidence								                                                                                              2
+-                     Recommendation								                                                                                                  2
+-                     Remarks								                                                                                                         2
+- WHO GUIDELINE:      Use of multiple micronutrient powders for point-of-use fortification of foods consumed
+-                     by pregnant women							 3
+-                     1. Scope and purpose							 3
+-                     2. Background								 3
+-                     3. Summary of evidence							 4
+-                     4. Recommendation								 5
+-                     5. Remarks								 6
+-                     6. Implications for future research						                                               6
+-                     7. Dissemination and programme implications					                                        6
+-                     8. Guideline development process						 7
+-                               Advisory groups							 7
+-                               Scope of the guideline							 8
+-                               Evidence appraisal and decision-making					                                   8
+-                     9. Management of conflicts of interests						                                           9
+-                     10. Plans for updating the guideline						                                             11
+- REFERENCES										12
+- ANNEX 1.            GRADE summary of findings tables						15
+-                     a. Micronutrient powders for point-of-use fortification of foods versus iron and folic acid supplements  15
+-                     b. Micronutrient powders for point-of-use fortification of foods versus the same multiple micronutrients
+-                     in supplements		 16
+- ANNEX 2.            Summary of the considerations of the members of the guideline development group for
+-                     determining the strength of the recommendation for use of multiple micronutrient powders
+-                     for point-of-use fortification of foods consumed by pregnant women            		                                       17
+- ANNEX 3.            WHO Steering Committee for Nutrition Guidelines Development				                                                        18
+- ANNEX 4.            WHO guideline development group – nutrition actions 2013–2014 		 20
+- ANNEX 5.            WHO Secretariat		 22
+- ANNEX 6.            External resource experts		 23
+- ANNEX 7.            Peer-reviewers								24
+- ANNEX 8.            Questions in population, intervention, control, outcomes (PICO) format			                                              25
+-                                   WHO Guideline: Use of multiple micronutrient powders for point-of-use fortification of foods consumed by pregnant women   iii
+-      PUBLICATION HISTORY
+-      This guideline, Use of multiple micronutrient powders for point-of-use fortification of foods consumed by
+-      pregnant women is an update of the 2011 WHO guideline, Use of multiple micronutrient powders for home
+-      fortification of foods consumed by pregnant women. The word “home” has been substituted by “point-of-
+-      use”, to reflect the variety of settings where this intervention may take place. In order to produce this current
+-      guideline, the standard guideline development process was followed, according to the WHO handbook for
+-      guideline development. The current guideline updates the evidence on the use of multiple micronutrient
+-      powders by pregnant women and the overall evidence supports the continuance of the 2011 recommendation.
+-      This document expands the sections on dissemination and updates the summary of evidence used for this
+-      guideline, based on the most recent systematic review on the topic.
+-      ACKNOWLEDGEMENTS
+-      This updated guideline was coordinated by Mr Gerardo Zamora and Dr Lisa Rogers, under the supervision of
+-      Dr Juan Pablo Peña-Rosas. Thanks are due to Dr Susan Norris and staff from the World Health Organization
+-      (WHO) Guidelines Review Committee Secretariat for their support throughout the process and to Ms Alma
+-      Alic from the Office of Compliance and Risk Management and Ethics for her support in the management of
+-      conflicts of interest procedures. Thanks are also due to the office of the Deputy Minister for the Prevention
+-      and Promotion of Health, Ministry of Health, Mexico, for their support in the preparation of one of the
+-      consultative meetings where this guideline was discussed. WHO acknowledges the technical contribution
+-      from the following individuals (in alphabetical order): Ms Mónica Flores-Urrutia, Dr Jonathan Siekmann
+-      and Dr Pattanee Winichagoon. Ms Jennifer Volonnino from the Evidence and Programme Guidance Unit,
+-      Department of Nutrition for Health and Development, provided logistic support.
+-      WHO gratefully acknowledges the technical input of the members of the Nutrition Steering Committee and
+-      the WHO guidelines development group – nutrition actions 2013–2014, especially the chairs of the meetings,
+-      Dr Rebecca Stoltzfus and Ms Rusidah Selamat. WHO is also grateful to the staff of the Cochrane Pregnancy
+-      and Childbirth Group, for their support during the development of the systematic review used to inform this
+-      updated guideline.
+-      Financial support
+-      WHO thanks the Bill & Melinda Gates Foundation for providing financial support for this work. Micronutrient
+-      Initiative provides financial support to the Evidence and Programme Guidance Unit for the commissioning of
+-      systematic reviews of nutrition interventions. Donors do not fund specific guidelines and do not participate in

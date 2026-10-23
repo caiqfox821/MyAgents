@@ -1,0 +1,80 @@
+# Bioactive Compounds and Functional Foods in Human Health (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6407-2
+- 页数: 282
+- 全文: `text/mdpi/Bioactive_Compounds_and_Functional_Foods_in_Human_Health_2026.txt`
+- 标签: 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Vassilis Athanasiadis and Stavros I. Lalas
+- Bioactive Compounds and Functional Foods in Human Health—Bridging Mechanisms and
+- Applications for Future Nutrition
+- Reprinted from: Nutrients 2025, 17, 3586, https://doi.org/10.3390/nu17223586 . . . . . . . . . .                  1
+- Seung-Yub Song, Jeong-Yong Cho, Dae-Hun Park, Si-Hun Song, Sung-Ho Lee,
+- Jin-Woo Park, et al.
+- Biological Effect of Mycosporine-Gly-Ser (Shinorine) Against Bis-Retinoid
+- N-Retinyl-N-Retinylidene Ethanolamine- and Blue-Light-Induced Retinal Pigment Epithelium
+- Cell Damage
+- Reprinted from: Nutrients 2025, 17, 1363, https://doi.org/10.3390/nu17081363 . . . . . . . . . .                  4
+- Laura Comi, Claudia Giglione, Fationa Tolaj Klinaku, Lorenzo Da Dalt, Hammad Ullah,
+- Maria Daglia and Paolo Magni
+- Evaluation of Metabolic Dysfunction-Associated Fatty Liver Disease-Related Pathogenic
+- Mechanisms in Human Steatotic Liver Cell-Based Model: Beneﬁcial Effects of Prunus domestica L.
+- subsp. syriaca Extract
+- Reprinted from: Nutrients 2025, 17, 1249, https://doi.org/10.3390/nu17071249 . . . . . . . . . . 16
+- Roberto Ambra, Simona Mastroeni, Sonia Manca, Thomas J. Mannooranparampil,
+- Fabio Virgili, Barbara Marzani, et al.
+- Genetic Variants and Lifestyle Factors in Androgenetic Alopecia Patients: A Case–Control Study
+- of Single Nucleotide Polymorphisms and Their Contribution to Baldness Risk
+- Reprinted from: Nutrients 2025, 17, 299, https://doi.org/10.3390/nu17020299 . . . . . . . . . . . 31
+- Carlos Barba-Ostria, Yenddy Carrero, Jéssica Guamán-Bautista, Orestes López,
+- Christian Aranda, Alexis Debut and Linda P. Guamán
+- Microencapsulation of Anthocyanins from Zea mays and Solanum tuberosum: Impacts on
+- Antioxidant, Antimicrobial, and Cytotoxic Activities
+- Reprinted from: Nutrients 2024, 16, 4078, https://doi.org/10.3390/nu16234078 . . . . . . . . . . 39
+- Edyta Barbara Balejko and Jarosław Lichota
+- Diet Biofunctionality in Modulating Cardiovascular Parameters in Obese Patients After Bioenteric
+- Intragastric Balloon Bariatric Surgery
+- Reprinted from: Nutrients 2024, 16, 4038, https://doi.org/10.3390/nu16234038 . . . . . . . . . . 62
+- Alejandro Bravo Iniguez, Qi Sun, Qiaorong Cui, Min Du and Mei-Jun Zhu
+- Cannabidiol Enhances Mitochondrial Metabolism and Antioxidant Defenses in Human Intestinal
+- Epithelial Caco-2 Cells
+- Reprinted from: Nutrients 2024, 16, 3843, https://doi.org/10.3390/nu16223843 . . . . . . . . . . 77
+- Joanna Grzelczyk, Grażyna Budryn, Krzysztof Kołodziejczyk and Joanna Zi˛etala
+- The Inﬂuence of Maceration and Flavoring on the Composition and Health-Promoting Properties
+- of Roasted Coffee
+- Reprinted from: Nutrients 2024, 16, 2823, https://doi.org/10.3390/nu16172823 . . . . . . . . . . 89
+-                                                          v
+- Fumiko Higashikawa, Yuta Nakaniida, Hongyang Li, Lian Liang, Keishi Kanno,
+- Keiko Ogawa-Ochiai and Yoshiaki Kiuchi
+- Beneﬁcial Effects of Ginger Extract on Eye Fatigue and Shoulder Stiffness: A Randomized,
+- Double-Blind, and Placebo-Controlled Parallel Study
+- Reprinted from: Nutrients 2024, 16, 2715, https://doi.org/10.3390/nu16162715 . . . . . . . . . . 108
+- Wenjun Yao, Mingcong Fan, Haifeng Qian, Yan Li and Li Wang
+- Quinoa Polyphenol Extract Alleviates Non-Alcoholic Fatty Liver Disease via Inhibiting Lipid
+- Accumulation, Inﬂammation and Oxidative Stress
+- Reprinted from: Nutrients 2024, 16, 2276, https://doi.org/10.3390/nu16142276 . . . . . . . . . . 120
+- Akira Nakamura, Eri Shinozaki, Yoshio Suzuki, Kazuki Santa, Yoshio Kumazawa,
+- Fumio Kobayashi, et al.
+- Effect of the Administration of Cordyceps militaris Mycelium Extract on Blood Markers for Anemia
+- in Long-Distance Runners
+- Reprinted from: Nutrients 2024, 16, 1835, https://doi.org/10.3390/nu16121835 . . . . . . . . . . 136
+- Francesca Menichetti, Chiara Berteotti, Vittoria Schirinzi, Carolina Poli, Roberta Arrighi and
+- Alessandro Leone
+- Moringa oleifera and Blood Pressure: Evidence and Potential Mechanisms
+- Reprinted from: Nutrients 2025, 17, 1258, https://doi.org/10.3390/nu17071258 . . . . . . . . . . 151
+- Yasaman Khamineh, Mahsa Ghiasvand, Sanaz Panahi-Alanagh, Parisa Rastegarmand,
+- Samaneh Zolghadri and Agata Stanek
+- A Narrative Review of Quercetin’s Role as a Bioactive Compound in Female
+- Reproductive Disorders
+- Reprinted from: Nutrients 2025, 17, 1118, https://doi.org/10.3390/nu17071118 . . . . . . . . . . 169
+- Asim K. Duttaroy
+- Functional Foods in Preventing Human Blood Platelet Hyperactivity-Mediated Diseases—An
+- Updated Review
+- Reprinted from: Nutrients 2024, 16, 3717, https://doi.org/10.3390/nu16213717 . . . . . . . . . . 188
+- Surisetti Divya, Vinay Kumar Pandey, Ritik Dixit, Sarvesh Rustagi, Tejas Suthar,
+- David Atuahene, et al.

@@ -1,0 +1,79 @@
+# Soil Quality and Innovation in Agriculture (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11668
+- 页数: 232
+- 全文: `text/mdpi/Soil_Quality_and_Innovation_in_Agriculture_2025.txt`
+- 标签: 基质, 土壤质量
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Eleftherios Evangelou
+- Soil Quality and Innovation in Agriculture
+- Reprinted from: Sustainability 2025, 17, 7934, https://doi.org/10.3390/su17177934 . . . . . . . .             1
+- Tomás Samaniego, Beatriz Sales and Richard Solórzano
+- Assessment of Soil Quality in Peruvian Andean Smallholdings: A Comparative Study of PCA
+- and Expert Opinion Approaches
+- Reprinted from: Sustainability 2025, 17, 7610, https://doi.org/10.3390/su17177610 . . . . . . . .             5
+- Dija Bhandari, Nikola Bilandžija, Tajana Krička, Zvonimir Zdunić, Soni Ghimire, Theresa
+- Reinhardt Piskáčková and Darija Bilandžija
+- Soil Respiration in Maize, Wheat, and Barley Across a Growing Season: Findings from Croatia’s
+- Continental Region
+- Reprinted from: Sustainability 2025, 17, 4207, https://doi.org/10.3390/su17094207 . . . . . . . . 30
+- Huinan Xin, Caixia Lv, Na Li, Lei Peng, Mengdi Chang, Yongfu Li, et al.
+- Analysis of Soil Nutrient Content and Carbon Pool Dynamics Under Different Cropping Systems
+- Reprinted from: Sustainability 2025, 17, 3881, https://doi.org/10.3390/su17093881 . . . . . . . . 46
+- Krystyna Kondratowicz-Maciejewska, Joanna Lemanowicz and Iwona Jaskulska
+- Effects of Long-Term Multi-Treatment Experiments on Organic Matter and Enzymatic Activity
+- in Sandy Soil
+- Reprinted from: Sustainability 2025, 17, 3252, https://doi.org/10.3390/su17073252 . . . . . . . . 62
+- Joanna Lemanowicz, Erika Balontayová, Bożena D˛ebska, Agata Bartkowiak and Piotr
+- Wasilewski
+- Tillage System as a Practice Affecting the Quality of Soils and Its Sustainable Management
+- Reprinted from: Sustainability 2025, 17, 2867, https://doi.org/10.3390/su17072867 . . . . . . . . 80
+- Elżbieta Malinowska and Paweł Kania
+- The Effect of Waste Organic Matter on the Soil Chemical Composition After Three Years of
+- Miscanthus × giganteus Cultivation in East-Central Poland
+- Reprinted from: Sustainability 2025, 17, 2532, https://doi.org/10.3390/su17062532 . . . . . . . . 98
+- Serdar Bilen, Murat Bilen, Mudahir Ozgul, Ekrem Ozlu and Ugur Simsek
+- Response of Soil Chemical and Biological Properties to Cement Dust Emissions: Insights for
+- Sustainable Soil Management
+- Reprinted from: Sustainability 2025, 17, 1409, https://doi.org/10.3390/su17041409 . . . . . . . . 112
+- Eric Young and Jessica Sherman
+- Effects of Solid Dairy Manure Application on Greenhouse Gas Emissions and Corn Yield in the
+- Upper Midwest, USA
+- Reprinted from: Sustainability 2024, 16, 11171, https://doi.org/10.3390/su162411171 . . . . . . . 123
+- Eleftherios Evangelou and Christina Giourga
+- Identiﬁcation of Soil Quality Factors and Indicators in Mediterranean Agro-Ecosystems
+- Reprinted from: Sustainability 2024, 16, 10717, https://doi.org/10.3390/su162310717 . . . . . . . 139
+- Edyta Hewelke, Lilla Mielnik, Jerzy Weber, Aneta Perzanowska, Elżbieta Jamroz, Dariusz
+- Gozdowski and Paweł Szacki
+- Chemical and Physical Aspects of Soil Health Resulting from Long-Term No-Till Management
+- Reprinted from: Sustainability 2024, 16, 9682, https://doi.org/10.3390/su16229682 . . . . . . . . 160
+-                                                        v
+- Xiaodong Wang, Long Fei, Yu An, Xiaohui Liu and Mei Zhang
+- The Inﬂuence of Rural Urbanization on the Change in Soil Organic Matter of Farmland in
+- Northeast China
+- Reprinted from: Sustainability 2024, 16, 4683, https://doi.org/10.3390/su16114683 . . . . . . . . 175
+- Zhe Liu, Lin Zhou, Yang Zhang, Jichang Han, Yingying Sun, Ruiqing Zhang, et al.
+- Internal Force Mechanism of Pisha Sandstone as a Soil Amendment to Improve Sandy Soil
+- Structural Stability in Mu Us Sandy Land
+- Reprinted from: Sustainability 2024, 16, 4415, https://doi.org/10.3390/su16114415 . . . . . . . . 188
+- Juan J. Espada, Rosalía Rodríguez, Andrea Delgado, Gemma Vicente and Luis Fernando
+- Bautista
+- Assessing Environmental Sustainability of Phytoremediation to Remove Copper from
+- Contaminated Soils
+- Reprinted from: Sustainability 2024, 16, 2441, https://doi.org/10.3390/su16062441 . . . . . . . . 204
+-                                                  vi
+- About the Editor
+- Eleftherios Evangelou
+-      Eleftherios Evangelou is an agronomist/soil scientist working as a researcher in the Institute
+- of Industrial and Forage Crops of the Hellenic Agricultural Organization “DIMITRA”. His focus is
+- on improving soil quality through soil management. His main research interests include soil quality
+- monitoring, soil organic carbon pools, re-use of agricultural and municipal wastes on soils, and use
+- of innovative technologies in precision agriculture. He is trained as an agronomist (Aristotelian
+- University of Thessaloniki, Greece) and holds a Ph.D. in Soil Science (Department of Environment,
+- University of the Aegean). His Ph.D. research deals with the land use effect on soil quality. He is
+- working on international/national soil-related research projects, and the results of his work have been
+- published in peer-reviewed journals and at international conferences.

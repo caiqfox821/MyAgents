@@ -1,0 +1,80 @@
+# Innovative Micropropagation of Horticultural and Medicinal Plants (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11901
+- 页数: 210
+- 全文: `text/mdpi/Innovative_Micropropagation_of_Horticultural_and_Medicinal_Plants_2025.txt`
+- 标签: 组培快繁, 脱毒, 药用植物
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Waed Tarraf, Tolga İzgü, Özhan Şimşek, Nunzia Cicco and Carla Benelli
+- Saffron In Vitro Propagation: An Innovative Method by Temporary Immersion System (TIS),
+- Integrated with Machine Learning Analysis
+- Reprinted from: Horticulturae 2024, 10, 454, https://doi.org/10.3390/horticulturae10050454 . . .               1
+- Sang-Cheol Baek, Sang-Yoon Jeon, Yoon-Jung Choi, Bo-Hyun Byun, Da-Hoon Kim, Ga-Ram
+- Yu, et al.
+- Establishment of an In Vitro Micropropagation System for Cannabis sativa ‘Cheungsam’
+- Reprinted from: Horticulturae 2024, 10, 1060, https://doi.org/10.3390/horticulturae10101060 . . 17
+- Mahima Bansal, A. Mujib, Yashika Bansal, Yaser Hassan Dewir and Nóra
+- Mendler-Drienyovszki
+- An Efﬁcient In Vitro Shoot Organogenesis and Comparative GC-MS Metabolite Proﬁling of
+- Gaillardia pulchella Foug
+- Reprinted from: Horticulturae 2024, 10, 728, https://doi.org/10.3390/horticulturae10070728 . . . 31
+- Jasmina Nestorović Živković, Neda Aničić, Dragana Matekalo, Marijana Skorić, Biljana
+- Filipović, Tijana Marković and Slavica Dmitrović
+- Polyethylene Glycol (PEG)-Induced Dehydration Alters Enzymatic and Non-Enzymatic
+- Components of the Antioxidant Defense System in Nepeta nervosa Royle ex Bentham
+- Reprinted from: Horticulturae 2023, 9, 1277, https://doi.org/10.3390/horticulturae9121277 . . . 48
+- Darlyara Reis Silva, Marion Nayon Braga Soares, Maria Cristina Rocha Silva, Mariana Costa
+- Lima, Vitória Karla de Oliveira Silva-Moraes, Givago Lopes Alves, et al.
+- Unlocking the Potential of In Vitro Photoautotrophy for Eryngium foetidum: Biomass,
+- Morphophysiology, and Acclimatization
+- Reprinted from: Horticulturae 2024, 10, 107, https://doi.org/10.3390/horticulturae10010107 . . . 63
+- S. M. Ahsan, Da Bin Kwon, Md. Injamum-Ul-Hoque, Md. Mezanur Rahman, Inhwa Yeam
+- and Hyong Woo Choi
+- De Novo Regeneration of Cannabis sativa cv. Cheungsam and Evaluation of Secondary
+- Metabolites of Its Callus
+- Reprinted from: Horticulturae 2024, 10, 1331, https://doi.org/10.3390/horticulturae10121331 . . 77
+- Slad̄ana Jevremović, Milica Milutinović, Ksenija Veličković, Uroš Gašić, Nikola Škoro,
+- Nevena Puač and Suzana Živković
+- Cold Plasma Treatment Alters the Morphology, Oxidative Stress Response and Specialized
+- Metabolite Content in Yellow Iris (I. reichenbachii) Callus
+- Reprinted from: Horticulturae 2025, 11, 781, https://doi.org/10.3390/horticulturae11070781 . . . 94
+- Ka Youn Lee, Do-Hyeon Nam, Yongsam Jeon, Sang Un Park, Jongki Cho, Md Ashrafuzzaman
+- Gulandaz, et al.
+- Exploring the Production of Secondary Metabolites from a Halophyte Tetragonia tetragonoides
+- through Callus Culture
+- Reprinted from: Horticulturae 2024, 10, 244, https://doi.org/10.3390/horticulturae10030244 . . . 121
+- Stefanos Hatzilazarou, Chara Kantere, Aikaterini-Angeliki Kotoula, Athanasios Economou,
+- Konstantinos Bertsouklis, Anastasios Darras and Stefanos Kostas
+- In Vitro Propagation and Genetic Stability Assessment Using the ISSR Markers of Stachys
+- byzantina K. Koch, a Promising Ornamental Species
+- Reprinted from: Horticulturae 2025, 11, 530, https://doi.org/10.3390/horticulturae11050530 . . . 136
+-                                                        v
+- Marija Marković, Milana Trifunović-Momčilov, Olga Radulović, Danijela M. Paunović,
+- Dragana D. Antonić Reljin, Slad̄ana Jevremović and Branka Uzelac
+- Histochemical Localization of Alkaloids in the Bulbs of In Vitro-Regenerated Snake’s Head
+- Fritillary (Fritillaria meleagris L.): The Effect of a Temperature Regime
+- Reprinted from: Horticulturae 2024, 10, 17, https://doi.org/10.3390/horticulturae10010017 . . . 152
+- Dragana Stojičić, Snežana Budimir, Vlado Čokeša and Branka Uzelac
+- Optimization of In Vitro Regeneration of Pinus peuce (Gris.)
+- Reprinted from: Horticulturae 2024, 10, 97, https://doi.org/10.3390/horticulturae10010097 . . . 160
+- Nino Murvanidze, Karel Doležal, Lenka Plačková and Stefaan P. O. Werbrouck
+- Metabolism of Fluorinated Topolin Cytokinins in Micropropagated Phalaenopsis amabilis
+- Reprinted from: Horticulturae 2024, 10, 727, https://doi.org/10.3390/horticulturae10070727 . . . 169
+- Ivan Nechiporenko, Svetlana Akimova and Natalia Semenova
+- Mycorrhization of Black Crowberry (Empetrum nigrum L.) After In Vitro Propagation with
+- Mineral Fertilizers
+- Reprinted from: Horticulturae 2025, 11, 1063, https://doi.org/10.3390/horticulturae11091063 . . 178
+-                                                  vi
+- About the Editors
+- Biljana K. Filipović
+-      Biljana K. Filipović is a senior research associate in the Department of Plant Physiology
+- at the Institute for Biological Research “Siniša Stanković” – National Institute of the Republic
+- of Serbia, University of Belgrade.        Her research focuses on plant biotechnology, molecular
+- biology, phytochemistry, and stress physiology with special interest in in vitro morphogenesis
+- and propagation of medicinal, rare, and endangered plants with a spectrum of health-related
+- specialized metabolites. She has participated in several national and EU research projects. She has
+- published her research results in indexed international journals, also collaborating as a reviewer.

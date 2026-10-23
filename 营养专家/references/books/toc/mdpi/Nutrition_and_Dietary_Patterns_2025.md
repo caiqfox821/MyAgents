@@ -1,0 +1,80 @@
+# Nutrition and Dietary Patterns (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3938-4
+- 页数: 274
+- 全文: `text/mdpi/Nutrition_and_Dietary_Patterns_2025.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Roser Granero and Gemma Guillazo-Blanch
+- Nutrition and Dietary Patterns: Effects on Brain Function
+- Reprinted from: Nutrients 2025, 17, 1169, https://doi.org/10.3390/nu17071169 . . . . . . . . . .               1
+- Takahiro Tsuji, Kazumi Furuhara, Erchu Guo, Yijing Wu, Jing Zhong, Haruhiro Higashida,
+- et al.
+- Oral Supplementation of L-Carnosine Attenuates Acute-Stress-Induced Corticosterone Release
+- and Mitigates Anxiety in CD157 Knockout Mice
+- Reprinted from: Nutrients 2024, 16, 2821, https://doi.org/10.3390/nu16172821 . . . . . . . . . . 11
+- James Chmiel, Anna Gladka and Jerzy Leszek
+- The Effect of Transcranial Direct Current Stimulation (tDCS) on Anorexia Nervosa: A Narrative
+- Review
+- Reprinted from: Nutrients 2023, 15, 4455, https://doi.org/10.3390/nu15204455 . . . . . . . . . . 19
+- James Chmiel, Donata Kurpas, Filip Rybakowski and Jerzy Leszek
+- The Effectiveness of Transcranial Direct Current Stimulation (tDCS) in Binge Eating Disorder
+- (BED)—Review and Insight into the Mechanisms of Action
+- Reprinted from: Nutrients 2024, 16, 1521, https://doi.org/10.3390/nu16101521 . . . . . . . . . . 37
+- Tomoko Daida, Bo-Chul Shin, Carlos Cepeda and Sherin U. Devaskar
+- Neurodevelopment Is Dependent on Maternal Diet: Placenta and Brain Glucose Transporters
+- GLUT1 and GLUT3
+- Reprinted from: Nutrients 2024, 16, 2363, https://doi.org/10.3390/nu16142363 . . . . . . . . . . 58
+- Irene Ciancarelli, Giovanni Morone, Marco Iosa, Antonio Cerasa, Rocco Salvatore Calabrò
+- and Maria Giuliana Tozzi Ciancarelli
+- Neuronutrition and Its Impact on Post-Stroke Neurorehabilitation: Modulating Plasticity
+- Through Diet
+- Reprinted from: Nutrients 2024, 16, 3705, https://doi.org/10.3390/nu16213705 . . . . . . . . . . 78
+- Isabel Krug, An Binh Dang, Evonne Lu, Wenn Lynn Ooi, Jade Portingale and Stephanie
+- Miles
+- A Narrative Review on the Neurocognitive Proﬁles in Eating Disorders and Higher Weight
+- Individuals: Insights for Targeted Interventions
+- Reprinted from: Nutrients 2024, 16, 4418, https://doi.org/10.3390/nu16244418 . . . . . . . . . . 94
+- Marcos Lacasa, Jose Alegre-Martin, Ramon Sanmartin Sentañes, Luisa Varela-Sende, Joanna
+- Jurek and Jesus Castro-Marrero
+- Yeast Beta-Glucan Supplementation with Multivitamins Attenuates Cognitive Impairments
+- in Individuals with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Randomized,
+- Double-Blind, Placebo-Controlled Trial
+- Reprinted from: Nutrients 2023, 15, 4504, https://doi.org/10.3390/nu15214504 . . . . . . . . . . 121
+- Lillian Morton, Carl Paton and Andrea Braakhuis
+- The Effects of Polyphenol Supplementation on BDNF, Cytokines and Cognition in Trained Male
+- Cyclists following Acute Ozone Exposure during High-Intensity Cycling
+- Reprinted from: Nutrients 2024, 16, 233, https://doi.org/10.3390/nu16020233 . . . . . . . . . . . 137
+-                                                        v
+- Emma Finnegan, Ed Daly and Lisa Ryan
+- Nutritional Considerations of Irish Performance Dietitians and Nutritionists in Concussion
+- Injury Management
+- Reprinted from: Nutrients 2024, 16, 497, https://doi.org/10.3390/nu16040497 . . . . . . . . . . . 148
+- Ana Estévez, Janire Momeñe, Laura Macı́a, Iciar Iruarrizaga, Leticia Olave and Gema
+- Aonso-Diego
+- The Mediating Effect of Coping Strategies and Emotion Regulation in the Relationship between
+- Impulsivity, Metacognition, and Eating Disorders
+- Reprinted from: Nutrients 2024, 16, 1884, https://doi.org/10.3390/nu16121884 . . . . . . . . . . 179
+- Tyler N. Talik, Eduardo Macedo Penna, Brian P. Hack, Alec Harp and Mindy Millard-Stafford
+- Effects of Acute Guarana (Paullinia cupana) Ingestion on Mental Performance and Vagal
+- Modulation Compared to a Low Dose of Caffeine
+- Reprinted from: Nutrients 2024, 16, 1892, https://doi.org/10.3390/nu16121892 . . . . . . . . . . 194
+- Amy A. Maury and Kathleen F. Holton
+- Biomarkers Associated with Depression Improvement in Veterans with Gulf War Illness Using
+- the Low-Glutamate Diet
+- Reprinted from: Nutrients 2024, 16, 2255, https://doi.org/10.3390/nu16142255 . . . . . . . . . . 209
+- Moeka Arata, Kou Tamura, Hidenori Aoki, Hiroki Noguchi, Asuka Takeda, Saki Minato,
+- et al.
+- The Effects of Testosterone on Hypothalamic and Serum Oxytocin Levels Are Affected by the
+- Estrogen Milieu in Female Rats
+- Reprinted from: Nutrients 2024, 16, 2533, https://doi.org/10.3390/nu16152533 . . . . . . . . . . 222
+- Bibi Aliya Seelarbokus, Yolaine Rabat, Christophe Lalanne, Igor Sibon and Sylvie Berthoz
+- Food Addiction: Prevalence, Severity, and Impact on Vascular Stroke Risk Factors in a French
+- Hospital-Based Sample
+- Reprinted from: Nutrients 2024, 16, 4327, https://doi.org/10.3390/nu16244327 . . . . . . . . . . 231
+- Geovanny Genaro Reivan Ortiz, Braulio Elizalde, Cristhian Tapia and Roser Granero
+- Psychoneurological Links Contributing to Body Mass Index and Eating Disorder Severity

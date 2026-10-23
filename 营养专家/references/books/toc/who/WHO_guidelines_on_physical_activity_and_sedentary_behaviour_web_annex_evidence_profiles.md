@@ -1,0 +1,80 @@
+# WHO guidelines on physical activity and sedentary behaviour: web annex: evidence profiles (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/336657
+- 页数: 535
+- 全文: `text/who/WHO_guidelines_on_physical_activity_and_sedentary_behaviour_web_annex_evidence_profiles.txt`
+- 标签: 身体活动
+
+## 目录 (Contents)
+
+- Methods
+-                  1
+- A1 & A2: Evidence on physical activity and sedentary behaviour for children
+-          and adolescents (5 to under 18 years of age)				   8
+- B1:     Evidence on physical activity for adults
+-         (18 to under 65 years of age)						  99
+- B2:     Evidence on sedentary behaviour for adults
+-         (18 years of age and older) 						                                      239
+- C1:     Evidence on physical activity for older adults (over 64 years of age)   272
+- D1:     Evidence on physical activity for pregnant and postpartum women         312
+- E1:     Evidence on physical activity for adults living with chronic
+-         conditions								348
+- F1:     Evidence on physical activity for children, adolescents and adults
+-         living with disability							464
+- METHODS
+- Scope of guideline and questions of interest                                     are summarised in Table 1 in Annex 1 and the details of each PI/ECO
+-                                                                                  question in the relevant section of Annex 1.
+- The Guideline Development Group (GDG) reviewed the scope of the
+- guideline and agreed on the most relevant PI/ECO (Population,                    The GDG recommended use of the most recently published relevant
+- Intervention/Exposure, Comparison, Outcome) questions at their first             systematic reviews to address the PI/ECO questions and requested that
+- meeting. The key questions which were addressed for each sub population          the available systematic reviews be updated to reflect the most recent data.
+- are summarised below:
+-                                                                                  The evidence
+-    What is the association between physical activity and health-related
+-    outcomes?                                                                     The update of the WHO recommendations on physical activity has been
+-        a. Is there a dose-response association (volume, duration,                conducted by identifying and updating the most recent, relevant umbrella
+-           frequency, intensity)?                                                 reviews related to the scope of these guidelines. This approach was
+-        b. Does the association vary by type or domain of physical                adopted due to an extensive body of systematic reviews conducted in
+-           activity?                                                              recent years undertaken to inform the development of a number of
+-                                                                                  national physical activity guidelines. The additional updating of the
+-    What is the association between sedentary behaviour and health-               identified reviews was undertaken to ensure the new WHO guidelines
+-    related outcomes?                                                             reflect the most recent available data in a rapidly developing field of public
+-        a. Is there a dose-response association (total volume and the             health.
+-           frequency, duration and intensity of interruption)?
+-                                                                                  Umbrella reviews were selected if they met the following three criteria: (1)
+-        b. Does the association vary by type and domain of sedentary              the evidence reviews had been conducted according to standard
+-           behaviour?
+-                                                                                  systematic processes that were well documented; (2) the assessment of
+-                                                                                  the certainty of the evidence used the Grading of Recommendations
+-                                                                                  Assessment, Development and Evaluation (GRADE) method or an
+-                                                                                  equivalent methodology that was clearly described and documented; and
+- For each Population (P), the Exposure (E) was greater volume, duration,
+-                                                                                  (3) the evidence reviews addressed the populations of interest with no
+- frequency or intensity of physical activity; with as Comparison(C) no
+-                                                                                  restrictions to country or country income level.
+- physical activity or lesser volume, duration, frequency, or intensity of
+- physical activity. The critical and important outcomes for each population       The PI/ECO questions and the critical and important health outcomes were
+-                                                                                  mapped against existing evidence reviews and where needed additional
+-                                                                              1
+- new reviews were commissioned to address gaps. The GDG requested                    This report identified an additional 42 studies on physical activity,
+- that the evidence reviews be updated, using the same search terms,                  32 on sedentary behaviour published through to July 2918 (4).
+- search languages and databases as the original reviews.
+-                                                                                     The GRADE tables developed from these updates were used as
+- The following evidence reviews were identified as meeting the above three           the basis for the commissioned update conducted for WHO.
+- criteria and were chosen for recency and comprehensiveness:
+-                                                                                 •   The systematic reviews conducted and synthesized as part of the
+-    •   A systematic review of the literature conducted by Poitras et al.,           development of the 2019 Canadian Guideline for Physical Activity
+-        (2016) on the association between physical activity and health               Throughout Pregnancy (6). This consisted of 12 systematic reviews
+-        indicators in school aged children and youth (1) as part of the              of over 25,000 related studies in English, Spanish and French
+-        process for developing the Canadian 24-Hour Movement                         language on maternal physical activity during pregnancy reporting
+-        Guidelines for Children and Youth (2). This review focused only on           on maternal, fetal or neonatal morbidity, or fetal mortality outcomes.
+-        studies that used objective measurements of physical activity.               Seven of these systematic reviews addressed outcomes deemed
+-                                                                                     critical and important by the GDG (7-13).
+-        A total of 162 studies were included (204,171 participants from 31
+-        countries) in the review.                                                    The GRADE tables from these evidence reviews were used as the
+-                                                                                     basis for the literature search conducted to update and inform the
+-    •   A systematic review of the literature of the association between             development of WHO recommendations.
+-        sedentary behaviour and health indicators in school-aged children
+-        conducted by Carson et al., (2016) (3) as part of the process for        •   The scientific report of the Physical Activity Guidelines Advisory
+-        developing the Canadian 24-Hour Movement Guidelines for                      Group (PAGAC) (14) which provides a summary of a systematic

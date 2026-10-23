@@ -1,0 +1,81 @@
+# Advances in Analysis of Flavors and Fragrances (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4500-2
+- 页数: 606
+- 全文: `text/mdpi/Advances_in_Analysis_of_Flavors_and_Fragrances_2025.txt`
+- PDF: `mdpi/Advances_in_Analysis_of_Flavors_and_Fragrances_2025.pdf`
+- 标签: 风味, 香精, 分析
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Ana Leahu, Marı̀a Soledad Prats Moya and Cristina Ghinea
+- Advances in Analysis of Flavors and Fragrances: Chemistry, Properties and Applications in
+- Food Quality Improvement
+- Reprinted from: Foods 2025, 14, 1992, https://doi.org/10.3390/foods14111992 . . . . . . . . . . .
+- 1
+- Emily S. Stoffel, Taylor M. Robertson, Anibal A. Catania and L. Federico Casassa
+- The Impact of Fermentation Temperature and Cap Management on Selected Volatile
+- Compounds and Temporal Sensory Characteristics of Grenache Wines from the Central Coast
+- of California
+- Reprinted from: Molecules 2023, 28, 4230, https://doi.org/10.3390/molecules28104230 . . . . . .
+- 6
+- Rui Chang, Zhilei Zhou, Yong Dong, Yuezheng Xu, Zhongwei Ji, Shuangping Liu and Jian
+- Mao
+- Sensory-Guided Isolation, Identiﬁcation, and Active Site Calculation of Novel Umami Peptides
+- from Ethanol Precipitation Fractions of Fermented Grain Wine (Huangjiu)
+- Reprinted from: Foods 2023, 12, 3398, https://doi.org/10.3390/foods12183398 . . . . . . . . . . . 31
+- Lingshan Li, Mei Fan, Yan Xu, Liang Zhang, Yu Qian, Yongqing Tang, et al.
+- Comparative Analysis of Volatile Flavor Compounds in Strongly Flavored Baijiu under Two
+- Different Pit Cap Sealing Processes
+- Reprinted from: Foods 2023, 12, 2579, https://doi.org/10.3390/foods12132579 . . . . . . . . . . . 45
+- Kairui Jiao, Bo Deng, Ping Song, Hailong Ding, Hailong Liu and Bin Lian
+- Difference Analysis of the Composition of Iron (Hydr)Oxides and Dissolved Organic Matter in
+- Pit Mud of Different Pit Ages in Luzhou Laojiao and Its Implications for the Ripening Process
+- of Pit Mud
+- Reprinted from: Foods 2023, 12, 3962, https://doi.org/10.3390/foods12213962 . . . . . . . . . . . 69
+- Jie Xu, Ting Zhang, Huitai Chen, Yijie Dai, Zongjun Li, Jia He, et al.
+- Study on the Fermented Grain Characteristics and Volatile Flavor Substances during the Tuqu
+- Fermentation of Hunan Light-Flavor Baijiu
+- Reprinted from: Foods 2024, 13, 899, https://doi.org/10.3390/foods13060899 . . . . . . . . . . . 82
+- Josef Balak, Lucie Drábová, Olga Maťátková, Marek Doležal, Dominik Marsı́k and Irena
+- Jarosova Kolouchova
+- Differences in Volatile Proﬁles and Sensory Characteristics in Plum Spirits on a Production Scale
+- Reprinted from: Fermentation 2024, 10, 235, https://doi.org/10.3390/fermentation10050235 . . . 102
+- Ingunn Øvsthus, Mitja Martelanc, Alen Albreht, Tatjana Radovanović Vukajlović, Urban
+- Česnik and Branka Mozetič Vodopivec
+- Chemical Characterization of Cider Produced in Hardanger—From Juice to Finished Cider
+- Reprinted from: Beverages 2024, 10, 73, https://doi.org/10.3390/beverages10030073 . . . . . . . 117
+- Reyhan Selin Uysal
+- Effects of Aging in Wood Casks on Anthocyanins Compositions, Volatile Compounds,
+- Colorimetric Properties, and Sensory Proﬁle of Jerez Vinegars
+- Reprinted from: Fermentation 2024, 10, 469, https://doi.org/10.3390/fermentation10090469 . . . 135
+- v
+- Wei Lan, Wei Cheng, Ruilong Li, Mei Zhang, Mengmeng Li, Yuan Zhang and Yibin Zhou
+- Comparison of Flavor Differences between the Juices and Wines of Four Strawberry
+- Cultivars Using Two-Dimensional Gas Chromatography-Time-of-Flight Mass Spectrometry
+- and Sensory Evaluation
+- Reprinted from: Molecules 2024, 29, 4691, https://doi.org/10.3390/molecules29194691 . . . . . . 152
+- Anukriti Vashishtha, Kieran N. Kilcawley, Iwona Skibinska, Stephen Whelan, John L. Byrne,
+- Guiomar Garcia-Cabellos and Sinead Morris
+- Inﬂuence of Terroir on the Grain Composition, and Volatile Proﬁle of Irish Grain (Wheat) New
+- Make Spirit
+- Reprinted from: Beverages 2024, 10, 106, https://doi.org/10.3390/beverages10040106 . . . . . . . 168
+- Petroula Tsitlakidou, Despina Kamplioni, Anastasia Kyriakoudi, Maria Irakli, Costas G.
+- Biliaderis and Ioannis Mourtzinos
+- Antioxidant-Enhanced Alginate Beads for Stabilizing Rapeseed Oil: Utilizing Extracts from
+- Post-Distillation Waste Residues of Rosemary
+- Reprinted from: Foods 2024, 13, 2142, https://doi.org/10.3390/foods13132142 . . . . . . . . . . . 185
+- Chenyang Ma, Chang Gao, Yuanda Li, Xiaohui Zhou, Guofu Fan, Di Tian, et al.
+- The Characteristic Aroma Compounds of GABA Sun-Dried Green Tea and Raw Pu-Erh
+- Tea Determined by Headspace Solid-Phase Microextraction Gas Chromatography–Mass
+- Spectrometry and Relative Odor Activity Value
+- Reprinted from: Foods 2023, 12, 4512, https://doi.org/10.3390/foods12244512 . . . . . . . . . . . 208
+- Xiaojun Niu, Cun Ao, Jizhong Yu, Yun Zhao and Haitao Huang
+- GC-MS Combined with Proteomic Analysis of Volatile Compounds and Formation Mechanisms
+- in Green Teas with Different Aroma Types
+- Reprinted from: Foods 2024, 13, 1848, https://doi.org/10.3390/foods13121848 . . . . . . . . . . . 227
+- Siying Li, Dongdong Du, Shaoming Cheng and Zhenbo Wei
+- Evaluating the Intensity of Bitter–Astringent Interactive Perception in Green Tea Based on the

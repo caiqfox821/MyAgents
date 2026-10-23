@@ -1,0 +1,79 @@
+# Crop Production Technologies (2012, IntechOpen)
+
+- 许可: CC BY
+- 来源: https://www.intechopen.com/books/597
+- 页数: 290
+- 全文: `text/crops/Crop_Production_Technologies_2012.txt`
+- PDF: `crops/Crop_Production_Technologies_2012.pdf`
+- 标签: 综合栽培, 技术
+
+## 目录 (Contents)
+
+-                 Preface XI
+-        Part 1   Crop Modeling 1
+-     Chapter 1   Crop Models as Decision Support
+-                 Systems in Crop Production 3
+-                 Simone Graeff, Johanna Link,
+-                 Jochen Binder and Wilhelm Claupein
+-        Part 2   Water Management and Crop Production 29
+-     Chapter 2   Crop Water Requirements in Cameroon’s Savanna Zones
+-                 Under Climate Change Scenarios and Adaptation Needs 31
+-                 Genesis T. Yengoh, Sara Brogaard and Lennart Olsson
+-     Chapter 3   Impact of Soil Fertility Replenishment
+-                 Agroforestry Technology Adoption on the
+-                 Livelihoods and Food Security of Smallholder
+-                 Farmers in Central and Southern Malawi 53
+-                 Paxie W. Chirwa and Ann F. Quinion
+-     Chapter 4   Optimizing Water Consumption
+-                 Using Crop Water Production Functions 73
+-                 Ali Reza Kiani and Fariborz Abbasi
+-     Chapter 5   The Nature of Rainfall at a Typical Semi-Arid
+-                 Tropical Ecotope in Southern Africa and Options
+-                 for Sustainable Crop Production 93
+-                 J. Mzezewa and E.T. Gwata
+-     Chapter 6   Water Deficit Condition Affecting Rice
+-                 Production – Challenges and Prospects 113
+-                 Deivanai Subramanian
+-     Chapter 7   Lowland Soils for Rice Cultivation in Ghana 137
+-                 M. M. Buri, R. N. Issaka, J.K. Senayah, H. Fujii and T. Wakatsuki
+- X   Contents
+-                    Part 3   Nutrient Management and Crop Production 151
+-                 Chapter 8   Impact of Mineral Fertilizer Integration with Farmyard
+-                             Manure on Crop Yield, Nutrient Use Efficiency,
+-                             and Soil Fertility in a Long-Term Trial 153
+-                             Melkamu Jate
+-                 Chapter 9   Impact of Salinity Stress on Date Palm
+-                             (Phoenix dactylifera L) – A Review 169
+-                             Mohamed S. Alhammadi and Shyam S. Kurup
+-                Chapter 10   Vegetable Waste Compost Used
+-                             as Substrate in Soilless Culture 179
+-                             Pilar Mazuela, Miguel Urrestarazu and Elizabeth Bastias
+-                Chapter 11   Efficacy of Pseudomonas chlororaphis
+-                             subsp. aurantiaca SR1 for Improving
+-                             Productivity of Several Crops 199
+-                             Susana B. Rosas, Nicolás A. Pastor, Lorena B. Guiñazú,
+-                             Javier A. Andrés, Evelin Carlier, Verónica Vogt,
+-                             Jorge Bergesse and Marisa Rovera
+-                Chapter 12   Effect of Socio-Economic Characteristics
+-                             of Farmers on Their Adoption of
+-                             Organic Farming Practices 211
+-                             O.M. Adesope, E.C. Matthews-Njoku,
+-                             N.S. Oguzor and V.C. Ugwuja
+-                Chapter 13   Analysis of Nutritional Interactions
+-                             in Cropping Systems 221
+-                             Moses Imo
+-                    Part 4   Tillage and Crop Production 243
+-                Chapter 14   Tillage Effects on Soil Health and
+-                             Crop Productivity: A Review 245
+-                             Peeyush Sharma and Vikas Abrol
+-                Chapter 15   Energy Use Pattern in Millet Production
+-                             in Semi-Arid Zone of Nigeria
+-                             Mohammed Shu’aibu Abubakar 263
+- Preface
+- Crop production depends on the successful implementation of the soil, water, and
+- nutrient management technologies. Food production by the year 2020 needs to be
+- increased by 50 percent more than the present levels to satisfy the needs of around 8
+- billion people. Much of the increase would have to come from intensification of
+- agricultural production. Importance of wise usage of water, nutrient management, and
+- tillage in the agricultural sector for sustaining agricultural growth and slowing down
+- environmental degradation calls for urgent attention of researchers, planners, and

@@ -1,0 +1,80 @@
+# Nutrition and Quality of Life for Patients with Chronic Disease (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4856-0
+- 页数: 166
+- 全文: `text/mdpi/Nutrition_and_Quality_of_Life_for_Patients_with_Chronic_Disease_2025.txt`
+- 标签: 公共卫生/行为, 临床营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Evridiki Patelarou and Konstantinos Giakoumidakis
+- Nutrition and Quality of Life for Patients with Chronic Disease
+- Reprinted from: Nutrients 2025, 17, 2170, https://doi.org/10.3390/nu17132170 . . . . . . . . . .                  1
+- Francesca Galletta, Angela Klain, Sara Manti, Francesca Mori, Carolina Grella, Leonardo
+- Tomei, et al.
+- Parental Knowledge and Preventive Strategies in Pediatric IgE-Mediated Food Allergy—
+- Results from a Cross-Sectional Survey
+- Reprinted from: Nutrients 2025, 17, 2387, https://doi.org/10.3390/nu17152387 . . . . . . . . . .                  5
+- Konstantinos Giakoumidakis, Evridiki Patelarou, Anastasia A. Chatziefstratiou, Dimitra
+- Aloizou, Nikolaos Vaitsis, Hero Brokalaki, et al.
+- Validation of the Greek Cardiovascular Diet Questionnaire 2 (CDQ-2) and Single-Center
+- Cross-Sectional Insights into the Dietary Habits of Cardiovascular Patients
+- Reprinted from: Nutrients 2025, 17, 1649, https://doi.org/10.3390/nu17101649 . . . . . . . . . . 16
+- Fiﬁ Retiaty, Nuri Andarwulan, Nurheni Sri Palupi, Fitrah Ernawati, Renata Kazimierczak
+- and Dominika Średnicka-Tober
+- Contribution of Food, Energy, Macronutrients and Fiber Consumption Patterns to Obesity and
+- Other Non-Communicable Disease Risks in the Indonesian Population
+- Reprinted from: Nutrients 2025, 17, 1459, https://doi.org/10.3390/nu17091459 . . . . . . . . . . 28
+- Miguel Garcı́a Samuelsson, Pedro Juan Tárraga López, Ángel Arturo López-González,
+- Hernán Paublini, Emilio Martı́nez-Almoyna Rifá and José Ignacio Ramı́rez-Manent
+- Assessment of the Risk of Insulin Resistance in Workers Classiﬁed as Metabolically Healthy
+- Obese
+- Reprinted from: Nutrients 2025, 17, 1345, https://doi.org/10.3390/nu17081345 . . . . . . . . . . 46
+- José M. Alcaide-Leyva, Manuel Romero-Saldaña, Marı́a Garcı́a-Rodrı́guez, Rafael
+- Molina-Luque, Marı́a del Rocı́o Jiménez-Mérida and Guillermo Molina-Recio
+- Metabolic Syndrome in the Amazon: Customizing Diagnostic Methods for Urban Communities
+- Reprinted from: Nutrients 2025, 17, 538, https://doi.org/10.3390/nu17030538 . . . . . . . . . . . 62
+- Nan Hu, Jingyi Sun, Yujia Cao, Hongji Zhao, Meng Sun, Guanlong Li, et al.
+- Anti-Fatigue Activity of Corn Protein Hydrolysate Fermented by Lactic Acid Bacteria
+- Reprinted from: Nutrients 2025, 17, 199, https://doi.org/10.3390/nu17020199 . . . . . . . . . . . 78
+- Maria Notarnicola, Valeria Tutino, Valentina De Nunzio, Anna Maria Cisternino, Miriam
+- Cofano, Rossella Donghia, et al.
+- Daily Orange Consumption Reduces Hepatic Steatosis Prevalence in Patients with Metabolic
+- Dysfunction-Associated Steatotic Liver Disease: Exploratory Outcomes of a Randomized
+- Clinical Trial
+- Reprinted from: Nutrients 2024, 16, 3191, https://doi.org/10.3390/nu16183191 . . . . . . . . . . 94
+- Shaye Ludlow, Katherine Farragher, Kelly Squires, Susan Heaney, Jessica Orman, Sarah
+- Pullen, et al.
+- A Qualitative Study Supporting Optimal Nutrition in Advanced Liver Disease—Unlocking the
+- Potential for Improvement
+- Reprinted from: Nutrients 2024, 16, 2403, https://doi.org/10.3390/nu16152403 . . . . . . . . . . 108
+-                                                          v
+- Jacopo Ciafﬁ, Luana Mancarella, Claudio Ripamonti, Andrea D’Amuri, Veronica Brusi,
+- Federica Pignatti, et al.
+- Ultra-Processed Food and Its Impact on Bone Health and Joint Diseases: A Scoping Review
+- Reprinted from: Nutrients 2025, 17, 1188, https://doi.org/10.3390/nu17071188 . . . . . . . . . . 124
+- Miroslaw Perlinski and Jacek Sobocki
+- The Impact of Home Parenteral Nutrition on Survival and Quality of Life in Patients with
+- Intestinal Failure and Advanced Cancer: A Comprehensive Review
+- Reprinted from: Nutrients 2025, 17, 905, https://doi.org/10.3390/nu17050905 . . . . . . . . . . . 142
+-                                                  vi
+- About the Editors
+- Evridiki Patelarou
+-      Evridiki Patelarou has an educational background in medicine (University of Crete) and nursing
+- (National and Kapodistrian University of Athens). She holds a master’s in public health and a PhD in
+- epidemiology. Her research career began at the Department of Social Medicine, Faculty of Medicine-
+- University of Crete, where she was a researcher in a mother–child prospective study, “The RHEA”
+- study. Her PhD examined the effect of environmental pollutants on pregnancy outcomes. Since then,
+- her research has mainly focused on the evaluation of environmental exposures in the prenatal period
+- and in early childhood and how they correlate with the development of the fetus and early-life
+- diseases. Evridiki has a demonstrated record of accomplished and productive research projects that
+- have been of high international relevance. Evridiki is the Editor in Chief of the Population Medicine
+- journal and a member of the Editorial Board of several scientiﬁc journals (including the World Journal
+- of Meta-Analysis, European Journal of Midwifery, Tobacco Induced Diseases, Journal of Respiratory Medicine
+- and Lung Disease, etc.). She also serves as a regular reviewer for more than 20 peer-reviewed journals,
+- including the International Journal of Environmental Research and Public Health, Journal of Asthma,
+- Journal of Developmental Origins of Health and Disease, Journal of Pediatric Biochemistry, and Journal of the
+- American College of Nutrition.

@@ -1,0 +1,80 @@
+# Use of lower-sodium salt substitutes: WHO guideline (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/380227
+- 页数: 82
+- 全文: `text/who/Use_of_lower_sodium_salt_substitutes_WHO_guideline.txt`
+- 标签: 钠盐
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                     v
+- Abbreviations                                                                       vi
+- Executive summary                                                                   vii
+- Introduction                                                                         1
+-       Background                                                                     1
+-       Rationale                                                                      1
+-       Objective                                                                      2
+-       Target audience                                                                3
+- How this guideline was developed                                                     4
+-       Contributors to the development of this guideline                              4
+-       Management of conflicts of interest                                            5
+-       Guideline development process                                                  5
+- Summary of evidence                                                                  8
+-       Systematic review                                                              8
+-       Contextual review                                                             18
+- Evidence to recommendations                                                         19
+- Scope of the recommendation                                                         23
+- Recommendation and supporting information                                           24
+-       Rationale and remarks                                                         25
+- Uptake of the guideline and future work                                             28
+-       Dissemination                                                                 28
+-       Translation and implementation                                                28
+-       Monitoring and evaluation                                                     29
+-       Research gaps and future initiatives                                          30
+-       Updating the guideline                                                        30
+- References		                                                                        32
+- Annexes		                                                                           37
+-       Annex 1. Members of the WHO Steering Group                                    39
+-       Annex 2. Members of the guideline development group (NUGAG Subgroup on Diet
+-       and Health)                                                                   40
+-       Annex 3. External peer-review group                                           42
+-       Annex 4. Summary and management of declarations of interests                  43
+-       Annex 5. Key questions in PICO format                                         46
+-                                                                                      iii
+- Annex 6. GRADE evidence profiles                                                                 48
+- Annex 7. Evidence to recommendation table                                                        53
+- Annex 8. Examples of country approaches regarding the LSSS use                                   62
+-                                                  Use of lower-sodium salt substitutes: WHO guideline
+- Acknowledgements
+- This guideline was prepared by the Department of Nutrition and Food Safety (NFS) of the World Health
+- Organization (WHO) under the overall leadership of Francesco Branca, Director of the Department of
+- Nutrition and Food Safety, and the coordination of Chizuru Nishida (retired in February 2023) and Moez
+- Sanaa (after February 2023). Rain Yamamoto was the responsible technical officer. WHO gratefully
+- acknowledges the contributions that many individuals and organizations have made to the development
+- of this guideline.
+- Guideline Development Group (WHO Nutrition Guidance Expert Advisory Group – Subgroup on Diet and
+- Health): Hayder Al-Domi (University of Jordan, Jordan), Ibrahim Elmadfa (University of Vienna, Austria), Lee
+- Hooper (University of East Anglia, United Kingdom of Great Britain and Northern Ireland), Shiriki Kumanyika
+- (University of Pennsylvania, United States of America), Mary L’Abbé (University of Toronto, Canada), Pulani
+- Lanerolle (University of Colombo, Sri Lanka), Duo Li (Qingdao University, China), Jim Mann (University of
+- Otago, New Zealand), Joerg Meerpohl (University of Freiburg, Germany), Carlos Monteiro (University of Sao
+- Paulo, Brazil), Laetitia Ouedraogo Nikièma (Institut de Recherche en Sciences de la Santé, Burkina Faso),
+- Harshpal Singh Sachdev (Sitaram Bhartia Institute of Science and Research, India), Barbara Schneeman
+- (University of California, Davis, United States of America), Murray Skeaff (University of Otago, New Zealand),
+- Bruno Fokas Sunguya (Muhimbili University of Health and Allied Sciences, United Republic of Tanzania).
+- Special acknowledgements are given to Elie Akl (American University of Beirut, Lebanon) who, as a methods
+- expert, guided the work of the Nutrition Guidance Expert Advisory Group Subgroup on Diet and Health
+- throughout the guideline development process, and to the systematic review team, Amanda Brand,
+- Marianne E Visser, Anel Schoonees, and Celeste E Naude (Stellenbosch University, South Africa).
+- External peer-review group: Francesco P Cappuccio (Warwick Medical School, United Kingdom of Great
+- Britain and Northern Ireland), Abdelfettah Derouiche (University of Hassan II Casablanca, Morocco),
+- Sitanshu Sekhar Kar (Jawaharlal Institute of Postgraduate Medical Education and Research, India), Anand
+- Krishnan (All India Institute of Medical Sciences, India), Amos Laar (University of Ghana, Ghana), Jaime
+- Miranda (Sydney School of Public Health, Faculty of Medicine and Health, Australia), Pasquale Strazzullo
+- (Federico II University of Naples, Italy; retired).
+- WHO Steering Group: Fabio Da Silva Gomes, Allison Goldstein, Jason Montez, Chizuru Nishida, Kim
+- Petersen, Lisa Rogers, Cherian Varghese, Stephen Whiting, Rain Yamamoto.
+- Special thanks are given to: Jason Montez and Luz de Regil (WHO/NFS) for providing technical inputs
+- throughout the process; Joyce Haddad (WHO/NFS) for supporting the preparation of this guideline; Kathryn
+- Bradbury and Magali Leyvraz (WHO/NFS) for supporting the review of contextual factors; the nutrition

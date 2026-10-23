@@ -1,0 +1,80 @@
+# New Frontiers in Acrylamide Study in Foods (2021, mdpi-res.com)
+
+- 许可: 开放获取（机构库）
+- 来源: https://doi.org/10.3390/books978-3-0365-0031-7
+- 页数: 158
+- 全文: `text/guides/New_Frontiers_in_Acrylamide_Study_in_Foods.txt`
+- 标签: risk
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Cristina Delgado-Andrade, Marta Mesı́as and Francisco J. Morales
+- Introduction to the Special Issue: New Frontiers in Acrylamide Study in Foods—Formation,
+- Analysis and Exposure Assessment
+- Reprinted from: Foods 2020, 9, 1506, doi:10.3390/foods9101506 . . . . . . . . . . . . . . . . . . . .          1
+- Mingfei Pan, Kaixin Liu, Jingying Yang, Liping Hong, Xiaoqian Xie and Shuo Wang
+- Review of Research into the Determination of Acrylamide in Foods
+- Reprinted from: Foods 2020, 9, 524, doi:10.3390/foods9040524 . . . . . . . . . . . . . . . . . . . .           5
+- Cristiana L. Fernandes, Daniel O. Carvalho and Luis F. Guido
+- Determination of Acrylamide in Biscuits by High-Resolution Orbitrap Mass Spectrometry:
+- A Novel Application
+- Reprinted from: Foods 2019, 8, 597, doi:10.3390/foods8120597 . . . . . . . . . . . . . . . . . . . . . 25
+- Na Sun, Yi Wang, Sanjay K. Gupta and Carl J. Rosen
+- Potato Tuber Chemical Properties in Storage as Affected by Cultivar and Nitrogen Rate:
+- Implications for Acrylamide Formation
+- Reprinted from: Foods 2020, 9, 352, doi:10.3390/foods9030352 . . . . . . . . . . . . . . . . . . . . . 37
+- Marta Mesias, Cristina Delgado-Andrade, Faver Gómez-Narváez, José Contreras-Calderón
+- and Francisco J. Morales
+- Formation of Acrylamide and Other Heat-Induced Compounds during Panela Production
+- Reprinted from: Foods 2020, 9, 531, doi:10.3390/foods9040531 . . . . . . . . . . . . . . . . . . . . . 53
+- Jong-Sun Lee, Ji-Won Han, Munyhung Jung, Kwang-Won Lee and Myung-Sub Chung
+- Effects of Thawing and Frying Methods on the Formation of Acrylamide and Polycyclic
+- Aromatic Hydrocarbons in Chicken Meat
+- Reprinted from: Foods 2020, 9, 573, doi:10.3390/foods9050573 . . . . . . . . . . . . . . . . . . . . 67
+- Daniel Martı́n-Vertedor, Antonio Fernández, Marta Mesı́as, Manuel Martı́nez, Marı́a Dı́az
+- and Elisabet Martı́n-Tornero
+- Industrial Strategies to Reduce Acrylamide Formation in Californian-Style Green Ripe Olives
+- Reprinted from: Foods 2020, 9, 1202, doi:10.3390/foods9091202 . . . . . . . . . . . . . . . . . . . . 81
+- Marta Mesias, Aouatif Nouali, Cristina Delgado-Andrade and Francisco J Morales
+- How Far Is the Spanish Snack Sector from Meeting the Acrylamide Regulation 2017/2158?
+- Reprinted from: Foods 2020, 9, 247, doi:10.3390/foods9020247 . . . . . . . . . . . . . . . . . . . . . 97
+- Marta Mesias, Cristina Delgado-Andrade and Francisco J. Morales
+- Are Household Potato Frying Habits Suitable for Preventing Acrylamide Exposure?
+- Reprinted from: Foods 2020, 9, 799, doi:10.3390/foods9060799 . . . . . . . . . . . . . . . . . . . . . 109
+- Amaia Iriondo-DeHond, Ana Sofı́a Elizondo, Maite Iriondo-DeHond, Maria Belén Rı́os,
+- Romina Mufari, Jose A. Mendiola, Elena Ibañez and Maria Dolores del Castillo
+- Assessment of Healthy and Harmful Maillard Reaction Products in a Novel Coffee Cascara
+- Beverage: Melanoidins and Acrylamide
+- Reprinted from: Foods 2020, 9, 620, doi:10.3390/foods9050620 . . . . . . . . . . . . . . . . . . . . . 129
+-                                                        v
+- About the Editors
+-     Marta Mesı́as graduated in Pharmacy from the University of Seville (Spain) and graduated in
+- Food Science and Technology from the University of Granada (Spain). She is part of the research
+- team studying chemical modiﬁcations in processed foods at the Institute of Food Science, Technology
+- and Nutrition (ICTAN). Particularly, her investigations focus on the Maillard reaction, evaluating
+- the technological, nutritional, and toxicological consequences of the appearance of Maillard reaction
+- products during food processing. She combines her research with dissemination, promoting the
+- transfer of knowledge to society and consumer education in terms of food safety.
+-     Cristina Delgado-Andrade is a tenured scientist from the Spanish National Research Council
+- working at the ﬁeld of Food Science and Health–Diet interactions since 1997. Her major interests
+- are in the exposition to different food processing contaminants and the study of their connection
+- with the progress and development of associated diseases. Thanks to a multidisciplinary training
+- acquired in Spanish and European laboratories, she is currently involved in various scientiﬁc
+- projects in collaboration with notable international researchers and institutions. She has also carried
+- out advisory works for the food industry as well as tailored projects according to business necessities.
+-     Francisco J. Morales graduated in Biochemistry and Molecular Biology and with a PhD in
+- Food Chemistry from the Autonomous University of Madrid (Spain). He has been a permanent
+- scientiﬁc research staff member at the Spanish National Council for Scientiﬁc Research (CSIC) since
+- 1998. He is currently a member of the scientiﬁc committee of the Spanish Agency for Food Safety
+- at the European Committee for Standardization (CEN), and at the Commission of the Global Area
+- LIFE at CSIC. He is Director of the research team on chemical modiﬁcations in processed foods at
+- the Institute of Food Science, Technology and Nutrition (ICTAN). He served as Researcher at the
+- University of Wageningen (NL) for 2 years and, later, Deputy Scientiﬁc Director at the Institute of
+- Science and Technology of Food and Nutrition (ICTAN) from 2011 to 2017. His research covers the
+- study of the beneﬁcial/adverse properties of processed foods from a risk/beneﬁt perspective. He
+- coordinates a multidisciplinary team with complementary skill in food chemistry, food technology,
+- nutrition, human health, and social sciences. Particularly, his investigations focus on the Maillard
+- reaction, covering the technological, nutritional, and toxicological repercussion of Maillard reaction
+- products. He has participated and led a large number of regional, national, and European research
+- projects in addition to contracts for development and innovation with the agro-food private sector.

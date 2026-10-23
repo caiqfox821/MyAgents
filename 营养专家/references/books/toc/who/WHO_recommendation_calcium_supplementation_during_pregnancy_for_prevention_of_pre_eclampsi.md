@@ -1,0 +1,80 @@
+# WHO recommendation: calcium supplementation during pregnancy for prevention of pre-eclampsia and its complications (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/277235
+- 页数: 51
+- 全文: `text/who/WHO_recommendation_calcium_supplementation_during_pregnancy_for_prevention_of_pre_eclampsi.txt`
+- 标签: 矿物质, 母婴
+
+## 目录 (Contents)
+
+- Acknowledgements                                                                       iii
+- Acronyms and abbreviations                                                             iv
+- Executive Summary                                                                       1
+- 1. Background                                                                           3
+- 2. Methods                                                                              5
+- 3. Recommendation and supporting evidence                                               9
+- 4. Dissemination and implementation of the recommendation                               9
+- 5. Research implications                                                               12
+- 6. Applicability issues                                                                12
+- 7. Updating the recommendation                                                         12
+- References                                                                             13
+- Annex 1. External experts and WHO staff involved in the preparation of the guideline   15
+- Annex 2. Priority outcomes for decision-making                                         19
+- Annex 3. Summary and management of declared interests from GDG members                 20
+- Annex 4. Evidence-to-Decision framework                                                22
+- Annex 5. GRADE Tables                                                                  37
+-       WHO recommendation: Calcium supplementation during pregnancy for the prevention of pre-eclampsia and its complications   1
+- Executive Summary
+- Introduction                                                pre-eclampsia and eclampsia) and those directly
+-                                                             providing care to pregnant women and their
+- Hypertensive disorders of pregnancy are a
+-                                                             newborns, including midwives, nurses, general
+- significant cause of severe morbidity, long-
+-                                                             medical practitioners, obstetricians, managers
+- term disability and death among both mothers
+-                                                             of maternal and child health programmes, and
+- and their babies. Worldwide, they account
+-                                                             relevant staff in ministries of health, in all settings.
+- for approximately 14% of all maternal deaths
+- (1). Among the hypertensive disorders that
+- complicate pregnancy, pre-eclampsia and                     Guideline development methods
+- eclampsia stand out as major causes of maternal
+-                                                             The update of this recommendation was guided
+- and perinatal mortality and morbidity. The
+-                                                             by standardized operating procedures in
+- majority of deaths due to pre-eclampsia and
+-                                                             accordance with the process described in the
+- eclampsia are avoidable through the provision of
+-                                                             WHO handbook for guideline development. The
+- timely and effective care to the women presenting
+-                                                             recommendation was initially developed using
+- with these complications.
+-                                                             this process, namely:
+- Improving care for women during pregnancy and               (i) identification of the priority question and
+- around the time of childbirth to prevent and treat              critical outcomes;
+- pre-eclampsia and eclampsia is a necessary
+-                                                             (ii) retrieval of evidence;
+- step towards the achievement of the health
+- targets of the Sustainable Development Goals                (iii) assessment and synthesis of evidence;
+- (SDGs). Efforts to prevent and reduce morbidity             (iv) formulation of the recommendation; and
+- and mortality due to these conditions can help
+- address the profound inequities in maternal                 (v) planning for the dissemination,
+- and perinatal health globally. To achieve this,                 implementation, impact evaluation and
+- healthcare providers, health managers, policy-                  updating of the recommendations.
+- makers and other stakeholders need up-to-date
+-                                                             The scientific evidence supporting the
+- and evidence-informed recommendations to
+-                                                             recommendation was synthesized using the
+- guide clinical policies and practices.
+-                                                             Grading of Recommendations, Assessment,
+- In 2017, the Executive Guideline Steering Group             Development, and Evaluation (GRADE) approach.
+- (GSG) on WHO maternal and perinatal health                  An updated systematic review was used to
+- recommendations prioritized the updating of                 prepare evidence profiles for the prioritized
+- the existing WHO recommendation on calcium                  question. WHO convened an online meeting on
+- supplementation during pregnancy in response                2 May 2018 where the Guideline Development
+- to new evidence available on the effects of                 Group (GDG) members reviewed, deliberated
+- this intervention. This recommendation is a                 and achieved consensus on the strength and
+- revalidation of the previous recommendation on              direction of the recommendation presented
+- calcium supplementation issued in 2016 in the               herein. Through a structured process, the GDG
+- WHO recommendations on antenatal care for a                 reviewed the balance between the desirable and

@@ -1,0 +1,80 @@
+# Morphofunctional Nutritional Assessment in Clinical Practice (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4596-5
+- 页数: 246
+- 全文: `text/mdpi/Morphofunctional_Nutritional_Assessment_in_Clinical_Practice_2025.txt`
+- 标签: 临床营养
+
+## 目录 (Contents)
+
+- Daniel-Antonio de Luis Roman and Juan José Lopez Gomez
+- Morphofunctional Nutritional Assessment in Clinical Practice: A New Approach to Assessing
+- Nutritional Status
+- Reprinted from: Nutrients 2023, 15, 4300, https://doi.org/10.3390/nu15194300 . . . . . . . . . .   1
+- Francisco José Sánchez-Torralvo, Verónica Pérez-del-Rı́o, Marı́a Garcı́a-Olivares, Nuria
+- Porras, Jose Abuı́n-Fernández, Manuel Francisco Bravo-Bardajı́, et al.
+- Global Subjective Assessment and Mini Nutritional Assessment Short Form Better Predict
+- Mortality Than GLIM Malnutrition Criteria in Elderly Patients with Hip Fracture
+- Reprinted from: Nutrients 2023, 15, 1828, https://doi.org/10.3390/nu15081828 . . . . . . . . . .   4
+- Juan José López-Gómez, David Garcı́a-Beneitez, Rebeca Jiménez-Sahagún, Olatz
+- Izaola-Jauregui, David Primo-Martı́n, Beatriz Ramos-Bachiller, et al.
+- Nutritional Ultrasonography, a Method to Evaluate Muscle Mass and Quality in
+- Morphofunctional Assessment of Disease Related Malnutrition
+- Reprinted from: Nutrients 2023, 15, 3923, https://doi.org/10.3390/nu15183923 . . . . . . . . . . 16
+- Elena Márquez Mesa, José Pablo Suárez Llanos, Patricia Mercedes Afonso Martı́n, Carla
+- Brito Negrı́n, Marı́a Garcı́a Ascanio, Samuel González González and Ignacio Llorente Gómez
+- de Segura
+- Inﬂuence of the Results of Control of Intakes, Proteins and Anthropometry Nutritional
+- Screening, Sarcopenia and Body Composition on the Clinical Evolution of Hospitalized Patients
+- Reprinted from: Nutrients 2024, 16, 14, https://doi.org/10.3390/nu16010014 . . . . . . . . . . . . 31
+- Jose M. Romero-Márquez, Marı́a Novo-Rodrı́guez, Cristina Novo-Rodrı́guez, Vı́ctor
+- Siles-Guerrero, Isabel Herrera-Montes, Francisco Garzón Navarro-Pelayo, et al.
+- Bioelectrical Impedance Vector Analysis, Nutritional Ultrasound® , and Handgrip Strength as
+- Innovative Methods for Monitoring Critical Anorexia Nervosa Physical Recovery: A Pilot Study
+- Reprinted from: Nutrients 2024, 16, 1539, https://doi.org/10.3390/nu16101539 . . . . . . . . . . 41
+- Daniel de Luis Roman, José Manuel Garcı́a Almeida, Diego Bellido Guerrero, Germán
+- Guzmán Rolo, Andrea Martı́n, David Primo Martı́n, et al.
+- Ultrasound Cut-Off Values for Rectus Femoris for Detecting Sarcopenia in Patients with
+- Nutritional Risk
+- Reprinted from: Nutrients 2024, 16, 1552, https://doi.org/10.3390/nu16111552 . . . . . . . . . . 55
+- Sergio Garcı́a-Herreros, Juan Jose López Gómez, Angela Cebria, Olatz Izaola, Pablo Salvador
+- Coloma, Sara Nozal, et al.
+- Validation of an Artiﬁcial Intelligence-Based Ultrasound Imaging System for Quantifying
+- Muscle Architecture Parameters of the Rectus Femoris in Disease-Related Malnutrition (DRM)
+- Reprinted from: Nutrients 2024, 16, 1806, https://doi.org/10.3390/nu16121806 . . . . . . . . . . 70
+- Luis M. Luengo-Pérez, Mercedes Fernández-Bueso, Carlos Guzmán-Carmona, Ana
+- López-Navia and Claudia Garcı́a-Lobato
+- Morphofunctional Assessment beyond Malnutrition: Fat Mass Assessment in Adult Patients
+- with Phenylketonuria—Systematic Review
+- Reprinted from: Nutrients 2024, 16, 1833, https://doi.org/10.3390/nu16121833 . . . . . . . . . . 84
+- Nicoletta Miano, Giorgia Todaro, Maurizio Di Marco, Sabrina Scilletta, Giosiana Bosco,
+- Francesco Di Giacomo Barbagallo, et al.
+- Malnutrition-Related Liver Steatosis, CONUT Score and Poor Clinical Outcomes in an Internal
+- Medicine Department
+- Reprinted from: Nutrients 2024, 16, 1925, https://doi.org/10.3390/nu16121925 . . . . . . . . . . 101
+-                                                  v
+- Marı́a Teresa Zarco-Martı́n, Carmen Freire, Marı́a Carmen Andreo-López, Socorro
+- Leyva-Martı́nez and Marı́a Luisa Fernández-Soto
+- Malnutrition in Amyotrophic Lateral Sclerosis: Insights from Morphofunctional Assessment
+- and Global Leadership Initiative on Malnutrition Criteria
+- Reprinted from: Nutrients 2024, 16, 2625, https://doi.org/10.3390/nu16162625 . . . . . . . . . . 110
+- Alicia Justel Enrı́quez, Juana M. Rabat-Restrepo, Francisco J. Vilchez-López, Carmen
+- Tenorio-Jiménez, José M. Garcı́a-Almeida, José-Antonio Irles Rocamora, et al.
+- Practical Guidelines by the Andalusian Group for Nutrition Reﬂection and Investigation
+- (GARIN) on Nutritional Management of Patients with Chronic Obstructive Pulmonary Disease:
+- A Review
+- Reprinted from: Nutrients 2024, 16, 3105, https://doi.org/10.3390/nu16183105 . . . . . . . . . . 122
+- Francisco Hevilla, Nuria Porras, Marı́a Victoria Girón, Marı́a Garcı́a-Olivares, Marina Padial,
+- Francisco José Sánchez-Torralvo, et al.
+- Impact of Elexacaftor–Tezacaftor–Ivacaftor Therapy on Body Composition, Dietary Intake,
+- Biomarkers, and Quality of Life in People with Cystic Fibrosis: A Prospective Observational
+- Study
+- Reprinted from: Nutrients 2024, 16, 3293, https://doi.org/10.3390/nu16193293 . . . . . . . . . . 152
+- Hudson Azevedo Pinheiro, Ruth Losada de Menezes, Camila Kellen de Souza Cardoso,
+- Rômulo Roosevelt da Silva Filho, Farah Registre, César de Oliveira and Erika Aparecida
+- Silveira
+- Sarcopenia in the Oldest-Old Adults in the Capital of Brazil: Prevalence and Its Associated Risk
+- Factors
+- Reprinted from: Nutrients 2024, 16, 3976, https://doi.org/10.3390/nu16233976 . . . . . . . . . . 164
+- Julia Leira, Ana Maseda, Rocı́o López-López, Laura Lorenzo-López, Nuria Cibeira, Leire

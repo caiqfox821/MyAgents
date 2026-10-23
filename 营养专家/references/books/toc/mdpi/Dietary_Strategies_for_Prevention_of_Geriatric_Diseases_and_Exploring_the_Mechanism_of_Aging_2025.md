@@ -1,0 +1,76 @@
+# Dietary Strategies for Prevention of Geriatric Diseases and Exploring the Mechanism of Aging (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5078-5
+- 页数: 222
+- 全文: `text/mdpi/Dietary_Strategies_for_Prevention_of_Geriatric_Diseases_and_Exploring_the_Mechanism_of_Aging_2025.txt`
+- 标签: 膳食模式/摄入, 老年营养
+
+## 目录 (Contents)
+
+- Caiziyu Yu, Lili Qiu and Xiaoyu Wang
+- Frontiers in Age-Related Diseases and Nutritional Interventions
+- Reprinted from: Nutrients 2025, 17, 1658, https://doi.org/10.3390/nu17101658 . . . . . . . . . .    1
+- Chih-Ching Chang, Ting-Fu Lai, Jiaren Chen, Yung Liao, Jong-Hwan Park
+- and Yen-Jung Chang
+- Age Difference in the Association Between Nutritional Status and Dynapenia in Older Adults
+- Reprinted from: Nutrients 2025, 17, 734, https://doi.org/10.3390/nu17040734 . . . . . . . . . . .   5
+- Shupeng Liu, Yinyun Deng, Hui Liu, Zhengzheng Fu, Yinghui Wang, Meijuan Zhou
+- and Zhijun Feng
+- Causal Relationship between Meat Intake and Biological Aging: Evidence from Mendelian
+- Randomization Analysis
+- Reprinted from: Nutrients 2024, 16, 2433, https://doi.org/10.3390/nu16152433 . . . . . . . . . . 19
+- Qianqian Chen, Rui Fan, Lixia Song, Shuyue Wang, Mei You, Meng Cai, et al.
+- Association of Methyl Donor Nutrients’ Dietary Intake and Cognitive Impairment in the Elderly
+- Based on the Intestinal Microbiome
+- Reprinted from: Nutrients 2024, 16, 2061, https://doi.org/10.3390/nu16132061 . . . . . . . . . . 40
+- Chenyu Zhao, Yuping Wang, Xiaocan Jia, Jingwen Fan, Nana Wang, Yongli Yang
+- and Xuezhong Shi
+- Associations of Dietary Diversity Trajectories with Frailty among Chinese Older Adults:
+- A Latent Class Trajectory Analysis Based on a CLHLS Cohort
+- Reprinted from: Nutrients 2024, 16, 1445, https://doi.org/10.3390/nu16101445 . . . . . . . . . . 56
+- Shuyue Wang, Lixia Song, Rui Fan, Qianqian Chen, Mei You, Meng Cai, et al.
+- Targeting Aging and Longevity with Exogenous Nucleotides (TALENTs): Rationale, Design,
+- and Baseline Characteristics from a Randomized Controlled Trial in Older Adults
+- Reprinted from: Nutrients 2024, 16, 1343, https://doi.org/10.3390/nu16091343 . . . . . . . . . . 68
+- Xueqin Sang, Qingyu Wang, Yueyan Ning, Huihui Wang, Rui Zhang, Yixuan Li, et al.
+- Age-Related Mucus Barrier Dysfunction in Mice Is Related to the Changes in Muc2 Mucin in
+- the Colon
+- Reprinted from: Nutrients 2023, 15, 1830, https://doi.org/10.3390/nu15081830 . . . . . . . . . . 84
+- Hye-Yeon Lee and Kyung-Jin Min
+- Dietary Restriction and Lipid Metabolism: Unveiling Pathways to Extended Healthspan
+- Reprinted from: Nutrients 2024, 16, 4424, https://doi.org/10.3390/nu16244424 . . . . . . . . . . 97
+- Weiru Yu, Yifei Yu, Siyuan Sun, Chenxu Lu, Jianan Zhai, Yumei Lei, et al.
+- Immune Alterations with Aging: Mechanisms and Intervention Strategies
+- Reprinted from: Nutrients 2024, 16, 3830, https://doi.org/10.3390/nu16223830 . . . . . . . . . . 114
+- Nadia Alejandra Rivero-Segura, Emmanuel Alejandro Zepeda-Arzate,
+- Selma Karime Castillo-Vazquez, Patrick Fleischmann-delaParra, Jessica Hernández-Pineda,
+- Edgar Flores-Soto, et al.
+- Exploring the Geroprotective Potential of Nutraceuticals
+- Reprinted from: Nutrients 2024, 16, 2835, https://doi.org/10.3390/nu16172835 . . . . . . . . . . 140
+-                                                   v
+- Osamu Ezaki
+- Possible Extracellular Signals to Ameliorate Sarcopenia in Response to Medium-Chain
+- Triglycerides (8:0 and 10:0) in Frail Older Adults
+- Reprinted from: Nutrients 2024, 16, 2606, https://doi.org/10.3390/nu16162606 . . . . . . . . . . 167
+- Camille Cochet, Giulia Belloni, Ilaria Buondonno, Francesco Chiara and Patrizia D’Amelio
+- The Role of Nutrition in the Treatment of Sarcopenia in Old Patients: From Restoration of
+- Mitochondrial Activity to Improvement of Muscle Performance, a Systematic Review
+- Reprinted from: Nutrients 2023, 15, 3703, https://doi.org/10.3390/nu15173703 . . . . . . . . . . 181
+- Luc Gaussens, Emmanuel González-Bautista, Marc Bonnefoy, Marguerite Briand,
+- Neda Tavassoli, Philipe De Souto Barreto, et al.
+- Associations between Vitality/Nutrition and the Other Domains of Intrinsic Capacity Based on
+- Data from the INSPIRE ICOPE-Care Program
+- Reprinted from: Nutrients 2023, 15, 1567, https://doi.org/10.3390/nu15071567 . . . . . . . . . . 204
+-                                                  vi
+- Editorial
+- Frontiers in Age-Related Diseases and Nutritional Interventions
+- Caiziyu Yu 1 , Lili Qiu 1 and Xiaoyu Wang 1,2, *
+-                    1   College of Food Science & Nutritional Engineering, China Agricultural University, Beijing 100083, China;
+-                        yuczy@cau.edu.cn (C.Y.); qiulily980829@126.com (L.Q.)
+-                    2   Key Laboratory of Precision Nutrition and Food Quality, Department of Nutrition and Health, China
+-                        Agricultural University, Beijing 100193, China
+-                   *    Correspondence: xy.wang@cau.edu.cn
+-                    1. Introduction
+-                         The aging population presents one of the greatest challenges to sustainable develop-
+-                    ment, progressing at an unprecedented rate in recent years. Aging involves an irreversible,

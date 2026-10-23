@@ -1,0 +1,79 @@
+# Natural Products in Diabetes Mellitus (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6589-5
+- 页数: 288
+- 全文: `text/mdpi/Natural_Products_in_Diabetes_Mellitus_2026.txt`
+- 标签: 糖尿病, 补剂/功能成分
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Ana A. Feregrino-Pérez
+- Natural Products in Diabetes Mellitus: 2nd Edition
+- Reprinted from: Pharmaceuticals 2025, 18, 1666, https://doi.org/10.3390/ph18111666 . . . . . . .                  1
+- Eman B. Abbas, Asmaa M. El-Kalaawy, Noha A. Ahmed, Anwar Shams, Amal K. Khaliefa
+- and Osama M. Ahmed
+- Diosmin Potentiates the Antidiabetic Effects of Linagliptin in Nicotinamide/Streptozotocin-
+- Induced Diabetic Wistar Rats
+- Reprinted from: Pharmaceuticals 2025, 18, 656, https://doi.org/10.3390/ph18050656 . . . . . . .                   5
+- Diana Karina Rangel-Sandoval, Lucia Guerrero-Becerra, Consuelo Lomas-Soria, Amanda
+- Kim Rico-Chávez, José Antonio Cervantes-Chávez, Luis Antonio Reyes-Castro, et al.
+- Timbe (Acaciella angustissima) as an Alternative Source of Compounds with Biological Activity:
+- Antidiabetic
+- Reprinted from: Pharmaceuticals 2025, 18, 593, https://doi.org/10.3390/ph18040593 . . . . . . . 28
+- Elena Rafailovska, Elona Xhemaili, Zorica Naumovska, Olga Gigopulu, Biljana Miova,
+- Ljubica Suturkova and Gjoshe Stefkov
+- Unlocking the Antidiabetic Potential of CBD: In Vivo Preclinical Studies
+- Reprinted from: Pharmaceuticals 2025, 18, 446, https://doi.org/10.3390/ph18040446 . . . . . . . 52
+- Kyung-Hyun Cho, Sang Hyuk Lee, Yunki Lee, Ashutosh Bahuguna and Ji-Eun Kim
+- Synergistic Efﬁcacy of Policosanol (Raydel® ) and Banaba Leaf Extract to Treat Hyperglycemia
+- and Dyslipidemia in Streptozotocin-Induced Diabetic and Hyperlipidemic Zebraﬁsh (Danio
+- rerio): Protection of Liver and Kidney with Enhanced Tissue Regeneration
+- Reprinted from: Pharmaceuticals 2025, 18, 362, https://doi.org/10.3390/ph18030362 . . . . . . . 72
+- Xin-Xin Zeng, Liang Wang, Ming-Yu Wang, Zhen-Ran Hu, Xiang-Ke Li, Guo-Jun Fei, et al.
+- BuZhong YiQi Formula Alleviates Postprandial Hyperglycemia in T2DM Rats by Inhibiting
+- α-Amylase and α-Glucosidase In Vitro and In Vivo
+- Reprinted from: Pharmaceuticals 2025, 18, 201, https://doi.org/10.3390/ph18020201 . . . . . . . 98
+- Yingxiao Li, Chao-Tien Hsu, Ting-Ting Yang and Kai-Chun Cheng
+- Syringaldehyde Alleviates Cardiac Hypertrophy Induced by Hyperglycemia in H9c2 Cells
+- Through GLP-1 Receptor Signals
+- Reprinted from: Pharmaceuticals 2025, 18, 110, https://doi.org/10.3390/ph18010110 . . . . . . . 123
+- Cristian Sandoval, Luciano Canobbi, Álvaro Orrego, Camila Reyes, Felipe Venegas, Ángeles
+- Vera, et al.
+- Application of Integrated Optical Density in Evaluating Insulin Expression in the Endocrine
+- Pancreas During Chronic Ethanol Exposure and β-Carotene Supplementation: A Novel
+- Approach Utilizing Artiﬁcial Intelligence
+- Reprinted from: Pharmaceuticals 2024, 17, 1478, https://doi.org/10.3390/ph17111478 . . . . . . . 139
+- Hui-Ju Huang, Hanoch Livneh, Chieh-Tsung Yen, Ming-Chi Lu, Wei-Jen Chen and Tzung-Yi
+- Tsai
+- Adjunctive Therapy with Chinese Herbal Medicine Lowers Risk of Hearing Loss in Type 2
+- Diabetes Patients: Results from a Cohort-Based Case-Control Study
+- Reprinted from: Pharmaceuticals 2024, 17, 1191, https://doi.org/10.3390/ph17091191 . . . . . . . 153
+-                                                          v
+- Felix Omoruyi, Lauren Tatina, Lizette Rios, Dewayne Stennett and Jean Sparks
+- Insights into the Therapeutic Use of Kalanchoe pinnata Supplement in Diabetes Mellitus
+- Reprinted from: Pharmaceuticals 2025, 18, 1518, https://doi.org/10.3390/ph18101518 . . . . . . . 165
+- Fabiola Curiel Ayala, Francisco Ignacio Garcı́a Rodrı́guez, Sandra N. Jimenez-Garcia and
+- Lina Garcia-Mier
+- Chaya Leaf: A Promising Approach for Diabetes Management
+- Reprinted from: Pharmaceuticals 2025, 18, 1242, https://doi.org/10.3390/ph18091242 . . . . . . . 184
+- Lucia Guerrero-Becerra, Sumiko Morimoto, Estefania Arrellano-Ordoñez, Angélica Morales-
+- Miranda, Ramón G. Guevara-Gonzalez, Ana Angélica Feregrino-Pérez and Consuelo
+- Lomas-Soria
+- Polyphenolic Compounds in Fabaceous Plants with Antidiabetic Potential
+- Reprinted from: Pharmaceuticals 2025, 18, 69, https://doi.org/10.3390/ph18010069 . . . . . . . . 204
+- Mohammad Adi Mohammad Fadzil, Norhashimah Abu Seman and Aswir Abd Rashed
+- The Potential Therapeutic Use of Agarwood for Diabetes: A Scoping Review
+- Reprinted from: Pharmaceuticals 2024, 17, 1548, https://doi.org/10.3390/ph17111548 . . . . . . . 224
+- Xiaoyu Zhang, Jia Wang, Tingting Zhang, Shuqin Li, Junyu Liu, Mingyue Li, et al.
+- Updated Progress on Polysaccharides with Anti-Diabetic Effects through the Regulation of Gut
+- Microbiota: Sources, Mechanisms, and Structure–Activity Relationships
+- Reprinted from: Pharmaceuticals 2024, 17, 456, https://doi.org/10.3390/ph17040456 . . . . . . . 248
+-                                                  vi
+- About the Editor
+- Ana Angélica Feregrino-Pérez
+-     Ana Angélica Feregrino-Pérez, Ph.D. (ORCID: 0000-0001-8001-5912), is a researcher and
+- professor in the Universidad Autónoma de Querétaro (UAQ), Mexico.         Her work integrates
+- agricultural biotechnology, plant physiology, nanotechnology, and natural product research, with

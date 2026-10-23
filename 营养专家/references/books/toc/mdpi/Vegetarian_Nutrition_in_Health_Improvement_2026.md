@@ -1,0 +1,80 @@
+# Vegetarian Nutrition in Health Improvement (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6293-1
+- 页数: 166
+- 全文: `text/mdpi/Vegetarian_Nutrition_in_Health_Improvement_2026.txt`
+- 标签: 膳食模式/摄入
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Gianluca Rizzo and Luciana Baroni
+- Vegetarian Nutrition in Health Improvement
+- Reprinted from: Nutrients 2024, 16, 4183, https://doi.org/10.3390/nu16234183 . . . . . . . . . .                  1
+- Juan Hernández-Lougedo, José Luis Maté-Muñoz, Pablo García-Fernández, Edurne
+- Úbeda-D’Ocasar, Juan Pablo Hervás-Pérez and Blanca Pedauyé-Rueda
+- The Relationship between Vegetarian Diet and Sports Performance: A Systematic Review
+- Reprinted from: Nutrients 2023, 15, 4703, https://doi.org/10.3390/nu15214703 . . . . . . . . . .                  6
+- Yoko Narasaki, Kamyar Kalantar-Zadeh, Connie M. Rhee, Giuliano Brunori and
+- Diana Zarantonello
+- Vegetarian Nutrition in Chronic Kidney Disease
+- Reprinted from: Nutrients 2024, 16, 66, https://doi.org/10.3390/nu16010066 . . . . . . . . . . . . 27
+- Tobias Niedermaier, Thomas Gredner, Michael Hoffmeister, Ute Mons and Hermann Brenner
+- Impact of Reducing Intake of Red and Processed Meat on Colorectal Cancer Incidence in Germany
+- 2020 to 2050—A Simulation Study
+- Reprinted from: Nutrients 2023, 15, 1020, https://doi.org/10.3390/nu15041020 . . . . . . . . . . 45
+- Maximilian Andreas Storz, Maria Brommer, Mauro Lombardo and Gianluca Rizzo
+- Soy Milk Consumption in the United States of America: An NHANES Data Report
+- Reprinted from: Nutrients 2023, 15, 2532, https://doi.org/10.3390/nu15112532 . . . . . . . . . . 56
+- Velislava Todorova, Martina S. Savova, Stanislava Ivanova, Kalin Ivanov and
+- Milen I. Georgiev
+- Anti-Adipogenic Activity of Rhaponticum carthamoides and Its Secondary Metabolites
+- Reprinted from: Nutrients 2023, 15, 3061, https://doi.org/10.3390/nu15133061 . . . . . . . . . . 69
+- Eric Bartholomae and Carol S. Johnston
+- Nitrogen Balance at the Recommended Dietary Allowance for Protein in Minimally Active Male
+- Vegans
+- Reprinted from: Nutrients 2023, 15, 3159, https://doi.org/10.3390/nu15143159 . . . . . . . . . . 85
+- Gianluca Rizzo, Luciana Baroni, Chiara Bonetto, Pierfrancesco Visaggi, Mattia Orazzini, Irene
+- Solinas, et al.
+- The Role of a Plant-Only (Vegan) Diet in Gastroesophageal Reﬂux Disease: Online Survey of the
+- Italian General Population
+- Reprinted from: Nutrients 2023, 15, 4725, https://doi.org/10.3390/nu15224725 . . . . . . . . . . 95
+- Ran Qi, Yun Yang, Baihe Sheng, Huiping Li and Xinyu Zhang
+- Plant-Based Diet Indices and Their Association with Frailty in Older Adults: A CLHLS-Based
+- Cohort Study
+- Reprinted from: Nutrients 2023, 15, 5120, https://doi.org/10.3390/nu15245120 . . . . . . . . . . 108
+- Annachiara Stenico, Diana Zarantonello, Fabio Vittadello and Michael Kob
+- A Comprehensive Examination of Vegan Lifestyle in Italy
+- Reprinted from: Nutrients 2024, 16, 86, https://doi.org/10.3390/nu16010086 . . . . . . . . . . . . 121
+-                                                          v
+- Boštjan Jakše, Uroš Godnov, Zlatko Fras and Nataša Fidler Mis
+- Associations of Dietary Intake with Cardiovascular Risk in Long-Term “Plant-Based Eaters”: A
+- Secondary Analysis of a Cross-Sectional Study
+- Reprinted from: Nutrients 2024, 16, 796, https://doi.org/10.3390/nu16060796 . . . . . . . . . . . 135
+-                                                  vi
+- About the Editors
+- Luciana Baroni
+-      Luciana Baroni is a medical doctor, specialist in Neurology, Geriatrics, Gerontology, with an
+- International Master’s Degree in Nutrition and Dietetics. She is the President of the Scientiﬁc Society
+- of Vegetarian Nutrition (SSNV), a non-proﬁt organization, which she founded in 2000. In her clinical
+- practice, she is engaged in the diagnosis and treatment of neurodegenerative diseases, and has
+- been the author and editor of numerous articles and publications on health, nutrition, and lifestyle.
+- In addition to this, she has delivered numerous lectures and courses on vegetarian nutrition, as
+- well as having been a guest on various radio and television programs. In 2015, she conceived and
+- published the VegPlate method, an updated food guide for vegetarian nutrition. She currently serves
+- as the co-author and coordinator of the Master’s Degree in Vegetarian Nutrition and Dietetics at the
+- Polytechnic University of Marche, Italy.
+- Gianluca Rizzo
+-      Gianluca Rizzo is a freelance nutritionist and independent researcher. He holds a Bachelor of
+- Science in Biology, a PhD in Biotechnology, a 2nd Level Master’s Degree in Food Supplements, and
+- a Master’s in Advanced Study in Nutraceuticals from the University of Messina. During his PhD
+- and postdoctoral studies for the Telethon Foundation, he deepened research into the role played by
+- oxidative stress related to iron metabolism in neurodegenerative diseases. As an author, reviewer,
+- Section Board Member, as well as a Topic, Guest and Associate Editor for peer-reviewed journals, he
+- is an expert in the ﬁeld of human nutrition and is currently employed by the University of Messina
+- (Italy). In addition to this, he has been an invited speaker and scientiﬁc manager for current medical
+- education courses. His research interests primarily focus on the vegetarian diet, vegan diet, plant-based
+- diet, soy, soy foods, phytoestrogens, isoﬂavones, vitamin B12, cobalamins, homocysteine, B vitamins,
+- polyunsaturated fatty acids, vitamin D, dietary supplements, oxidative stress, and antioxidants.

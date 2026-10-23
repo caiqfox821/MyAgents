@@ -1,0 +1,80 @@
+# Obesity and Cardiovascular Disease (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-7155-1
+- 页数: 158
+- 全文: `text/mdpi/Obesity_and_Cardiovascular_Disease_2026.txt`
+- 标签: 肥胖/体重管理, 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Ehud Grossman
+- Obesity and Cardiovascular Disease: Mechanistic Insights and Nutritional Management
+- Strategies
+- Reprinted from: Nutrients 2025, 17, 2281, https://doi.org/10.3390/nu17142281 . . . . . . . . . .               1
+- Haiyuan Zhu, Zebang Zhang, Yumei Feng, Qiqi Wu, Runquan Zhang, Tao Liu, et al.
+- Interactive and Joint Effects of Obesity and Insulin Resistance on Hypertension in Adolescents
+- and the Mediating Role of Insulin Resistance—Five Provinces, China
+- Reprinted from: Nutrients 2025, 17, 2783, https://doi.org/10.3390/nu17172783 . . . . . . . . . .               5
+- Zhiwei Xia, Yan Li, Jiyong Yin, Zhaolong Gong, Jing Sun, Shi Shen, et al.
+- Integrating Metabolomics and Gut Microbiota to Identify Key Biomarkers and Regulatory
+- Pathways Underlying Metabolic Heterogeneity in Childhood Obesity
+- Reprinted from: Nutrients 2025, 17, 1876, https://doi.org/10.3390/nu17111876 . . . . . . . . . . 22
+- Jordan Akritidis, Diana Marı́a Mérida, Carolina Torrijo-Belanche, Belén Moreno-Franco,
+- Sofı́a Gimeno-Ruiz, Jimena Rey-Garcı́a, et al.
+- Phthalate Metabolites and Their Relationship with Abdominal and General Obesity: Evidence
+- from the Aragon Workers’ Health Study (AWHS)
+- Reprinted from: Nutrients 2025, 17, 1869, https://doi.org/10.3390/nu17111869 . . . . . . . . . . 52
+- Andres Fontalba-Navas, Ruth Echeverria, Cristina Larrea-Killinger, Mabel Gracia-Arnaiz,
+- Claudia Soar and Juan Pedro Arrebola
+- Association Between the Healthy Eating Index and the Body Mass Index of Older Adults: An
+- Analysis of Food Frequency and Preferences
+- Reprinted from: Nutrients 2025, 17, 1717, https://doi.org/10.3390/nu17101717 . . . . . . . . . . 68
+- Evelyn Zeiler, Sahmla Gabriel, Mackson Ncube, Natasha Thompson, Daniel Newmire,
+- Eugene L. Scharf, et al.
+- Prolonged Water-Only Fasting Followed by a Whole-Plant-Food Diet Is a Potential Long-Term
+- Management Strategy for Hypertension and Obesity
+- Reprinted from: Nutrients 2024, 16, 3959, https://doi.org/10.3390/nu16223959 . . . . . . . . . . 78
+- Marı́a Gordito Soler, Ángel Arturo López-González, Daniela Vallejos, Emilio
+- Martı́nez-Almoyna Rifá, Marı́a Teóﬁla Vicente-Herrero and José Ignacio Ramı́rez-Manent
+- Usefulness of Body Fat and Visceral Fat Determined by Bioimpedanciometry versus Body
+- Mass Index and Waist Circumference in Predicting Elevated Values of Different Risk Scales for
+- Non-Alcoholic Fatty Liver Disease
+- Reprinted from: Nutrients 2024, 16, 2160, https://doi.org/10.3390/nu16132160 . . . . . . . . . . 94
+- Hadar Raphael, Eyal Klang, Eli Konen, Yael Inbar, Avshalom Leibowitz, Yael Frenkel-Nir, et
+- al.
+- Obesity Is Associated with Fatty Liver and Fat Changes in the Kidneys in Humans as Assessed
+- by MRI
+- Reprinted from: Nutrients 2024, 16, 1387, https://doi.org/10.3390/nu16091387 . . . . . . . . . . 109
+- Shiri Weinstein, Elad Maor, Alon Kaplan, Tammy Hod, Avshalom Leibowitz, Ehud
+- Grossman and Gadi Shlomai
+- Non-Interventional Weight Changes Are Associated with Alterations in Lipid Proﬁles and in
+- the Triglyceride-to-HDL Cholesterol Ratio
+- Reprinted from: Nutrients 2024, 16, 486, https://doi.org/10.3390/nu16040486 . . . . . . . . . . . 121
+-                                                        v
+- Katy Cheung, Vicky Chan, Stephanie Chan, Martin Ming Him Wong, Gary Ka-Ki Chung,
+- Wai-Yin Cheng, et al.
+- Effect of Intermittent Fasting on Cardiometabolic Health in the Chinese Population: A
+- Meta-Analysis of Randomized Controlled Trials
+- Reprinted from: Nutrients 2024, 16, 357, https://doi.org/10.3390/nu16030357 . . . . . . . . . . . 132
+-                                                  vi
+- About the Editors
+- Ehud Grossman
+-     Ehud Grossman received his medical education at the Sackler Medical School of Tel-Aviv
+- University, earning an M.D. degree magna cum laude in 1975.           He completed his training in
+- Internal Medicine and Hypertension at the Chaim Sheba Medical Center. Between 1987 and 1990,
+- he completed a research fellowship in the USA. Here, he spent one year at the Ochsner Clinic in New
+- Orleans, studying hemodynamic changes in hypertension, and two years at the Hypertension section
+- of the National Institute of Health, studying the relationship between the sympathetic nervous system
+- and hypertension.
+-     Between 1997 and 2018, he was the head of Internal Medicine Department and the hypertension
+- unit, and from 2018 to 2023, he was the Chairman of Medicine at the Chaim Sheba Medical Center.
+- Since 2023, he has been the President of Ariel University.
+-     At Tel Aviv University, Ehud Grossman became a Professor of Medicine on 2000 and the
+- incumbent of the Hella Gertner Cathedra for research of high blood pressure on 2005.
+-     Ehud Grossman was the Vice-Chairman of the Scientiﬁc Council and the Chairman of the
+- Specialization Committee of the Scientiﬁc Council of the Israeli Medical Association.
+-     Between 2003 and 2005, Ehud Grossman was the president of the Israeli Society of Hypertension,
+- and between 2014 and 2022, he was the Dean of the Faculty of Medicine at Tel-Aviv University.
+-     Ehud Grossman has written more than 400 publications in peer-reviewed journals and 20 book

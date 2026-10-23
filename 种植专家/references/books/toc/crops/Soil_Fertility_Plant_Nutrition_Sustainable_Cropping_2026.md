@@ -1,0 +1,81 @@
+# Soil Fertility and Plant Nutrition for Sustainable Cropping Systems (2026, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/12848
+- 页数: 212
+- 全文: `text/crops/Soil_Fertility_Plant_Nutrition_Sustainable_Cropping_2026.txt`
+- PDF: `crops/Soil_Fertility_Plant_Nutrition_Sustainable_Cropping_2026.pdf`
+- 标签: 土壤肥力, 植物营养, 可持续农业
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Daniel Menezes-Blackburn, Bingjie Jin and Dong-Xing Guan
+- Sustainable Soil Fertility Management: Recent Advances and Future Directions
+- Reprinted from: Sustainability 2026, 18, 3359, https://doi.org/10.3390/su18073359 . . . . . . . .                 1
+- Arturo Fabiani, Stefano Mocali, Francesco Binazzi, Sara Del Duca, Francesco Vitali and
+- Silvia Landi
+- Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity
+- of Bacterial and Microarthropod Communities
+- Reprinted from: Sustainability 2026, 18, 2575, https://doi.org/10.3390/su18052575 . . . . . . . .                 6
+- Katarzyna Rymuza, Elżbieta Radzka, Krzysztof Kapela and Marek Gugała
+- Yield Formation and Stability of Maize Under Monoculture in Response to Biological
+- Amendments, Weather Variability and Cultivar Maturity
+- Reprinted from: Sustainability 2026, 18, 2542, https://doi.org/10.3390/su18052542 . . . . . . . . 24
+- Agnieszka Andrzejewska, Katarzyna Przygocka-Cyna and Witold Grzebisz
+- Balanced Fertilization of Winter Wheat with Potassium and Magnesium—An Effective Way to
+- Manage Fertilizer Nitrogen Sustainably
+- Reprinted from: Sustainability 2025, 17, 6705, https://doi.org/10.3390/su17156705 . . . . . . . . 42
+- Elżbieta Harasim and Cezary A. Kwiatkowski
+- Effect of Farming System and Irrigation on Physicochemical and Biological Properties of Soil
+- Under Spring Wheat Crops
+- Reprinted from: Sustainability 2025, 17, 6473, https://doi.org/10.3390/su17146473 . . . . . . . . 77
+- Natalie Hoidal, Shane M. Bugeja, Emily Lindenfelser and Paulo H. Pagliari
+- Soil Health Practices and Decision Drivers on Diversiﬁed Vegetable Farms in Minnesota
+- Reprinted from: Sustainability 2025, 17, 1192, https://doi.org/10.3390/su17031192 . . . . . . . . 101
+- Rhonda R. Janke, Daniel Menezes-Blackburn, Asma Al Hamdi and Abdul Rehman
+- Organic Management and Intercropping of Fruit Perennials Increase Soil Microbial Diversity
+- and Activity in Arid Zone Orchard Cropping Systems
+- Reprinted from: Sustainability 2024, 16, 9391, https://doi.org/10.3390/su16219391 . . . . . . . . 123
+- Alfonso Andrade-Sifuentes, Gabriel de Jesús Peña-Uribe, Jorge Sáenz-Mata,
+- Jesús Josafath Quezada-Rivera, Rubén Palacio-Rodríguez and Gisela Muro-Pérez
+- The Integration of Phosphorus-Solubilizing Rhizobacteria, Eisenia fetida and Phosphorus Rock
+- Improves the Availability of Assimilable Phosphorus in the Vermicompost
+- Reprinted from: Sustainability 2024, 16, 7576, https://doi.org/10.3390/su16177576 . . . . . . . . 138
+- Bing Han, Wei-Qing Chen, Yong-Qiang Jiao, Rui Yang, Li-Lu Niu, Xin-Ran Chen, et al.
+- Effects of Nitrogen Fertilizer Application on Soil Properties and Arsenic Mobilization in Paddy
+- Soil
+- Reprinted from: Sustainability 2024, 16, 5565, https://doi.org/10.3390/su16135565 . . . . . . . . 153
+- Arianna Latini, Luciana Di Gregorio, Elena Valkama, Manuela Costanzo, Peter Maenhout,
+- Marjetka Suhadolc, et al.
+- Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions
+- in EU Agricultural Soils? A Systematic Review
+- Reprinted from: Sustainability 2026, 18, 319, https://doi.org/10.3390/su18010319 . . . . . . . . . 166
+-                                                          v
+- About the Editors
+- Daniel Menezes-Blackburn
+-      Daniel Menezes-Blackburn is an Associate Professor at Sultan Qaboos University in Oman.
+- His research expertise spans applied microbiology, plant nutrition, and enzymology, focusing on
+- bacterial phytases, soil organic phosphorus, soil salinity, biochar, DGT methods, and feed enzymes.
+- Dr. Blackburn’s work on sustainable agricultural practices has provided many innovative solutions
+- for soil management and nutrient cycling in different soil types and climatic regions.
+- Bingjie Jin
+-      Bingjie Jin is a Postdoctoral Fellow in Environmental and Soil Biogeochemistry. He previously
+- worked as an Assistant Researcher at the Institute of Urban Environment, Chinese Academy of
+- Sciences, in 2023, before moving to Zhejiang University as a Postdoctoral Fellow in 2025. Dr. Jin’s
+- research interests focus on nutrient cycling processes driven by different microbiomes in soil–plant
+- systems. His speciﬁc interests and projects focus on the following: 1) microbially driven nitrogen
+- and phosphorus cycling in soil–plant systems and composting systems; 2) the microbiological
+- mechanisms driving organic sulfur hydrolysis in paddy soils.         He has authored more than 10
+- peer-reviewed publications in well-reputed journals such as Soil Biology and Biochemistry and Biology
+- and Fertility of Soils, and has been granted two patents. His research has been supported by the
+- Young Scientists Fund (Type C) of the National Natural Science Foundation of China and the General
+- Project of the China Postdoctoral Science Foundation.
+- Dong-Xing Guan
+-      Dong-Xing Guan is an Associate Professor in Environmental and Soil Biogeochemistry. Dr.
+- Guan obtained his Ph.D. in Environmental Science from Nanjing University, China, in 2016. Prior
+- to joining Zhejiang University, he held positions in Environmental Geochemistry, ﬁrst as a postdoc
+- with Nanjing University and then as an Associate Professor with Tianjin University. Dr. Guan’s
+- research interests are oriented around how contaminants and nutrients cycle in the environment. His
+- speciﬁc interests and projects focus on the following: 1) biogeochemical and interfacial processes of

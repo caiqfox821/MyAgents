@@ -1,0 +1,81 @@
+# Trends in Grain Processing for Food Industry (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://www.mdpi.com/books
+- 页数: 240
+- 全文: `text/mdpi/Trends_in_Grain_Processing_for_Food_Industry_2025.txt`
+- PDF: `mdpi/Trends_in_Grain_Processing_for_Food_Industry_2025.pdf`
+- 标签: 谷物加工, 粮食, 食品工业
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Georgiana Gabriela Codină and Adriana Dabija
+- Innovative Grain Processing: Trends and Technologies
+- Reprinted from: Appl. Sci. 2024, 14, 10954, https://doi.org/10.3390/app142310954 . . . . . . . .
+- 1
+- Pavel Skřivan, Marcela Sluková, Andrej Sinica, Roman Bleha, Ivan Švec, Evžen Šárka and
+- Veronika Pourová
+- Glycaemic Index of Bakery Products and Possibilities of Its Optimization
+- Reprinted from: Appl. Sci. 2024, 14, 6070, https://doi.org/10.3390/app14146070 . . . . . . . . .
+- 5
+- Alina Alexandra Dobre, Elena Mirela Cucu and Nastasia Belc
+- Inﬂuence of Technological Parameters on Sourdough Starter Obtained from Different Flours
+- Reprinted from: Appl. Sci. 2024, 14, 4955, https://doi.org/10.3390/app14114955 . . . . . . . . . 26
+- Mihaela Brumă (Călin), Iuliana Banu, Ina Vasilean, Leontina Grigore-Gurgu, Loredana
+- Dumitras, cu and Iuliana Aprodu
+- Inﬂuence of Soy Protein Hydrolysates on Thermo-Mechanical Properties of Gluten-Free Flour
+- and Mufﬁn Quality
+- Reprinted from: Appl. Sci. 2024, 14, 3640, https://doi.org/10.3390/app14093640 . . . . . . . . . 37
+- Sylvestre Dossa, Christine Dragomir, Loredana Plustea, Cosmin Dinulescu, Ileana Cocan,
+- Monica Negrea, et al.
+- Gluten-Free Cookies Enriched with Baobab Flour (Adansonia digitata L.) and Buckwheat Flour
+- (Fagopyrum esculentum)
+- Reprinted from: Appl. Sci. 2023, 13, 12908, https://doi.org/10.3390/app132312908 . . . . . . . . 55
+- Ioana Stanciu, Elena Loredana Ungureanu, Elisabeta Elena Popa, Mihaela Geicu-Cristea,
+- Mihaela Draghici, Amalia Carmen Mitelut, et al.
+- The Experimental Development of Bread with Enriched Nutritional Properties Using Organic
+- Sea Buckthorn Pomace
+- Reprinted from: Appl. Sci. 2023, 13, 6513, https://doi.org/10.3390/app13116513 . . . . . . . . . 71
+- Ionica Coţovanu, Costel Mironeasa and Silvia Mironeasa
+- Insights into the Potential of Buckwheat Flour Fractions in Wheat Bread Dough
+- Reprinted from: Appl. Sci. 2022, 12, 2302, https://doi.org/10.3390/app12052302 . . . . . . . . . 97
+- Ana Batariuc, Mădălina Ungureanu-Iuga and Silvia Mironeasa
+- Characterization of Sorghum Processed through Dry Heat Treatment and Milling
+- Reprinted from: Appl. Sci. 2022, 12, 7630, https://doi.org/10.3390/app12157630 . . . . . . . . . 116
+- Manee Saelee, Bhagavathi Sundaram Sivamaruthi, Periyanaina Kesika, Sartjin Peerajan,
+- Chawin Tansrisook, Chaiyavat Chaiyasut and Phakkharawat Sittiprapaporn
+- Response-Surface-Methodology-Based Optimization of High-Quality Salvia hispanica L. Seed Oil
+- Extraction: A Pilot Study
+- Reprinted from: Appl. Sci. 2023, 13, 6600, https://doi.org/10.3390/app13116600 . . . . . . . . . 134
+- Bianca-Maria Tihăuan, Ioana-Cristina Marinas, , Marian Adascălului, Alina Dobre, Grat, iela
+- Grădis, teanu Pîrcălăbioru, Mădălina Axinie, et al.
+- Nutritional Proﬁling and Cytotoxicity Assessment of Protein Rich Ingredients Used as Dietary
+- Supplements
+- Reprinted from: Appl. Sci. 2023, 13, 6829, https://doi.org/10.3390/app13116829 . . . . . . . . . 154
+- v
+- Vinko Krstanović, Kristina Habschied, Iztok Jože Košir and Krešimir Mastanjević
+- The Inﬂuence of Texture Type and Grain Milling Degree on the Attenuation Limit, Protein
+- Content, and Degradation in Wheat Wort
+- Reprinted from: Appl. Sci. 2023, 13, 10626, https://doi.org/10.3390/app131910626 . . . . . . . . 171
+- Joanna Le Thanh-Blicharz, Jacek Lewandowicz, Patrycja Jankowska, Przemysław Łukasz
+- Kowalczewski, Katarzyna Zajac,
+- ˛ Miroslava Kačániová and Hanna Maria Baranowska
+- Pulses-Fortiﬁed Ketchup: Insight into Rheological, Textural and LF NMR-Measured Properties
+- Reprinted from: Appl. Sci. 2023, 13, 11270, https://doi.org/10.3390/app132011270 . . . . . . . . 179
+- Lucie Jurkaninová, Ivan Švec, Iva Kučerová, Michaela Havrlentová, Matěj Božik, Pavel
+- Klouček and Olga Leuner
+- The Use of Thyme and Lemongrass Essential Oils in Cereal Technology—Effect on Wheat Dough
+- Behavior and Bread Properties
+- Reprinted from: Appl. Sci. 2024, 14, 4831, https://doi.org/10.3390/app14114831 . . . . . . . . . 191
+- Natalia Netreba, Elena Sergheeva, Angela Gurev, Veronica Dragancea, Georgiana Gabriela
+- Codină, Rodica Sturza and Aliona Ghendov-Mosanu
+- The Inﬂuence of Pomace Powder of Musky Squash on the Characteristics of Foamy Confectionery
+- Products during Storage
+- Reprinted from: Appl. Sci. 2024, 14, 6671, https://doi.org/10.3390/app14156671 . . . . . . . . . 209
+- vi
+- About the Editors
+- Georgiana Gabriela Codină
+- Georgiana Gabriela CODINĂ (Professor Habilitate, PhD Eng.) joined the S, tefan cel Mare

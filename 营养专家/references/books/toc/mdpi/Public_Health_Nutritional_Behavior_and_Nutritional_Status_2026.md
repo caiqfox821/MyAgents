@@ -1,0 +1,80 @@
+# Public Health, Nutritional Behavior and Nutritional Status (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-6409-6
+- 页数: 406
+- 全文: `text/mdpi/Public_Health_Nutritional_Behavior_and_Nutritional_Status_2026.txt`
+- 标签: 公共卫生/行为
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     ix
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   xi
+- Sabina Lachowicz-Wiśniewska and Agata Kotowska
+- Precision Nutrition for Public Health
+- Reprinted from: Nutrients 2025, 17, 3004, https://doi.org/10.3390/nu17183004 . . . . . . . . . .                  1
+- Jamie Pacenta, Brooke E. Starkoff, Elizabeth K. Lenz and Amanda Shearer
+- Prevalence of and Contributors to Food Insecurity among College Athletes: A Scoping Review
+- Reprinted from: Nutrients 2024, 16, 1346, https://doi.org/10.3390/nu16091346 . . . . . . . . . .                  7
+- Klaudia Sochacka, Agata Kotowska and Sabina Lachowicz-Wiśniewska
+- The Role of Gut Microbiota, Nutrition, and Physical Activity in Depression and
+- Obesity—Interdependent Mechanisms/Co-Occurrence
+- Reprinted from: Nutrients 2024, 16, 1039, https://doi.org/10.3390/nu16071039 . . . . . . . . . . 20
+- Aleksandra Hyży, Mariusz Jaworski, Ilona Cieślak, Joanna Gotlib-Małkowska
+- and Mariusz Panczyk
+- Improving Eating Habits at the Ofﬁce: An Umbrella Review of Nutritional Interventions
+- Reprinted from: Nutrients 2023, 15, 5072, https://doi.org/10.3390/nu15245072 . . . . . . . . . . 41
+- Na-Young Park and Sarang Jang
+- Effects of mHealth Practice Patterns on Improving Metabolic Syndrome Using the
+- Information–Motivation–Behavioral Skills Model
+- Reprinted from: Nutrients 2024, 16, 2099, https://doi.org/10.3390/nu16132099 . . . . . . . . . . 59
+- Elena Sandri, Daniele Borghesi, Eva Cantín Larumbe, Germán Cerdá Olmedo,
+- María Jesús Vega-Bello and Vicente Bernalte Martí
+- Intermittent Fasting: Socio-Economic Proﬁle of Spanish Citizens Who Practice It and the
+- Inﬂuence of This Dietary Pattern on the Health and Lifestyle Habits of the Population
+- Reprinted from: Nutrients 2024, 16, 2028, https://doi.org/10.3390/nu16132028 . . . . . . . . . . 79
+- Nives Bogataj Jontez, Karin Šik Novak, Zala Jenko Pražnikar, Ana Petelin, Saša Kenig
+- and Nina Mohorko
+- Does Dietary Supplement Use Increase Micronutrient Intake Adequacy in Healthy Adults with
+- Habitual Omnivorous, Vegetarian, Vegan, and Low-Carbohydrate High-Fat Diets?
+- Reprinted from: Nutrients 2024, 16, 1832, https://doi.org/10.3390/nu16121832 . . . . . . . . . . 101
+- Maha Hoteit, Maroun Khattar, Dana Malli, Esraa Antar, Zahraa Al Hassani,
+- Maher Abdallah, et al.
+- Dietary Intake among Lebanese Adults: Findings from the Updated LEBANese natiONal Food
+- Consumption Survey (LEBANON-FCS)
+- Reprinted from: Nutrients 2024, 16, 1784, https://doi.org/10.3390/nu16111784 . . . . . . . . . . 126
+- Leandro Oliveira, Mona N. BinMowyna, Ibrahim Alasqah, Renata Puppin Zandonadi,
+- Edite Teixeira-Lemos, Cláudia Chaves, et al.
+- A Pilot Study on Dietary Choices at Universities: Vending Machines, Canteens, and Lunch from
+- Home
+- Reprinted from: Nutrients 2024, 16, 1722, https://doi.org/10.3390/nu16111722 . . . . . . . . . . 146
+-                                                          v
+- Julia Suwalska, Sylwia Łukasik, Maciej Cymerys, Aleksandra Suwalska
+- and Paweł Bogdański
+- Determinants of Weight Status and Body, Health and Life Satisfaction in Young Adults
+- Reprinted from: Nutrients 2024, 16, 1484, https://doi.org/10.3390/nu16101484 . . . . . . . . . . 162
+- Ian C. C. Nóbrega, Rhennan V. L. Marques, Matheus A. Ferreira and Dirk W. Lachenmeier
+- The Paradox of Alcohol and Food Affordability: Minimal Impact of Leading Beer and Cachaça
+- Brands on Brazilian Household Income Amid Hazardous Drinking Patterns
+- Reprinted from: Nutrients 2024, 16, 1469, https://doi.org/10.3390/nu16101469 . . . . . . . . . . 179
+- Katarzyna Witczak-Sawczuk, Lucyna Ostrowska, Urszula Cwalina, Joanna Leszczyńska,
+- Marta Jastrz˛ebska-Mierzyńska and Marcin Krzysztof Hładuński
+- Estimation of the Impact of Abdominal Adipose Tissue (Subcutaneous and Visceral) on the
+- Occurrence of Carbohydrate and Lipid Metabolism Disorders in Patients with Obesity—A Pilot
+- Study
+- Reprinted from: Nutrients 2024, 16, 1301, https://doi.org/10.3390/nu16091301 . . . . . . . . . . 201
+- Elena Sandri, Marco Sguanci, Eva Cantín Larumbe, Germán Cerdá Olmedo,
+- Lisa Ursula Werner, Michela Piredda and Stefano Mancin
+- Plant-Based Diets versus the Mediterranean Dietary Pattern and Their Socio-Demographic
+- Determinants in the Spanish Population: Inﬂuence on Health and Lifestyle Habits
+- Reprinted from: Nutrients 2024, 16, 1278, https://doi.org/10.3390/nu16091278 . . . . . . . . . . 216
+- Biruk Yazie Wubetie, Atsushi Tsunekawa, Nigussie Haregeweyn, Mitsuru Tsubo,
+- Zerihun Nigussie, Taye Minichil Meshesha and Takeshi Abe
+- Analysis of Malnutrition among Children under Five Years across Contrasting Agroecosystems
+- of Northwest Ethiopia: Application of Structural Equation Modeling
+- Reprinted from: Nutrients 2024, 16, 1208, https://doi.org/10.3390/nu16081208 . . . . . . . . . . 238
+- Alicja Baska, Karolina Świder, Wojciech Stefan Zgliczyński, Karolina Kłoda,
+- Agnieszka Mastalerz-Migas and Mateusz Babicki
+- Is Obesity a Cause for Shame? Weight Bias and Stigma among Physicians, Dietitians, and Other
+- Healthcare Professionals in Poland—A Cross-Sectional Study
+- Reprinted from: Nutrients 2024, 16, 999, https://doi.org/10.3390/nu16070999 . . . . . . . . . . . 264

@@ -1,0 +1,60 @@
+# WHO guidelines on the integrated management of obesity in adolescents (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/386830
+- 页数: 164
+- 全文: `text/who/WHO_guidelines_on_the_integrated_management_of_obesity_in_adolescents.txt`
+- 标签: 肥胖
+
+## 目录 (Sections)
+
+- 1 SD above the median, and obesity as BMI-for-age greater than 2 SD above the median (3).
+- 2       WHO guideline on the integrated management of obesity in adolescents
+- 4           WHO guideline on the integrated management of obesity in adolescents
+- 6       WHO guideline on the integrated management of obesity in adolescents
+- 8       WHO guideline on the integrated management of obesity in adolescents
+- 10      WHO guideline on the integrated management of obesity in adolescents
+- 12     WHO guideline on the integrated management of obesity in adolescents
+- 14       WHO guideline on the integrated management of obesity in adolescents
+- 16      WHO guideline on the integrated management of obesity in adolescents
+- 18      WHO guideline on the integrated management of obesity in adolescents
+- 20      WHO guideline on the integrated management of obesity in adolescents
+- 22      WHO guideline on the integrated management of obesity in adolescents
+- 24      WHO guideline on the integrated management of obesity in adolescents
+- 26      WHO guideline on the integrated management of obesity in adolescents
+- 28      WHO guideline on the integrated management of obesity in adolescents
+- 30      WHO guideline on the integrated management of obesity in adolescents
+- 32      WHO guideline on the integrated management of obesity in adolescents
+- 34      WHO guideline on the integrated management of obesity in adolescents
+- 36      WHO guideline on the integrated management of obesity in adolescents
+- 38      WHO guideline on the integrated management of obesity in adolescents
+- 40      WHO guideline on the integrated management of obesity in adolescents
+- 42     WHO guideline on the integrated management of obesity in adolescents
+- 44      WHO guideline on the integrated management of obesity in adolescents
+- 46      WHO guideline on the integrated management of obesity in adolescents
+- 48      WHO guideline on the integrated management of obesity in adolescents
+- 50       WHO guideline on the integrated management of obesity in adolescents
+- 52       WHO guideline on the integrated management of obesity in adolescents
+- 3.0 IGO.
+- 2025 Dec 18;12(12):CD016062 (https://doi.org/10.1002/14651858.CD016062).
+- 3.0 IGO.
+- 3.0 IGO.
+- 54       WHO guideline on the integrated management of obesity in adolescents
+- 2024 Feb 3 (https://doi.org/10.1016/j.advnut.2024.100186).
+- 56      WHO guideline on the integrated management of obesity in adolescents
+- 58      WHO guideline on the integrated management of obesity in adolescents
+- 2026 May 13;5(5):CD015986 (https://doi.org/10.1002/14651858.CD015986).
+- 2021 Sep;236:137-147.e13. Epub 2021 May 11 (https://doi.org/10.1016/j.jpeds.2021.05.009).
+- 60       WHO guideline on the integrated management of obesity in adolescents
+- 2025 Feb 6;392(6):555-565 (https://doi.org/10.1056/NEJMoa2407379).
+- 2017 Aug;34(8):1859-1875. Epub 2017 Jul 13 (https://doi.org/10.1007/s12325-017-0562-3).
+- 62       WHO guideline on the integrated management of obesity in adolescents
+- 64      WHO guideline on the integrated management of obesity in adolescents
+- 66      WHO guideline on the integrated management of obesity in adolescents
+- 68      WHO guideline on the integrated management of obesity in adolescents
+- 70             WHO guideline on the integrated management of obesity in adolescents
+- 72             WHO guideline on the integrated management of obesity in adolescents
+- 74             WHO guideline on the integrated management of obesity in adolescents
+- 76            WHO guideline on the integrated management of obesity in adolescents
+- 78            WHO guideline on the integrated management of obesity in adolescents
+- 80            WHO guideline on the integrated management of obesity in adolescents

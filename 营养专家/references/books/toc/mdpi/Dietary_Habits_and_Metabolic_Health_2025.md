@@ -1,0 +1,80 @@
+# Dietary Habits and Metabolic Health (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4918-5
+- 页数: 142
+- 全文: `text/mdpi/Dietary_Habits_and_Metabolic_Health_2025.txt`
+- 标签: 代谢与心血管, 膳食模式/摄入
+
+## 目录 (Contents)
+
+- Bowen Li, Xue Tang and Guowei Le
+- Dietary Habits and Metabolic Healt
+- Reprinted from: Nutrients 2023, 15, 3975, https://doi.org/10.3390/nu15183975 . . . . . . . . . .   1
+- Bohan Fan and Jie V. Zhao
+- Sex-Speciﬁc Associations of Red Meat and Processed Meat Consumption with Serum
+- Metabolites in the UK Biobank
+- Reprinted from: Nutrients 2022, 14, 5306, https://doi.org/10.3390/nu14245306 . . . . . . . . . .   4
+- Yang Chen, Xiaohong Sun, Wenjuan Fan, Jiao Yu, Peng Wang, Dong Liu, et al.
+- Differences in Dietary and Lifestyle Triggers between Non-Erosive Reﬂux Disease and Reﬂux
+- Esophagitis—A Multicenter Cross-Sectional Survey in China
+- Reprinted from: Nutrients 2023, 15, 3400, https://doi.org/10.3390/nu15153400 . . . . . . . . . . 14
+- Fusheng Xu, Zhiming Yu, Yaru Liu, Ting Du, Leilei Yu, Fengwei Tian, et al.
+- A High-Fat, High-Cholesterol Diet Promotes Intestinal Inﬂammation by Exacerbating Gut
+- Microbiome Dysbiosis and Bile Acid Disorders in Cholecystectomy
+- Reprinted from: Nutrients 2023, 15, 3829, https://doi.org/10.3390/nu15173829 . . . . . . . . . . 29
+- Jian Yin, Li Cheng, Yan Hong, Zhaofeng Li, Caiming Li, Xiaofeng Ban, et al.
+- A Comprehensive Review of the Effects of Glycemic Carbohydrates on the Neurocognitive
+- Functions Based on Gut Microenvironment Regulation and Glycemic Fluctuation Control
+- Reprinted from: Nutrients 2023, 15, 5080, https://doi.org/10.3390/nu15245080 . . . . . . . . . . 48
+- Wei Hu, Zhiwen Pei, Aonan Xia, Yang Jiang, Bo Yang, Xiaoming Liu, et al.
+- Lactobacillus helveticus-Derived Whey-Calcium Chelate Promotes Calcium Absorption and Bone
+- Health of Rats Fed a Low-Calcium Diet
+- Reprinted from: Nutrients 2024, 16, 1127, https://doi.org/10.3390/nu16081127 . . . . . . . . . . 76
+- Xinru Du, Yongheng Yan, Yufeng Dai and Ruijie Xu
+- Yogurt Alleviates Cyclophosphamide-Induced Immunosuppression in Mice through D-Lactate
+- Reprinted from: Nutrients 2024, 16, 1395, https://doi.org/10.3390/nu16091395 . . . . . . . . . . 91
+- Sitong Wan, Wenbin Wu, Yan Zhang, Jian He, Xiaoping Wang, Peng An, et al.
+- Antioxidant Lipid Supplement on Cardiovascular Risk Factors: A Systematic Review and
+- Meta-Analysis
+- Reprinted from: Nutrients 2024, 16, 2213, https://doi.org/10.3390/nu16142213 . . . . . . . . . . 105
+- Katsumi Iizuka, Kotone Yanagi, Kanako Deguchi, Chihiro Ushiroda, Risako
+- Yamamoto-Wada, Kazuko Kobae, et al.
+- Sex and Age Differences in the Effects of Food Frequency on Metabolic Parameters in Japanese
+- Adults
+- Reprinted from: Nutrients 2024, 16, 2931, https://doi.org/10.3390/nu16172931 . . . . . . . . . . 116
+-                                                  v
+-             nutrients
+- Editorial
+- Dietary Habits and Metabolic Healt
+- Bowen Li 1,2, *, Xue Tang 1,2 and Guowei Le 1,2
+-                  1   State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi 214122, China;
+-                      tangxue@jiangnan.edu.cn (X.T.); lgw_jiangnan@163.com (G.L.)
+-                  2   School of Food Science and Technology, Jiangnan University, Wuxi 214122, China
+-                  *   Correspondence: lbw1965841356@gmail.com; Tel.: +86-15651519190
+-                       Dietary habits refer to the long-term dietary patterns and habits that an individual
+-                  forms and maintains in their daily life. Dietary behavior is an essential and ongoing activity
+-                  in daily life, which involves internal, external, and conscious activities related to eating.
+-                  With a deeper understanding of nutritional science, people are increasingly aware of the
+-                  complex relationship between dietary habits and health outcomes.
+-                       Exploring the variations in nutrient composition in food contributes to the formation
+-                  of proper dietary habits. Positive dietary behaviors are important strategies for individuals
+-                  to ensure their health. Eating regular meals, moderating the intake of fats and sugars,
+-                  consuming an adequate number of fruits and vegetables, paying attention to nutritional
+-                  labels and calorie content, practicing good hygiene, and choosing foods based on principles
+-                  of nutrition and health are all considered behaviors that promote physical well-being. How-
+-                  ever, as the pace of life accelerates, various fast-food products and the rapid development of
+-                  the ultra-processed food industry have ﬂooded the market. Ultra-processed foods refer to
+-                  foods that have undergone packaging, processing, and the addition of numerous additives,
+-                  preservatives, seasonings, and added sugars. These foods often lack a variety of nutrients
+-                  such as ﬁber, vitamins, and minerals, while containing excessive amounts of sugar, salt,
+-                  and unhealthy fats [1]. This leads to nutritional imbalance and can contribute to metabolic
+-                  health problems such as obesity, diabetes, and cardiovascular disease. In these processed
+-                  foods, signiﬁcant changes have occurred in the nutritional composition, including the
+-                  presence of protein oxidation products, lipid oxidation products, and advanced glycation
+-                  end products [2]. These products not only stimulate the appetite center, making individuals
+-                  more prone to excessive intake of these unhealthy components, but they also potentially
+-                  have a negative impact on the gut microbiota, disrupting the balance of beneﬁcial bacteria
+-                  and compromising gut health.
+-                       In addition to reducing the intake of harmful substances in food, dietary patterns
+-                  with nutrient interactions and synergistic effects, or speciﬁc food combinations, have

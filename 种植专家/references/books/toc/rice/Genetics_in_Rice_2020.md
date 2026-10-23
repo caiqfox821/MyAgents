@@ -1,0 +1,78 @@
+# Genetics in Rice (2020, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/2807
+- 页数: 190
+- 全文: `text/rice/Genetics_in_Rice_2020.txt`
+- PDF: `rice/Genetics_in_Rice_2020.pdf`
+- 标签: 水稻, 遗传育种, 基因组
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Genetics in Rice” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Motonori Tomita and Keiichiro Ishimoto
+- Rice Novel Semidwarﬁng Gene d60 Can Be as Effective as Green Revolution Gene sd1
+- Reprinted from: Plants 2019, 8, 464, doi:10.3390/plants8110464 . . . . . . . . . . . . . . . . . . . .         1
+- Cuong D. Nguyen, Holden Verdeprado, Demeter Zita, Sachiyo Sanada-Morimura,
+- Masaya Matsumura, Parminder S. Virk, Darshan S. Brar, Finbarr G. Horgan,
+- Hideshi Yasui and Daisuke Fujita
+- The Development and Characterization of Near-Isogenic and Pyramided Lines
+- Carrying Resistance Genes to Brown Planthopper with the Genetic Background of
+- japonica Rice (Oryza sativa L.)
+- Reprinted from: Plants 2019, 8, 498, doi:10.3390/plants8110498 . . . . . . . . . . . . . . . . . . . . 15
+- Yu Zhang, Jiawu Zhou, Ying Yang, Walid Hassan Elgamal, Peng Xu, Jing Li,
+- Yasser Z. El-Refaee, Suding Hao and Dayun Tao
+- Two SNP Mutations Turned off Seed Shattering in Rice
+- Reprinted from: Plants 2019, 8, 475, doi:10.3390/plants8110475 . . . . . . . . . . . . . . . . . . . . 35
+- Hiroki Saito, Yutaka Okumoto, Takuji Tsukiyama, Chong Xu, Masayoshi Teraishi and
+- Takatoshi Tanisaka
+- Allelic Differentiation at the E1/Ghd7 Locus Has Allowed Expansion of Rice Cultivation Area
+- Reprinted from: Plants 2019, 8, 550, doi:10.3390/plants8120550 . . . . . . . . . . . . . . . . . . . . 45
+- Buddini Abhayawickrama, Dikkumburage Gimhani, Nisha Kottearachchi, Venura Herath,
+- Dileepa Liyanage and Prasad Senadheera
+- In Silico Identiﬁcation of QTL-Based Polymorphic Genes as Salt-Responsive Potential
+- Candidates through Mapping with Two Reference Genomes in Rice
+- Reprinted from: Plants 2020, 9, 233, doi:10.3390/plants9020233 . . . . . . . . . . . . . . . . . . . . 59
+- Takayuki Ogami, Hideshi Yasui, Atsushi Yoshimura and Yoshiyuki Yamagata
+- Identiﬁcation of Anther Length QTL and Construction of Chromosome Segment Substitution
+- Lines of Oryza longistaminata
+- Reprinted from: Plants 2019, 8, 388, doi:10.3390/plants8100388 . . . . . . . . . . . . . . . . . . . . 85
+- Kumpei Shiragaki, Takahiro Iizuka, Katsuyuki Ichitani, Tsutomu Kuboyama,
+- Toshinobu Morikawa, Masayuki Oda and Takahiro Tezuka
+- HWA1- and HWA2-Mediated Hybrid Weakness in Rice Involves Cell Death, Reactive Oxygen
+- Species Accumulation, and Disease Resistance-Related Gene Upregulation
+- Reprinted from: Plants 2019, 8, 450, doi:10.3390/plants8110450 . . . . . . . . . . . . . . . . . . . 99
+- Dinh Thi Lam, Katsuyuki Ichitani, Robert J. Henry and Ryuji Ishikawa
+- Molecular and Morphological Divergence of Australian Wild Rice
+- Reprinted from: Plants 2020, 9, 224, doi:10.3390/plants9020224 . . . . . . . . . . . . . . . . . . . . 113
+- Daiki Toyomoto, Masato Uemura, Satoru Taura, Tadashi Sato, Robert Henry, Ryuji Ishikawa
+- and Katsuyuki Ichitani
+- Segregation Distortion Observed in the Progeny of Crosses Between Oryza sativa and
+- O. meridionalis Caused by Abortion During Seed Development
+- Reprinted from: Plants 2019, 8, 398, doi:10.3390/plants8100398 . . . . . . . . . . . . . . . . . . . 129
+-                                                        v
+- Hayba Badro, Agnelo Furtado and Robert Henry
+- Relationships between Iraqi Rice Varieties at the Nuclear and Plastid Genome Levels
+- Reprinted from: Plants 2019, 8, 481, doi:10.3390/plants8110481 . . . . . . . . . . . . . . . . . . . 145
+- Peterson W. Wambugu, Marie-Noelle Ndjiondjop and Robert Henry
+- Advances in Molecular Genetics and Genomics of African Rice (Oryza glaberrima Steud)
+- Reprinted from: Plants 2019, 8, 376, doi:10.3390/plants8100376 . . . . . . . . . . . . . . . . . . . 159
+-                                                    vi
+- About the Editors
+- Katsuyuki Ichitani, Associate Professor in Kagoshima University.
+- Born in 1970
+- Graduated from Kyoto University, Japan, in 1993.
+- Lecturer of Kagoshima University, Japan, from 1998.
+- The degree of doctor was awarded in 1998.
+- Associate Professor of Faculty of Agriculture, Kagoshima University, Japan, from 2004.
+- Major academic ﬁeld is the genetics of agronomic traits and reproductive barrier in rice
+- Ryuji Ishikawa, Professor in Hirosaki University
+- Born in 1962
+- Graduated from Hokkaido University, Japan in 1985.
+- 1988 Assistant Professor in Faculty of Agriculture, Hirosaki University.
+- The degree of doctor was awarded in 1993.
+- 1993 Associate Professor in Faculty of Agriculture, Hirosaki University.
+- 1997 Associate Professor in Faculty of Agriculture and Life Science, Hirosaki University.
+- 2008 Professor in Faculty of Agriculture and Life Science, Hirosaki University.
+- Major academic ﬁeld is rice genetics, evolutionary genetics.

@@ -1,0 +1,78 @@
+# Discovery of Bioactive Compounds from Natural Organisms and Their Molecular Mechanisms against Diseases (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4900-0
+- 页数: 500
+- 全文: `text/mdpi/Discovery_of_Bioactive_Compounds_from_Natural_Organisms_and_Their_Molecular_Mechanisms_against_Diseases_2025.txt`
+- 标签: 毒作用机制/AOP, ms
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Nassima Boutaoui, Meryem Acila, Nesrine Lariche, Redouane Lemoui, Asma Khellaﬁ,
+- Cristina Campestre, et al.
+- Evaluation of the Anti-Inﬂammatory Activity of Microwave Extracts of Thymus algeriensis:
+- In Vitro, In Vivo, and In Silico Studies
+- Reprinted from: Analytica 2025, 6, 16, https://doi.org/10.3390/analytica6020016 . . . . . . . . .               1
+- Brandon Bernard, Himani Joshi and Peixin Fan
+- Menthol in Livestock: Unveiling Its Multifaceted Properties and Future Potential for
+- Sustainable Agriculture
+- Reprinted from: Int. J. Mol. Sci. 2025, 26, 2679, https://doi.org/10.3390/ijms26062679 . . . . . . 20
+- Chuang Liu, Jun Dang and Minchen Wu
+- Drug Target Investigation of N-p-Coumaroyl-N’- Caffeoylputrescine, a Naturally-Occurring
+- Alkaloid Derived from Saxifraga tangutica
+- Reprinted from: Antioxidants 2025, 14, 12, https://doi.org/10.3390/antiox14010012 . . . . . . . . 66
+- José Thyálisson da Costa Silva, Viviane Bezerra da Silva, Sabrina Bezerra da Silva,
+- Maria Ivaneide Rocha, Adrielle Rodrigues Costa, Jailson Renato de Lima Silva, et al.
+- Chemical Characterization and Biological Activity of Varronia curassavica Jacq. Essential Oil
+- (Boraginaceae) and In Silico Testing of α-Pinene
+- Reprinted from: Analytica 2024, 5, 499–511, https://doi.org/10.3390/analytica5040034 . . . . . . 86
+- José Thyálisson da Costa Silva, Saulo Almeida Menezes, Viviane Bezerra da Silva,
+- Maria Hellena Garcia Novais, Emílio Sousa Albuquerque, Rafael Albuquerque Franco, et al.
+- ADME/Tox Study, Phytochemical Analysis and In Vitro Antifungal Activity of Essential Oil
+- from Varronia curassavica Jacq. (Boraginaceae)
+- Reprinted from: Analytica 2024, 5, 440–450, https://doi.org/10.3390/analytica5030029 . . . . . . 99
+- Qing Ye, Mi Ren, Di Fan, Yicheng Mao and Yi-Zhun Zhu
+- Identiﬁcation and Validation of the miR/RAS/RUNX2 Autophagy Regulatory Network in
+- AngII-Induced Hypertensive Nephropathy in MPC5 Cells Treated with Hydrogen Sulﬁde
+- Donors
+- Reprinted from: Antioxidants 2024, 13, 958, https://doi.org/10.3390/antiox13080958 . . . . . . . 110
+- Samia S. Messeha, Meenakshi Agarwal, Sherif G. Gendy, Sheikh B. Mehboob and
+- Karam F. A. Soliman
+- The Anti-Obesogenic Effects of Muscadine Grapes through Ciliary Neurotrophic Factor
+- Receptor (Cntfr) and Histamine Receptor H1 (Hrh1) Genes in 3T3-L1 Differentiated Mouse Cells
+- Reprinted from: Nutrients 2024, 16, 1817, https://doi.org/10.3390/nu16121817 . . . . . . . . . . 135
+- Yan Huang, Xiaonan Zhang, Fajian Zeng, Jinmei Chang and Zhiwei Liu
+- Ultrasonic Pretreatment Combined with Microwave-Assisted Hydrodistillation for Extraction
+- of Essential Oil from Melaleuca bracteata ‘Revolution Gold’ Leaves Scales Induced by
+- Cellulase-Inorganic Salt and Its Anti-Fungal Activity
+- Reprinted from: Separations 2024, 11, 147, https://doi.org/10.3390/separations11050147 . . . . . 152
+- Qiong Xu, Heng Zhang, Haoren Qin, Huaqing Wang and Hui Wang
+- Norcantharidin Sensitizes Colorectal Cancer Cells to Radiotherapy via Reactive Oxygen
+- Species–DRP1-Mediated Mitochondrial Damage
+- Reprinted from: Antioxidants 2024, 13, 347, https://doi.org/10.3390/antiox13030347 . . . . . . . 164
+-                                                         v
+- Tsong-Hai Lee, Jiun-Liang Chen, Chuan-Hsin Chang, Ming-Ming Tsai, Hui-Ching Tseng,
+- Yu-Chia Chang, et al.
+- A Brain-Protective Sterol from Soft Coral Inhibits Lipopolysaccharide-Induced Matrix
+- Metalloproteinase-9-Mediated Astrocytic Migration
+- Reprinted from: Biomedicines 2024, 12, 226, https://doi.org/10.3390/biomedicines12010226 . . . 185
+- Zhong-Hao Ji, Song He, Wen-Yin Xie, Pei-Sen Zhao, Wen-Zhi Ren, Wei Gao and Bao Yuan
+- Agaricus blazei Polysaccharide Alleviates DSS-Induced Colitis in Mice by Modulating Intestinal
+- Barrier and Remodeling Metabolism
+- Reprinted from: Nutrients 2023, 15, 4877, https://doi.org/10.3390/nu15234877 . . . . . . . . . . 202
+- Jinghua Chen, Xiaoke Wu and Ruitao Yu
+- Unraveling the Therapeutic Mechanism of Saussurea involucrata against Rheumatoid Arthritis:
+- A Network Pharmacology and Molecular Modeling-Based Investigation
+- Reprinted from: Nutrients 2023, 15, 4294, https://doi.org/10.3390/nu15194294 . . . . . . . . . . 218
+- Jiwei Yang, Zhi Yan, Lingna Li, Lifen Zhang, Mengjian Zhao, Huixiang Yi, et al.
+- Green Extraction of Phenolic Compounds from Lotus (Nelumbo nucifera Gaertn) Leaf Using
+- Deep Eutectic Solvents: Process Optimization and Antioxidant Activity
+- Reprinted from: Separations 2023, 10, 272, https://doi.org/10.3390/separations10050272 . . . . . 238
+- Kanghong Hu, Huizhong Huang, Hanluo Li, Yanhong Wei and Chenguang Yao
+- Legume-Derived Bioactive Peptides in Type 2 Diabetes: Opportunities and Challenges
+- Reprinted from: Nutrients 2023, 15, 1096, https://doi.org/10.3390/nu15051096 . . . . . . . . . . 255
+- Antonina Klimenko, Robin Huber, Laurence Marcourt, Dmitry Tabakaev, Alexey Koval,
+- Salim Sh. Dautov, et al.
+- Shallow- and Deep-Water Ophiura Species Produce a Panel of Chlorin Compounds with Potent
+- Photodynamic Anticancer Activities

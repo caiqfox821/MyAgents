@@ -1,0 +1,80 @@
+# Advances in Clinical Diabetes, Obesity, and Metabolic Diseases (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-3829-5
+- 页数: 200
+- 全文: `text/mdpi/Advances_in_Clinical_Diabetes_Obesity_and_Metabolic_Diseases_2025.txt`
+- 标签: 肥胖/体重管理, 糖尿病, 代谢与心血管
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Yuzuru Ohshiro, Kunimasa Yagi and Yasuhiro Maeno
+- Editorial for the Special Issue “Advances in Clinical Diabetes, Obesity, and Metabolic Diseases”
+- Reprinted from: Medicina 2025, 61, 595, https://doi.org/10.3390/medicina61040595 . . . . . . .                    1
+- Kunimasa Yagi, Michiko Inagaki, Yuya Asada, Mako Komatsu, Fuka Ogawa, Tomomi
+- Horiguchi, et al.
+- Improved Glycemic Control through Robot-Assisted Remote Interview for Outpatients with
+- Type 2 Diabetes: A Pilot Study
+- Reprinted from: Medicina 2024, 60, 329, https://doi.org/10.3390/medicina60020329 . . . . . . .                    4
+- Toshitaka Sawamura, Shigehiro Karashima, Azusa Ohbatake, Takuya Higashitani, Ai
+- Ohmori, Kei Sawada, et al.
+- Effects of Switching from Degludec to Glargine U300 in Patients with Insulin-Dependent Type
+- 1 Diabetes: A Retrospective Study
+- Reprinted from: Medicina 2024, 60, 450, https://doi.org/10.3390/medicina60030450 . . . . . . . 17
+- Jawaria Ali Tariq, KaleemUllah Mandokhail, Naheed Sajjad, Abrar Hussain, Humera Javaid,
+- Aamir Rasool, et al.
+- Effects of Age and Biological Age-Determining Factors on Telomere Length in Type 2 Diabetes
+- Mellitus Patients
+- Reprinted from: Medicina 2024, 60, 698, https://doi.org/10.3390/medicina60050698 . . . . . . . 27
+- Andra-Elena Nica, Emilia Rusu, Carmen Dobjanschi, Florin Rusu, Claudia Sivu, Oana
+- Andreea Parlit, eanu and Gabriela Radulian
+- The Relationship between the Ewing Test, Sudoscan Cardiovascular Autonomic Neuropathy
+- Score and Cardiovascular Risk Score Calculated with SCORE2-Diabetes
+- Reprinted from: Medicina 2024, 60, 828, https://doi.org/10.3390/medicina60050828 . . . . . . . 43
+- Nilgun Tan Tabakoglu and Mehmet Celik
+- Investigation of the Systemic Immune Inflammation (SII) Index as an Indicator of Morbidity
+- and Mortality in Type 2 Diabetic Retinopathy Patients in a 4-Year Follow-Up Period
+- Reprinted from: Medicina 2024, 60, 855, https://doi.org/10.3390/medicina60060855 . . . . . . . 54
+- Haruna Arakawa and Masashi Inafuku
+- BCG Vaccination Suppresses Glucose Intolerance Progression in High-Fat-Diet-Fed C57BL/6
+- Mice
+- Reprinted from: Medicina 2024, 60, 866, https://doi.org/10.3390/medicina60060866 . . . . . . . 67
+- Eiji Kutoh, Alexandra N. Kuto, Rumiko Okada, Midori Akiyama and Rumi Kurihara
+- Diverse Strategies for Modulating Insulin Resistance: Causal or Consequential Inference on
+- Metabolic Parameters in Treatment-Naı̈ve Subjects with Type 2 Diabetes
+- Reprinted from: Medicina 2024, 60, 991, https://doi.org/10.3390/medicina60060991 . . . . . . . 80
+- Karol Graňák, Matej Vnučák, Monika Beliančinová, Patrı́cia Kleinová, Tı́mea Blichová,
+- Margaréta Pytliaková and Ivana Dedinská
+- Regular Physical Activity in the Prevention of Post-Transplant Diabetes Mellitus in Patients
+- after Kidney Transplantation
+- Reprinted from: Medicina 2024, 60, 1210, https://doi.org/10.3390/medicina60081210 . . . . . . . 98
+-                                                          v
+- Fulya Bakılan, Sultan Şan Kuşcu, Burcu Ortanca, Fezan Şahin Mutlu, Pınar Yıldız and Onur
+- Armağan
+- Ultrasonographic Achilles Tendon Measurements and Static and Dynamic Balance in
+- Prediabetes
+- Reprinted from: Medicina 2024, 60, 1349, https://doi.org/10.3390/medicina60081349 . . . . . . . 109
+- Khanh Ngoc Nguyen, Van Khanh Tran, Ngoc Lan Nguyen, Thi Bich Ngoc Can, Thi Kim
+- Giang Dang, Thu Ha Nguyen, et al.
+- Hyperornithinemia–Hyperammonemia–Homocitrullinuria Syndrome in Vietnamese Patients
+- Reprinted from: Medicina 2024, 60, 1877, https://doi.org/10.3390/medicina60111877 . . . . . . . 119
+- Miloš Vuković, Igor Nosek, Johannes Slotboom, Milica Medić Stojanoska and Duško Kozić
+- Neurometabolic Profile in Obese Patients: A Cerebral Multi-Voxel Magnetic Resonance
+- Spectroscopy Study
+- Reprinted from: Medicina 2024, 60, 1880, https://doi.org/10.3390/medicina60111880 . . . . . . . 131
+- Emilia Rusu, Eduard Lucian Catrina, Iulian Brezean, Ana Maria Georgescu, Alexandra
+- Vis, inescu, Daniel Andrei Vlad Georgescu, et al.
+- Lower Extremity Amputations Among Patients with Diabetes Mellitus: A Five-Year Analysis
+- in a Clinical Hospital in Bucharest, Romania
+- Reprinted from: Medicina 2024, 60, 2001, https://doi.org/10.3390/medicina60122001 . . . . . . . 149
+- Yuya Asada, Tomomi Horiguchi, Kunimasa Yagi, Mako Komatsu, Ayaka Yamashita, Ren
+- Ueta, et al.
+- Robot-Assisted Approach to Diabetes Care Consultations: Enhancing Patient Engagement and
+- Identifying Therapeutic Issues
+- Reprinted from: Medicina 2025, 61, 352, https://doi.org/10.3390/medicina61020352 . . . . . . . 161
+- Jung-Eun Han, Jun-Hwan Choi, So-Yeon Yoo, Gwan-Pyo Koh, Sang-Ah Lee, So-Young Lee
+- and Hyun-Jung Lee
+- Association of Nerve Conduction Study Variables with Hematologic Tests in Patients with Type
+- 2 Diabetes Mellitus

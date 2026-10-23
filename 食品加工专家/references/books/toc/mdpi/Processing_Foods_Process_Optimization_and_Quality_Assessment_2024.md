@@ -1,0 +1,81 @@
+# Processing Foods Process Optimization and Quality Assessment (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-7779-1
+- 页数: 216
+- 全文: `text/mdpi/Processing_Foods_Process_Optimization_and_Quality_Assessment_2024.txt`
+- PDF: `mdpi/Processing_Foods_Process_Optimization_and_Quality_Assessment_2024.pdf`
+- 标签: 工艺工程, 过程优化, 品质评价
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Péter Sipos and Milivoj Radojčin
+- Special Issue: Processing Foods: Process Optimization and Quality Assessment
+- Reprinted from: Processes 2023, 11, 851, doi:10.3390/pr11030851 . . . . . . . . . . . . . . . . . . .
+- 1
+- Charlène Leneveu-Jenvrin, Baptiste Quentin, Sophie Assemat and Fabienne Remize
+- Maintaining Physicochemical, Microbiological, and Sensory Quality of Pineapple Juice (Ananas
+- comosus, Var. ‘Queen Victoria’) through Mild Heat Treatment
+- Reprinted from: Processes 2020, 8, 1186, doi:10.3390/pr8091186 . . . . . . . . . . . . . . . . . . . .
+- 4
+- Norazlin Abdullah and Nyuk Ling Chin
+- Optimising Tropical Fruit Juice Quality Using Thermosonication-Assisted Extraction via
+- Blocked Face-Centered Composite Design
+- Reprinted from: Processes 2021, 9, 3, doi:10.3390/pr9010003 . . . . . . . . . . . . . . . . . . . . . . 15
+- Krzysztof Kucharczyk, Krzysztof Żyła and Tadeusz Tuszyński
+- Volatile Esters and Fusel Alcohol Concentrations in Beer Optimized by Modulation of Main
+- Fermentation Parameters in an Industrial Plant
+- Reprinted from: Processes 2020, 8, 769, doi:10.3390/pr8070769 . . . . . . . . . . . . . . . . . . . . . 30
+- Kexin Bi, Tong Qiu and Yizhen Huang
+- A Deep Learning Method for Yogurt Preferences Prediction Using Sensory Attributes
+- Reprinted from: Processes 2020, 8, 518, doi:10.3390/pr8050518 . . . . . . . . . . . . . . . . . . . . . 42
+- Eszter Benes, Marietta Fodor, Sándor Kovács and Attila Gere
+- Application of Detrended Fluctuation Analysis and Yield Stability Index to Evaluate Near
+- Infrared Spectra of Green and Roasted Coffee Samples
+- Reprinted from: Processes 2020, 8, 913, doi:10.3390/pr8080913 . . . . . . . . . . . . . . . . . . . . . 55
+- Milivoj Radojčin, Ivan Pavkov, Danijela Bursać Kovačević, Predrag Putnik, Artur Wiktor,
+- Zoran Stamenković, et al.
+- Effect of Selected Drying Methods and Emerging Drying Intensiﬁcation Technologies on the
+- Quality of Dried Fruit: A Review
+- Reprinted from: Processes 2021, 9, 132, doi:10.3390/pr9010132 . . . . . . . . . . . . . . . . . . . . . 69
+- Ivan Pavkov, Milivoj Radojčin, Zoran Stamenković, Krstan Kešelj, Urszula Tylewicz,
+- Péter Sipos, et al.
+- Effects of Osmotic Dehydration on the Hot Air Drying of Apricot Halves: Drying Kinetics, Mass
+- Transfer, and Shrinkage
+- Reprinted from: Processes 2021, 9, 202, doi:10.3390/pr9020202 . . . . . . . . . . . . . . . . . . . . . 90
+- Goran Šarić, Nada Vahčić, Danijela Bursać Kovačević and Predrag Putnik
+- The Changes of Flavonoids in Honey during Storage
+- Reprinted from: Processes 2020, 8, 943, doi:10.3390/pr8080943 . . . . . . . . . . . . . . . . . . . . . 112
+- Maja Repajić, Ena Cegledi, Valentina Kruk, Sandra Pedisić, Fırat Çınar,
+- Danijela Bursać Kovačević, et al.
+- Accelerated Solvent Extraction as a Green Tool for the Recovery of Polyphenols and Pigments
+- from Wild Nettle Leaves
+- Reprinted from: Processes 2020, 8, 803, doi:10.3390/pr8070803 . . . . . . . . . . . . . . . . . . . . . 123
+- v
+- Arijit Nath, Burak Atilla Eren, Attila Csighy, Klára Pásztorné-Huszár, Gabriella Kiskó,
+- László Abrankó, et al.
+- Production of Liquid Milk Protein Concentrate with Antioxidant Capacity, Angiotensin
+- Converting Enzyme Inhibitory Activity, Antibacterial Activity, and Hypoallergenic Property
+- by Membrane Filtration and Enzymatic Modiﬁcation of Proteins
+- Reprinted from: Processes 2020, 8, 871, doi:10.3390/pr8070871 . . . . . . . . . . . . . . . . . . . . . 142
+- Róbert Nagy, Endre Máthé, János Csapó and Péter Sipos
+- Modifying Effects of Physical Processes on Starch and Dietary Fiber Content of Foodstuffs
+- Reprinted from: Processes 2021, 9, 17, doi:10.3390/pr9010017 . . . . . . . . . . . . . . . . . . . . . 167
+- Hubert Luzdemio Arteaga Miñano, Ana Carolina de Sousa Silva, Sergio Paulo Amaral Souto
+- and Ernane José Xavier Costa
+- Magnetic Fields in Food Processing Perspectives, Applications and Action Models
+- Reprinted from: Processes 2020, 8, 814, doi:10.3390/pr8070814 . . . . . . . . . . . . . . . . . . . . . 183
+- Anna Rygala, Joanna Berlowska and Dorota Kregiel
+- Heterotrophic Plate Count for Bottled Water Safety Management
+- Reprinted from: Processes 2020, 8, 739, doi:10.3390/pr8060739 . . . . . . . . . . . . . . . . . . . . . 194
+- vi
+- About the Editors
+- Péter Sipos
+- Péter Sipos, Ph.D., is a professor at the Faculty of Agricultural and Food Sciences and
+- Environmental Sciences, University of Debrecen, and a member of the Hungarian Biophysical
+- Society. With his technical and agronomic background, his research activities have focused mainly
+- on the processing and qualiﬁcation of cereals, other grain crops and horticultural products for
+- more than 20 years. His research covers different ﬁelds of sustainable and cost-effective physical
+- processing methods, with an emphasis on the nutritional aspects of bioactive compounds and the
+- safety of foodstuffs. His current research interests include the development of high-biological-value

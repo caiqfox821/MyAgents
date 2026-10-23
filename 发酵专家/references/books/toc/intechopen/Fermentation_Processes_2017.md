@@ -1,0 +1,69 @@
+# Fermentation Processes (2017, IntechOpen)
+
+- 许可: CC BY 3.0
+- 来源: https://www.intechopen.com/books/5305
+- 页数: 314
+- 全文: `text/intechopen/Fermentation_Processes_2017.txt`
+- PDF: `intechopen/Fermentation_Processes_2017.pdf`
+- 标签: 发酵工艺, 菌种, 动力学建模
+
+## 目录 (Contents)
+
+-      Foreword XI
+-      Section 1   Fermentation Process 1
+-      Chapter 1   Importance of the Fermentation to Produce
+-                  High-Quality Silage 3
+-                  Thiago Carvalho da Silva, Leandro Diego da Silva, Edson Mauro
+-                  Santos, Juliana Silva Oliveira and Alexandre Fernandes Perazzo
+-      Chapter 2   Fermentation and Redox Potential 23
+-                  Chen-Guang Liu, Jin-Cheng Qin and Yen-Han Lin
+-      Chapter 3   Solid-State Fermentation in a Bag Bioreactor: Effect of Corn
+-                  Cob Mixed with Phytopathogen Biomass on Spore and
+-                  Cellulase Production by Trichoderma asperellum 43
+-                  Reynaldo De la Cruz-Quiroz, Sevastianos Roussos, Daniel
+-                  Hernandez-Castillo, Raúl Rodríguez-Herrera, Lluvia Itzel López-
+-                  López, Francisco Castillo and Cristóbal Noé Aguilar
+-      Chapter 4   Characterization of the Solid-State and Liquid Fermentation for
+-                  the Production of Laccases of Pleurotus ostreatus 57
+-                  Gerardo Díaz-Godínez, Maura Téllez-Téllez, Carmen Sánchez and
+-                  Rubén Díaz
+-      Section 2   Fermentation Parameters and Modeling 75
+-      Chapter 5   Factors Affecting Rumen Fermentation Using Batch Culture
+-                  Technique 77
+-                  WenZhu Yang
+-      Chapter 6   Kinetic Modeling of 1‐G Ethanol Fermentations 93
+-                  Samuel C. Oliveira, Dile P. Stremel, Eduardo C. Dechechi and Félix M.
+-                  Pereira
+- X   Contents
+-                 Chapter 7   Microbial Population Optimization for Control and
+-                             Improvement of Dark Hydrogen Fermentation 119
+-                             Sompong O‐Thong
+-                 Chapter 8   Biosensors in Fermentation Applications 145
+-                             Jianguo Shi, Derong Feng and Yiwei Li
+-                 Section 3   Products from Fermentation Process 159
+-                 Chapter 9   Biogas - Turning Waste into Clean Energy 161
+-                             Otávio Bravim da Silva, Lucas Silva Carvalho, Gabriela Carneiro de
+-                             Almeida, Juliana Davies de Oliveira, Talita Souza Carmo and Nádia
+-                             Skorupa Parachin
+-                Chapter 10   Production Processes for Monoclonal Antibodies 181
+-                             Lucas Silva Carvalho, Otávio Bravim da Silva, Gabriela Carneiro de
+-                             Almeida, Juliana Davies de Oliveira, Nadia Skorupa Parachin and
+-                             Talita Souza Carmo
+-                Chapter 11   Production of Lipopeptides by Fermentation Processes:
+-                             Endophytic Bacteria, Fermentation Strategies and Easy
+-                             Methods for Bacterial Selection 199
+-                             Esteban Beltran-Gracia, Gloria Macedo-Raygoza, Juan Villafaña-
+-                             Rojas, America Martinez-Rodriguez, Yur Yenova Chavez-Castrillon,
+-                             Froylan M. Espinosa-Escalante, Paolo Di Mascio, Tetsuya Ogura and
+-                             Miguel J. Beltran-Garcia
+-                Chapter 12   Lactic Acid Bacteria and Fermentation of Cereals and
+-                             Pseudocereals 223
+-                             Denisa Liptáková, Zuzana Matejčeková and Ľubomír Valík
+-                Chapter 13   Solid-State Culture for Lignocellulases Production 255
+-                             Ulises Durán Hinojosa, Leticia Soto Vázquez, Isabel de la Luz
+-                             Membrillo Venegas, Mayola García Rivero, Gabriela Zafra Jiménez,
+-                             Sergio Esteban Vigueras Carmona and María Aurora Martínez
+-                             Trujillo
+-                Chapter 14   Anaerobic Digestion: I. A Common Process Ensuring Energy
+-                             Flow and the Circulation of Matter in Ecosystems. II. A Tool for
+-                             the Production of Gaseous Biofuels 271

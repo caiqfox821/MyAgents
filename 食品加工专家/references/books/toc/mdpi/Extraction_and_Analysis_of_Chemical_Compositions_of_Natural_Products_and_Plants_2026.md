@@ -1,0 +1,81 @@
+# Extraction and Analysis of Chemical Compositions of Natural Products and Plants (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8626-5
+- 页数: 224
+- 全文: `text/mdpi/Extraction_and_Analysis_of_Chemical_Compositions_of_Natural_Products_and_Plants_2026.txt`
+- PDF: `mdpi/Extraction_and_Analysis_of_Chemical_Compositions_of_Natural_Products_and_Plants_2026.pdf`
+- 标签: 天然产物, 提取, 分析
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Fabian Alperth, Sebastian Erhart, Olaf Kunert and Franz Bucar
+- Simple Green Puriﬁcation of Spilanthol from Natural Deep Eutectic Solvent and Ethanolic
+- Acmella oleracea (L.) R.K. Jansen Extracts Using Solid-Phase Extraction
+- Reprinted from: Separations 2024, 11, 251, https://doi.org/10.3390/separations11080251 . . . . .
+- 1
+- N. Evelin Paucar, Shanae Van Leuven, Karl De Jesus, Srinath Pashikanti, Sameena Mateen,
+- Samjhana Pradhan and Kavita Sharma
+- Synthesis and Biological Evaluation of Desacetylmatricarin Derivatives Isolated from Basin Big
+- Sagebrush
+- Reprinted from: Separations 2024, 11, 217, https://doi.org/10.3390/separations11070217 . . . . . 15
+- Xiaodong Xin, Xinnong Li, Jiabao Chen, Chuanghui Shen, Xiaohan Shi, Lei Wang and
+- Chunhua Li
+- Effects of Extraction Methods on Volatile Oil Proﬁles of Cinnamomi ramulus–Zingiberis rhizoma
+- recens Couplet Medicines
+- Reprinted from: Separations 2024, 11, 206, https://doi.org/10.3390/separations11070206 . . . . . 24
+- Wen-Wen Deng, Bo Sun, Han Yang, Xiao-Jie Hou, Yong-Jian Zhang, Tian-Xiang Gan, et al.
+- Enhanced Antioxidant Extraction from Lonicerae japonicae Flos Based on a Novel Optimization
+- Strategy with Tailored Deep Eutectic Solvents
+- Reprinted from: Separations 2024, 11, 189, https://doi.org/10.3390/separations11060189 . . . . . 42
+- Zhou Xu, Xiaomei Da, Jipeng Qu and Shiming Xiao
+- Natural Deep Eutectic Solvent-Based Ultrasound-Assisted Extraction of Flavonoids from
+- Fagopyrum tataricum Bran
+- Reprinted from: Separations 2024, 11, 145, https://doi.org/10.3390/separations11050145 . . . . . 61
+- Alexandre Janeiro, Ana Lima, Filipe Arruda, Tanner Wortham, Tânia Rodrigues,
+- José Baptista and Elisabete Lima
+- Variations in Essential Oil Biological Activities of Female Cones at Different Developmental
+- Stages from Azorean Cryptomeria japonica (Thunb. ex L.f.) D. Don (Cupressaceae)
+- Reprinted from: Separations 2024, 11, 102, https://doi.org/10.3390/separations11040102 . . . . . 77
+- Zineb Timizar, Khalida Boutemak, Amel Hadj Ziane-Zafour, Nabil Touzout,
+- Hichem Tahraoui, Bassem Jaouadi, et al.
+- Comprehensive Analysis of Phytochemical Composition, Antioxidant Potential, and
+- Antibacterial Activity of T. polium
+- Reprinted from: Separations 2024, 11, 90, https://doi.org/10.3390/separations11040090 . . . . . 93
+- Bo Wang, Changcai Bai and Yuanyuan Zhang
+- Paeoniae Radix Alba and Network Pharmacology Approach for Osteoarthritis: A Review
+- Reprinted from: Separations 2024, 11, 184, https://doi.org/10.3390/separations11060184 . . . . . 110
+- Roberto Castro-Muñoz
+- Nanoﬁltration-Assisted Concentration Processes of Phenolic Fractions and Carotenoids from
+- Natural Food Matrices
+- Reprinted from: Separations 2024, 11, 64, https://doi.org/10.3390/separations11020064 . . . . . 136
+- v
+- Weiwei Zhou, Jun Li, Xuefeng Wang, Ling Liu, Yun Li, Rui Song, et al.
+- Research Progress on Extraction, Separation, and Puriﬁcation Methods of Plant Essential Oils
+- Reprinted from: Separations 2023, 10, 596, https://doi.org/10.3390/separations10120596 . . . . . 166
+- Espérance Debs, Anna-Maria Abi-Khattar, Hiba N. Rajha, Roula M. Abdel-Massih,
+- Jean-Claude Assaf, Mohamed Koubaa, et al.
+- Valorization of Olive Leaves through Polyphenol Recovery Using Innovative Pretreatments and
+- Extraction Techniques: An Updated Review
+- Reprinted from: Separations 2023, 10, 587, https://doi.org/10.3390/separations10120587 . . . . . 183
+- vi
+- About the Editor
+- Xiumei Li
+- Xiumei Li is currently afﬁliated with the Institute of Feed Research of CAAS, where she
+- is mainly engaged in scientiﬁc research related to the interaction between natural products and
+- intestinal ﬂora, as well as the development of natural products, focusing on carrying out systematic
+- research in the ﬁeld of natural products and plant chemical components. Her main research interests
+- include extraction process optimization and the development of efﬁcient separation technologies for
+- natural products and plant chemical components, alongside in-depth investigation of the interaction
+- mechanisms between intestinal ﬂora and plant chemical components. Building on research practice,
+- she is committed to promoting the efﬁcient exploration and diversiﬁed utilization of natural product
+- resources and facilitating the industrial transformation of natural products in related ﬁelds. In recent
+- years, she has achieved signiﬁcant research outcomes, publishing more than 50 SCI papers, many
+- of which have been published in international core journals such as Separations, with prominent
+- academic inﬂuence. She has obtained more than 20 authorized invention patents, forming a number
+- of technically valuable achievements. Her research has been successfully applied in the practice
+- of natural product development, feed additive research and development, and intestinal health
+- protection, providing important support for the innovative development of the natural product

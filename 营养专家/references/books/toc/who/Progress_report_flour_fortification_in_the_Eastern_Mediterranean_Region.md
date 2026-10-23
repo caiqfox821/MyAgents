@@ -1,0 +1,73 @@
+# Progress report: flour fortification in the Eastern Mediterranean Region (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/121930
+- 页数: 10
+- 全文: `text/who/Progress_report_flour_fortification_in_the_Eastern_Mediterranean_Region.txt`
+- 标签: 食品强化
+
+## 目录 (Contents)
+
+- I.   INTRODUCTION ........... " ................................................................................................ 1
+- 2.   RATIONALE ..................................................................................................................... 1
+- 3.   ESTABLISHMENT OF THE MI FUND .......................................................................... 1
+- 4.   ACTIVITIES IMPLEMENTED UNDER THE MI FUND .............................................. 2
+- 5.   REGIONAL ACTIVITIES ................................................................................................ 3
+- 6.   COUNTRY ACTIVITIES ................................................................................................. 5
+- 7.   FORTIFICATION STATUS AS OF 1 JUNE 2001 ........................................................... 6
+- 8.   ISSUES .............................................................................................................................. 6
+- 9.   FUTURE OF FLOUR FORTIFICATION IN THE REGION ........................................... 8
+-      Annexes
+-                                      EM/RC48/INF.DOC.6
+- 1.    INTRODUCTION
+-        Iron deficiency anaemia is a serious public health problem in all countries of the Eastern
+- Mediterranean Region of the World Health Organization (WHO), and can have a profound
+- effect on psychological and physical development, behaviour and work performance. It is the
+- most common nutritional disorder, both in the Region and in the world as a whole.
+-        lt is estimated that around 23 million children in the Region suffer from vitamin A
+- deficiency. At least 150 million people are at risk of iodine deficiency disorders (IDD), but at
+- least 200 million people, are estimated to be iron deficient. Women of childbearing age,
+- young children, school-age children and adolescents are affected. These estimates of iron
+- deficiency are based on surveys in many countries of the Region, most of which looked at
+- anaemia using haemoglobin values as the indicator.
+-       One of major characteristics of anaemia in the Region is that it only affects small
+- proportions of healthy, adult men, suggesting that most of the high prevalence of anaemia
+- seen in women and children is due to iron deficiency. In most countries malaria is not a
+- problem, and the prevalence of anaemia seems to be relatively independent of income, as the
+- high-income countries are equally affected. Haemoglobin levels seem not to be extremely
+- low; rather one can speak of an epidemic of unsatisfactory haemoglobin levels. If, as has been
+- postulated, for each individual with anaemia there is another individual who is already iron
+- deficient, then the size of the problem becomes overwhelming indeed.
+-       The main causes of iron deficiency in the Region are a combination of factors. Total
+- iron intakes are low, with the main sources being non-haeme iron. The iron consumed has a
+- low bioavailability. due to very high intakes of inhibitors such as tea and low intake of
+- enhancers, such as fresh fruits or meat. The Region's high birth rates and short birth intervals,
+- and the high prevalence of parasitic infestations lead to both high losses and high
+- requirements of iron.
+- 2.    RATIONALE
+-       Bread consumption is high in most countries of the Region. Flour fortitication therefore
+- offers an opportunity to deliver efficacious levels of iron to reduce the prevalence of iron
+- deficiency and anaemia, and to cover a large part of the vulnerable population, at low cost.
+- This strategy is now being implemented in a number of countries in the Region under the
+- Micronutrient Initiative (MI) Fund for Accelerating the Establishment of National Scale Flour
+- Fortification Projects in Countries of the Eastern Mediterranean Region.
+- 3.    ESTABLISHMENT OF THE MI FUND
+-        In October 1995, WHO and UNICEF organized a technical consultation in Teheran,
+- Islamic Republic of Iran to develop guidelines for the control of iron deticiency in countries
+- of the Region. Strategies agreed upon included efTective supplementation programmes.
+- effective public education to achieve appropriate dietary modifications. promotion of breast·
+-                                     EMlRC48/INF.DOC.6
+-                                             Page 2
+- feeding and adequate complementary feeding, control of parasitic infections, family planning
+- for health and fortification of suitable foods.
+-        For centuries, bread has been a staple food of life for people of the Eastern
+- Mediterranean. Flour consumption in the Region is among the highest in the world: on
+- average 150 kg are consumed per person per year, more than twice the world average of 71 kg
+- per person per year. This offers an opportunity to deliver efficacious levels of iron to reduce
+- the prevalence of iron deficiency and anaemia at low cost. The consultation recommended
+- that countries of the Region explore the feasibility of flour fortification as a long-term
+- strategy, given that it had already proved to be the most effective means of improving iron
+- intake in industrialized countries. A joint WHO, UNICEF and MI strategy development
+- workshop was therefore held in Oman in 1996, to examine the practical implications of flour
+- fortification and build consensus on regional standards. Several countries started preliminary
+- work, and a few actually embarked on fortification of flour with iron and folate.

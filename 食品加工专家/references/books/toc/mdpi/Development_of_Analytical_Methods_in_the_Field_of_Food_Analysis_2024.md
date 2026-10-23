@@ -1,0 +1,81 @@
+# Development of Analytical Methods in the Field of Food Analysis (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-9811-6
+- 页数: 198
+- 全文: `text/mdpi/Development_of_Analytical_Methods_in_the_Field_of_Food_Analysis_2024.txt`
+- PDF: `mdpi/Development_of_Analytical_Methods_in_the_Field_of_Food_Analysis_2024.pdf`
+- 标签: 食品分析, 分析方法, 检测
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ix
+- Qiuyu Lan, Silvia Tappi, Giacomo Braschi, Gianfranco Picone, Pietro Rocculi and Luca Laghi
+- Effect of High Hydrostatic Pressure on the Metabolite Proﬁle of Striped Prawn
+- (Melicertus kerathurus) during Chilled Storage
+- Reprinted from: Foods 2022, 11, 3677, doi:10.3390/foods11223677 . . . . . . . . . . . . . . . . . . .
+- 1
+- Assefa Takele, José Marı́a Palacios-Santander and Miguel Palma
+- A New Electrochemical Method to Determine Tryptophan in Fruit Juices: Development and
+- Validation
+- Reprinted from: Foods 2022, 11, 2149, doi:10.3390/foods11142149 . . . . . . . . . . . . . . . . . . . 17
+- Belete Eshetu Gebreyohannes, Simiso Dube and Mathew Muzi Nindi
+- Simultaneous Determination of Multiple Contaminants in Chicken Liver Using Dispersive
+- Liquid-Liquid Microextraction (DLLME) Detected by LC-HRMS/MS
+- Reprinted from: Foods 2023, 12, 2594, doi:10.3390/foods12132594 . . . . . . . . . . . . . . . . . . . 33
+- Anastassia Bljahhina, Maria Kuhtinskaja and Tiina Kriščiunaite
+- Development of Extraction Method for Determination of Saponins in Soybean-Based Yoghurt
+- Alternatives: Effect of Sample pH
+- Reprinted from: Foods 2023, 12, 2164, doi:10.3390/foods12112164 . . . . . . . . . . . . . . . . . . . 49
+- Miles Gibson, Benita Claire Percival, Mark Edgar and Martin Grootveld
+- Low-Field Benchtop NMR Spectroscopy for Quantiﬁcation of Aldehydic Lipid Oxidation
+- Products in Culinary Oils during Shallow Frying Episodes
+- Reprinted from: Foods 2023, 12, 1254, doi:10.3390/foods12061254 . . . . . . . . . . . . . . . . . . . 63
+- Anastassia Bljahhina, Dmitri Pismennõi, Tiina Kriščiunaite, Maria Kuhtinskaja and
+- Eeva-Gerda Kobrin
+- Quantitative Analysis of Oat (Avena sativa L.) and Pea (Pisum sativum L.) Saponins in
+- Plant-Based Food Products by Hydrophilic Interaction Liquid Chromatography Coupled with
+- Mass Spectrometry
+- Reprinted from: Foods 2023, 12, 991, doi:10.3390/foods12050991 . . . . . . . . . . . . . . . . . . . 99
+- Arunee Danudol and Kunchit Judprasong
+- Development and Method Validation of Butyric Acid and Milk Fat Analysis in Butter Blends
+- and Blended Milk Products by GC-FID
+- Reprinted from: Foods 2022, 11, 3606, doi:10.3390/foods11223606 . . . . . . . . . . . . . . . . . . . 115
+- Ricardo Vera-Bravo, Angela V. Hernández, Steven Peña, Carolina Alarcón, Alix E. Loaiza and
+- Crispı́n A. Celis
+- Cheese Whey Milk Adulteration Determination Using Casein Glycomacropeptide as
+- an Indicator by HPLC
+- Reprinted from: Foods 2022, 11, 3201, doi:10.3390/foods11203201 . . . . . . . . . . . . . . . . . . . 127
+- Chenglin Zhu, Zhibo Yang, Li He, Xuan Lu, Junni Tang and Luca Laghi
+- The Longer the Storage Time, the Higher the Price, the Better the Quality? A 1 H-NMR Based
+- Metabolomic Investigation of Aged Ya’an Tibetan Tea (Camellia sinensis)
+- Reprinted from: Foods 2022, 11, 2986, doi:10.3390/foods11192986 . . . . . . . . . . . . . . . . . . . 139
+- v
+- Xin Zhao, Jianying Feng, Luca Laghi, Jing Deng, Xiaofang Dao, Junni Tang, et al.
+- Characterization of Flavor Proﬁle of “Nanx Wudl” Sour Meat Fermented from Goose and Pork
+- Using Gas Chromatography–Ion Mobility Spectrometry (GC–IMS) Combined with Electronic
+- Nose and Tongue
+- Reprinted from: Foods 2023, 12, 2194, doi:10.3390/foods12112194 . . . . . . . . . . . . . . . . . . . 151
+- Sean Chia, Gavin Teo, Shi Jie Tay, Larry Sai Weng Loo, Corrine Wan, Lyn Chiin Sim, et al.
+- An Integrative Glycomic Approach for Quantitative Meat Species Proﬁling
+- Reprinted from: Foods 2022, 11, 1952, doi:10.3390/foods11131952 . . . . . . . . . . . . . . . . . . . 169
+- vi
+- About the Editor
+- Gianfranco Picone
+- Gianfranco Picone achieved in 2009 a European Ph.D. in Food Science, Technology, and
+- Biotechnology at the University of Bologna. Since 2010, he has been involved in several projects
+- concerning the metabolomics evaluation of the effects of enriched food on patients affected by
+- chronic diseases such as Crohn’s disease, Diverticulitis, and Constipation, using HF 1H-NMR. These
+- studies are based on the principles of metabolomics and nutrimetabolomics. During these years, he
+- acquired broad competence in food analysis, working also on the assessment of in vitro digested food,
+- speciﬁcally focusing the research on food rich in protein such as dairy products, meat, and ﬁsh. He
+- participates in different national and international projects; he has worked on the project CHANCE,
+- PATHWAY, ECOPROLIVE, FOODBALL, FutureEUAqua, NewTechAqua, and BIOZOOSTAIN. He is
+- coordinating the Project (SOE 0000116) “Metabolomics Approach for the assessment of Baby-Mother
+- Enteric microbiota Legacy (MABEL)” funded under the National Recovery and Resilience Plan
+- (PNRR) of the Italian Ministry of Education, University and Research (MIUR), designed to support
+- researchers who obtain a Seal of Excellence for a Mary Curie Project. He achieved scientiﬁc results,
+- as displayed in more than 50 papers, through an effective collaboration with several research groups.
+- vii

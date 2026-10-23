@@ -1,0 +1,74 @@
+# Novel Analytical Methods in Food Analysis (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-5815-8
+- 页数: 236
+- 全文: `text/mdpi/Novel_Analytical_Methods_in_Food_Analysis_2022.txt`
+- 标签: risk, tox, ms
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Philippe Delahaut and Riccardo Marega
+- Novel Analytical Methods in Food Analysis
+- Reprinted from: Foods 2022, 11, 1512, doi:10.3390/foods11101512 . . . . . . . . . . . . . . . . . . .          1
+- Safiye Jafari, Julian Guercetti, Ariadni Geballa-Koukoula, Aristeidis S. Tsagkaris, Joost L. D.
+- Nelis and M.-Pilar Marco et al.
+- ASSURED Point-of-Need Food Safety Screening: A Critical Assessment of Portable Food
+- Analyzers
+- Reprinted from: Foods 2021, 10, 1399, doi:10.3390/foods10061399 . . . . . . . . . . . . . . . . . . .          5
+- Jérémy Marchand, Yann Guitton, Estelle Martineau, Anne-Lise Royer, David Balgoma and
+- Bruno Le Bizec et al.
+- Extending the Lipidome Coverage by Combining Different Mass Spectrometric Platforms: An
+- Innovative Strategy to Answer Chemical Food Safety Issues
+- Reprinted from: Foods 2021, 10, 1218, doi:10.3390/foods10061218 . . . . . . . . . . . . . . . . . . . 33
+- Aldert A. Bergwerff and Sylvia B. Debast
+- Modernization of Control of Pathogenic Micro-Organisms in the Food-Chain Requires a
+- Durable Role for Immunoaffinity-Based Detection Methodology—A Review
+- Reprinted from: Foods 2021, 10, 832, doi:10.3390/foods10040832 . . . . . . . . . . . . . . . . . . . 49
+- Maxime Gavage, Philippe Delahaut and Nathalie Gillard
+- Suitability of High-Resolution Mass Spectrometry for Routine Analysis of Small Molecules in
+- Food, Feed and Water for Safety and Authenticity Purposes: A Review
+- Reprinted from: Foods 2021, 10, 601, doi:10.3390/foods10030601 . . . . . . . . . . . . . . . . . . . 105
+- Aristeidis S. Tsagkaris, Jana Pulkrabova and Jana Hajslova
+- Optical Screening Methods for Pesticide Residue Detection in Food Matrices: Advances and
+- Emerging Analytical Trends
+- Reprinted from: Foods 2021, 10, 88, doi:10.3390/foods10010088 . . . . . . . . . . . . . . . . . . . . 125
+- Jan Pietschmann, Dominik Dittmann, Holger Spiegel, Hans-Joachim Krause and Florian
+- Schröper
+- A Novel Method for Antibiotic Detection in Milk Based on Competitive
+- Magnetic Immunodetection
+- Reprinted from: Foods 2020, 9, 1773, doi:10.3390/foods9121773 . . . . . . . . . . . . . . . . . . . . 147
+- Tito Damiani, Rosa M. Alonso-Salces, Inés Aubone, Vincent Baeten, Quentin Arnould and
+- Chiara Dall’Asta et al.
+- Vibrational Spectroscopy Coupled to a Multivariate Analysis Tiered Approach for Argentinean
+- Honey Provenance Confirmation
+- Reprinted from: Foods 2020, 9, 1450, doi:10.3390/foods9101450 . . . . . . . . . . . . . . . . . . . . 161
+- Katja Walpurgis, Andreas Thomas, Hans Geyer, Ute Mareck and Mario Thevis
+- Dietary Supplement and Food Contaminations and Their Implications for Doping Controls
+- Reprinted from: Foods 2020, 9, 1012, doi:10.3390/foods9081012 . . . . . . . . . . . . . . . . . . . . 177
+-                                                        v
+- Masahiro Kuragano, Wataru Yoshinari, Xuguang Lin, Keiya Shimamori, Koji Uwai and
+- Kiyotaka Tokuraku
+- Evaluation of Amyloid 42 Aggregation Inhibitory Activity of Commercial Dressings by A
+- Microliter-Scale High-Throughput Screening System Using Quantum-Dot Nanoprobes
+- Reprinted from: Foods 2020, 9, 825, doi:10.3390/foods9060825 . . . . . . . . . . . . . . . . . . . . . 199
+- Stefanie Schelm, Melanie Siemt, Janin Pfeiffer, Christina Lang, Hans-Volker Tichy and
+- Markus Fischer
+- Food Authentication: Identification and Quantitation of Different Tuber Species via Capillary
+- Gel Electrophoresis and Real-Time PCR
+- Reprinted from: Foods 2020, 9, 501, doi:10.3390/foods9040501 . . . . . . . . . . . . . . . . . . . . . 211
+-                                                     vi
+- About the Editors
+- Philippe Delahaut
+-      Philippe Delahaut graduated in veterinary medicine in 1974 from the University of Liège. In
+- collaboration with Department of Obstetrics of the Faculty of Veterinary Medicine, he created the
+- Applied Hormonology Laboratory in Marloie (Belgium), which aimed at developing laboratory
+- techniques for early diagnosis of pregnancy and of radioimmunological assay, under the supervision
+- of Prof Ectors and Beckers.       Subsequently, he was largely involved in the development of
+- immunological assays for the detection of residues of anabolic substances in foodstuffs of animal
+- origin. These techniques have been widely used by official control laboratories. With experience in
+- the development of reagents and in particular antibodies, he participated to several European projects
+- in calls FP5, 6, and 7 frameworks (Biocop, Moniqa, Conffidence), as well as Eurostar (Go With The
+- Flow). He is the author of more than 100 publications, as well as several presentations at international
+- congresses/regulatory bodies’symposia.

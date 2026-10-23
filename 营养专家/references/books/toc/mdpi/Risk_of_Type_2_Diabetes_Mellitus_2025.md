@@ -1,0 +1,71 @@
+# Risk of Type 2 Diabetes Mellitus (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-4714-3
+- 页数: 160
+- 全文: `text/mdpi/Risk_of_Type_2_Diabetes_Mellitus_2025.txt`
+- 标签: 糖尿病
+
+## 目录 (Contents)
+
+- Andrej Belančić, Martina Matovinović and Bojan Jelaković
+- The Risk of Type 2 Diabetes Mellitus: Cardiorenometabolic Syndrome and Its Components—A
+- Call to Action
+- Reprinted from: Diabetology 2025, 6, 57, https://doi.org/10.3390/diabetology6070057 . . . . . .   1
+- Savannah Nelson, Tasha A. Butler, Amanda Martinez, Jessica Bianco, Delilah Blanco
+- and Nicholas W. Carris
+- Impact of an Ambulatory Clinical Pharmacy Population Health Initiative on HbA1c Reduction
+- and Value-Based Measures: A Retrospective, Single-Center Cohort Study
+- Reprinted from: Diabetology 2024, 5, 45, https://doi.org/10.3390/diabetology5060045 . . . . . .   4
+- Tânia Nascimento, Margarida Espı́rito-Santo, Adriana Gonçalves, Ezequiel Pinto,
+- Ana Luı́sa De Sousa-Coelho and Maria Dulce Estêvão
+- Potential Impact of Metabolic Syndrome Control on Cardiovascular Risk in Elderly Patients
+- with Diabetes: A Cross-Sectional Study
+- Reprinted from: Diabetology 2024, 5, 24, https://doi.org/10.3390/diabetology5030024 . . . . . . 12
+- Israel O. Bolanle, Gillian A. Durham, James P. Hobkirk, Mahmoud Loubani,
+- Roger G. Sturmey and Timothy M. Palmer
+- Do T2DM and Hyperglycaemia Affect the Expression Levels of the Regulating Enzymes of
+- Cellular O-GlcNAcylation in Human Saphenous Vein Smooth Muscle Cells?
+- Reprinted from: Diabetology 2024, 5, 13, https://doi.org/10.3390/diabetology5020013 . . . . . . 24
+- Vladimir Ercegović, Monika Džimbeg and Andrea Gelemanović
+- Genetic Susceptibility of Type 2 Diabetes and Metabolic Syndrome
+- Reprinted from: Diabetology 2025, 6, 11, https://doi.org/10.3390/diabetology6020011 . . . . . . 40
+- Iva Vukelić, Branislav Šuša, Sanja Klobučar, Sunčica Buljević, Ana-Marija Liberati Pršo,
+- Andrej Belančić, et al.
+- Exosome-Derived microRNAs: Bridging the Gap Between Obesity and Type 2 Diabetes in
+- Diagnosis and Treatment
+- Reprinted from: Diabetology 2024, 5, 52, https://doi.org/10.3390/diabetology5070052 . . . . . . 57
+- Sandra Knežević, Francesca Filippi-Arriaga, Andrej Belančić, Tamara Božina,
+- Jasenka Mršić-Pelčić and Dinko Vitezić
+- Metabolic Syndrome Drug Therapy: The Potential Interplay of Pharmacogenetics and
+- Pharmacokinetic Interactions in Clinical Practice: A Narrative Review
+- Reprinted from: Diabetology 2024, 5, 31, https://doi.org/10.3390/diabetology5040031 . . . . . . 76
+- Filip Mustač, Martina Matovinović, Tin Galijašević, Maja Škarić, Eva Podolski, Toma Perko
+- and Darko Marčinko
+- A Review of the Literature Relationship between Psychological Eating Patterns and the Risk of
+- Type 2 Diabetes Mellitus and Metabolic Syndrome
+- Reprinted from: Diabetology 2024, 5, 28, https://doi.org/10.3390/diabetology5040028 . . . . . . 100
+- Eugen Javor, David Šarčević and Arnes Rešić
+- Metabolic Syndrome and Pharmacological Interventions in Clinical Development
+- Reprinted from: Diabetology 2024, 5, 23, https://doi.org/10.3390/diabetology5030023 . . . . . . 110
+-                                                  v
+- Sayed Alireza Mousavi Zadeh, Giuseppe Caminiti, Maurizio Aracri, Massimo Pieri,
+- Anna Paola Mitterhofer, Antonino De Lorenzo, et al.
+- Comparative Analysis of Cardiovascular Outcomes in Type 2 Diabetes Patients Engaging in
+- Aerobic, Resistance, and Combined Training: A Systematic Review
+- Reprinted from: Diabetology 2025, 6, 38, https://doi.org/10.3390/diabetology6050038 . . . . . . 131
+-                                                 vi
+- Editorial
+- The Risk of Type 2 Diabetes Mellitus: Cardiorenometabolic
+- Syndrome and Its Components—A Call to Action
+- Andrej Belančić 1, *, Martina Matovinović 2 and Bojan Jelaković 3,4
+-                    1      Department of Basic and Clinical Pharmacology and Toxicology, Faculty of Medicine, University of Rijeka,
+-                           51000 Rijeka, Croatia
+-                    2      Department of Internal Medicine, Division of Endocrinology, University Hospital Center Zagreb,
+-                           10000 Zagreb, Croatia; martina_10000@yahoo.com
+-                    3      School of Medicine, University of Zagreb, 10000 Zagreb, Croatia; jelakovic.bojan@gmail.com
+-                    4      Department of Nephrology, Hypertension, Dialysis and Transplantation, University Hospital Centre Zagreb,
+-                           10000 Zagreb, Croatia
+-                    *      Correspondence: andrej.belancic@uniri.hr
+-                    1. Introduction
+-                         Cardiorenometabolic syndrome, a constellation of interrelated risk factors including

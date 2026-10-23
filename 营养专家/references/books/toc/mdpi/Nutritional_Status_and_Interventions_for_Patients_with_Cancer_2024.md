@@ -1,0 +1,80 @@
+# Nutritional Status and Interventions for Patients with Cancer (2024, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-1234-9
+- 页数: 176
+- 全文: `text/mdpi/Nutritional_Status_and_Interventions_for_Patients_with_Cancer_2024.txt`
+- 标签: 肿瘤营养
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Hanneke A. H. Wijnhoven, Loı̈s van der Velden, Carolina Broek, Marleen Broekhuizen,
+- Patricia Bruynzeel, Antoinette van Breen, et al.
+- Validation of the Visual/Verbal Analogue Scale of Food Ingesta (Ingesta-VVAS) in Oncology
+- Patients Undergoing Chemotherapy
+- Reprinted from: Nutrients 2022, 14, 3515, doi:10.3390/nu14173515 . . . . . . . . . . . . . . . . . .           1
+- Pierre Martin, Damien Botsen, Mathias Brugel, Eric Bertin, Claire Carlier,
+- Rachid Mahmoudi, et al.
+- Association of Low Handgrip Strength with Chemotherapy Toxicity in Digestive Cancer
+- Patients: A Comprehensive Observational Cohort Study (FIGHTDIGOTOX)
+- Reprinted from: Nutrients 2022, 14, 4448, doi:10.3390/nu14214448 . . . . . . . . . . . . . . . . . . 12
+- Padmanabha Ganeshkodi Roopashree, Shilpa S. Shetty, Vijith Vittal Shetty and
+- Suchetha Kumari Nalilu
+- Medium-Chain Fatty Acids and Breast Cancer Risk by Receptor and Pathological Subtypes
+- Reprinted from: Nutrients 2022, 14, 5351, doi:10.3390/nu14245351 . . . . . . . . . . . . . . . . . . 25
+- Diogo Sousa-Catita, Cláudia Ferreira-Santos, Paulo Mascarenhas, Cátia Oliveira,
+- Raquel Madeira, Carla Adriana Santos, et al.
+- Malnutrition, Cancer Stage and Gastrostomy Timing as Markers of Poor Outcomes in
+- Gastrostomy-Fed Head and Neck Cancer Patients
+- Reprinted from: Nutrients 2023, 15, 662, doi:10.3390/nu15030662 . . . . . . . . . . . . . . . . . . . 38
+- Marco Cintoni, Futura Grassi, Marta Palombaro, Emanuele Rinninella, Gabriele Pulcini,
+- Agnese Di Donato, et al.
+- Nutritional Interventions during Chemotherapy for Pancreatic Cancer: A Systematic Review of
+- Prospective Studies
+- Reprinted from: Nutrients 2023, 15, 727, doi:10.3390/nu15030727 . . . . . . . . . . . . . . . . . . . 51
+- Rebecca Ahlin, Natalja P. Nørskov, Sanna Nybacka, Rikard Landberg, Viktor Skokic,
+- Johan Stranne, et al.
+- Effects on Serum Hormone Concentrations after a Dietary Phytoestrogen Intervention in
+- Patients with Prostate Cancer: A Randomized Controlled Trial
+- Reprinted from: Nutrients 2023, 15, 1792, doi:10.3390/nu15071792 . . . . . . . . . . . . . . . . . . 66
+- Dinko Martinovic, Daria Tokic, Ema Puizina Mladinic, Mislav Usljebrka, Sanja Kadic,
+- Antonella Lesin, et al.
+- Nutritional Management of Patients with Head and Neck Cancer—A Comprehensive Review
+- Reprinted from: Nutrients 2023, 15, 1864, doi:10.3390/nu15081864 . . . . . . . . . . . . . . . . . . 82
+- Renata Menozzi, Filippo Valoriani, Roberto Ballarin, Luca Alemanno, Martina Vinciguerra,
+- Riccardo Barbieri, et al.
+- Impact of Nutritional Status on Postoperative Outcomes in Cancer Patients following Elective
+- Pancreatic Surgery
+- Reprinted from: Nutrients 2023, 15, 1958, doi:10.3390/nu15081958 . . . . . . . . . . . . . . . . . . 96
+- Marta Correia, Ines Moreira, Sonia Cabral, Carolina Castro, Andreia Cruz,
+- Bruno Magalhães, et al.
+- Neoadjuvant Gastric Cancer Treatment and Associated Nutritional Critical Domains for the
+- Optimization of Care Pathways: A Systematic Review
+- Reprinted from: Nutrients 2023, 15, 2241, doi:10.3390/nu15102241 . . . . . . . . . . . . . . . . . . 107
+-                                                        v
+- Rebekah L. Wilson, Jacqueline Soja, Alexandra G. Yunker, Hajime Uno, Erin Gordon,
+- Tabitha Cooney, et al.
+- Obesity Risk of Pediatric Central Nervous System Tumor Survivors: A Cross-Sectional Study
+- Reprinted from: Nutrients 2023, 15, 2269, doi:10.3390/nu15102269 . . . . . . . . . . . . . . . . . . 129
+- Thierry Galvez, Ikrame Berkane, Simon Thézenas, Marie-Claude Eberlé, Nicolas Flori,
+- Sophie Guillemard, et al.
+- Identiﬁcation of 18 F-FDG PET/CT Parameters Associated with Weight Loss in Patients with
+- Esophageal Cancer
+- Reprinted from: Nutrients 2023, 15, 3042, doi:10.3390/nu15133042 . . . . . . . . . . . . . . . . . . 141
+- Ebru Melekoglu, Ertugrul Bayram, Saban Secmeler, Burak Mete and Berksoy Sahin
+- Pretreatment Modiﬁed Glasgow Prognostic Score for Predicting Prognosis and Survival in
+- Elderly Patients with Gastric Cancer Treated with Perioperative FLOT
+- Reprinted from: Nutrients 2023, 15, 4156, doi:10.3390/nu15194156 . . . . . . . . . . . . . . . . . . 153
+-                                                    vi
+- About the Editors
+- Nuno Borges
+-      Nuno Borges is a Nutritionist and currently an Associate Professor at the Faculty of Nutrition
+- and Food Sciences, University of Porto, Portugal. He is presently researching the relationships
+- between muscular function, nutritional status, and health outcomes in some diseases. Research
+- interests also include pharmacology and drug–nutrient interactions.
+- Fernando Mendes
+-      Fernando Mendes (FM) is a Coordinator Professor at the Biomedical Laboratory Sciences
+- Scientiﬁc-Pedagogical Unit at Polytechnic University of Coimbra being an effective member of the
+- Health & Technology Research Center, and a researcher collaborator at the Center for Innovative
+- Biomedicine and Biotechnology at the University of Coimbra. He has published 30 full-text papers,

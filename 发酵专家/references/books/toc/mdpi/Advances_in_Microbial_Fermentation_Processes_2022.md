@@ -1,0 +1,71 @@
+# Advances in Microbial Fermentation Processes (2022, MDPI)
+
+- 许可: CC BY
+- 来源: https://doi.org/10.3390/books978-3-0365-4010-8
+- 页数: 222
+- 全文: `text/mdpi/Advances_in_Microbial_Fermentation_Processes_2022.txt`
+- PDF: `mdpi/Advances_in_Microbial_Fermentation_Processes_2022.pdf`
+- 标签: 发酵工艺, 生物制造
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Advances in Microbial Fermentation Processes” . . . . . . . . . . . . . . . . . . . .             ix
+- Maria Tufariello and Francesco Grieco
+- Advances in Microbial Fermentation Processes
+- Reprinted from: Processes 2021, 9, 1371, doi:10.3390/pr9081371 . . . . . . . . . . . . . . . . . . . .         1
+- Xinxin Wang, Jiachen Zhao, Jianye Xia, Guan Wang, Ju Chu and Yingping Zhuang
+- Impact of Altered Trehalose Metabolism on Physiological Response of Penicillium chrysogenum
+- Chemostat Cultures during Industrially Relevant Rapid Feast/Famine Conditions
+- Reprinted from: Processes 2021, 9, 118, doi:10.3390/pr9010118 . . . . . . . . . . . . . . . . . . . . .        5
+- Siti Helmyati, Karina Muthia Shanti, Fahmi Tiara Sari, Martha Puspita Sari, Dominikus
+- Raditya Atmaka, Rio Aditya Pratama, Maria Wigati, Setyo Utami Wisnusanti,
+- Fatma Zuhrotun Nisa’ and Endang Sutriswati Rahayu
+- Synbiotic Fermented Milk with Double Fortiﬁcation (Fe-Zn) as a Strategy to Address Stunting:
+- A Randomized Controlled Trial among Children under Five in Yogyakarta, Indonesia
+- Reprinted from: Processes 2021, 9, 543, doi:10.3390/pr9030543 . . . . . . . . . . . . . . . . . . . . . 21
+- Ida Bagus Agung Yogeswara, Suwapat Kittibunchakul, Endang Sutriswati Rahayu,
+- Konrad J. Domig, Dietmar Haltrich and Thu Ha Nguyen
+- Microbial Production and Enzymatic Biosynthesis of γ-Aminobutyric Acid (GABA) Using
+- Lactobacillus plantarum FNCC 260 Isolated from Indonesian Fermented Foods
+- Reprinted from: Processes 2021, 9, 22, doi:10.3390/pr9010022 . . . . . . . . . . . . . . . . . . . . . 33
+- Xinxin Li, Xiuhong Wang, Xiangyuan Shi, Baoping Wang, Meiping Li, Qi Wang and
+- Shengwan Zhang
+- Antifungal Effect of Volatile Organic Compounds from Bacillus velezensis CT32 against
+- Verticillium dahliae and Fusarium oxysporum
+- Reprinted from: Processes 2020, 8, 1674, doi:10.3390/pr8121674 . . . . . . . . . . . . . . . . . . . . 51
+- Kwanruthai Malairuang, Morakot Krajang, Jatuporn Sukna, Krongchan Rattanapradit and
+- Saethawat Chamsart
+- High Cell Density Cultivation of Saccharomyces cerevisiae with Intensive Multiple Sequential
+- Batches Together with a Novel Technique of Fed-Batch at Cell Level (FBC)
+- Reprinted from: Processes 2020, 8, 1321, doi:10.3390/pr8101321 . . . . . . . . . . . . . . . . . . . . 65
+- Jeferyd Yepes-Garcı́a, Carlos Caicedo-Montoya, Laura Pinilla, León F. Toro and
+- Rigoberto Rı́os-Estepa
+- Morphological Differentiation of Streptomyces clavuligerus Exposed to Diverse Environmental
+- Conditions and Its Relationship with Clavulanic Acid Biosynthesis
+- Reprinted from: Processes 2020, 8, 1038, doi:10.3390/pr8091038 . . . . . . . . . . . . . . . . . . . . 91
+- Krešimir Mastanjević, Brankica Kartalović, Leona Puljić, Dragan Kovačević and
+- Kristina Habschied
+- Inﬂuence of Different Smoking Procedures on Polycyclic Aromatic Hydrocarbons Formation in
+- Traditional Dry Sausage Hercegovačka kobasica
+- Reprinted from: Processes 2020, 8, 918, doi:10.3390/pr8080918 . . . . . . . . . . . . . . . . . . . . 109
+-                                                        v
+- Kwanruthai Malairuang, Morakot Krajang, Rapeepong Rotsattarat and Saethawat Chamsart
+- Intensive Multiple Sequential Batch Simultaneous Sacchariﬁcation and Cultivation of
+- Kluyveromyces marxianus SS106 Thermotolerant Yeast Strain for Single-Step Ethanol
+- Fermentation from Raw Cassava Starch
+- Reprinted from: Processes 2020, 8, 898, doi:10.3390/pr8080898 . . . . . . . . . . . . . . . . . . . . . 117
+- Chao Wang, Lin Sun, Haiwen Xu, Na Na, Guomei Yin, Sibo Liu, Yun Jiang and Yanlin Xue
+- Microbial Communities, Metabolites, Fermentation Quality and Aerobic Stability of
+- Whole-Plant Corn Silage Collected from Family Farms in Desert Steppe of North China
+- Reprinted from: Processes 2021, 9, 784, doi:10.3390/pr9050784 . . . . . . . . . . . . . . . . . . . . . 133
+- Chao Wang, Hongyan Han, Lin Sun, Na Na, Haiwen Xu, Shujuan Chang, Yun Jiang and
+- Yanlin Xue
+- Bacterial Succession Pattern during the Fermentation Process in Whole-Plant Corn Silage
+- Processed in Different Geographical Areas of Northern China
+- Reprinted from: Processes 2021, 9, 900, doi:10.3390/pr9050900 . . . . . . . . . . . . . . . . . . . . . 149
+- Panagiota Stamatopoulou, Juliet Malkowski, Leandro Conrado, Kennedy Brown and
+- Matthew Scarborough
+- Fermentation of Organic Residues to Beneﬁcial Chemicals: A Review of Medium-Chain Fatty
+- Acid Production
+- Reprinted from: Processes 2020, 8, 1571, doi:10.3390/pr8121571 . . . . . . . . . . . . . . . . . . . . 169

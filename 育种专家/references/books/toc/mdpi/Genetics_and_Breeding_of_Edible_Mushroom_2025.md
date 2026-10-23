@@ -1,0 +1,80 @@
+# Genetics and Breeding of Edible Mushroom (2025, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/11672
+- 页数: 190
+- 全文: `text/mdpi/Genetics_and_Breeding_of_Edible_Mushroom_2025.txt`
+- 标签: 食用菌, 遗传育种
+
+## 目录 (Contents)
+
+- Kaisheng Shao, Qiuyu Feng, Fangjie Yao, Lixin Lu, Ming Fang, Xiaoxu Ma, et al.
+- Construction of an SNP Fingerprinting Database and Population Genetic Analysis of Auricularia
+- heimuer
+- Reprinted from: Agriculture 2025, 15, 884, https://doi.org/10.3390/agriculture15080884 . . . . .   1
+- Qian Li, Xuebing Ying, Yashu Yang and Wei Gao
+- Genetic Diversity and Genome-Wide Association Study of Pleurotus pulmonarius Germplasm
+- Reprinted from: Agriculture 2024, 14, 2023, https://doi.org/10.3390/agriculture14112023 . . . . 15
+- Tianqiao Yong, Yuanchao Liu, Manjun Cai, Lijun Zhuo, Xiaoxian Wu, Huiyang Guo, et al.
+- Genomic Inference Unveils Population Bottlenecks and a North-to-South Migration Pattern of
+- Wild Cordyceps militaris Across China
+- Reprinted from: Agriculture 2025, 15, 686, https://doi.org/10.3390/agriculture15070686 . . . . . 34
+- Qi He, Chenyang Huang, Lijiao Zhang, Wei Gao and Mengran Zhao
+- The Molecular Mechanism of Mycelial Incubation Time Effects on Primordium Formation of
+- Pleurotus tuoliensis Through Transcriptome and Lipidomic Analyses
+- Reprinted from: Agriculture 2024, 14, 2277, https://doi.org/10.3390/agriculture14122277 . . . . 53
+- Xianqi Shan, Fangjie Yao, Lixin Lu, Ming Fang, Jia Lu and Xu Sun
+- Study of the Degradation and Utilization of Cellulose from Auricularia heimuer and the Gene
+- Expression Level of Its Decomposition Enzyme
+- Reprinted from: Agriculture 2024, 14, 2027, https://doi.org/10.3390/agriculture14112027 . . . . 71
+- Sheng Wang, Jintao Li, Qi Fan, Shufang Wang, Changwei Sun and Meixia Yan
+- Transcriptome Analysis of Ganoderma lingzhi Liquid Fermentation Process Using Corn Straw as
+- Matrix
+- Reprinted from: Agriculture 2024, 14, 1271, https://doi.org/10.3390/agriculture14081271 . . . . 94
+- Yihan Liu, Yuan Luo, Wenzhong Guo, Xin Zhang, Wengang Zheng and Xiaoli Chen
+- Study on the Effects of Different Light Supply Modes on the Development and Extracellular
+- Enzyme Activity of Ganoderma lucidum
+- Reprinted from: Agriculture 2024, 14, 835, https://doi.org/10.3390/agriculture14060835 . . . . . 114
+- Jintao Li, Sheng Wang, Qi Fan, Linling Liu, Yanliang Gao, Changwei Sun, et al.
+- ISSR-Assisted Breeding of Excellent New Strains of Ganoderma lingzhi through Single-Spore
+- Selﬁng
+- Reprinted from: Agriculture 2024, 14, 745, https://doi.org/10.3390/agriculture14050745 . . . . . 127
+- Qimeng Liu, Shaoxiong Liu, Jianying Li, Junbo Zhang, Fan Zhou, Xi Luo, et al.
+- High Resistance and Yield: A New Cultivar ‘ZJLZS002’ of Lyophyllum decastes Suitable for
+- Industrial Cultivation
+- Reprinted from: Agriculture 2025, 15, 1045, https://doi.org/10.3390/agriculture15101045 . . . . 140
+- Yuanchao Liu, Tianqiao Yong, Manjun Cai, Xiaoxian Wu, Huiyang Guo, Yizhen Xie, et al.
+- Exploring the Potential of Russula griseocarnosa: A Molecular Ecology Perspective
+- Reprinted from: Agriculture 2024, 14, 879, https://doi.org/10.3390/agriculture14060879 . . . . . 157
+-                                                  v
+- Article
+- Construction of an SNP Fingerprinting Database and Population
+- Genetic Analysis of Auricularia heimuer
+- Kaisheng Shao 1 , Qiuyu Feng 1 , Fangjie Yao 1,2, *, Lixin Lu 2 , Ming Fang 2 , Xiaoxu Ma 2 and Xu Sun 1
+-                    1   Engineering Research Centre of Chinese Ministry of Education for Edible and Medicinal Fungi,
+-                        Jilin Agricultural University, Changchun 130118, China; shaoks217@163.com (K.S.);
+-                        17643420266@163.com (Q.F.); sunxu0512@163.com (X.S.)
+-                    2   Laboratory of the Genetic Breeding of Edible Mushroom, College of Horticulture, Jilin Agricultural University,
+-                        Changchun 130118, China; lixinl@jlau.edu.cn (L.L.); fangming@jlau.edu.cn (M.F.);
+-                        maxiaoxu@jlau.edu.cn (X.M.)
+-                    *   Correspondence: yaofj@jlau.edu.cn
+-                    Abstract: Auricularia heimuer is the second most widely cultivated edible fungus in China,
+-                    with signiﬁcant food and medicinal value, and is highly popular throughout Asia and glob-
+-                    ally. However, the differentiation of A. heimuer is simple, as its morphology is characterized
+-                    by a small “black disc”, making it difﬁcult to distinguish among germplasms with highly
+-                    similar agronomic traits, thus posing challenges for germplasm identiﬁcation. To address
+-                    this issue, this study conducted whole-genome resequencing analysis on 150 A. heimuer
+-                    germplasms. Through ﬁltering 9,589,911 SNPs obtained from 280 G resequencing data, a
+-                    total of 1,202,947 high-quality SNP sites were identiﬁed. Based on these high-quality SNPs,
+-                    population structure analysis, principal component analysis (PCA), and phylogenetic tree
+-                    analysis revealed that the 150 A. heimuer germplasms could be divided into ﬁve groups,
+-                    with wild strains from the same geographical origin exhibiting signiﬁcant geographical
+-                    clustering patterns. This ﬁnding underscores the relationship between the genetic diversity
+-                    of wild A. heimuer and its geographical distribution in China. A further selection of 71 SNP
+-                    sites was made, and 61 KASP markers were successfully developed using kompetitive
+-                    allele-speciﬁc PCR (KASP) technology, with 54 of them demonstrating good polymorphism.
+-                    The average values for the polymorphism information content (PIC), minor allele frequency
+-                    (MAF), gene diversity, and heterozygosity of these core KASP markers were 0.34, 0.35, 0.34,
+-                    and 0.43, respectively. Based on the 54 core KASP markers, a DNA ﬁngerprinting map of
+-                    the 150 A. heimuer germplasms was constructed in this study. The ﬁndings provide impor-
+-                    tant molecular marker resources and theoretical support for the identiﬁcation of A. heimuer

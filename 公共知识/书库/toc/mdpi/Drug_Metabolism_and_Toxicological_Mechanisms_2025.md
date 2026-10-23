@@ -1,0 +1,79 @@
+# Drug Metabolism and Toxicological Mechanisms (2025, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-5190-4
+- 页数: 214
+- 全文: `text/mdpi/Drug_Metabolism_and_Toxicological_Mechanisms_2025.txt`
+- 标签: risk, 毒作用机制/AOP, 毒代与代谢
+
+## 目录 (Contents)
+
+- About the Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Qi Wang, Youbo Zhang and An Zhu
+- Drug Metabolism and Toxicological Mechanisms
+- Reprinted from: Toxics 2025, 13, 464, https://doi.org/10.3390/toxics13060464 . . . . . . . . . . .             1
+- Jin Tian, Yubin Zhuang, Yinuo Liu, Yihong Zheng, Xuyang Liu, Shiyu Lin, et al.
+- ROS-Mediated Unfolded Protein Response Activation Drives Hepatocyte Apoptosis in
+- Mesaconitine-Induced Liver Injury
+- Reprinted from: Toxics 2025, 13, 155, https://doi.org/10.3390/toxics13030155 . . . . . . . . . . .             9
+- Satariya Trakulsrichai, Kanokrat Chuayaupakarn, Phantakan Tansuwannarat, Panee Rittilert,
+- Achara Tongpoo, Charuwan Sriapha and Winai Wananukul
+- Ethephon Poisoning: Clinical Characteristics and Outcomes
+- Reprinted from: Toxics 2025, 13, 115, https://doi.org/10.3390/toxics13020115 . . . . . . . . . . . 22
+- Kai-Xing Lin, Zi-Yao Wu, Mei-Lin Qin and Huai-Cai Zeng
+- Bisphenol S Induces Lipid Metabolism Disorders in HepG2 and SK-Hep-1 Cells via Oxidative
+- Stress
+- Reprinted from: Toxics 2025, 13, 44, https://doi.org/10.3390/toxics13010044 . . . . . . . . . . . . 33
+- Allan Cristian Gonçalves, Aline Meireles Coelho, Maria Laura da Cruz Castro, Renata Rebeca
+- Pereira, Natalia Pereira da Silva Araújo, Flávia Monteiro Ferreira, et al.
+- Modulation of Paracetamol-Induced Hepatotoxicity by Acute and Chronic Ethanol Consumption
+- in Mice: A Study Pilot
+- Reprinted from: Toxics 2024, 12, 857, https://doi.org/10.3390/toxics12120857 . . . . . . . . . . . 48
+- Jiufeng Yin, Hui Wang, Feng Zhao, Dan Liang, Wenqing Yang and Dan Zhang
+- The Acute Toxicity and Cardiotoxic Effects of Protocatechuic Aldehyde on Juvenile Zebraﬁsh
+- Reprinted from: Toxics 2024, 12, 799, https://doi.org/10.3390/toxics12110799 . . . . . . . . . . . 71
+- Jinlan Yang, Sheng Xiao, Ludi Li, An Zhu, Wusheng Xiao and Qi Wang
+- Actin Dysregulation Mediates Nephrotoxicity of Cassiae Semen Aqueous Extracts
+- Reprinted from: Toxics 2024, 12, 556, https://doi.org/10.3390/toxics12080556 . . . . . . . . . . . 87
+- Jiyeong Kim and Seong Joon Ahn
+- Risk Factors of Optic Neuropathy in Ethambutol Users: Interaction with Isoniazid and Other
+- Associated Conditions of Toxic Optic Neuropathy
+- Reprinted from: Toxics 2024, 12, 549, https://doi.org/10.3390/toxics12080549 . . . . . . . . . . . 106
+- Meiqi Wan, Hua Gao, Xiaoyan Liu and Youbo Zhang
+- Rutaecarpine Aggravates Acetaminophen-Induced Acute Liver Injury by Inducing CYP1A2
+- Reprinted from: Toxics 2024, 12, 515, https://doi.org/10.3390/toxics12070515 . . . . . . . . . . . 118
+- Miao Gao, Ting Liu, Kairui Hu, Songling Chen, Shixin Wang, Di Gan, et al.
+- Ribosomal Dysregulation in Metastatic Laryngeal Squamous Cell Carcinoma: Proteomic Insights
+- and CX-5461’s Therapeutic Promise
+- Reprinted from: Toxics 2024, 12, 363, https://doi.org/10.3390/toxics12050363 . . . . . . . . . . . 130
+- Qibin Wu, Xinyue Gao, Yifan Lin, Caijin Wu, Jian Zhang, Mengting Chen, et al.
+- Integrating Epigenetics, Proteomics, and Metabolomics to Reveal the Involvement of
+- Wnt/β-Catenin Signaling Pathway in Oridonin-Induced Reproductive Toxicity
+- Reprinted from: Toxics 2024, 12, 339, https://doi.org/10.3390/toxics12050339 . . . . . . . . . . . 149
+-                                                        v
+- Cunhao Bian, Xin He, Qi Wang, Zhe Zheng, Yongtai Zhang, Hongli Xiong, et al.
+- Biochemical Toxicological Study of Insulin Overdose in Rats: A Forensic Perspective
+- Reprinted from: Toxics 2024, 12, 17, https://doi.org/10.3390/toxics12010017 . . . . . . . . . . . . 174
+- Mohammed Alrashed, Norah S. Aldeghaither, Shatha Y. Almutairi, Meshari Almutairi,
+- Abdulrhman Alghamdi, Tariq Alqahtani, et al.
+- The Perils of Methanol Exposure: Insights into Toxicity and Clinical Management
+- Reprinted from: Toxics 2024, 12, 924, https://doi.org/10.3390/toxics12120924 . . . . . . . . . . . 191
+-                                                   vi
+- About the Editors
+- Qi Wang
+-      Qi Wang is a Professor of Toxicology at School of Public Health, Peking University. Qi Wang
+- earned her PhD in Medicinal Chemistry from Peking University. Her research has been funded by
+- the National Key Research and Development Program, the National Natural Science Foundation of
+- China (NSFC), and the Ministry of Education of China. She has published over 100 papers in journals
+- including Phytomedicine and Science of the Total Environment. Her research focuses on the mechanisms
+- of drug metabolism and toxicity, computational toxicology, PBK modeling, and human health risk
+- assessment.
+- Youbo Zhang
+-      Youbo Zhang is an Associate Professor and Master’s Supervisor at Peking University’s School of
+- Pharmaceutical Science. Youbo Zhang holds a Ph.D. from Peking University, and previously worked
+- as a postdoctoral fellow at National Institutes of Health (NIH), USA. He is also a researcher at Henan
+- Engineering Research Center for Technology of Medicinal and Edible Traditional Chinese Medicine,
+- the High-Tech Leading Talent, Xuzhou City, Jiangsu Province, and the director of Huanshenghui
+- (Beijing) Biotechnology Research Institute. He is the member of Chinese Medicine Chemistry
+- Committee, and Chinese Medicine Analysis Committee, China Association of Chinese Medicine. His
+- research interests include the analysis of active constituents in traditional Chinese medicine and their

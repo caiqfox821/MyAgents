@@ -1,0 +1,80 @@
+# Guideline: fortification of rice with vitamins and minerals as a public health strategy (n.d., World Health Organization)
+
+- 许可: CC BY-NC-SA 3.0 IGO（WHO 开放获取）
+- 来源: https://iris.who.int/handle/10665/272535
+- 页数: 62
+- 全文: `text/who/Guideline_fortification_of_rice_with_vitamins_and_minerals_as_a_public_health_strategy.txt`
+- 标签: 维生素, 食品强化
+
+## 目录 (Contents)
+
+-    Publication history                                                                                          vii
+-    Acknowledgements                                                                                             vii
+-    Financial support                                                                                           viii
+-    Executive summary                                                                                             1
+-            Purpose of the guideline                                                                              1
+-            Summary of the evidence                                                                               2
+-            Recommendations                                                                                       3
+-            Remarks                                                                                               3
+-            Research priorities                                                                                   4
+-            Guideline development methodology                                                                     5
+-            Plans for updating the guideline                                                                      6
+-    Scope and purpose                                                                                            7
+-    Background                                                                                                   7
+-    Objectives                                                                                                  10
+-    Summary of the evidence                                                                                     10
+-            Effects of rice fortification with vitamins and minerals (iron, vitamin A, zinc or folic acid)      10
+-            on micronutrient status and health-related outcomes in the general population
+-            Nutrient stability in fortified rice                                                                14
+-    Recommendations                                                                                             15
+-    Remarks                                                                                                     15
+-    Research priorities                                                                                         16
+-    Dissemination, implementation and ethical considerations                                                    17
+-            Dissemination                                                                                       17
+-            Equity, human rights and implementation considerations                                              18
+-            Regulatory considerations                                                                           20
+-            Ethical considerations                                                                              21
+-    Monitoring and evaluation of guideline implementation                                                       23
+-    Guideline development process                                                                               24
+-            Advisory groups                                                                                     24
+-            Scope of the guideline, evidence appraisal and decision-making                                      25
+-            Management of competing interests                                                                   26
+-    Plans for updating the guideline                                                                            27
+-    References                                                                                                  28
+-                             GUIDELINE: FORTIFICATION OF RICE WITH VITAMINS AND MINERALS AS A PUBLIC HEALTH STRATEGY   v
+-      Annex 1.     GRADE summary of findings tables                                             34
+-      Annex 2.     Questions in population, intervention, control, outcomes (PICO) format       39
+-      Annex 3.     Summary of the considerations of the members of the guideline development 43
+-                   group – nutrition actions 2013–2014 for determining the strength of the
+-                   recommendations
+-      Annex 4.     World Health Organization/United States Centers for Disease Control and      44
+-                   Prevention logic model for micronutrient interventions in public health
+-      Annex 5.     WHO steering committee for food fortification                                45
+-      Annex 6.     WHO guideline development groups                                             46
+-      Annex 7.     External resource experts                                                    49
+-      Annex 8.     Peer-reviewers                                                               50
+-      Annex 9.     WHO Secretariat                                                              51
+- vi   GUIDELINE: FORTIFICATION OF RICE WITH VITAMINS AND MINERALS AS A PUBLIC HEALTH STRATEGY
+- PUBLICATION HISTORY
+-        This Guideline: fortification of rice with vitamins and minerals as a public health strategy, is the first
+-        evidence-informed guideline from the World Health Organization (WHO) for this intervention with
+-        this specific food vehicle – rice. The focus of this document is on the use of this intervention as a
+-        public health strategy and not on market-driven fortification of rice.1 Given the many types of rice
+-        consumed in various countries worldwide as food vehicles for fortification, as well as an update on
+-        the process currently used in fortification of rice kernels, a separate guideline for this food vehicle
+-        was deemed necessary. In order to produce this guideline, the rigorous procedures described
+-        in the WHO handbook for guideline development were followed. This guideline complements the
+-        WHO/FAO (Food and Agriculture Organization of the United Nations) Guidelines on food fortification
+-        with micronutrients (2006) and the Pan American Health Organization publication, Iron compounds
+-        for food fortification: guidelines for Latin America and the Caribbean 2002. This document expands
+-        the sections on dissemination and updates the summary of evidence used for the guideline, based
+-        on the most recent systematic and narrative reviews on the topic.
+- ACKNOWLEDGEMENTS
+-        This guideline was coordinated by the World Health Organization (WHO) Evidence and Programme
+-        Guidance Unit, Department of Nutrition for Health and Development. Dr Maria Nieves Garcia-
+-        Casal, Dr Juan Pablo Peña-Rosas and Dr Lisa Rogers oversaw the planning and development of this
+-        guideline. Dr Maria Nieves Garcia-Casal led the preparation of this document. WHO acknowledges
+-        the technical contributions of the following individuals (in alphabetical order): Mr Filiberto Beltran,
+-        Ms Evelyn Boy-Mena and Mr Gerardo Zamora.
+-              We would like to express our gratitude to Dr Susan Norris from the WHO Guidelines Review
+-        Committee Secretariat, and members of the Guidelines Review Committee, for their technical support

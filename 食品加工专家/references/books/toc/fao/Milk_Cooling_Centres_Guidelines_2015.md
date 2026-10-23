@@ -1,0 +1,73 @@
+# Technical and investment guidelines for milk cooling centres (2015, FAO)
+
+- 许可: © FAO（开放获取，多为 CC BY-NC-SA 3.0 IGO）
+- 来源: https://www.fao.org/3/i5791e/i5791e.pdf
+- 页数: 118
+- 全文: `text/fao/Milk_Cooling_Centres_Guidelines_2015.txt`
+- PDF: `fao/Milk_Cooling_Centres_Guidelines_2015.pdf`
+- 标签: 乳品加工, 冷链, 冷却
+
+## 目录 (Contents)
+
+- PREFACE
+- vii
+- ACKNOWLEDGEMENTS
+- viii
+- EXECUTIVE SUMMARY
+- ix
+- ABSTRACT
+- xi
+- Technical authors
+- xii
+- ACRONYMS
+- xiv
+- Chapter 1
+- Introduction
+- Chapter 2
+- Production of fresh and clean milk
+- Chapter 3
+- Rural milk collection, cooling and preservation
+- 3.1
+- 3.2
+- 3.3
+- 3.4
+- Fresh milk delivery
+- Milk collection points
+- Small-scale milk cooling and preservation technologies
+- The lactoperoxidase system of milk preservation
+- Chapter 4
+- Milk cooling centres
+- 4.1
+- 4.2
+- 4.3
+- Overview
+- Location and general building requirements for milk cooling centres
+- Milk collection schemes
+- Chapter 5
+- Milk reception, cooling and storage systems
+- 5.1
+- 5.2
+- 5.3
+- Milk reception
+- Milk cooling and storage
+- Refrigeration systems
+- Chapter 6
+- Refrigerated milk cooling tanks
+- 6.1
+- 6.2
+- 6.3
+- 6.4
+- 6.5
+- 6.6
+- 6.7
+- 6.8
+- Overview
+- Ice bank milk cooling and storage tanks
+- Direct expansion milk cooling and storage tanks
+- Ice builders and instant cooling
+- Milk precooling equipment
+- Heat recovery units
+- Energy use, precooling and options for refrigerated milk cooling systems
+- Cooling options and configurations
+- 1
+- 3

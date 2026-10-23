@@ -1,0 +1,73 @@
+# Physical Activity, Nutritional Status, Physical Fitness (2022, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-0365-5864-6
+- 页数: 164
+- 全文: `text/mdpi/Physical_Activity_Nutritional_Status_Physical_Fitness_2022.txt`
+- 标签: 运动/肌少症
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface to ”Physical Activity, Nutritional Status, Physical Fitness” . . . . . . . . . . . . . . . . .       ix
+- Andrzej Tomczak, Anna Anyżewska, Jerzy Bertrandt, Tomasz Lepionka, Artur Kruszewski
+- and Agata Gaździńska
+- Assessment of the Level of Physical Activity and Body Mass Index of Soldiers of the Polish Air
+- Force
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 8392, doi:10.3390/ijerph19148392 . . .          1
+- Jerzy Bertrandt, Anna Anyżewska, Roman Łakomy, Tomasz Lepionka, Ewa Szarska, Andrzej
+- Tomczak, Agata Gaździńska, Karolina Bertrandt-Tomaszewska, Krzysztof Kłos and Ewelina
+- Maculewicz
+- Assessment of Energy Expenditure of Police Ofﬁcers Trained in Polish Police Schools and Police
+- Training Centers
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 6828, doi:10.3390/ijerph19116828 . . . 13
+- Anna Anyżewska, Roman Łakomy, Tomasz Lepionka, Ewelina Maculewicz, Ewa Szarska,
+- Andrzej Tomczak, Izabela Bolczyk and Jerzy Bertrandt
+- Association between Diet, Physical Activity and Nutritional Status of Male Border Guard
+- Ofﬁcers
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 5305, doi:10.3390/ijerph19095305 . . . 25
+- Tomasz Lepionka, Anna Anyżewska, Ewelina Maculewicz, Krzysztof Klos, Roman Lakomy,
+- Ewa Szarska, Andrzej Tomczak, Agata Gaździńska, Katarzyna Skuza and Jerzy Bertrandt
+- Assessment of the Body Composition and Bone Calciﬁcation of Students of Police Schools and
+- Police Training Centers in Poland—A Cross-Sectional Study
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 7161, doi:10.3390/ijerph19127161 . . . 39
+- Agata Gaździńska, Paweł Jagielski, Marta Turczyńska, Łukasz Dziuda and Stefan
+- Gaździński
+- Assessment of Risk Factors for Development of Overweight and Obesity among Soldiers of
+- Polish Armed Forces Participating in the National Health Programme 2016–2020
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 3069, doi:10.3390/ijerph19053069 . . . 51
+- Megan Sax van der Weyden, Michael Toczko, Marcie Fyock-Martin and Joel Martin
+- Relationship between a Maximum Plank Assessment and Fitness, Health Behaviors, and Moods
+- in Tactical Athletes: An Exploratory Study
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 12832, doi:10.3390/ijerph191912832 . 63
+- Anna Keska, Anna Pietrzak and Dagmara Iwańska
+- Use of the Dietary Inﬂammatory Index to Assess the Diet of Young Physically Active Men
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 6884, doi:10.3390/ijerph19116884 . . . 77
+- Anna Mazur and Elżbieta Bartoń
+- The Structure of the Relationship between Physical Activity and Psychosocial Functioning of
+- Women and Men during the COVID-19 Epidemic in Poland
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 11860, doi:10.3390/ijerph191911860 . 89
+-                                                        v
+- Tadeusz Ambroży, Łukasz Rydzik, Amadeusz Kwiatkowski, Michał Spieszny, Dorota
+- Ambroży, Aneta Rejman, Agnieszka Koteja, Jarosław Jaszczur-Nowicki, Henryk Duda and
+- Wojciech Czarny
+- Effect of CrossFit Training on Physical Fitness of Kickboxers
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 4526, doi:10.3390/ijerph19084526 . . . 111
+- Aleksandra Romanowska, Agnieszka Morawiak, Catherine Woods, Liam Kelly, Kevin Volf,
+- Peter Gelius, Sven Messing, Sarah Forberger, Jeroen Lakerveld, Nicolette R. Den Braver,
+- Enrique Garcı́a Bengoechea and Joanna Żukowska
+- Health Enhancing Physical Activity Policies in Poland: Findings from the HEPA PAT Survey
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 7284, doi:10.3390/ijerph19127284 . . . 125
+- Ewelina Maculewicz, Agata Leońska-Duniec, Andrzej Mastalerz, Ewa Szarska, Aleksandra
+- Garbacz, Tomasz Lepionka, Roman Łakomy, Anna Anyżewska and Jerzy Bertrandt
+- The Inﬂuence of FTO, FABP2, LEP, LEPR, and MC4R Genes on Obesity Parameters in Physically
+- Active Caucasian Men
+- Reprinted from: Int. J. Environ. Res. Public Health 2022, 19, 6030, doi:10.3390/ijerph19106030 . . . 139
+-                                                    vi
+- About the Editor
+- Andrzej Tomczak
+-      Andrzej Tomczak is a habilitated doctor of medical and health sciences in the discipline of
+- physical culture science and a doctor of social sciences in the discipline of security studies. He is also
+- a master of physical education and a graduate of the academy ofﬁcer school. His main research areas
+- are: the ﬁtness and physical activity of soldiers, coordination motor abilities, the training of soldiers
+- (survival; SERE), nutritional status, and security education. He is the author of two monographs and

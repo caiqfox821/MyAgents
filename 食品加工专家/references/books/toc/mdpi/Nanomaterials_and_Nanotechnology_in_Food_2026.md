@@ -1,0 +1,81 @@
+# Nanomaterials and Nanotechnology in Food (2026, MDPI)
+
+- 许可: CC BY 4.0
+- 来源: https://doi.org/10.3390/books978-3-7258-8278-6
+- 页数: 138
+- 全文: `text/mdpi/Nanomaterials_and_Nanotechnology_in_Food_2026.txt`
+- PDF: `mdpi/Nanomaterials_and_Nanotechnology_in_Food_2026.pdf`
+- 标签: 纳米材料, 纳米技术, 食品
+
+## 目录 (Contents)
+
+- Yongxu Wang, Guolin Chen, Daru Wang, Jing Zhang, Chunxiang You, Xiaofei Wang and
+- Huaifeng Liu
+- Post-Harvest Application of Nanoparticles of Titanium Dioxide (NPs-TiO2 ) and Ethylene to
+- Improve the Coloration of Detached Apple Fruit
+- Reprinted from: Foods 2023, 12, 3137, https://doi.org/10.3390/foods12163137 . . . . . . . . . . .
+- 1
+- Jinqiong Xu, Jianbo Liu, Wuwu Li, Yongsheng Wei, Qinglin Sheng and Yonghui Shang
+- A Dual-Signaling Electrochemical Aptasensor Based on an In-Plane Gold Nanoparticles–Black
+- Phosphorus Heterostructure for the Sensitive Detection of Patulin
+- Reprinted from: Foods 2023, 12, 846, https://doi.org/10.3390/foods12040846 . . . . . . . . . . . 20
+- Shuying Yang, Ruixi Yang, Jingyi He, Yu Zhang, Yahong Yuan, Tianli Yue and
+- Qinglin Sheng
+- Au Nanoparticles Functionalized Covalent-Organic-Framework-Based Electrochemical Sensor
+- for Sensitive Detection of Ractopamine
+- Reprinted from: Foods 2023, 12, 842, https://doi.org/10.3390/foods12040842 . . . . . . . . . . . 34
+- Keiya Shimamori, Tomohiko Nambu, Daiki Kawamata, Masahiro Kuragano,
+- Naoki Nishishita, Toshifumi Iimori, et al.
+- Cultivation Factors That Affect Amyloid-β Aggregation Inhibitory Activity in Perilla frutescens
+- var. crispa
+- Reprinted from: Foods 2023, 12, 486, https://doi.org/10.3390/foods12030486 . . . . . . . . . . . 48
+- Min Li, Pengxiang Wang, Xu Zhang, Hongyu Wang, Ke Li and Yanhong Bai
+- Development of a Modiﬁed QuEChERS Method Based on Magnetic Multi-Walled Carbon
+- Nanotubes as a Clean-Up Adsorbent for the Analysis of Heterocyclic Aromatic Amines in
+- Braised Sauce Beef
+- Reprinted from: Foods 2023, 12, 138, https://doi.org/10.3390/foods12010138 . . . . . . . . . . . 65
+- Xiaoyue Yue, Chaoyun Wu, Zijun Zhou, Long Fu and Yanhong Bai
+- Fluorescent Sensing of Ciproﬂoxacin and Chloramphenicol in Milk Samples via Inner Filter
+- Effect and Photoinduced Electron Transfer Based on Nanosized Rod-Shaped Eu-MOF
+- Reprinted from: Foods 2022, 11, 3138, https://doi.org/10.3390/foods11193138 . . . . . . . . . . . 79
+- Biao Zhang, Ruofan Zhou, Huiqi Zhang, Danfeng Cai, Xiaodong Lin, Yihan Lang, et al.
+- A Smartphone Colorimetric Sensor Based on Pt@Au Nanozyme for Visual and Quantitative
+- Detection of Omethoate
+- Reprinted from: Foods 2022, 11, 2900, https://doi.org/10.3390/foods11182900 . . . . . . . . . . . 90
+- Shujuan Chen, Wanlin Ouyang, Yiting Zhu, Li He, Likou Zou, Xiaolin Ao, et al.
+- Facile Synthesis of N, S-Doped Carbon Quantum Dots from Food Waste as Fluorescent Probe
+- for Sensitive Detection of Thiamphenicol and Its Analogues in Real Food Samples along with
+- an Application in Bioimaging
+- Reprinted from: Foods 2022, 11, 2414, https://doi.org/10.3390/foods11162414 . . . . . . . . . . . 100
+- Andrea P. Cuevas-Gómez, Berenice González-Magallanes, Izlia J. Arroyo-Maya,
+- Gustavo F. Gutiérrez-López, Maribel Cornejo-Mazón and Humberto Hernández-Sánchez
+- Squalene-Rich Amaranth Oil Pickering Emulsions Stabilized by Native α-Lactalbumin
+- Nanoparticles
+- Reprinted from: Foods 2022, 11, 1998, https://doi.org/10.3390/foods11141998 . . . . . . . . . . . 116
+- v
+- foods
+- Article
+- Post-Harvest Application of Nanoparticles of Titanium Dioxide
+- (NPs-TiO2) and Ethylene to Improve the Coloration of Detached
+- Apple Fruit
+- Yongxu Wang 1,2 , Guolin Chen 2 , Daru Wang 2 , Jing Zhang 2 , Chunxiang You 2 , Xiaofei Wang 2
+- and Huaifeng Liu 1, *
+- 1
+- 2
+- *
+- Xinjiang Production and Construction Corps Key Laboratory of Special Fruits and Vegetables Cultivation
+- Physiology and Germplasm Resources Utilization, Department of Horticulture, College of Agriculture,
+- Shihezi University, Shihezi 832003, China; 15615541161@163.com
+- Apple Technology Innovation Center of Shandong Province, Shandong Collaborative Innovation Center of
+- Fruit & Vegetable Quality and Efﬁcient Production, National Key Laboratory of Wheat Improvement,
+- College of Horticulture Science and Engineering, Shandong Agricultural University, Tai’an 271018, China;
+- 15953327292@163.com (D.W.); zjlucky815@163.com (J.Z.); youchunxiang@126.com (C.Y.);
+- xfwang2004@163.com (X.W.)
+- Correspondence: lhf_agr@shzu.edu.cn
+- Abstract: In this study, we analyzed the effects of treatments with titanium dioxide nanoparticles
+- (NPs-TiO2 ) and ethylene on anthocyanin biosynthesis and reactive oxygen species (ROS) metabolism
+- during light exposure in ripe ‘red delicious’ apples. Both treatments led to improved anthocyanins
+- biosynthesis in detached mature apples, while the NPs-TiO2 had less impact on the fruit ﬁrmness, TSS, TA, and TSS/TA ratio. Furthermore, the effects of both treatments on the expression of
+- anthocyanin-related enzymes and transcription factors in the apple peel were evaluated at the gene
+- level. The differentially expressed genes induced by the two treatments were highly enriched in the
+- photosynthesis and ﬂavonoid biosynthesis pathways. The expression of structural genes involved in

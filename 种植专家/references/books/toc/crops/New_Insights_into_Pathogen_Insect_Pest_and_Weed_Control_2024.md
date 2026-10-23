@@ -1,0 +1,81 @@
+# New Insights into Pathogen, Insect Pest, and Weed Control in Field and Greenhouse Cropping Systems (2024, MDPI)
+
+- 许可: CC BY
+- 来源: https://www.mdpi.com/books/reprint/9196
+- 页数: 214
+- 全文: `text/crops/New_Insights_into_Pathogen_Insect_Pest_and_Weed_Control_2024.txt`
+- PDF: `crops/New_Insights_into_Pathogen_Insect_Pest_and_Weed_Control_2024.pdf`
+- 标签: 病虫草害, 植保, 综合
+
+## 目录 (Contents)
+
+- About the Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+- Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   ix
+- Hideyoshi Toyoda
+- Electrostatic Techniques for Physically Managing Pathogens, Insect Pests, and Weeds in Field
+- and Greenhouse Cropping Systems
+- Reprinted from: Agronomy 2023, 13, 2855, doi:10.3390/agronomy13122855 . . . . . . . . . . . . .                   1
+- Teruo Nonomura and Hideyoshi Toyoda
+- Electrostatic Spore-Trapping Techniques for Managing Airborne Conidia Dispersed by the
+- Powdery Mildew Pathogen
+- Reprinted from: Agronomy 2022, 12, 2443, doi:10.3390/agronomy12102443 . . . . . . . . . . . . .                   8
+- Shin-ichi Kusakari, Yoshinori Matsuda and Hideyoshi Toyoda
+- Electrostatic Insect Repulsion, Capture, and Arc-Discharge Techniques for Physical Pest
+- Management in Greenhouses
+- Reprinted from: Agronomy 2023, 13, 23, doi:10.3390/agronomy13010023 . . . . . . . . . . . . . . 22
+- Li Jia, Shicai Xu, Huanzhang Shang, Jiao Guo, Xia Yan, Changhai Liu, et al.
+- High-Voltage Electrostatic Fields Adversely Affect the Performance of Diamondback Moths
+- over Five Consecutive Generations
+- Reprinted from: Agronomy 2023, 13, 1008, doi:10.3390/agronomy13041008 . . . . . . . . . . . . . 38
+- Yoshinori Matsuda, Yoshihiro Takikawa, Kunihiko Shimizu, Shin-ichi Kusakari and
+- Hideyoshi Toyoda
+- Use of a Pair of Pulse-Charged Grounded Metal Nets as an Electrostatic Soil Cover for
+- Eradicating Weed Seedlings
+- Reprinted from: Agronomy 2023, 13, 1115, doi:10.3390/agronomy13041115 . . . . . . . . . . . . . 54
+- Yoshinori Matsuda, Koji Kakutani and Hideyoshi Toyoda
+- Unattended Electric Weeder (UEW): A Novel Approach to Control Floor Weeds in Orchard
+- Nurseries
+- Reprinted from: Agronomy 2023, 13, 1954, doi:10.3390/agronomy13071954 . . . . . . . . . . . . . 65
+- Koji Kakutani, Yoshinori Matsuda and Hideyoshi Toyoda
+- A Simple and Safe Electrostatic Method for Managing Houseﬂies Emerging from Underground
+- Pupae
+- Reprinted from: Agronomy 2023, 13, 310, doi:10.3390/agronomy13020310 . . . . . . . . . . . . . . 78
+- Yoshinori Matsuda and Hideyoshi Toyoda
+- Target-Size-Dependent Application of Electrostatic Techniques for Pest Management in
+- Greenhouses
+- Reprinted from: Agronomy 2023, 13, 125, doi:10.3390/agronomy13010125 . . . . . . . . . . . . . . 94
+- Mireille van Damme, Romanos Zois, Martin Verbeek, Yuling Bai and Anne-Marie A. Wolters
+- Directions from Nature: How to Halt the Tomato Brown Rugose Fruit Virus
+- Reprinted from: Agronomy 2023, 13, 1300, doi:10.3390/agronomy13051300 . . . . . . . . . . . . . 111
+- Lei Cui, Michiel C. van den Munckhof, Yuling Bai and Roeland E. Voorrips
+- Resistance to Anthracnose Rot Disease in Capsicum
+- Reprinted from: Agronomy 2023, 13, 1434, doi:10.3390/agronomy13051434 . . . . . . . . . . . . . 134
+-                                                          v
+- Eleni Koseoglou, Matthijs Brouwer, Derek Mudadirwa, Jan M. Van der Wolf,
+- Richard G. F. Visser and Yuling Bai
+- Identiﬁcation of Two Novel Loci Underlying Tolerance to Clavibacter michiganensis Originating
+- from Solanum arcanum LA2157
+- Reprinted from: Agronomy 2023, 13, 953, doi:10.3390/agronomy13040953 . . . . . . . . . . . . . . 154
+- Márk Z. Németh, Diána Seress and Teruo Nonomura
+- Fungi Parasitizing Powdery Mildew Fungi: Ampelomyces Strains as Biocontrol Agents against
+- Powdery Mildews
+- Reprinted from: Agronomy 2023, 13, 1991, doi:10.3390/agronomy13081991 . . . . . . . . . . . . . 167
+- Yutaka Kimura, Márk Z. Németh, Kana Numano, Asami Mitao, Tomomi Shirakawa,
+- Diána Seress, et al.
+- Hyperparasitic Fungi against Melon Powdery Mildew Pathogens: Quantitative Analysis of
+- Conidia Released from Single Colonies of Podosphaera xanthii Parasitised by Ampelomyces
+- Reprinted from: Agronomy 2023, 13, 1204, doi:10.3390/agronomy13051204 . . . . . . . . . . . . . 183
+-                                                  vi
+- About the Editor
+- Hideyoshi Toyoda
+-      Professor Hideyoshi Toyoda was born in December 1949 in Osaka City, Osaka Prefecture, Japan.
+- He obtained a Bachelor of Education degree from Osaka Kyoiku University in 1972 and a Doctor of
+- Agriculture degree from Kyoto University in 1980. Following two years as a research fellow with
+- the Japan Society for the Promotion of Science, he began his career as an assistant professor at the
+- Faculty of Agriculture, Kindai University in 1981. In 1998, he was promoted to professor at the Faculty
+- and Graduate School of Agricultural Science. Throughout his tenure, he held various administrative
+- roles, including Dean of the Department of Agriculture, Director of the Library and Vice Dean of
+- Students until his retirement. In recognition of his contributions, he was awarded the title of Professor
+- Emeritus in 2016. He also had the privilege of delivering invited lectures at the National University of
+- Singapore (Department of Botany) and serving as a specially invited professor at East China Normal
+- University (Department of Life Science). Within academic societies, he served as a councilor for the
