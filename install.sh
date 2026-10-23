@@ -51,6 +51,7 @@ SKILLS=(
   "nutritionist:营养专家"
   "detection-analysis:检测专家"
   "mass-spectrometry:质谱专家"
+  "spectral-matching:质谱专家"
   "toxicology:毒理专家"
   "journal-submission:投稿专家"
   "togomcp-sparql:公共技能"

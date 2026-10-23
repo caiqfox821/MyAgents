@@ -75,6 +75,7 @@ MyAgents/
 ├── 质谱专家/
 │   ├── agent.md
 │   ├── skills/mass-spectrometry/SKILL.md
+│   ├── skills/spectral-matching/  # 本地谱库自动比对（自带引擎 + 可选 matchms 后端）
 │   ├── templates/                # MS 方法开发与验证记录表
 │   └── references/               # 质谱知识库（仪器与电离/方法开发·定量·验证/谱图解析与未知物鉴定）
 ├── 毒理专家/
@@ -145,7 +146,7 @@ opencode
 项目 `.opencode/agent` 与 `.opencode/skills` 会被自动加载。
 
 ### 方式二：全局模式
-已通过 `install.sh` 把 13 个 agent 与 18 个技能软链接到 `~/.config/opencode/`，在任何目录启动 opencode 均可用。
+已通过 `install.sh` 把 13 个 agent 与 19 个技能软链接到 `~/.config/opencode/`，在任何目录启动 opencode 均可用。
 
 ### 维护命令
 

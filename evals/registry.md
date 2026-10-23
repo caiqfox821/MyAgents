@@ -35,6 +35,7 @@
 | DETECT-001 | 检测专家 | 叶菜多农残筛查检测方案 | P0 | 通过 | 2026-10-01 | [链接](检测专家/DETECT-001-pesticide-multiresidue.md) |
 | TOX-001 | 毒理专家 | 农残 ADI 复核与 POD 论证 | P0 | 未评 | 2026-10-22 | [链接](毒理专家/TOX-001-adi-pod-justification.md) |
 | MASS-001 | 质谱专家 | MRM 多残留方法验证与确证判据（须回原文取证） | P0 | **通过**（13/14） | 2026-10-23 | [链接](质谱专家/MASS-001-mrm-method-validation.md) |
+| MASS-002 | 质谱专家 | 本地谱库自动匹配与置信度分级 | P0 | 未评 | 2026-10-23 | [链接](质谱专家/MASS-002-spectral-library-matching.md) |
 | SUBMIT-001 | 投稿专家 | 期刊合规诊断与投稿材料生成 | P0 | 未评 | 2026-10-03 | [链接](投稿专家/SUBMIT-001-journal-compliance.md) |
 | DOC-001 | 文档专家 | 中试总结报告与汇报 PPT 生成 | P0 | 未评 | 2026-10-01 | [链接](文档专家/DOC-001-report-and-slides.md) |
 

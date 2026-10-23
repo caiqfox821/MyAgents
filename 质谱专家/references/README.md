@@ -19,6 +19,7 @@
 | 资源 | 用途 |
 |---|---|
 | 技能 `mass-spectrometry`（本专家） | 方法学速查：选型决策、采集模式、解析流程、常见坑 |
+| **技能 `spectral-matching`（本专家）** | **本地谱库自动比对**：MSP/MGF/JSON/CSV 读入、8 种打分器（熵/余弦/匹配因子/修饰余弦）、候选过滤（前体 ppm/加合物/极性/CE）、Schymanski 分级、谱相似度网络；自带纯 Python 引擎（仅 numpy），装 `matchms/ms_entropy/pyteomics` 自动增强 |
 | 公共技能 `togomcp-sparql` | 查 MassBank 参考谱图、ChEBI/PubChem 结构、LIPID MAPS/SwissLipids 脂质等 RDF 数据库 |
 | 检测专家 `references/方法学与仪器分析.md` | 质谱在整体检测方案中的位置、前处理与验证的总览 |
 | MassBank（RDF） | 真实参考质谱图（InChIKey 反查、SPLASH 哈希） |
