@@ -1,0 +1,20 @@
+flowchart LR
+  T1["① 挑用例运行<br/>evals/（13 专家 + 公共技能，15 个 P0 用例）"]
+  T2["② 按 rubric 打分<br/>0 / 1 / 2 加权 · 红线检查"]
+  T3["③ 复盘定位根因<br/>retrospectives/ → 产物＝文件变更清单"]
+  T4["④ 固化<br/>改 agent.md · SKILL.md · references/"]
+  T5["⑤ 登记<br/>EVOLUTION.md 追加一行"]
+  T6["⑥ 版本化<br/>git 提交 · 可 revert 回滚"]
+  T7["⑦ 回归<br/>重跑用例验证"]
+
+  T1 --> T2 --> T3 --> T4 --> T5 --> T6 --> T7 --> T1
+
+  G1["治理原则<br/>评分由人工启动 · 演化决策由人工最终裁定<br/>系统只记录与可回滚，不自行改文件"]
+  B1["当前基线<br/>tag baseline-2026-10-23"]
+  G1 -.约束.-> T1
+  B1 -.起点.-> T6
+
+  classDef step fill:#EDE7F6,stroke:#4527A0,color:#311B92
+  classDef gov fill:#FFF3E0,stroke:#EF6C00,color:#E65100
+  class T1,T2,T3,T4,T5,T6,T7 step
+  class G1,B1 gov

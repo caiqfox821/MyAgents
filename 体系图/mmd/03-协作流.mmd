@@ -1,0 +1,63 @@
+flowchart LR
+  REQ(["需求 / 样品 / 数据 / 稿件"])
+
+  subgraph CHAIN["业务链路：从原料到交付"]
+    direction LR
+    subgraph UP["生产端"]
+      direction TB
+      BR["育种专家"]
+      NU["育苗专家"]
+      PL["种植专家"]
+    end
+    subgraph MID["加工端"]
+      direction TB
+      FE["发酵专家"]
+      FP["食品加工专家"]
+    end
+    subgraph ASSESS["评价端"]
+      direction TB
+      DT["检测专家"]
+      MS["质谱专家"]
+      TX["毒理专家"]
+      FS["食品安全专家"]
+      NT["营养专家"]
+    end
+    subgraph DELIV["交付端"]
+      direction TB
+      DC["文档专家"]
+      SB["投稿专家"]
+    end
+  end
+
+  REQ --> UP
+  BR --> NU --> PL
+  PL --> FE
+  PL --> FP
+  FE --> FP
+  FP --> FS
+  FP --> NT
+  DT --> FS
+  DT --> NT
+  MS -. 深度环节 .-> DT
+  TX -. POD / HBGV .-> FS
+  FS --> NT
+  UP --> DC
+  MID --> DC
+  ASSESS --> DC
+  DC --> SB
+
+  OR["协调专家 orchestrator<br/>（跨域任务的总入口，负责编排以上链路）"]
+  OR -. 路由 / 汇总 .-> CHAIN
+
+  classDef c1 fill:#E3F2FD,stroke:#1976D2,color:#0D47A1
+  classDef c2 fill:#E0F2F1,stroke:#00838F,color:#004D40
+  classDef c3 fill:#FCE4EC,stroke:#AD1457,color:#880E4F
+  classDef c4 fill:#EDE7F6,stroke:#4527A0,color:#311B92
+  classDef c0 fill:#1565C0,stroke:#0D47A1,color:#FFFFFF
+  classDef cq fill:#ECEFF1,stroke:#546E7A,color:#263238
+  class BR,NU,PL c1
+  class FE,FP c2
+  class DT,MS,TX,FS,NT c3
+  class DC,SB c4
+  class OR c0
+  class REQ cq

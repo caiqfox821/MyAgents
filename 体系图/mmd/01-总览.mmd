@@ -1,0 +1,68 @@
+flowchart TB
+  U(["用户需求 / 复合任务"])
+
+  ORCH["<b>协调专家 orchestrator</b>　mode = primary · 默认入口<br/>澄清目标 · 任务拆解 · 专家路由 · 交接协议 · 汇总校验 · 交付验收"]
+
+  U --> ORCH
+  ORCH ==> E
+
+  subgraph E["领域专家层 · 12 个 · mode = all（可作主 agent，也可被 orchestrator 调用）"]
+    P1["种植专家<br/>planting-expert"]
+    P2["育种专家<br/>breeding-expert"]
+    P3["育苗专家<br/>nursery-expert"]
+    P4["发酵专家<br/>fermentation-expert"]
+    P5["食品加工专家<br/>food-processing-expert"]
+    P6["食品安全专家<br/>food-safety-expert"]
+    P7["营养专家<br/>nutrition-expert"]
+    P8["毒理专家<br/>toxicology-expert"]
+    P9["检测专家<br/>detection-expert"]
+    P10["质谱专家<br/>mass-spec-expert"]
+    P11["文档专家<br/>document-expert"]
+    P12["投稿专家<br/>submission-expert"]
+
+    P1 ~~~ P2 ~~~ P3 ~~~ P4
+    P5 ~~~ P6 ~~~ P7 ~~~ P8
+    P9 ~~~ P10 ~~~ P11 ~~~ P12
+    P1 ~~~ P5 ~~~ P9
+  end
+
+  E ==> OUT(["交付物：方案 / 报告 / 数据 / PPT / 投稿材料包"])
+
+  subgraph S["支撑层（所有专家共用）"]
+    direction LR
+    SK["<b>技能 19</b>　公共 2 + 私有 17<br/>公共：risk-assessment · togomcp-sparql<br/>私有：orchestration/plant-lstm/microbial-growth/nutritionist/spectral-matching 等"]
+    KN["<b>知识</b><br/>公共知识（只读）：政策法规 · 标准规范 · 技术指南 · 案例库 · 知识图谱 · 书库<br/>私有：各专家 references/ + templates/"]
+    TL["<b>工具</b><br/>内置技能 pptx · docx · official-document · scientific-report · xlsx · mindmap<br/>脚本 riskcalc.py · plant_lstm.py · MicrobialGrowth.py · nutritionist.py · spectral-matching"]
+  end
+
+  E -. 调用 .-> S
+  S -. 支撑 .-> E
+
+  subgraph EV["进化闭环（评分人工启动 · 演化人工裁定）"]
+    direction LR
+    V1["评估<br/>evals/"] --> V2["复盘<br/>retrospectives/"] --> V3["固化<br/>agent.md · SKILL.md · references/"] --> V4["登记<br/>EVOLUTION.md"] --> V5["版本化<br/>git · 可回滚"]
+  end
+  OUT -. 反馈 .-> EV
+  V3 -. 回写 .-> E
+
+  classDef user fill:#ECEFF1,stroke:#546E7A,stroke-width:2px,color:#263238
+  classDef orch fill:#1565C0,stroke:#0D47A1,stroke-width:3px,color:#FFFFFF
+  classDef plant fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20
+  classDef food fill:#E0F2F1,stroke:#00838F,color:#004D40
+  classDef safe fill:#FCE4EC,stroke:#C62828,color:#880E4F
+  classDef test fill:#F3E5F5,stroke:#6A1B9A,color:#4A148C
+  classDef doc fill:#FFF3E0,stroke:#EF6C00,color:#E65100
+  classDef sup fill:#FFF8E1,stroke:#F9A825,color:#5D4037
+  classDef out fill:#E3F2FD,stroke:#1976D2,stroke-width:2px,color:#0D47A1
+  classDef evo fill:#EDE7F6,stroke:#4527A0,color:#311B92
+
+  class U user
+  class ORCH orch
+  class P1,P2,P3 plant
+  class P4,P5 food
+  class P6,P7,P8 safe
+  class P9,P10 test
+  class P11,P12 doc
+  class SK,KN,TL sup
+  class OUT out
+  class V1,V2,V3,V4,V5 evo

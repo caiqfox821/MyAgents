@@ -1,0 +1,49 @@
+flowchart TB
+  subgraph L1["① 入口 / 编排"]
+    OR["协调专家 orchestrator<br/>13 个 agent 中唯一的 primary"]
+  end
+
+  subgraph L2["② 私有事实来源（各专家目录，可写）"]
+    direction LR
+    A1["agent.md<br/>角色 · 能力 · 工作方法 · 输出规范 · 协作关系"]
+    A2["skills/&lt;name&gt;/SKILL.md<br/>私有技能"]
+    A3["references/<br/>私有知识库 · 证据条目 · 书库"]
+    A4["templates/<br/>记录表 · 报告模板"]
+  end
+
+  subgraph L3["③ 公共层（所有专家共用，只读）"]
+    direction LR
+    C1["公共技能/skills/<br/>risk-assessment · togomcp-sparql"]
+    C2["公共知识/<br/>政策法规与规划 · 标准规范 · 技术指南 · 案例库 · 知识图谱 · 书库"]
+  end
+
+  subgraph L4["④ 全局内置（opencode 自带，跨项目可用）"]
+    direction LR
+    G1["pptx · docx · official-document"]
+    G2["scientific-report · xlsx · mindmap"]
+    G3["MCP：freecad · papers · togomcp"]
+  end
+
+  OR --> L2
+  L2 -- 引用 --> L3
+  L2 -- 调用 --> L4
+
+  subgraph L5["边界纪律"]
+    direction LR
+    R1["三问分界<br/>风险多大 → risk-assessment<br/>毒性凭什么 → 毒理专家<br/>是否超标 → 食品安全专家"]
+    R2["公共库只读<br/>变更须登记 EVOLUTION.md"]
+    R3["私有库隔离<br/>agent.md 只索引本目录 references/"]
+    R4["跨界资料上移<br/>公共知识/案例库/ 软链共享"]
+  end
+  L3 --- L5
+
+  classDef k1 fill:#E1F5FE,stroke:#0277BD,color:#01579B
+  classDef k2 fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20
+  classDef k3 fill:#FFF8E1,stroke:#F9A825,color:#5D4037
+  classDef k4 fill:#F3E5F5,stroke:#6A1B9A,color:#4A148C
+  classDef k5 fill:#FBE9E7,stroke:#D84315,color:#BF360C
+  class OR k1
+  class A1,A2,A3,A4 k2
+  class C1,C2 k3
+  class G1,G2,G3 k4
+  class R1,R2,R3,R4 k5

@@ -1,0 +1,26 @@
+flowchart TB
+  SRC["<b>唯一事实来源</b><br/>MyAgents/&lt;专家目录&gt;/agent.md<br/>skills/*/SKILL.md · references/ · templates/"]
+
+  INS["install.sh<br/>AGENTS 13 项 · SKILLS 19 项"]
+
+  SRC --> INS
+
+  INS -->|默认 link| G["~/.config/opencode/<br/>agents/ + skills/ 软链<br/>任何目录可用"]
+  INS -->|--project| P["MyAgents/.opencode/<br/>agent/ + skills/ 软链<br/>项目模式自动加载"]
+  INS -->|--copy| C["复制快照<br/>源更新后需重跑"]
+
+  CFG["MyAgents/opencode.json<br/>default_agent = orchestrator<br/>skills.paths · references = 公共知识"]
+  CFG --> G
+  CFG --> P
+
+  G --> RUN["opencode 启动时加载<br/>（配置与 agent 不热更新，改动后需重启）"]
+  P --> RUN
+
+  classDef src fill:#E3F2FD,stroke:#1976D2,color:#0D47A1
+  classDef ins fill:#E0F2F1,stroke:#00838F,color:#004D40
+  classDef cfg fill:#FFF8E1,stroke:#F9A825,color:#5D4037
+  classDef run fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20
+  class SRC src
+  class INS ins
+  class CFG cfg
+  class G,P,C,RUN run
