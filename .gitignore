@@ -34,6 +34,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# ── 跨会话记忆的派生索引（Markdown 才是事实来源；索引可随时由插件/脚本重建）──
+memory/.index/
+
 # ── 系统文件 ──
 .DS_Store
 Thumbs.db
