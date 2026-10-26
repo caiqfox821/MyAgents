@@ -33,7 +33,7 @@ const SRC = path.join(HARNESS, "session-memory.mjs");
 await fs.copyFile(PLUGIN, SRC);
 
 const mod = await import(SRC);
-const { tokenize, BM25, chunkSessionBody, extractQuery, retrieve } = mod.__test;
+const { tokenize, BM25, chunkSessionBody, extractQuery, retrieve, resolveMemoryRoot, cleanTitle } = mod.__test;
 const plugin = mod.default;
 
 function makeCtx(root) {
@@ -200,6 +200,34 @@ console.log("\n[9] 性能");
     await hooks.context({ sessionID: "ses_PERF", messages: [{ role: "user", content: [{ type: "text", text: "同源偏差 " + i }] }], system: [] });
   const avg = (Date.now() - t0) / N;
   ok(avg < 200, `每次注入平均 ${avg.toFixed(1)} ms`);
+}
+
+console.log("\n[10] 记忆根定位与标题清洗");
+{
+  const H = os.homedir();
+  const cases = [
+    ["git 仓库根", [path.join(H, "MyAgents"), path.join(H, "MyAgents", "毒理专家")], path.join(H, "MyAgents")],
+    ["已有 memory/ 的项目", [null, "/home/caiq/workbench/thesis"], "/home/caiq/workbench/thesis"],
+    ["项目子目录退回项目根", [null, path.join(H, "MyAgents", "evals", "x")], path.join(H, "MyAgents")],
+    ["家目录 → 中央桶", [null, H], path.join(H, ".local/share/opencode/memory/_home")],
+    ["容器目录 → 中央桶", [null, path.join(H, "workbench")], path.join(H, ".local/share/opencode/memory/workbench")],
+  ];
+  for (const [name, args, want] of cases) ok(resolveMemoryRoot(...args) === want, `根定位：${name}`);
+  process.env.SESSION_MEMORY_ROOT = path.join(H, "MEM");
+  ok(resolveMemoryRoot(null, "/etc") === path.join(H, "MEM"), "SESSION_MEMORY_ROOT 覆盖生效");
+  delete process.env.SESSION_MEMORY_ROOT;
+
+  ok(cleanTitle({ title: "读取肉吾.png图片内容" }, []) === "读取肉吾.png图片内容", "标题：正常标题保留");
+  ok(
+    cleanTitle({ title: "hi" }, [{ type: "user", text: "hi" }, { type: "user", text: "设计跨会话记忆系统的检索方案" }]) ===
+      "设计跨会话记忆系统的检索方案",
+    "标题：寒暄则退回首条实质输入"
+  );
+  ok(
+    cleanTitle({ title: "" }, [{ type: "user", text: "/remember x" }, { type: "user", text: "重命名会话标题的策略" }]) ===
+      "重命名会话标题的策略",
+    "标题：跳过斜杠命令"
+  );
 }
 
 await fs.rm(HARNESS, { recursive: true, force: true });
