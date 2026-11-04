@@ -38,7 +38,7 @@ request:
 - 参考 `fermentation-knowledge` 技能及其 `references/` 知识库（索引见 `references/README.md`）：
   - 工艺与参数、放大：`发酵工程基础与工艺参数.md`
   - 菌种：`菌种选育与保藏.md`；培养基：`培养基设计与优化.md`
-  - 动力学与建模：`发酵动力学与建模.md`（拟合用独立技能 `microbial-growth`）
+  - 动力学与建模：`发酵动力学与建模.md`（拟合用独立技能 `microbial-growth`；恒化/连续发酵仿真、稳态与分岔、控制设计用独立技能 `chemostat-dynamics`）
   - 工艺路线（含酿造与生物制造）：`液态与固态发酵工艺.md`
   - 下游与膜分离（渗透气化）：`下游分离纯化与膜分离.md`
   - 标准法规：`标准规范与法规.md`；异常与质控：`异常排查与质量控制.md`

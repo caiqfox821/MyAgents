@@ -71,6 +71,7 @@ description: 发酵工程知识库与工艺清单。用于菌种选育、培养�
 
 模型脚本（独立技能）：
 - **`microbial-growth`**：生长曲线计算与绘图（Gompertz/Logistic，使用前须与用户确认模型），脚本 `skills/microbial-growth/scripts/MicrobialGrowth.py`
+- **`chemostat-dynamics`**：五级递进恒化发酵动力学模型（双入口：预测计算 / 案例演示），Scale 1–5 = Monod 基础 / Haldane 底物抑制 / 双菌竞争 / 产物抑制 / 代谢时滞；支持仿真、稳态、稀释率分岔与控制设计，脚本 `skills/chemostat-dynamics/scripts/chemostat.py`（方程与案例见该技能 `references/五级模型方程与案例.md`）
 
 ### 开放获取电子书库（`references/books/`，34 册 CC BY/公共领域全文）
 
