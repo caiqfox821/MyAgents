@@ -29,12 +29,29 @@
 | 常量 | 值 | 含义 |
 |---|---|---|
 | `MODE`（环境变量 `SESSION_MEMORY_MODE`） | `bm25`（默认）\| `recency` | 检索模式 |
+| `ROOT`（环境变量 `SESSION_MEMORY_ROOT`） | 空 | 显式指定记忆根（支持 `~`） |
+| `VECTOR`（环境变量 `SESSION_MEMORY_VECTOR`） | `off`（默认）\| `auto`\| `on` | 向量混合检索开关 |
 | `MAX_INJECT_CHARS` | 12000 | 注入总预算 |
 | `TOP_K` | 8 | 召回片段数上限 |
 | `CHUNK_CHARS` / `CHUNK_OVERLAP` | 1000 / 150 | 片段切分 |
 | `NOTES_BUDGET` | 4000 | NOTES 注入上限 |
 | `MAX_STORED_PER_MSG` | 8000 | 单条消息入库上限 |
 | `MAX_SESSIONS` | 6 | 仅 recency 模式：最多注入会话数 |
+
+recency 与原始版本的差异：NOTES 上限 12000→4000、多一行模式标注、超预算会话「跳过」而非「中止」。
+
+### 记忆根定位（#1 收敛碎片）
+
+记忆目录始终是 `<记忆根>/memory/`。根定位顺序：
+
+1. `SESSION_MEMORY_ROOT` 环境变量（显式指定，支持 `~`）；
+2. git 仓库根（`canonical`，且不是家目录）；
+3. 当前目录**已有 `memory/`** → 用它（**绝不打断既有布局**；家目录除外）；
+4. 向上找最近的**项目标记**（`.git` / `opencode.json`）→ 用它；
+5. 都不满足 → 落到**中央兜底桶** `~/.local/share/opencode/memory/<slug>`，
+   而不是在家目录/容器目录（如 `~/workbench`）里各建一份。
+
+设计取舍：**项目内**的记忆随仓库走（可拷贝、可 git 版本化、可评审）；**非项目**会话（在家目录或项目容器目录里随手开的）统一进中央桶，不再散落。
 
 ### 一键回退
 
@@ -51,27 +68,36 @@ recency 与原始版本的差异：NOTES 上限 12000→4000、多一行模式�
 node ~/MyAgents/scripts/memrag/plugin-regression.mjs                       # 默认 thesis 语料
 TESTS_MEM_ROOT=/home/caiq/workbench node ~/MyAgents/scripts/memrag/plugin-regression.mjs   # 最大语料
 ```
-覆盖：分词 / BM25 排序 / 分块 / 取查询 / 检索 / 端到端注入 / recency 回退 / 当前会话排除 / 迁移一致性 / 写入落盘与截断 / 性能。Python 原型与基准：`scripts/memrag/memrag.py`。
+覆盖：分词 / BM25 排序 / 分块 / 取查询 / 检索 / 端到端注入 / recency 回退 / 当前会话排除 / 迁移一致性 / 写入落盘与截断 / **记忆根定位** / **标题清洗** / 性能（共 30 项）。Python 原型与基准：`scripts/memrag/memrag.py`。
+
+记忆目录收敛工具（默认只报告，不动数据）：
+
+```bash
+node ~/MyAgents/scripts/memrag/consolidate-memory.mjs                  # dry-run 报告
+node ~/MyAgents/scripts/memrag/consolidate-memory.mjs --apply          # 复制到目标（保留源）
+node ~/MyAgents/scripts/memrag/consolidate-memory.mjs --apply --delete  # 校验后删除源
+```
+它直接 `import` 插件的 `resolveMemoryRoot`，保证「建议去向」与插件实际写入位置一致。`INDEX.md` 由插件下次读取时惰性重建。
 
 ## 四、现状盘点（2026-10-27）
 
-8 个活跃记忆目录，**77 个会话、共 577 KB、无重复**：
+8 个活跃记忆目录，**78 个会话**（无跨目录重名）：
 
-| 目录 | 会话 | 大小 |
+| 目录 | 会话 | 根定位 |
 |---|---|---|
-| `workbench/memory` | 31 | 360 KB |
-| `~/memory` | 31 | 129 KB |
-| `MyAgents/memory` | 3 | 24 KB |
-| `workbench/thesis/memory` | 3 | 22 KB |
-| `workbench/review`、`workbench/medicinal-plant`、`local-llm`、`.config/opencode` | 9 | 41 KB |
-| `project/*` 等 | 0 | 均为 95 字节空 NOTES 模板 |
+| `~/workbench/memory` | 31 | 容器目录 → **建议迁往中央桶** |
+| `~/memory` | 32 | 家目录 → **建议迁往中央桶** |
+| `MyAgents/memory` | 3 | git 仓库根（保留） |
+| `workbench/thesis/memory` | 3 | 已有 memory/（保留） |
+| `workbench/medicinal-plant`、`workbench/review`、`local-llm`、`.config/opencode` | 9 | 各项目根（保留） |
+| `~/project/*` 等 | 0 | 均为空 NOTES 模板 |
 
 - 性能：单次注入 thesis ~5 ms、workbench（695 片段）~39 ms。
 - BM25 实效：thesis 查询注入 6891 字符 vs 旧 recency 仅 737 字符。
 
 ## 五、已知问题 / 待办
 
-1. **记忆按 cwd 碎片化**：插件以「git 根，否则当前工作目录」定位 `memory/`，非 git 目录下换个工作目录就换一套记忆（`~/memory` 与 `~/workbench/memory` 各 31 条、互不可见）。→ 待定「记忆根」策略。
-2. **L1 长期记忆基本空转**：多数项目无 `NOTES.md`，`/remember` 很少使用。
-3. **会话标题取自首条用户消息**，常与内容不符，影响 INDEX 可读性与召回标签。
-4. （可选）**P2 本地向量混合检索**：`BAAI/bge-small-zh-v1.5` + `memory/.index/`（可重建缓存，`meta.json` 记录模型/维度/哈希，失配自动重建，回退 BM25）。已 `.gitignore`。
+1. ~~记忆按 cwd 碎片化~~ → **已实现根定位策略**（见「记忆根定位」）；`~/memory`、`~/workbench/memory` 待跑 `consolidate-memory.mjs --apply` 迁入中央桶。
+2. **L1 长期记忆基本空转**：多数项目无 `NOTES.md`，`/remember` 很少使用。已在 `MyAgents`、`workbench/thesis` 种下种子条目。
+3. **会话标题**：旧会话标题曾取自首条用户消息（如「读取肉吾.png图片内容」）；已在插件侧增加**寒暄/探针/斜杠命令过滤 + 退回首条实质输入**。近期标题由 OpenCode 的 title agent（`agents.title.model`）生成，质量已明显改善。
+4. **P2 本地向量混合检索**：`BAAI/bge-small-zh-v1.5` + `memory/.index/`（可重建缓存，`meta.json` 记录模型/维度/哈希，失配自动重建，回退 BM25）。已 `.gitignore`。

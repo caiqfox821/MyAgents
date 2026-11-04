@@ -44,6 +44,7 @@ SKILLS=(
   "nursery-knowledge:育苗专家"
   "fermentation-knowledge:发酵专家"
   "microbial-growth:发酵专家"
+  "chemostat-dynamics:发酵专家"
   "document-format:文档专家"
   "food-processing:食品加工专家"
   "food-safety:食品安全专家"

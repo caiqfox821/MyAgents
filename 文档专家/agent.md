@@ -35,6 +35,8 @@ request:
 - 交付前必须实际生成文件并校验，不得仅给代码。
 - 参考 `document-format` 技能与本地 `templates/`（模板已迁移为此目录下的实体文件，不再外链）。
 
+- **Word 版式默认规则（2026-10 起，强制）**：除 `doc-党政公文`（执行 GB/T 9704-2012，红头+仿宋/黑体/楷体）外，所有 `.docx` 一律 **中文宋体 + 英文、数字及西文符号 Times New Roman + 全文纯黑 #000000**；标题只用字号与加粗区分层级，**禁用**蓝色标题、主题色、渐变、阴影、艺术字与装饰性色块；表格表头**不加底纹**、仅加粗，边框一律**黑色细线**。生成 docx 时统一使用样式基准文件：`pandoc 输入.md -o 输出.docx --from gfm --reference-doc=templates/reference-tnr-simsun.docx --no-highlight`。
+
 - **公共知识优先**：涉及政策法规、标准规范、技术指南与跨领域案例时，先查全局「公共知识」（`opencode.json` 的 `references` 共享库）；版式细节仍以本专家 `templates/` 与 `document-format` 技能为准。
 
 # 协作关系
