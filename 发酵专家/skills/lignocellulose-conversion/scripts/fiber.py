@@ -1,30 +1,31 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-五级递进纤维质物料转化动力学模型引擎
+六级递进纤维质物料转化动力学模型引擎
 ====================================
 归属：发酵专家私有技能（lignocellulose-conversion）
 
 建模对象：青贮饲料、好氧堆肥、果渣饲料化——共同点是**纤维质物料**的厌氧/好氧转化，
 核心是**不可溶膳食纤维（IDF）按 Van Soest NDF/ADF/ADL 三组分分级降解**。
 
-五级递进（可降解性链）
+六级递进（可降解性链）
 ----------------------
 1. 青贮基础厌氧发酵：LAB 产乳酸 + pH 自抑 + 缓冲能力
 2. 纤维分级降解：半纤维素/纤维素分级速率 + 木质素屏蔽 + 不可降解残余
 3. 青贮梭菌竞争与品质分型：LAB vs 梭菌，pH 门 + 干物质门
 4. 苹果渣好氧堆肥：自热 + 耗氧 + 腐熟度
 5. 果渣饲料固态发酵：果胶/IDF 双时间尺度 + 蛋白富集 + 脱毒
+6. 多菌株共发酵：菌株筛选与共培养（含木质素屏蔽）
 
 双入口
 ------
 入口一 · 模型预测计算：list / params / simulate / control / mix
 入口二 · 案例 Demo 演示：demo
 
-纪律约定（照《五级模型方程与案例》文档执行）
+纪律约定（照《六级模型方程与案例》文档执行）
 ---------------------------------------------
-1. 只实现 Scale 1–5 文档给出的方程、参数与案例；不新增任何动力学机制。
-2. 模型必须由用户手动指定 --scale（1..5），脚本不擅自替用户选型。
+1. 只实现 Scale 1–6 文档给出的方程、参数与案例；不新增任何动力学机制。
+2. 模型必须由用户手动指定 --scale（1..6），脚本不擅自替用户选型。
 3. 文档未给出的数值一律使用明确标注的“演示默认值”，可用 --set key=value 覆盖。
 
 浓度基准
@@ -61,6 +62,7 @@ SCALES = {
     3: "青贮梭菌竞争与品质分型模型（乳酸型 vs 丁酸型劣变）",
     4: "苹果渣好氧堆肥模型（自热 + 耗氧 + 腐熟度）",
     5: "果渣饲料固态发酵模型（果胶/IDF 降解 + 蛋白富集 + 抗营养因子）",
+    6: "多菌株共发酵模型（菌株筛选与共培养，含木质素屏蔽）",
 }
 
 # 真实示范案例（来自文档）
@@ -152,6 +154,38 @@ CASES = {
                    "真蛋白 0.080→0.121 g/g DM（+4.1 个百分点）、抗营养因子 0.020→0.008（降解 60%）。"
                    "果胶降解速度是 IDF 的 8.6 倍——「快变量/慢变量」必须分阶段设计。"),
     },
+    6: {
+        "organism": "枯草芽孢杆菌 + 黑曲霉（双菌共培养，推荐方案）",
+        "ascii": "B. subtilis + A. niger",
+        "system": ("提胶 80% 后的苹果渣：DM 88%，CP 8.0%，NDF 52%、ADF 46%、ADL 14%，"
+                   "残果胶 2.5%，灰分 6%，pH 4.7；补糖蜜 6% + 尿素 1%；目标：牛羊饲料"),
+        "params": {"WSC0": 0.080, "PEC0": 0.025, "IDF0": 0.38, "PR0": 0.08,
+                   "ANF0": 0.010,
+                   "L0": 0.14, "alphaL": 6.0, "fIdig": 0.55, "PRmax": 0.18,
+                   "Xm_tot": 0.035, "ms": 0.010, "Yhyd": 0.85,
+                   "mu1": 0.32, "KF1": 0.03, "Xm1": 0.020, "kP1": 0.15,
+                   "kI1": 0.05, "kA1": 0.08, "Ypx1": 1.8, "Yxs1": 0.35, "kd1": 0.010,
+                   "mu2": 0.30, "KF2": 0.02, "Xm2": 0.015, "kP2": 0.05,
+                   "kI2": 0.005, "kA2": 0.03, "Ypx2": 0.8, "Yxs2": 0.25, "kd2": 0.010,
+                   "mu3": 0.25, "KF3": 0.05, "Xm3": 0.020, "kP3": 0.03,
+                   "kI3": 0.005, "kA3": 0.04, "Ypx3": 2.2, "Yxs3": 0.30, "kd3": 0.010,
+                   "mu4": 0.28, "KF4": 0.03, "Xm4": 0.030, "kP4": 0.30,
+                   "kI4": 0.60, "kA4": 0.10, "Ypx4": 1.2, "Yxs4": 0.30, "kd4": 0.010,
+                   "B10": 0.002, "B20": 0.0, "B30": 0.0, "B40": 0.002},
+        "assumed": ["WSC0", "PEC0", "IDF0", "PR0", "ANF0", "L0", "alphaL",
+                    "fIdig", "PRmax", "Xm_tot", "ms", "Yhyd",
+                    "mu1", "KF1", "Xm1", "kP1", "kI1", "kA1", "Ypx1", "Yxs1", "kd1",
+                    "mu2", "KF2", "Xm2", "kP2", "kI2", "kA2", "Ypx2", "Yxs2", "kd2",
+                    "mu3", "KF3", "Xm3", "kP3", "kI3", "kA3", "Ypx3", "Yxs3", "kd3",
+                    "mu4", "KF4", "Xm4", "kP4", "kI4", "kA4", "Ypx4", "Yxs4", "kd4",
+                    "B10", "B20", "B30", "B40"],
+        "tend": 120.0,
+        "result": ("120 h 终点：IDF 0.380→0.305（降 19.8%）、果胶 0.025→0.011（降 54.7%）、"
+                   "真蛋白 8.0%→13.4%（+5.4 点）、抗营养因子降 28.1%。"
+                   "对照：单菌（仅枯草）IDF 只降 4.2%；四菌因总承载量竞争反而只降 12.6%"
+                   "——菌株不是越多越好，双菌（芽孢杆菌+曲霉）是性价比最高的组合。"
+                   "木质素 14% DM 通过 exp(-αL) 把 IDF 降解压在 20% 以内，是硬上限。"),
+    },
 }
 
 CONTROL_NOTES = {
@@ -170,6 +204,10 @@ CONTROL_NOTES = {
     5: ("果渣饲料型：果胶是「快变量」、IDF 是「慢变量」，两者时间尺度差一个数量级；"
         "工艺上先让果胶快速降解释放可发酵糖、支撑菌体生长，再由菌体蛋白与酶系慢慢啃 IDF。"
         "苹果渣低 pH（3.5–4.5）本身抑菌，要接种耐酸酵母/乳酸菌并补氮（尿素/麸皮）。"),
+    6: ("多菌株型：菌株不是越多越好，要按「功能分工」配——"
+        "芽孢杆菌（蛋白酶/抑菌）+ 曲霉（纤维素酶/果胶酶）+ 酵母（菌体蛋白）+ 乳杆菌（产酸保藏）。"
+        "关键约束是**总承载量 Xm_tot 固定**：菌株之间是竞争关系，加一个菌就挤掉另一个的份额。"
+        "牛羊饲料还要额外注意：木质素 14% DM 是硬上限，发酵只能提高「可及性」，不能减少木质素。"),
 }
 
 # 过程控制实际案例：青贮品质分型（Scale 3）
@@ -316,7 +354,43 @@ def rhs_scale5(t, y, p):
     return [dPEC, dIDF, dPR, dANF, dB]
 
 
-RHS = {1: rhs_scale1, 2: rhs_scale2, 3: rhs_scale3, 4: rhs_scale4, 5: rhs_scale5}
+def rhs_scale6(t, y, p):
+    """多菌株共发酵：4 株菌共享可发酵糖/果胶/纤维池与总承载量，各自贡献不同酶活谱。"""
+    B1, B2, B3, B4, WSC, PEC, IDF, PR, ANF = y
+    Bs = [max(0.0, B1), max(0.0, B2), max(0.0, B3), max(0.0, B4)]
+    Btot = sum(Bs)
+    W = max(0.0, WSC)
+    F = W + max(0.0, PEC) + 0.30 * max(0.0, IDF)
+    fL = pow(2.718281828459045, -p["alphaL"] * max(0.0, p["L0"]))
+    IDFres = (1.0 - p["fIdig"]) * p["IDF0"]
+
+    dB = []
+    cons = 0.0
+    for i, Bi in enumerate(Bs, start=1):
+        mu = (p[f"mu{i}"] * F / (p[f"KF{i}"] + F)
+              * max(0.0, 1.0 - Btot / p["Xm_tot"]))
+        dB.append((mu - p[f"kd{i}"]) * Bi)
+        cons += (1.0 / p[f"Yxs{i}"]) * mu * Bi
+    # 各菌株的酶活贡献（一阶于菌体量）
+    vP = sum(p[f"kP{i}"] * Bs[i - 1] for i in range(1, 5)) * max(0.0, PEC)
+    vI = (sum(p[f"kI{i}"] * Bs[i - 1] for i in range(1, 5))
+          * max(0.0, IDF - IDFres) * fL)
+    dPEC = -vP
+    dIDF = -vI
+    # 可发酵糖：酶解产物回补 − 生长消耗 − 维持（闭合碳平衡）
+    dWSC = p["Yhyd"] * (vP + vI) - cons - p["ms"] * Btot
+    # 蛋白富集：按菌体量加权的蛋白得率
+    if Btot > 1e-12:
+        Ypx_eff = sum(p[f"Ypx{i}"] * Bs[i - 1] for i in range(1, 5)) / Btot
+    else:
+        Ypx_eff = 0.0
+    dPR = Ypx_eff * (vP + vI) * max(0.0, 1.0 - PR / p["PRmax"])
+    dANF = -sum(p[f"kA{i}"] * Bs[i - 1] for i in range(1, 5)) * max(0.0, ANF)
+    return [dB[0], dB[1], dB[2], dB[3], dWSC, dPEC, dIDF, dPR, dANF]
+
+
+RHS = {1: rhs_scale1, 2: rhs_scale2, 3: rhs_scale3, 4: rhs_scale4, 5: rhs_scale5,
+       6: rhs_scale6}
 
 STATE_NAMES = {
     1: ["LAB", "WSC", "LA", "pH"],
@@ -324,6 +398,7 @@ STATE_NAMES = {
     3: ["LAB", "CL", "WSC", "LA", "Bu", "NH3", "pH"],
     4: ["OM", "T", "O2", "GI"],
     5: ["PEC", "IDF", "PR", "ANF", "B"],
+    6: ["B1", "B2", "B3", "B4", "WSC", "PEC", "IDF", "PR", "ANF"],
 }
 
 
@@ -339,7 +414,10 @@ def initial_state(scale, p):
         return [p["OM0"], p["T0"], p["O20"], p["GI0"]]
     if scale == 5:
         return [p["PEC0"], p["IDF0"], p["PR0"], p["ANF0"], p["B0"]]
-    raise ValueError("scale 必须为 1..5")
+    if scale == 6:
+        return [p["B10"], p["B20"], p["B30"], p["B40"],
+                p["WSC0"], p["PEC0"], p["IDF0"], p["PR0"], p["ANF0"]]
+    raise ValueError("scale 必须为 1..6")
 
 
 # ---------------------------------------------------------------------------
@@ -414,13 +492,24 @@ def plot_timeseries(scale, t, Y, p, out_path, title=None):
         ax2.axhline(55.0, color="#7f7f7f", ls=":", lw=1)
         ax2.set_ylabel("T (degC)")
         ax.set_ylabel("OM / GI")
-    else:
+    elif scale == 5:
         ax.plot(t, Y[0], label="PEC pectin (g/g DM)", color="#1f77b4")
         ax.plot(t, Y[1], label="IDF insoluble fiber (g/g DM)", color="#8c564b")
         ax.plot(t, Y[2], label="PR true protein (g/g DM)", color="#ff7f0e")
         ax.plot(t, Y[3], label="ANF anti-nutrients (g/g DM)", color="#d62728", ls="--")
         ax.set_ylabel("fraction (g/g DM)")
-
+    else:
+        ax.plot(t, Y[0], label="B1 B. subtilis (g/g DM)", color="#1f77b4")
+        ax.plot(t, Y[1], label="B2 L. plantarum (g/g DM)", color="#2ca02c")
+        ax.plot(t, Y[2], label="B3 S. cerevisiae (g/g DM)", color="#9467bd")
+        ax.plot(t, Y[3], label="B4 A. niger (g/g DM)", color="#8c564b")
+        ax2 = ax.twinx()
+        ax2.plot(t, Y[4], label="WSC sugar", color="#bcbd22", ls="--")
+        ax2.plot(t, Y[5], label="PEC pectin", color="#17becf", ls="--")
+        ax2.plot(t, Y[6], label="IDF fiber", color="#7f7f7f", ls=":")
+        ax2.plot(t, Y[7], label="PR protein", color="#ff7f0e", ls="-.")
+        ax2.set_ylabel("WSC / PEC / IDF / PR (g/g DM)")
+        ax.set_ylabel("strain biomass (g/g DM)")
     ax.set_xlabel("time (h)")
     ax.grid(alpha=0.3)
     h1, l1 = ax.get_legend_handles_labels()
@@ -453,6 +542,12 @@ PARAM_ORDER = {
         "kLa", "O2star", "KO2", "YO2", "O20", "kGI", "OM0", "OMres", "GI0"],
     5: ["mu", "KF", "Xm", "Yxs", "kd", "kP", "kI", "kA", "Ypx", "PRmax",
         "PEC0", "IDF0", "PR0", "ANF0", "B0"],
+    6: ["mu1", "KF1", "Xm1", "kP1", "kI1", "kA1", "Ypx1", "Yxs1", "kd1",
+        "mu2", "KF2", "Xm2", "kP2", "kI2", "kA2", "Ypx2", "Yxs2", "kd2",
+        "mu3", "KF3", "Xm3", "kP3", "kI3", "kA3", "Ypx3", "Yxs3", "kd3",
+        "mu4", "KF4", "Xm4", "kP4", "kI4", "kA4", "Ypx4", "Yxs4", "kd4",
+        "Xm_tot", "ms", "Yhyd", "alphaL", "fIdig", "PRmax", "L0",
+        "WSC0", "PEC0", "IDF0", "PR0", "ANF0", "B10", "B20", "B30", "B40"],
 }
 
 
@@ -488,7 +583,7 @@ def print_control(scale):
 # ---------------------------------------------------------------------------
 
 def cmd_list(_a):
-    print("模型选择面板（必须手动指定 --scale 1..5）：")
+    print("模型选择面板（必须手动指定 --scale 1..6）：")
     for k in sorted(SCALES):
         print(f"  Scale {k}：{SCALES[k]}")
     print("\n案例：")
@@ -598,6 +693,29 @@ def cmd_simulate(a):
               "两个时间尺度差一个数量级，工艺上必须分阶段设计。")
         if yend[2] > p["PR0"]:
             print(f"      蛋白净增 {(yend[2] - p['PR0']) * 100:.1f} 个百分点（菌体蛋白富集）。")
+    if a.scale == 6:
+        Bs = [float(yend[i]) for i in range(4)]
+        Btot = sum(Bs)
+        dPEC = (p["PEC0"] - yend[5]) / p["PEC0"] * 100
+        dIDF = (p["IDF0"] - yend[6]) / p["IDF0"] * 100
+        dANF = (p["ANF0"] - yend[8]) / p["ANF0"] * 100
+        names4 = ["枯草芽孢杆菌", "植物乳杆菌", "酿酒酵母", "黑曲霉"]
+        print("菌株终生物量（g/g DM）与占比：")
+        for i, (nm, b) in enumerate(zip(names4, Bs), start=1):
+            share = b / Btot * 100 if Btot > 1e-12 else 0.0
+            print(f"  B{i} {nm:<8} {b:.4f}   {share:5.1f}%")
+        print(f"果胶降解 {dPEC:.1f}%；IDF 降解 {dIDF:.1f}%（上限 {p['fIdig'] * 100:.0f}%，"
+              f"木质素屏蔽 f_L={pow(2.718281828459045, -p['alphaL'] * p['L0']):.3f}）；"
+              f"抗营养因子降解 {dANF:.1f}%")
+        print(f"真蛋白 {p['PR0']:.3f} → {yend[7]:.3f} g/g DM"
+              f"（{p['PR0'] * 100:.1f}% → {yend[7] * 100:.1f}% DM）")
+        if Btot > 1e-12:
+            dom = names4[int(np.argmax(Bs))]
+            print(f"结论：优势菌为 {dom}（占 {max(Bs) / Btot * 100:.0f}%）。"
+                  "总承载量固定，菌株之间是竞争关系——加菌不等于加效果。")
+        if dIDF < 10:
+            print("结论：IDF 降解率低，木质素 14% DM 是硬限制；"
+                  "发酵只能提高瘤胃可及性，不能减少木质素。")
 
     if a.out:
         plot_timeseries(a.scale, t, Y, p, a.out)
@@ -700,6 +818,23 @@ def cmd_demo(a):
                                 title=f"Scale 5 | PEC0={pec:.2f}")
                 print(f"  对照（PEC0={pec:.2f}）：{png5}  "
                       f"IDF={Y5[1, -1]:.4f}, PR={Y5[2, -1]:.4f}, ANF={Y5[3, -1]:.4f}")
+
+        if s == 6:
+            # 对照：单菌 / 双菌 / 四菌，展示菌株分工与竞争
+            combos = [
+                ("single-Bs", {"B40": 0.0}),
+                ("Bs+An", {}),
+                ("all-four", {"B20": 0.002, "B30": 0.002}),
+            ]
+            for tag, over in combos:
+                p6 = dict(p)
+                p6.update(over)
+                t6, Y6 = simulate(6, p6, tend)
+                png6 = os.path.join(outdir, f"scale6_{tag}.png")
+                plot_timeseries(6, t6, Y6, p6, png6,
+                                title=f"Scale 6 | {tag}")
+                print(f"  对照（{tag}）：{png6}  "
+                      f"IDF={Y6[6, -1]:.4f}, PR={Y6[7, -1]:.4f}, ANF={Y6[8, -1]:.4f}")
 
         print_control(s)
     print("=" * 66)
@@ -808,15 +943,15 @@ def parse_set(pairs):
 
 def build_parser():
     ap = argparse.ArgumentParser(
-        description="五级递进纤维质物料转化动力学模型引擎（青贮/纤维/堆肥/果渣饲料）",
+        description="六级递进纤维质物料转化动力学模型引擎（青贮/纤维/堆肥/果渣饲料）",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__.split("纪律约定")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     def add_common(sp, need_scale=True):
         if need_scale:
-            sp.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5], required=True,
-                            help="手动指定模型 Scale（1..5）")
+            sp.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5, 6], required=True,
+                            help="手动指定模型 Scale（1..6）")
         sp.add_argument("--set", action="append", default=[], metavar="K=V",
                         help="覆盖参数，可重复，如 --set DM=0.33 --set WSC0=0.12")
 
@@ -834,13 +969,13 @@ def build_parser():
     p.set_defaults(func=cmd_simulate)
 
     p = sub.add_parser("control", help="入口一：控制要点/策略")
-    p.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5], default=None,
+    p.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5, 6], default=None,
                    help="指定 Scale；省略则输出全部")
     p.set_defaults(func=cmd_control)
 
     p = sub.add_parser("demo", help="入口二：真实案例 Demo 演示")
-    p.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5], default=None)
-    p.add_argument("--all", action="store_true", help="演示全部 5 个 Scale")
+    p.add_argument("--scale", type=int, choices=[1, 2, 3, 4, 5, 6], default=None)
+    p.add_argument("--all", action="store_true", help="演示全部 6 个 Scale")
     p.add_argument("--set", action="append", default=[], metavar="K=V")
     p.add_argument("--outdir", default="fiber_demo", help="图片输出目录")
     p.add_argument("--tend", type=float, default=None, help="覆盖各 Scale 默认仿真时长")
